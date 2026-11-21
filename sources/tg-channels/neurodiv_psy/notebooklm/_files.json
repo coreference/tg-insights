@@ -1,0 +1,170 @@
+{
+ "channel": "(нейро)разнообразная психология",
+ "slug": "neurodiv-psy",
+ "files": [
+  {
+   "file": "understanding-neurodivergence.md",
+   "domain": "Understanding neurodivergence",
+   "domain_slug": "understanding-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Understanding neurodivergence",
+   "topics": [
+    {
+     "slug": "neurodiversity-paradigm-terminology",
+     "title": "The neurodiversity paradigm, terminology and myths about autism"
+    },
+    {
+     "slug": "audhd-adhd-autism-overlap",
+     "title": "AuDHD: how ADHD and autism overlap and conflict"
+    },
+    {
+     "slug": "autistic-traits-co-occurring-conditions",
+     "title": "Lesser-known autistic traits and co-occurring conditions"
+    }
+   ],
+   "words": 9431
+  },
+  {
+   "file": "diagnosis-and-identity-1.md",
+   "domain": "Diagnosis and neurodivergent identity",
+   "domain_slug": "diagnosis-and-identity",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 2,
+   "title": "Diagnosis and neurodivergent identity (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "screening-diagnosis-adhd-autism",
+     "title": "Screening and diagnosis of adult ADHD and autism"
+    }
+   ],
+   "words": 14089
+  },
+  {
+   "file": "diagnosis-and-identity-2.md",
+   "domain": "Diagnosis and neurodivergent identity",
+   "domain_slug": "diagnosis-and-identity",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Diagnosis and neurodivergent identity (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "self-diagnosis-identity-acceptance",
+     "title": "Self-diagnosis, impostor syndrome and accepting a neurodivergent identity"
+    }
+   ],
+   "words": 4987
+  },
+  {
+   "file": "masking-overload-burnout.md",
+   "domain": "Masking, overload and burnout",
+   "domain_slug": "masking-overload-burnout",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Masking, overload and burnout",
+   "topics": [
+    {
+     "slug": "masking-cat-q-unmasking",
+     "title": "Masking, the CAT-Q questionnaire and unmasking"
+    },
+    {
+     "slug": "meltdowns-shutdowns-social-hangover",
+     "title": "Meltdowns, shutdowns and autistic social hangover"
+    },
+    {
+     "slug": "neurodivergent-burnout-fatigue",
+     "title": "Neurodivergent burnout and chronic fatigue"
+    }
+   ],
+   "words": 6853
+  },
+  {
+   "file": "communication-social-life.md",
+   "domain": "Communication and social life",
+   "domain_slug": "communication-social-life",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Communication and social life",
+   "topics": [
+    {
+     "slug": "neurodivergent-communication-aac",
+     "title": "Autistic and ADHD communication styles, AAC and helper tools"
+    }
+   ],
+   "words": 3970
+  },
+  {
+   "file": "executive-function-daily-life.md",
+   "domain": "Executive function and daily life",
+   "domain_slug": "executive-function-daily-life",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Executive function and daily life",
+   "topics": [
+    {
+     "slug": "executive-function-adhd-strategies",
+     "title": "Executive dysfunction, ADHD skills training and daily-life strategies"
+    }
+   ],
+   "words": 11687
+  },
+  {
+   "file": "work-study-relocation.md",
+   "domain": "Work, study and relocation",
+   "domain_slug": "work-study-relocation",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Work, study and relocation",
+   "topics": [
+    {
+     "slug": "work-study-accommodations",
+     "title": "Neurodivergent people at work and university: job fit and accommodations"
+    },
+    {
+     "slug": "autism-emigration",
+     "title": "Autism and emigration"
+    }
+   ],
+   "words": 7574
+  },
+  {
+   "file": "emotional-self-support.md",
+   "domain": "Emotional self-support",
+   "domain_slug": "emotional-self-support",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 1,
+   "title": "Emotional self-support",
+   "topics": [
+    {
+     "slug": "self-compassion-shame-emotions",
+     "title": "Self-compassion, comparison, shame and emotional literacy"
+    }
+   ],
+   "words": 3133
+  },
+  {
+   "file": "getting-good-therapy.md",
+   "domain": "Getting good therapy",
+   "domain_slug": "getting-good-therapy",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 1,
+   "title": "Getting good therapy",
+   "topics": [
+    {
+     "slug": "therapy-tips-red-flags",
+     "title": "Making therapy work and spotting therapist red flags"
+    }
+   ],
+   "words": 1620
+  }
+ ]
+}

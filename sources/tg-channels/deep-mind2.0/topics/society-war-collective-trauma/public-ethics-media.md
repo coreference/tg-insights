@@ -1,0 +1,359 @@
+---
+kb: deep-mind-2-0
+domain: Society, War & Collective Trauma
+topic: Public ethics, abuse scandals and media responsibility
+slug: public-ethics-media
+messages: 12
+date_range: 2021-07-05..2026-11-12
+summary: The author's view of ethics in the public sphere — why societies blame victims, how power distorts people (Oxxxymiron, Gordon, Epstein cases), why "new ethics" panic misses Russian reality, what public figures and bloggers owe their audience (the 11 principles of ethical media presence, of which 8 are in the source), and how to protect yourself from imitated expertise and narcissistically infected content. The author's analysis of the public harassment (травля) of Yandex HR director Dasha Zolotukhina over one interview phrase about listening to the body — why a mature leadership stance met rejection, how suppressed aggression from systemic violence is displaced onto a safe, visible target, why rationality collapses in such pile-ons, and what the author asks the "new culture" community to do in response.
+answers:
+  - Why do people blame victims of violence and abuse?
+  - Why is it never acceptable for an adult to have sex with a minor, and why do people still defend abusers?
+  - Why do some women defend Oxxxymiron by saying "it happened to me and it was fine"?
+  - What do the Epstein files reveal about power, narcissism and psychopathy?
+  - Is "ethical terror" of new ethics and trauma-informedness a real problem in Russia?
+  - What responsibility do bloggers and public figures have toward their audience and society?
+  - What are the principles of ethical media presence for bloggers?
+  - How can I tell imitation of expertise from real expertise in popular posts?
+  - What is narcissistically infected content and how do I protect myself from it?
+  - How should someone in a position of influence end or change a relationship ethically?
+  - Why did people attack Dasha Zolotukhina for saying she listens to her body when she has no clear answer?
+  - Is paying attention to the body, emotions and intuition a legitimate part of mature leadership?
+  - Why is there so much aggression in Russian-speaking online society, and why does it land on certain people?
+  - Why do women who speak openly about feelings become targets of public harassment?
+  - Why does no clarification help once a public pile-on has started?
+  - How should a community that values embodiment and new leadership respond to a public attack on one of its figures?
+  - Should we feel compassion for the people who attack?
+frameworks:
+  - Survival-driven victim-blaming mechanism (joining the strong)
+  - 11 principles of ethical media presence (8 transcribed)
+  - Trust hygiene against imitation of expertise
+  - Four payoffs of author-elevating (narcissistic) content
+  - Healthy question after reading status-driven content
+  - Power inflation model of elite abuse
+  - Displaced-aggression mechanism of public harassment (травля)
+  - Collapse of rationality in a pile-on
+  - The author's call to the community (support, courage, care for privilege, compassion for attackers)
+themes:
+  - victim-blaming
+  - power-and-narcissism
+  - media-ethics
+  - consent
+  - civic-responsibility
+  - public-harassment
+  - leadership
+  - embodiment
+  - displaced-aggression
+  - cultural-change
+terms:
+  - стигматизация жертвы | stigmatization of the victim — "something is wrong with her", "she's to blame herself"; the cheapest way for witnesses to side with the aggressor | 941
+  - сообщества силы/насилия | communities of force/violence — groups built on joining the dominant and suppressing the "weak" | 941
+  - консент | consent; the author says some societies lack the concept entirely | 1325
+  - новая этика | "new ethics" — the term critics use for raised ethical standards; the author says what is attacked under this label is simply "the ethics of a healthy person" | 1325, 1331
+  - этический террор | "ethical terror" — the claim (from an article the author critiques) that new ethics suppresses dissent through moral arguments | 1331
+  - травмаинформированность | trauma-informedness — awareness that words and images may retraumatize; principle 7 of ethical media | 1331, 1634
+  - этичная медийность | ethical media presence — public activity built on an adult, honest relation to the power an audience gives you | 1634
+  - груминг | grooming — named in the Krasilnikova investigation of Oxxxymiron | 1651
+  - социальная регуляция снизу | social regulation from below — collective non-acceptance when institutions fail and the powerful do not respond | 1651
+  - инфляция власти | power inflation — power, like any stimulus, feels weaker as it accumulates, prompting a search for more absolute forms | 1699
+  - имитация экспертности | imitation of expertise — texts that look like knowledge but are a well-assembled imitation | 1727
+  - гигиена доверия | trust hygiene — the skill of noticing where a text gives a feeling of understanding but fails careful checking | 1727
+  - нарциссически инфицированный контент | narcissistically infected content — content infected with grandiosity, exclusivity and hidden devaluation of the reader | 1750
+  - иерархическое возбуждение | hierarchical arousal — micro-doses of excitement around status that keep attention | 1750
+  - травля | public harassment / mobbing campaign against a person; the author calls it violence that wounds regardless of the target's resilience | 1979
+  - по вайбику | "by the vibe" — the distorted claim that Zolotukhina hires people by gut feeling instead of data | 1979
+  - позиция зрелого руководителя | the stance of a mature leader — attention to body, emotions and intuition as a source of information that complements analysis | 1979
+  - эмбодимент | embodiment — named by the author among the "normal elements of maturity" to show more boldly in public | 1979
+  - системное насилие | systemic violence — the all-pervading violence whose pain people must suppress for years, according to the author the source of accumulated aggression | 1979
+  - привилегия | privilege — the ability to feel, notice one's body and state and talk about it, which millions lack | 1979
+people:
+  - Oxxxymiron (Мирон) | rapper accused of grooming and sexualized violence against teenagers; case used to discuss consent, silence and cancel culture | 1325, 1331, 1651
+  - Gordon (Гордон) | TV presenter accused of violence; cited for "dull attempts" to explain accusations by politics | 1325
+  - Nastya Krasilnikova (Настя Красильникова) | journalist whose investigation (podcast "Дочь разбойника") published the Oxxxymiron accusations; the author defends its professional methodology | 1325, 1651
+  - Jeffrey Epstein | case used to analyze sex, power, money and impunity | 1699
+  - Dolina (Долина) | mentioned as an earlier case of bottom-up social regulation; no details given | 1651
+  - VkusVill (Вкусвилл) | Russian retailer whose LGBT-ad scandal is analyzed | 445
+  - Dasha Zolotukhina (Даша Золотухина) | HR director of Yandex, mother of two; target of the harassment the author analyzes and defends | 1979
+  - Digital Ниндзя (Digital Ninja) | IT blogger whose video about her interview triggered the pile-on; the author notes he himself admits her views have become the norm in IT | 1979
+  - Blinovskaya (Блиновская) | named only as a comparison the attackers used against Zolotukhina; no details given | 1979
+---
+# Public ethics, abuse scandals and media responsibility
+
+## What this covers
+
+How the author of deep mind 2.0 (a practitioner of the helping professions who writes about inner work and leadership) reads public scandals and media behaviour through an ethical and psychological lens: the evolutionary roots of victim-blaming; abuse scandals (Oxxxymiron, Gordon, Epstein) as cases about power rather than sex; the debate about "new ethics" and "ethical terror"; the responsibility of public figures, bloggers and the author himself for their influence; and practical defences for readers against imitated expertise and narcissistic content. According to the source, this matters because unexamined power and silence reproduce violence ("the spiral will eventually reach everyone"), and because each voiced case "returns the strength" to draw clear lines between black and white [msg #941, #961, #1325].
+
+This part adds one new post (12 November 2026) to the topic: the author's analysis of the public harassment ("травля") of Dasha Zolotukhina, HR director of Yandex, after an IT blogger's video about her interview. It extends the existing file in three ways: (1) a new case study of a pile-on against a public figure — the victim here is not an abuser but someone attacked for openness; (2) a new psychological mechanism of mass aggression, which complements the existing *Survival-driven victim-blaming mechanism* (joining the strong) with a displacement mechanism (striking at the visible but safe); (3) a call to the community that continues the existing theme of the *responsibility of public figures to speak up* (msg #961) and of *social regulation from below* (msg #1651), now pointed at defending new culture rather than sanctioning abuse. According to the author, this matters because the "old agenda" reproduces itself without any help, while the new culture exists only where someone dares to speak aloud [msg #1979].
+
+## Core ideas
+
+- **Victim-blaming is an ancient survival strategy.** Siding with the strong aggressor raised one's survival odds in a community; stigmatizing the victim is the easiest way to do so. See *Survival-driven victim-blaming mechanism* [msg #941].
+- **Supporting the "weak" is the antidote to dictatorship.** Communities that integrate marginalized groups use resources better and are safer; the author calls this the "genuine traditional values" [msg #941].
+- **An adult must not have sex with a child — an absolute axiom.** It is basic child psychology (power asymmetry, inability to fully grasp consequences), not invented morality; defending an artist through talent or era means defending the opposite thesis [msg #1325, #1651].
+- **Abuse is about power, not sexuality.** In the Epstein case, sex becomes a "language of power"; power-and-money systems select and amplify narcissistic and psychopathic traits [msg #1699].
+- **Silence is a position.** When a powerful person does not respond to serious accusations, non-response itself becomes a public gesture, and society responds through bottom-up regulation (cancel culture) [msg #1651].
+- **Russia does not suffer from "new ethics" — it lacks basic ethics.** Panic about "ethical terror" imports a US debate; the local problem is legitimized violence at home, work, prisons and the army [msg #1331].
+- **Influence equals power and creates responsibility.** Anyone with an audience, even a small one, holds power and must handle it as an adult; see *11 principles of ethical media presence* [msg #961, #1629, #1634].
+- **The attention economy rewards simplification and status games.** It produces imitation of expertise and narcissistically infected content; the reader's defence is trust hygiene and asking "who benefits from my feeling of deficit?" [msg #1727, #1750].
+
+- **One phrase was inflated into a false thesis.** In three days a single phrase from an interview became the claim that one of the country's main HR leaders hires "by the vibe" instead of data, followed by personal insults and remarks about her appearance; the video got about a million views. She never said a company should be managed by intuition alone [msg #1979].
+- **What she described is the ordinary stance of a mature leader.** Attention to body, emotions and intuition as a source of information that *complements* analysis is, according to the author, mainstream in American leadership culture; the reaction is the rejection a society that expects bad things from change always gives to the new [msg #1979].
+- **Fear of novelty does not explain the strength of the reaction — displaced aggression does.** Pain from long-suppressed systemic violence seeks a visible but safe target; see *Displaced-aggression mechanism of public harassment* [msg #1979].
+- **In a pile-on, the rationality invoked by attackers stops working.** See *Collapse of rationality in a pile-on* [msg #1979].
+- **Public harassment is violence, and paying a price is the path of genuine leadership.** Saying what you consider true before the environment is ready is costly; many great leaders paid a huge price for truth [msg #1979].
+- **New culture needs active, conscious care; the old one does not.** The author calls on the community to support Zolotukhina and one another, to show new leadership more boldly, to handle their privilege with care, and to offer the attackers compassion as well as resistance [msg #1979].
+
+## Frameworks, models and step-by-step methods
+
+### Survival-driven victim-blaming mechanism
+Purpose: explains why, "even today, after all the explanations on the internet", people often accuse victims of violence of being guilty themselves, and why this directly concerns each of us [msg #941].
+
+1. **Survival as the deepest drive.** Humans strive to survive; winning over others and achieving success increases resources and the chance not to die. Survival happens not only in the wild but in the community: historically the fate of an individual depended heavily on the people around [msg #941].
+2. **Violence splits participants into aggressor and victim, strong and weak.** In the logic of animal life this split "naturally" makes the aggressor right. Witnesses find it easier to join and admire the strong, dominant — hence "winning and successful" — party [msg #941].
+3. **Joining force reduces one's own risk.** By siding with power, people historically raised their survival chances and lowered the risk of problems [msg #941].
+4. **Stigmatization of the victim is the cheapest way to join.** The formulas are "это с ней что-то не так" (something is wrong with her) and "сама виновата" (she's to blame herself) [msg #941].
+5. **Exploitation by power-seekers.** Because the pattern is ancient and tied to the most important need, it is highly significant and easily activated to form communities of force/violence. Most people do not work on themselves and intuitively strive toward strength out of unconscious fear and a focus on their own safety. There are always people who use these deep fears for selfish ends; given access to instruments of violence or power, they create raider or gangster groups, aggressive organizations, autocracies and dictatorships [msg #941].
+6. **Subtle form in the workplace.** The same pattern shows up as fear of showing negative emotions and states in a competitive work environment: in the office we do not talk about our depression because we intuitively sense it will lead to problems rather than to support and to multiplying the team's or company's shared resilience [msg #941].
+7. **Cost.** In organizations and communities of force, resources are used extremely inefficiently because the "weak" are oppressed rather than supported; people compete for pieces more than they learn to grow the whole pie [msg #941].
+
+**How to get past the pattern (author's prescription):** it is crucial to outgrow this fear, otherwise "we will be ruled not by the smart and just, but by those ready to intimidate and beat when the occasion arises". It is hard to "hack" until people get stable experience of integrating marginalized ("weak") groups into their family, community and society — i.e. until we see many times that supporting the "weak" yields far more results and shared safety together. This is exactly what real democracies and any forms of inclusivity (D&I in organizations) aim for. To build a higher-order community, we support everything culturally considered weak, stop projecting our own fears into it and discourage others from doing so. Hence any marginalized group, emotion or manifestation is maximally important for anyone wanting an effective, resilient society. Supporting the depressed, the ill, women, LGBTQ+, children and people with disabilities, "we fight dictatorships and create a truly sustainable environment for future generations". The author concludes: "Это и есть подлинные традиционные ценности." (This is what genuine traditional values are.) [msg #941]
+
+### 11 principles of ethical media presence ("Этичная медийность — манифест")
+Purpose: a manifesto for authors and readers [msg #1634].
+
+**Why it is useful.** For authors: ethics in media is "definitely not about some subjective morality" but about creating truly durable, strong relationships with the audience; it enables real connection, trust and community, and helps avoid a ruined reputation. For readers: by choosing ethical authors whose content we let pass through us, we create a healthier information environment with fewer manipulations and distortions [msg #1634].
+
+**How ethics is defined here.** Ethical media presence begins with acknowledging power. If we have an audience — even a small one — influence and the phenomenon of power appear, and with them always the risk of abuse: through emotions, opacity, building a vertical hierarchy, or creating a narcissistic or quasi-religious space around oneself. The ethics of publicity rests on an adult, honest attitude to that power — without the illusion "«я просто делюсь—хотите читайте, хотите нет»" (I'm just sharing — read it or don't) and without romanticizing one's own sincerity. It helps one take an adult position sensitive to consequences [msg #1634].
+
+1. **Do not use the blog as an emotional container.** People did not subscribe to be our therapist or parent. Public vulnerability is a gift only when it is integrated, structured and does not turn the audience into a system for regulating our emotions. Vulnerability is useful when it gives space and clarity to all sides, not when the blog becomes a way of coping with one's feelings [msg #1634].
+2. **Do not play on emotions.** Media often creates power through drama. Posts in the style of "стыдно признаться" (ashamed to admit) give a quick emotional spike but form audience dependence and sustain a narcissistic dynamic. Ethical media means refusing emotional manipulation "even if they don't seem like that to us". Human emotions are not a sales tool or a way to hold attention [msg #1634].
+3. **Do not distort the picture of life.** Toxic positivity and "успешный успех" ("successful success") create a distorted reality in which people grow more anxious and feel something is wrong with them. Ethics means giving reality its place rather than building a cult of the ideal image — talking about life's difficulty but without broadcasting despair [msg #1634].
+4. **Safe vulnerability.** The ability to speak about one's experience without romanticizing suffering, without dramatizing, without turning pain into a show. "Уязвимость — не перформанс." (Vulnerability is not a performance.) It is a form of mature openness that leaves the reader free, respects their boundaries, and creates a space of humanity for humanity's sake — not so that we are loved or followed [msg #1634].
+5. **Transparency of intentions.** Where it is analysis, personal experience, advertising, or a request — the difference must be explicit. Opacity of intentions is one of the most toxic forms of media influence: it creates a feeling of trust and then uses it for one's own aims [msg #1634].
+6. **Responsibility for consequences.** Every word is an action. In the era of post-truth and a vulnerable information environment, any post can raise anxiety or push someone toward a dangerous decision. Ethics is the ability to ask oneself: "«Как мой текст может повлиять? Не причиню ли я вреда?»" (How might my text affect people? Won't I cause harm?) [msg #1634].
+7. **Trauma-informedness.** The audience is alive and heterogeneous: it includes people with neurodivergence, PTSD, depression, anxiety disorders, fresh losses. An ethical author takes this into account and knows that certain images, phrases and intonations can retraumatize [msg #1634].
+8. **Respect for the audience's subjectivity (agency).** The reader is not a resource for reach growth nor "глина" (clay) for forming our identity. The ethical stance is "«Я вижу в читателе самостоятельного, взрослого, знающего человека»" (I see the reader as an independent, adult, knowledgeable person). This means refusing the cult of personality, constant self-idealization and the inner attitude "«я знаю, как вам жить»" (I know how you should live) [msg #1634].
+9–11. (!) INCOMPLETE: the post says "Продолжение в комментарии" (continued in the comments); principles 9, 10 and 11 were not in the provided source. The attached image contains only the channel logo [msg #1634, img #1634].
+
+### Trust hygiene against imitation of expertise
+Purpose: a reader's defence against popular texts that "look like knowledge" [msg #1727].
+
+**The phenomenon.** The author describes reading yet another post by a blogger who daily produces popular analytics about the world: seemingly smart, neatly assembled, with references to research, creating a feeling of understanding and an urge to save and forward it. On closer analysis "everything breaks": generalizations, not-quite-correct conclusions, important doubts omitted. Not because the author lies or consciously manipulates, but because in the attention economy everything that helps hold attention is exploited ever harder — for example scientific style and simplicity [msg #1727].
+
+**Why it happens ("Ваши лайки — их работа" — Your likes are their job).** For many people, likeable, forwardable texts are now daily work, and the wider the audience, the more money. Pace and depth rarely go together, yet one has to post more and faster. Even a sincere author who does read research physically cannot each time dive into context, unpack limitations, and hold contradictions and uncertainty in mind — especially without, for example, basic psychological education, when their job is writing scripts but the blog must be about the human being. Complex, probabilistic, nonlinear processes become a neat story with a beginning, middle and conclusion. Research that actually says "в среднем" (on average), "при прочих равных" (all else being equal) and "с большой вариативностью" (with large variability) starts sounding like universal rules in retelling. "Это не ложь, но и не вся правда." (It's not a lie, but not the whole truth either) — just the part that best holds attention [msg #1727].
+
+**Real expertise looks unimpressive.** Social networks barely tolerate the doubts, caveats and uncertainty typical of real expertise; a text spreads more easily if it gives the feeling that everything is clear and predictable, that there is a key and a mechanism. Real expertise has more pauses, more "it depends", various kinds of caution and far fewer promises [msg #1727].
+
+**What to do — steps:**
+1. **Don't wage war on bloggers or expose them from a moral position.** Feedback is still legitimate (the author sometimes writes it in comments himself), but it is more constructive to develop trust hygiene — learning to notice where a text gives a feeling of understanding but does not withstand careful checking [msg #1727].
+2. **Check the author's credentials.** Look into and know whether the author has real experience, what their expertise is, and where their competence ends [msg #1727].
+3. **Verify important claims, including with AI** — "не как оракула, а как инструмента" (not as an oracle but as a tool) that helps reveal limitations, generalizations and oversimplifications [msg #1727].
+4. **Notice your own need.** We consume clear, quasi-scientific texts so easily not because we are naive or cannot think, but because we are tired and overloaded. In a crazy world we want simple supports; scientific language and clear schemes create authority for the blogger and confidence for the reader. This lands especially well on topics of body, aging, health and the future — where there is much anxiety and little real understanding. It may be worth noticing what we really seek in such texts and what we actually find [msg #1727].
+
+### Four payoffs of author-elevating (narcissistic) content
+Purpose: explains why authors write "narcissistically infected" content — not only from a probable structural predisposition to harmful narcissism, but simply "because it works. It's unethical, but who cares?" Content that elevates the author gives these benefits [msg #1750]:
+1. **Sense of own significance** — "I'm not just a participant, I'm the one who got there earlier/better than others" [msg #1750].
+2. **Higher conversion** — people subscribe, buy and repost better when their fear of falling behind is touched [msg #1750].
+3. **Symbolic power** — the author becomes not just an expert but a gatekeeper figure granting access to something "better" [msg #1750].
+4. **Author's self-regulation** — sometimes a way for the author to convince himself he is in control, needed, ahead, exceptional; then the audience is used as a mirror [msg #1750].
+
+### Healthy question after reading status-driven content
+Purpose: a self-check when a post leaves you anxious or feeling deficient [msg #1750].
+1. **Notice the state.** The author repeatedly catches himself in the state "автор сверху, а я снизу" (the author above, me below): he has understood, I can't keep up; he is on a new level, I'm not fast/advanced/cool enough [msg #1750].
+2. **Don't stop at your own feelings.** This can be attributed to envy, narcissistic vulnerability, fear of falling behind — but also ask: what exactly is happening here? How are these statements and the relationship with the audience built? "Кому выгодно, чтобы я чувствовал себя отстающим?" (Who benefits from my feeling behind?) [msg #1750].
+3. **Trust the signal.** "если мне кажется, то мне не кажется" (if it seems so to me, it isn't just seeming) — the author says he hears narcissistic infection in content fairly accurately, which means someone is trying to use him [msg #1750].
+4. **Slow down and remember simplification.** If you notice yourself falling into anxiety and a sense of deficit, remember that "superior" rhetoric almost always radically simplifies life [msg #1750].
+5. **Ask the healthy question:** not only why I envy or am triggered, but what exactly in me was touched and who benefits from the deficit in this relationship being on my side. Very often the answer: my emotions are activated in contact with content deliberately organized around superiority, lack and status struggle [msg #1750].
+
+### Power inflation model of elite abuse
+Purpose: the author's psychological reading of the Epstein case — what happens to the psyche of people ready to use children as objects of sexual action and hide it for years relying on their position [msg #1699].
+1. **Selection.** Citing psychological research, the author states that big money and power disproportionately often end up with people with pronounced narcissistic and psychopathic traits. This does not mean all influential people are like this, but systems of power and capital select and amplify these qualities, forming a "bubble" of lowered empathy, instrumental treatment of others and a sense of one's own exceptionality [msg #1699].
+2. **Power as goal.** It is a world of competition and dominance where power is not a side effect but the goal; as it expands, one wants to get rid of any limits — moral or legal [msg #1699].
+3. **Inflation.** Like any stimulus, power, when there is a lot of it, stops feeling as good as before; a search begins for more absolute forms. Some want a Nobel Prize, some want to redraw the geopolitical map [msg #1699].
+4. **Omnipotence through dependent eyes.** Most of them want to be looked at by eyes that are fully dependent, lacking subjectivity and unable to resist. It is less about sex than about the experience of omnipotence "так, между делом" (just in passing). Sex becomes the language of power, and the victim's age is not an accidental detail but the key element of the whole construction of pleasure [msg #1699].
+
+### Displaced-aggression mechanism of public harassment (травля)
+Purpose: the author's explanation of why the reaction to an innocuous statement about intuition was so violent — "Одним страхом новизны силу этой реакции, однако, не объяснить." (The strength of this reaction, however, cannot be explained by fear of novelty alone.) It adds to the earlier *Survival-driven victim-blaming mechanism* (msg #941), which explains siding with a strong aggressor; this one explains how a group chooses a target and why the target is often someone embodying what the attackers are denied [msg #1979].
+
+1. **Accumulated aggression.** The author states that "В русскоязычном обществе накоплено колоссальное количество агрессии" (a colossal amount of aggression has accumulated in Russian-speaking society) [msg #1979].
+2. **Its origin is suppressed pain from systemic violence.** The aggression comes from pain which people living for a long time inside all-pervading systemic violence are forced to suppress in themselves for years, because they have no way of presenting it to those who actually cause it [msg #1979].
+3. **The psyche looks for a detour.** Under such conditions the psyche seeks a workaround and finds a figure that is noticeable and at the same time safe to strike ("фигуру заметную и при этом безопасную для удара") [msg #1979].
+4. **Target selection.** A woman, a mother of two, who speaks openly about feelings from a high position fits this role "почти идеально" (almost perfectly): she is visible because of her status, yet attacking her carries no risk, unlike confronting the real sources of violence [msg #1979].
+5. **Envy-like trigger: she embodies what others cannot allow themselves.** Zolotukhina becomes a trigger also because she embodies bodily presence, sensuality, intuition, openness and compassion — things many people cannot permit themselves. When someone nearby lives that openly, one's own constriction ("зажатость") becomes more noticeable and hurts more, and the attack is a way to make that pain stop [msg #1979].
+
+Relation to the existing file: like the earlier victim-blaming mechanism, the author places the cause in collective conditions (systemic violence, a society used to expecting bad things from change) rather than in individual malice — which is why he ends by asking for compassion toward the attackers [msg #1979].
+
+### Collapse of rationality in a pile-on
+Purpose: describes what happens to argument once harassment is under way. The paradox, according to the author, is that "перестает работать как раз та рациональность, от имени которой ведется атака" (the very rationality in whose name the attack is conducted stops working) — the attack on Zolotukhina was framed as defending data against "vibes", yet it abandons evidence itself. Its three features [msg #1979]:
+1. **Words are torn from context** — a single phrase about what she does when there is no clear answer in her head becomes a general management doctrine [msg #1979].
+2. **The person is credited with things they did not say** — e.g. that a company should be run on intuition alone, which she nowhere stated [msg #1979].
+3. **No clarification can be heard any more** — because "спор давно идет не о фактах" (the dispute has long since stopped being about facts); correcting the record does not work when the energy behind the attack is displaced pain [msg #1979].
+
+This links to the existing file's observation about the Oxxxymiron case that calling an investigation "yellow press" devalues the possibility of dialogue (msg #1651): in both cases the author describes a move away from substance, here performed by a crowd rather than by a powerful individual [msg #1979].
+
+### The author's call to the community
+Purpose: what the author asks of his readers — "сообщество людей, идущих в новое" (a community of people moving into the new) — so that the story strengthens rather than frightens them; he says he is sure it will [msg #1979].
+1. **Treat the attack as evidence that the shift has already happened.** As the video's author himself admits, Zolotukhina's views have become the norm in IT — so even he confirms the big cultural shift has occurred [msg #1979].
+2. **Give the new conscious care.** "Но как малые дети, новое требует большей сознательной заботы, чем былое." (But like small children, the new requires more conscious care than the old.) Practically: support Dasha, support one another, and support the culture "которая нам дорога" (which is dear to us) [msg #1979].
+3. **Show new leadership in public with more courage than before.** Display new leadership, awareness, embodiment "и прочие нормальные элементы зрелости" (and other normal elements of maturity) in the public field more boldly. Why: the old agenda needs no protection and reproduces itself "как пожар в осеннем лесу" (like a fire in an autumn forest), whereas the new one exists only where someone has dared to speak aloud [msg #1979].
+4. **Handle your privilege with care.** The ability to feel, notice one's body and state, and also talk about it, remains a huge privilege that millions of people around us lack — so it should be used carefully, not flaunted [msg #1979].
+5. **Offer compassion to the attackers, not only resistance.** "И те, кто сегодня нападает, заслуживают нашего сочувствия не меньше, чем отпора." (And those who attack today deserve our compassion no less than a rebuff.) This follows from the displacement mechanism: the attackers are themselves carrying suppressed pain from systemic violence [msg #1979].
+
+Relation to the existing file: this extends the author's earlier argument that people with an audience are responsible for taking a public position (msg #961) and his hope for bottom-up civic agency (msg #1651). It does not contradict them, but it shifts the emphasis: earlier calls were for sanctioning abuse of power; here the call is for protecting people who model the new culture, combined with explicit compassion for the attackers [msg #1979].
+
+## Detailed insights
+
+### Oxxxymiron and Gordon: consent, silence and defending the abuser
+- **Societies without consent.** The author wrote about Oxxxymiron and Gordon after reading comments. In some societies the concept of consent is completely absent: the average person does not understand how to be in sexual relationships so that it is not, or does not "suddenly" become, violence. When the "suddenly" happens, it is very hard for him to accept responsibility for the pain, because those around will always say "Какое насилие?! Все нормально, это она сама виновата" (What violence?! Everything's fine, she's to blame herself), and the state will chime in about enemies plotting to destroy centuries-old traditions of patriarchy [msg #1325].
+- **Narcissistic defence vs. empathy.** When situations repeatedly poke this ignorance, the author suggests pausing to consider that someone on the other side may be in pain — that we don't understand something but won't look into it because of our ego — instead of immediately falling into narcissistic defence and shouting about a "new ethics" imposed artificially, as if "we are the centre of the planet" [msg #1325].
+- **Why obvious things become non-obvious.** In a society of rigid hierarchies, "которые всегда основаны на насилии" (which are always based on violence), where one collective trauma follows another and healing public dialogue is obstructed by politics, it is unsurprising that clear things become unclear: that it is not normal to yell at employees, beat your wife, or have sex with a 16-year-old when you are 50. "*Всегда же нормально было.*" (It was always normal, wasn't it.) The author's answer: no, it was always abnormal; there was simply even less strength to speak about it. Every case voiced aloud and every text written returns that strength and draws clearer boundaries between black and white [msg #1325].
+- **Why the axiom holds.** A child is under the power of authority and not fully free before an adult; a child cannot fully understand the consequences of their actions and take responsibility for them. "Это не придуманная где-то мораль, а базовая детская психология." (This is not morality invented somewhere, but basic child psychology.) [msg #1325]
+- **Others are not objects.** At home, at work and in sex there are living people before us, not objects of our manipulation — objects of family, labour or sexual relationships. They are as alive as we are, but statuses, positions and opportunities are not always equal. Seeing this is "никакая не новая этика, а просто этика здорового человека" (no new ethics at all, just the ethics of a healthy person) — needed if we want violence to be seen as violence and war not to turn out to be peace [msg #1325].
+- **Desired norm.** The author hopes apologies and at least attempts to restore losses caused by violence will one day become the norm — instead of silence in response to serious accusations (Oxxxymiron) or dull attempts to explain everything by politics (Gordon) [msg #1325].
+- **Defending the artist = defending blurring the line.** Krasilnikova's investigation had several women describe grooming and sexualized violence by Oxxxymiron when they were teenagers and he was an adult with power, status and cultural influence. When defence of the artist starts — citing talent, era or cultural significance — it in fact defends the opposite thesis: that this boundary can be blurred for some reason [msg #1651].
+- **Non-response as position.** After the investigation there was no substantive answer; Miron rather disappeared from public view. Half a year later a new album came out — formally a music release, factually a public gesture. Where the conversation has already happened, absence of a response becomes a position [msg #1651].
+- **The "yellow press" dismissal.** The album contains no direct comment, only an ironic mention of "желтуха" (jaundice), read as a hint at the yellow press. The author calls this the key moment: Krasilnikova's investigation is certainly not yellow press — repeated unsuccessful attempts to get comment, openness to dialogue, professional methodology; "Так жёлтая пресса не работает." (That's not how the yellow press works.) Calling it yellowness means "не вступать в разговор по существу, а обесценить саму возможность диалога" (not entering a substantive conversation but devaluing the very possibility of dialogue) — a move the author says is very familiar [msg #1651].
+- **Women defending the figure = defending their own experience.** A significant part of the defensive rhetoric came from women: "со мной так было, и в этом не было ничего страшного" (it happened to me and there was nothing terrible about it). Talk of sex in stairwells, being used, blurred boundaries and adolescence was presented as ordinary. Here defence of the figure turned into defence of one's own experience, even if it was in essence an experience of violence. The author calls this painful: it is no longer about one person but a deeply embedded cultural norm in which female vulnerability and being used are considered natural. Acknowledging violence means acknowledging not only someone else's guilt but one's own trauma and one's own lack of choice in the past — for many almost psychologically unbearable. So defence of violence often masks as defence of agency — "я сама так решила, мне было нормально" (I decided it myself, it was fine for me) — but this logic reproduces the systemic order in which responsibility again shifts from the figure of power onto the more vulnerable [msg #1651].
+- **A related example** in the ethics-terror post: someone writes a post *in support of* Oxxxymiron because "а что такого, я сама так делала!" (so what, I did that myself!), then is sincerely surprised that commenters explain their "normal" need not be the same for everyone [msg #1331].
+
+### Cancel culture as hopeful bottom-up regulation
+Summing up: an adult man with power does not enter dialogue, does not articulate boundaries and takes no responsibility, demonstrating instead well-being, distance and indifference. Although the author says he generally pays more attention to system and culture than to the person, in 2025 this strategy "выглядит откровенно слабо" (looks frankly weak). Where an adult reaction is absent and institutions don't work, a different mechanism appears — social regulation from below. The album's non-acceptance is "не истерия и не заговор, а коллективный ответ на отсутствие ясной рефлексии" (not hysteria or a conspiracy, but a collective response to the absence of clear reflection). After the Dolina case it is no longer isolated: despite an authoritarian background and shrinking political space, a modern ethical discourse and civic agency are forming in the Russian-speaking environment. At least part of society takes leadership and says: "если ты не готов вступать в разговор об ответственности, мы не готовы делать вид, что ничего не произошло" (if you're not ready to talk about responsibility, we're not ready to pretend nothing happened) — possibly the most important outcome [msg #1651].
+
+### Why the Epstein story surfaced at all
+The author is interested not in the list of names but in what the case reveals about society: why the rich and influential get drawn into such practices, and why such stories come out despite showing the uncomfortable truth of "worlds where everything is allowed". The same system that for decades let such practices exist through money, status and untouchability at some point can no longer fully hide them — not because it becomes just, but because the balance of forces shifts, protection disappears, and information starts living its own life. American society and its power system are built so they sometimes cannot keep such things under the rug: power is fragmented, and media live in a logic of struggle rather than broadcasting a single ideology. The very logic of the story's appearance indicates that at its centre is not sexuality but power — how it is experienced and how it distorts a person. When elites war publicly, dragging out dirty laundry, their psychological portrait becomes more visible, along with the real problems of modern society rather than an attention-scattering agenda. Remove the noise of culture wars, identity debates and images of an external enemy, and the question of distribution of power and its limits comes to the fore — and how power, as the ability to influence and avoid consequences, gradually changes human appearance so that violence becomes routine. Attention returns, if briefly, to why power is so unevenly distributed, so little constrains it, and the distortions this almost inevitably produces [msg #1699].
+
+### "Terror of ethics and ethics of terror": critique of the anti-new-ethics article
+The author responds to a widely shared article claiming new ethics and trauma-informedness create oppression and dictatorship; under Trump this is the official new discourse, so such things can now be said aloud joyfully [msg #1331]. The article's six theses, as the author summarizes them:
+1. Ethical terror is the suppression of dissent through moral arguments for ideological control, not for improving society [msg #1331].
+2. A dangerous substitution: principles of therapeutic ethics are transferred into the broad public field, creating absurd standards of behaviour [msg #1331].
+3. The modern "ethics of trauma" turns trauma into an instrument of power rather than an object of careful attention and healing [msg #1331].
+4. Substituting ideology for therapy breeds a society of infantile, vulnerable and intolerant people incapable of healthy dialogue [msg #1331].
+5. Modern mechanisms for suppressing dissent resemble Soviet methods, only instead of a repressive apparatus there is "public morality" and "cancel culture" [msg #1331].
+6. "Ethical terror" makes people weaker, depriving them of psychological resilience and the ability to cope with real difficulties [msg #1331].
+
+The author's response:
+- **Wrong context.** He understands the relief a New Yorker or San Franciscan might feel, but asks what people in St Petersburg and Saratov are celebrating: "где именно вы сталкиваетесь с этими тенденциями, кроме интернета?" (where exactly do you encounter these trends, besides the internet?) There is no articulate, influential group in Russia seriously promoting new ethics. Domestic violence or sexual exploitation of secretaries outside the Garden Ring and not involving celebrities interests few people, let alone gender-neutral pronouns or discrimination of small peoples. Influential groups rather legitimize violence at home and at work — not to mention prisons and the army [msg #1331].
+- **Basic ethics first.** "Нам бы хотя бы базовую, конвенциональную этику поднять" (We'd do well to raise at least basic, conventional ethics) — the commonplaces of human wisdom: respect each other, don't steal, don't kill, don't rape. Most people practically never encounter new ethics in real life enough for it to "get on their nerves" [msg #1331].
+- **Partial agreement.** The article has important and fair theses, and also generalizations and misunderstanding of new ethics, deliberate or accidental. He offers to analyze it as a representative of the helping professions and of a culture for raising ethical standards — if someone really needs that, rather than just wanting to act out fear and anger that someone questioned habitual hierarchies of violence [msg #1331].
+- **The article commits what it accuses.** When the author of the article calls any manifestation of care for safety "ethical terror", he erases contexts and nuances, turning isolated extremes into a supposed common practice — "это тоже террор, только антиэтический" (this is also terror, only anti-ethical). Such generalizations and tilting at windmills are fuel for hatred and division [msg #1331].
+- **How to seek truth.** Don't limit yourself to articles with only one point of view, often based on local cases; come to living representatives and discuss in debates. He says it is hard to comment on new ethics and trauma-informedness until you have properly understood them [msg #1331].
+
+### Responsibility of public figures and bloggers to speak up
+Written in the context of repression of LGBT people ("fighting one's own people", trying to instil fear in youth), when channels and people changed avatars to rainbows [msg #961]:
+- **Solidarity as a by-product.** Manifested savagery leads not only to depression and fear; against everything it lets solidarity, support and visibility appear. The author does not believe most Russians are homophobic, though he knows sad cases, and is glad to see healthy involvement in neighbours' problems [msg #961].
+- **Non-participation escalates violence.** Postponing statements, reposts, going into the streets eventually leads to ever more violence. Even if we are "in the little house" away from it all, the spiral works so that it eventually comes to everyone [msg #961].
+- **Influencers' responsibility.** Mistakes are not scary; not drawing conclusions and not learning from them is bad. Popular figures who keep running Instagram and Telegram for thousands while fully ignoring violence and social problems — posting themselves in beautiful outfits, advertising goods — seem to the author too infantile and incongruent with reality; he is not against that life as such but unsubscribes from such accounts. Every person with a thousand followers is responsible for how they affect the information field: if whole groups are repressed and I post hotel photos and stay silent yesterday, today and tomorrow, I contribute to the situation continuing and worsening [msg #961].
+- **Understanding silence.** Taking a position is always costly; when all is well you don't want to get involved, and audiences don't like reading the frightening and unpleasant. The author doesn't like it either but prefers to see and know, to stay in contact with reality and develop truly broad compassion. Activism is inconvenient for public figures on average; yet it should be made transparent that popular figures broadcasting only smiles, memes and a beautiful normal life "продают нам инфантилизм и создают неосознанное общество" (sell us infantilism and create an unconscious society) [msg #961].
+- **Deliberate moralizing.** He acknowledges modern psychologized culture dislikes moralizing (no one is without sin; everyone is an adult), but explicitly chooses to moralize for the sake of a clear position: an adult is defined not by age but by behaving like an adult — here, taking responsibility for what happens in the society that lets us have friends, reputation and earn money, rather than pretending it doesn't concern you because you left, are above politics, below politics or anything else [msg #961].
+- **Collective problems need collective action.** Common problems are solved exactly when we start solving them together — including when speaking up and coordinating toward social participation and civic governance becomes beneficial and necessary [msg #961].
+- **Consumer responsibility.** As content consumers it matters which information field we support and which information we amplify; the author unsubscribes from "only pretty pictures" and from those who don't see their responsibility to show a social position exactly when it is most needed. "Каждое действие имеет значение." (Every action matters.) [msg #961]
+
+### Power and ethics in relationships of influence (the author's self-reflection)
+Disclaimer from the author: the text is not an attempt to clarify a private situation but reflections on contact, power and professional disagreements in the field of inner work, where any word can become an act of influence and any unspoken move can lead to unexpected consequences [msg #1629].
+- **The case.** A person the author had listened to and respected for years (not a close friend, but a figure with whom he had an inner story and important relationship) cut contact without explanation; the author learned of it by chance and felt pain. Structurally this was a power relationship, apparently not recognized by all sides. Pain in relationships sometimes arises not from the content of the story but from how it unfolds [msg #1629].
+- **Re-checking relationships.** The author's habit: if a relationship matters, don't just let go — try to understand what happened and whether it is a misunderstanding. He wrote, asked, sought feedback. It became clear the person had formed rather harsh conclusions about him from external manifestations and texts, without asking about his motivation and without letting him know the relationship had changed. Although the conclusions could have been a topic for discussion, the form — one-sided, sudden, without contact — proved more significant than the content [msg #1629].
+- **Words of the influential are gestures.** When a person occupies a position of influence, their conclusions stop being mere opinion and become a gesture that sets an attitude — even if they don't think about it or don't want this role. "у слова в одной точке есть вес, которого нет в другой" (a word at one point carries weight it doesn't have at another). One-sided conclusions become not a private decision but an action that creates a certain pattern of reality for both sides [msg #1629].
+- **Turning it on himself.** The author also judges strictly and writes harshly about ideas, products and approaches, calls things by their names, says what he considers harmful or superficial. Though he tries to aim criticism at phenomena rather than people, he cannot rule out that someone perceives his words through the same dynamic of influence, especially if his position matters to them. He would never unilaterally exit contact with someone who participated in his inner-work processes (there he clearly recognizes his power position), but the wider context of public relationships also matters [msg #1629].
+- **Clarity plus respect, not softness.** He does not want to slide into vagueness: "Мягкость ради мягкости — не то, что помогает расти." (Softness for softness's sake doesn't help growth.) But one can and should add attentiveness to the ethics of contact — not avoiding hard actions, while keeping a minimum of human respect [msg #1629].
+- **Influence as a zone of attentiveness.** "Влияние — не награда, а зона внимательности." (Influence is not a reward but a zone of attentiveness.) Even acting from best intentions — writing honestly, analyzing phenomena, showing blind spots — words can hurt more than we assume, not because people are fragile but because statements are embedded in a context of power, role and symbolic weight. Not being aware of this influence, we act unethically [msg #1629].
+- **Practical commitment.** If readers recognize themselves or their product in his texts and it hurts, they can write to him privately — not for argument or justification but for joint reality-checking, so that everyone can grow and grow the culture together. His aim: inner work becoming less traumatic and also more mature, combining wisdom with compassion that reduces harm from one's own actions. The attached photo has no text [msg #1629].
+
+### Corporate ethics: the VkusVill LGBT-ad scandal
+The author calls VkusVill one of Russia's best companies, which transformed retail and quickly built a world-class project. He describes its misstep as a double loss: first a progressive step — showing an LGBT couple on its Instagram (losing the loyalist audience); then a public and very clumsy apology shifting blame onto employees (losing the liberal audience). The result: anger from all sides, and an ugly act toward its own team, "как обычно поступают в государственных бюрократиях (найти виноватого – наказать его)" (as state bureaucracies usually do — find the culprit, punish them). He asks whether progressive VkusVill is really against LGBT, or whether Russian business simply isn't allowed this, with "telephone law" and serious problems still in force (!) UNCLEAR: the source writes "звоночного права", apparently meaning telephone law (informal orders from above) [msg #445].
+
+His reading of the public reaction: the level of outrage shows people don't even want to look into it and are ready to publicly flog everything impermissible; people are so fed up with an official ideology that fights any dissent and novelty. It is "праведный, хотя и неразборчивый гнев" (righteous, though indiscriminate anger) that shows the increasingly distinct emergence in Russia of a civil society with its own position and readiness to stand for it. Paradoxically, behind the anger in both directions is another example of the new maturing: attempts to restrain change "в вечном царстве" (in the eternal kingdom) only accelerate, and reveal more clearly, the new ethics and new meanings. "Белое виднее на фоне черного." (White is more visible against black.) [msg #445]
+
+### Narcissistically infected content: definition and dynamics
+- **Context.** The deeper the author goes into AI transformation, the more he thinks one must be attentive to information sources; in AI and entrepreneurship, speculation on emotions seems especially heated [msg #1750].
+- **Definition.** Content "заражен логикой грандиозности, исключительности и скрытого обесценивания читателя" (infected with the logic of grandiosity, exclusivity and hidden devaluation of the reader). Sometimes a person really is just sharing useful information, but the form is built so that it becomes a hidden message: he is already at the next level, while you are still floundering somewhere down there [msg #1750].
+- **How it holds attention.** Not through calm trust but through a mix of admiration, anxiety, shame and hope — micro-doses of hierarchical arousal. Such rhetoric presses on basic needs and wounds: the fear of being nobody, of missing the historical moment, shame of one's ordinariness, a deficit of inner support, and hope that somewhere there is a figure who has figured it out and can lead. Hence such channels evoke a strange mix of disgust and attraction: you dislike the energy but can't tear yourself away, because the psyche whispers that if you watch a little more you'll catch up and stop being insufficient. "Но чаще всего догоняешь не реальность, а чужую игру на сцене." (But most often you're catching up not with reality but with someone else's stage play.) [msg #1750]
+- **Symbols vs statistics.** When someone writes they are 100 times faster, have already built an AI business, followed by a list of further achievements, it is usually a genre of self-presentation, not an accurate description of reality. Left out of the brackets: experience, team, failures, the psychological price of that pace, quality of results and long-term consequences. Only the symbol is broadcast publicly — I'm super-efficient, special, cool. "А символы становятся токсичными, когда, мы принимаем их за статистику." (And symbols become toxic when we take them for statistics.) People are sometimes so deceived by a character's popularity they don't notice the dynamic [msg #1750].
+- **What is offered is a relationship.** Such content offers not just information but a relationship where the author is above and you below, with the promised chance to get closer; many blogs, personal brands and whole businesses are built on this hook [msg #1750].
+- (!) INCOMPLETE: the post ends "Продолжение в комментариях" (continued in the comments); the continuation is not in the source [msg #1750].
+
+### The case: what happened and how it escalated
+On 9 November an IT blogger, Digital Ninja, released a video about an interview with Yandex HR director Dasha Zolotukhina, in which she says that at moments when there is no clear answer in her head she listens to her body and notices what she feels. The author says he did not want to write about it at all — "зачем поддерживать вниманием булшит" (why feed bullshit with attention) — but changed his mind because of the escalation: within three days the single phrase was turned into the claim that one of the country's main HR leaders hires "по вайбику вместо данных" (by the vibe instead of data); then came "секта" (cult), "эйчарка" (a dismissive word for a female HR person), comparisons with Blinovskaya, and discussion of her appearance. The video gathered about a million views. The lesson the author draws from the sequence: distortion of a statement, then gendered and personal devaluation, then mass reach — the typical shape of a pile-on [msg #1979].
+
+### Intuition and the body in leadership: the author's position
+The author insists that Zolotukhina never said a company should be run on intuition alone. What she describes is, in his words, "обычной современной позицией зрелого руководителя" (the ordinary modern stance of a mature leader): attention to the body, emotions and intuition as a *source of information* that *complements* analysis — not a replacement for data. In American leadership culture this has long been mainstream. The author frames the episode as the leading edge of a cultural shift that has reached the Russian-speaking world and met what the new always meets in a society accustomed to expecting bad things from change: rejection ("отторжение") [msg #1979].
+
+### Public harassment as violence and the price of leadership
+The author says he personally worries for Zolotukhina: however much resilience one has, public harassment is violence that wounds ("публичная травля — это насилие, которое ранит"). At the same time he frames it as the nature of genuine leadership: you do and say what you consider true earlier than the environment is ready to accept it, and many great leaders paid an enormous price for truth. This is the author's opinion, not a cited finding [msg #1979].
+
+## Evidence and numbers
+
+- The author's own Facebook post about nervous-system hyperactivation, written in a very simple, scientific style without personal reflection ("I didn't put my soul and complex worldview into it"), got 160,000 views; a neighbouring post on support in relationships, written in the cautious "real expertise" style, got only 2,000 views. His conclusion: complexity sells worse on social media, pushing authors to simplify [msg #1727].
+- The author cites unspecified "psychological research" that big money and power disproportionately end up with people with pronounced narcissistic and psychopathic traits; no specific study is named [msg #1699].
+
+## Notable quotes
+
+> "И именно необходимость выживания в сообществе сделала привычным обвинение жертвы в ее судьбе." (*And it is precisely the need to survive in a community that made blaming the victim for her fate habitual.*) — author [msg #941]
+
+> "Это и есть подлинные традиционные ценности." (*This is what genuine traditional values are.*) — author [msg #941]
+
+> "Каждый взрослый не по возрасту, а когда ведет себя по взрослому." (*Everyone is an adult not by age, but when they behave like an adult.*) — author [msg #961]
+
+> "Взрослый не должен заниматься сексом с детьми — это абсолютная аксиома, это белое." (*An adult must not have sex with children — this is an absolute axiom, this is white.*) — author [msg #1325]
+
+> "Нет, это всегда было ненормально, просто раньше было еще меньше сил об этом говорить." (*No, it was always abnormal; there was simply even less strength to talk about it before.*) — author [msg #1325]
+
+> "В ситуации, где разговор уже состоялся, отсутствие ответа становится позицией." (*Where the conversation has already taken place, absence of a response becomes a position.*) — author [msg #1651]
+
+> "Секс становится языком власти, а возраст жертвы — не случайной деталью, а ключевым элементом всей конструкции наслаждения." (*Sex becomes the language of power, and the victim's age is not an accidental detail but the key element of the whole construction of pleasure.*) — author [msg #1699]
+
+> "Новая этика нас особо не касается, если смотреть правде в глаза." (*New ethics doesn't really concern us, if we face the truth.*) — author [msg #1331]
+
+> "Этичная медийность начинается с признания власти." (*Ethical media presence begins with acknowledging power.*) — author [msg #1634]
+
+> "Настоящая экспертиза обычно выглядит не очень эффектно." (*Real expertise usually doesn't look very impressive.*) — author [msg #1727]
+
+> "В русскоязычном обществе накоплено колоссальное количество агрессии, и происходит она из боли, которую люди, живущие долго внутри всепронизывающего системного насилия, вынуждены годами в себе подавлять, не имея возможности предъявить ее тем, кто ее причиняет." (*A colossal amount of aggression has accumulated in Russian-speaking society, and it comes from pain that people living long inside all-pervading systemic violence are forced to suppress in themselves for years, unable to present it to those who cause it.*) — author [msg #1979]
+
+> "И когда рядом кто-то живет так открыто, собственная зажатость становится заметнее и болит сильнее." (*And when someone nearby lives so openly, one's own constriction becomes more noticeable and hurts more.*) — author [msg #1979]
+
+> "таков путь подлинного лидерства: ты делаешь и говоришь то, что считаешь правдой, раньше, чем среда готова это принять" (*such is the path of genuine leadership: you do and say what you consider true earlier than the environment is ready to accept it*) — author [msg #1979]
+
+> "А новая существует только там, где кто-то решился говорить вслух." (*And the new one exists only where someone has dared to speak aloud.*) — author [msg #1979]
+
+## Caveats, disagreements and open questions
+
+- (!) INCOMPLETE: the manifesto announces 11 principles of ethical media presence but only 8 are in the source; the rest were posted in comments not provided [msg #1634].
+- (!) INCOMPLETE: the post on narcissistically infected content continues in comments not provided [msg #1750].
+- (!) UNCLEAR: "звоночного права" in the VkusVill post is probably a variant of "telephone law"; not explained in the source [msg #445].
+- The author openly states he is moralizing on purpose in the bloggers post, acknowledging this runs against modern psychologized culture [msg #961].
+- Self-acknowledged tension: the author criticizes harsh one-sided judgments by influential people while admitting he himself writes harshly about ideas and products; his resolution is to target phenomena not people and invite private reality-checks [msg #1629].
+- The author concedes the "ethical terror" article contains "important and fair theses" but does not specify which ones [msg #1331].
+- The author hedges that imitation of expertise is usually not lying or conscious manipulation but a product of the attention economy, and that readers' susceptibility comes from fatigue, not naivety [msg #1727].
+- The narcissism-in-power claim is hedged by the author himself: "Это не значит, что все влиятельные люди таковы." (This doesn't mean all influential people are like this.) [msg #1699]
+- The Dolina case is mentioned as a precedent of bottom-up social regulation without any details [msg #1651].
+- Images in #1634, #1699, #1727 contain only the channel logo; the photo in #1629 has no text [img #1634, img #1699, img #1727].
+
+- The claim that attention to body and intuition is "mainstream" in American leadership culture is the author's assertion; no study or source is cited [msg #1979].
+- The explanation of the aggression through suppressed pain from systemic violence is the author's psychological interpretation of the attackers' motives, not a reported finding [msg #1979].
+- The attribution to the video's author (that he admits Zolotukhina's views have become the norm in IT) is reported by the author without a quote from the video [msg #1979].
+- (!) UNCLEAR: the comparison with Blinovskaya is mentioned only as one of the attackers' insults; the source does not explain who she is or what the comparison implied [msg #1979].
+- Tension with earlier material: in msg #961 the author explicitly chooses to moralize and to unsubscribe from silent influencers; here he asks for compassion toward attackers "no less than" resistance — a softer stance toward the aggressors, though both posts call for public courage [msg #1979].
+
+## Resources and links
+
+Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
+
+### Resources
+
+- **7days: Gordon's ex-wife on why the host was accused of violence** (article) — News article on the Gordon case, cited as example of explaining all by politics. [msg #1325] → <https://7days.ru/news/ekszhena-gordona-rasskazala-pochemu-vedushchego-obvinili-v-nasilii-mest-za-pozitsiyu.htm>
+- **News.ru: fan accuses Gordon of violence** (article) — News on the Gordon case. [msg #1325] → <https://news.ru/criminal/on-byl-razdet-i-styagival-s-menya-koftu-fanatka-obvinila-gordona-v-nasilii/>
+- **Novaya Gazeta Europe: Nastia Krasilnikova's podcast on the Oxxxymiron case** (article) — Article about a podcast season whose heroines accused the rapper of violence. [msg #1325] → <https://novayagazeta.eu/articles/2025/03/06/nastia-krasilnikova-vypustila-novyi-sezon-podkasta-doch-razboinika-geroini-kotorogo-obvinili-oksimirona-v-nasilii-odna-iz-nikh-obratilas-v-sk>
+- **Snob: Oxxxymiron accused of sexualised violence against teenagers** (article) — News article on the accusations and the silence in response. [msg #1325] → <https://snob.ru/news/oksimirona-obvinili-v-seksualizirovannom-nasilii-nad-podrostkami/>
+- **Террор этики и этика террора (telegra.ph)** (article) — Widely shared article about how new ethics and trauma-informed culture can turn into terror; the post responds to it. [msg #1331] → <https://telegra.ph/Terror-ehtiki-i-ehtika-terrora-03-17?fbclid=IwY2xjawJHBgFleHRuA2FlbQIxMQABHcbT7ZUHBL719aYSdWqLy3rmgMFL5Ifjzfay38atHbaysmieDy_E6r3s3Q_aem_-DFWTiRFRbC1qytJB0SiWw>
+
+### External links
+
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The authors' own Telegram channel, used as footer link. [msg #1651] → <https://t.me/mindfulleadersrussia/>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1699, #1727] → <https://t.me/mindfulleadersrussia>
+- **их в такой луже** (profile) [msg #445] → <https://www.facebook.com/romasuper/posts/4779456685403501>
+- **пост в** (profile) [msg #1727] → <https://www.facebook.com/timofeevmi/posts/pfbid0WeUVpWcZAUzqNvNYtpCZzKeJvnSkNotZTTvvt3fxAPMPmGuiX5nqNCvpEQCLqmzNl>
+- **соседний** (profile) [msg #1727] → <https://www.facebook.com/timofeevmi/posts/pfbid0FPsb6uG5NJNiKsnefXfEgzUzC5KPzpwfEo9gKPSLs38xeceHCotF2CpBaeEH1QYal>
+
+## Source messages
+
+#445, #941, #961, #1325, #1331, #1629, #1634, #1651, #1699, #1727, #1750, #1979

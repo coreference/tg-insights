@@ -1,0 +1,289 @@
+---
+kb: deep-mind-2-0
+domain: Meditation & Contemplative Practice
+topic: Buddhist teachers, lineages and contemplative centres
+slug: buddhist-teachers-lineages
+messages: 14
+date_range: 2019-12-16..2026-06-17
+summary: Profiles of the teachers and places the author (Max Rodin, founder of deep mind) credits with shaping his path (Trungpa, Wilber, Wallace, Tsoknyi Rinpoche, Thich Nhat Hanh, Thurman, Shinzen Young, Robina Courtin, Mae Chee Brigitte) and of centres such as Kopan, Boulder/Naropa and Crestone/CCR, with the lesson the author draws from each one.
+answers:
+  - Who was Chogyam Trungpa and why is he both revered and criticised?
+  - What does Alan Wallace teach about mental resilience and meaning, and what is the Center for Contemplative Research in Crestone?
+  - What is the Kopan course in Kathmandu and why go there?
+  - Why is Boulder, Colorado considered a centre of Western Tibetan Buddhism?
+  - What did Thich Nhat Hanh contribute to Western mindfulness and MBSR?
+  - What are Shinzen Young's main contributions and which of his texts should I read first?
+  - Who are the best-known Western Buddhist nuns and how do their teaching styles differ?
+  - What is the position of women (mae chee) in Theravada monasticism?
+  - What was Robert Thurman's legacy for contemplative science?
+  - How does Tibetan Buddhism spread among Chinese students according to the author?
+frameworks:
+  - Wallace lecture map on mental resilience and a meaningful life (6 questions)
+  - Shinzen Young's Concentration-Clarity-Equanimity triad and See-Hear-Feel system
+  - Shinzen Young reading order (3 manuals)
+  - CCR model of contemplative research (shamatha + four immeasurables + science collaboration)
+  - Three styles of the best-known Western Buddhist nuns (Pema Chodron, Thubten Chodron, Robina Courtin)
+  - Four forms of systemic discrimination of mae chee in Theravada
+  - Boulder's two draws (hiking, spiritual practice) and visitor guide
+themes:
+  - buddhism
+  - meditation-teachers
+  - contemplative-science
+  - spiritual-leadership
+  - lineage
+terms:
+  - Копан (Kopan) | Tibetan monastery near Kathmandu hosting a month-long November course on the foundations of Tibetan Buddhism for foreigners, running since 1968 | 69
+  - устойчивость (resilience) | the ability to withstand difficult events and recover from them | 105
+  - Ваджраяна (Vajrayana) | the school of Tibetan Buddhism Trungpa adapted for the West, described as extremely unusual for the Western mind | 1210
+  - ваджрный стиль (vajra style) | Trungpa's forceful, disruptive teaching manner, which the author recognises in Pakchok Rinpoche | 1062
+  - благородная воинская духовность (noble warrior spirituality) | Trungpa's Shambhala concept linking wisdom, compassion and inner discipline with an active social position | 1210
+  - CCR, Center for Contemplative Research | Wallace and Eva Natanya's "observatory of consciousness" for long solitary retreats and practitioner-scientist collaboration | 1534
+  - шаматха (shamatha) | training of stable, clear, relaxed attention | 1534
+  - четыре безмерных (four immeasurables) | compassion, loving-kindness, equanimity and sympathetic joy | 1534
+  - mental afflictions (умственные аффективные искажения) | mental-affective distortions in which, per CCR, most human crises are rooted | 1534
+  - радикальный эмпиризм (radical empiricism) | Wallace's idea that inner experience is studied with rigorous methods rather than discarded | 1534
+  - Concentration – Clarity – Equanimity | Shinzen Young's triad, the core of his practice and research model | 1555
+  - See–Hear–Feel | Shinzen Young's system that bridges subjective experience and neuroscientific methods | 1555
+  - мэй чи (mae chee) | Theravada female renunciate status with far fewer rights, prestige and institutional support than monks; light-coloured robes | 1711
+  - бхикхуни (bhikkhuni) | fully ordained nun; the historical lineage was broken in several Theravada regions | 1711
+  - Махамудра, Дзогчен (Mahamudra, Dzogchen) | the advanced practices mainly pursued at CCR; Wallace gave the author Dzogchen instructions | 1062, 1534
+people:
+  - Max Rodin | author of the channel, founder of deep mind, nomad and Buddhist practitioner | 1062, 1308
+  - Lama Zopa (Sopa) Rinpoche | highly realised teacher, student of the Dalai Lama, has lectured at Kopan since 1968; also taught Robina Courtin | 69, 1702
+  - Alan Wallace | scientist, Western author, translator, student of the Dalai Lama; the author's Dzogchen teacher; co-founder of CCR | 105, 1062, 1534
+  - Eva Natanya | co-founder of CCR with Alan Wallace | 1534
+  - Thich Nhat Hanh | Vietnamese monk and activist, brought mindfulness to the West, taught Jon Kabat-Zinn; died aged 95 | 564
+  - Jon Kabat-Zinn | creator of MBSR, taught meditation by Thich Nhat Hanh | 564
+  - Chogyam Trungpa Rinpoche | most-cited Buddhist teacher, founder of Shambhala centres, Shambhala Publications and Naropa | 1062, 1210, 1308
+  - Ken Wilber | integral theorist living near Boulder; the author reads one of his books each year | 1062, 1308
+  - Pakchok Rinpoche | teacher the author met in person, whose vajra style resembles Trungpa's | 1062
+  - Pema Chodron | Trungpa's student; one of the three best-known Western Buddhist nuns; language of softness and compassion | 1210, 1702
+  - Bruce Tift | Trungpa's student who wrote one very precise book about human life | 1210
+  - Viktor (Vitya) Shiryaev | the author's friend, mindfulness teacher who criticised Trungpa and popularised Shinzen Young in Russian | 1210, 1555
+  - Tsoknyi Rinpoche | Tibetan master born in exile in Nepal, taught a hall full of Chinese students in Kuala Lumpur | 1378
+  - Panchen Lama | second most important figure of Tibetan Buddhism, abducted by Chinese authorities aged six on 17 May 1995 | 1378
+  - Maurice and Hanne Strong | founders of the Manitou Foundation that turned Crestone into a hub of spiritual communities | 1534
+  - Shinzen Young | 81-year-old Western mindfulness methodologist who left the teaching role for science | 1555
+  - Jay Sanguinetti | neuroscientist working with Shinzen Young on focused ultrasound | 1555
+  - Ken McLeod, John Yates (Culadasa), Richard Davidson | named as peers of Shinzen Young in the deep-intellectual layer of Western mindfulness | 1555
+  - Robina Courtin | Australian Tibetan Buddhist nun with a direct, uncompromising style; founder of Liberation Prison Project | 1702
+  - Thubten Chodron | one of the three best-known Western nuns; clear, structured, almost academic style | 1702
+  - Lama Thubten Yeshe | teacher of Robina Courtin, one of the main bringers of Tibetan Buddhism to the West | 1702
+  - Mae Chee Brigitte | Austrian-born Theravada nun teaching Western students in Thailand for over 20 years; the author's teacher since 2013 | 1711
+  - Robert Thurman | first Westerner ordained as a Tibetan monk by the Dalai Lama, Columbia professor, co-founder of Tibet House; died aged 84 | 1816
+excluded:
+  - 1310 | no-content (album photo of the Boulder post, OCR shows only a shop sign)
+  - 1311 | no-content (album photo of the Boulder post, no text)
+  - 1313 | no-content (album photo of the Boulder post, no text)
+  - 1314 | no-content (album photo of the Boulder post, no text)
+  - 1315 | no-content (album photo of the Boulder post, no text)
+  - 1316 | no-content (album photo of the Boulder post, no text)
+  - 1317 | no-content (album photo of the Boulder post, no text)
+  - 1535 | no-content (album photo of the Crestone post, landscape and buildings)
+  - 1536 | no-content (album photo of the Crestone post, no text)
+  - 1537 | no-content (album photo of the Crestone post, no text)
+  - 1538 | no-content (album photo of the Crestone post, no text)
+  - 1539 | no-content (album photo of the Crestone post, no text)
+  - 1540 | no-content (album photo of the Crestone post, no text)
+  - 1541 | no-content (album photo of the Crestone post, no text)
+---
+# Buddhist teachers, lineages and contemplative centres
+
+## What this covers
+
+This file collects the channel's portraits of Buddhist and contemplative teachers and of the places connected to them: Kopan monastery in Kathmandu, Boulder (Colorado) with Naropa University and the Shambhala legacy, and Crestone with Alan Wallace's Center for Contemplative Research. Each portrait combines biography with the specific lesson the author, Max Rodin, says he drew from the person or place. [msg #1062, #1308]
+
+According to the author, strong teacher figures are able "to fully change and substantially influence one's trajectory"; years later he sees his contact with them as a precious gift and wants circumstances to ripen for others to have similar encounters. He also notes that it is considered bad form to boast about one's teachers in public, so he usually avoids it and names them only when he can say concretely how each one influenced him. [msg #1062]
+
+## Core ideas
+
+- **A living lineage is passing away.** The generation of teachers who fled Tibet during the Chinese occupation is now dying; contact with them is contact with history. Tibetan masters now pass compassion and attention even to the descendants of the occupiers. [msg #69, #1378]
+- **Inner development needs maps.** The author introduces Alan Wallace with the claim that without maps "we don't understand where we are going." [msg #105]
+- **Teachers break projections.** Trungpa's lasting gift, as his students describe it, was knocking them out of their ideas of how a spiritual master should look, into the unpredictable present moment. [msg #1210]
+- **Practice is not stress management.** Several portraits (Shinzen Young, Robina Courtin) are praised precisely because they kept the depth of practice (perception, suffering, responsibility, letting go of illusions) instead of reducing it to productivity or calm. [msg #1555, #1702]
+- **Integration and service.** The author repeatedly values teachers who joined practice with social engagement and ordinary life: Thich Nhat Hanh's engaged Buddhism, Trungpa's warrior spirituality, Thurman's union of monastic depth, family and science, Mae Chee Brigitte's social work, and Shinzen Young's turn to science at 81. [msg #564, #1210, #1816, #1711, #1555]
+- **Contemplative science.** CCR, the Shamatha Project, Thurman's Inner Science Conference and Shinzen Young's research all represent attempts to study the mind rigorously from the inside together with scientists. [msg #1534, #1816, #1555]
+
+## Frameworks, models and step-by-step methods
+
+### Wallace's map of mental resilience and a meaningful life
+The author presents a lecture by Dr Alan Wallace (audio from the "contemplative-ru" SoundCloud) as "a piece of such a map" about mental resilience and the search for meaning. Resilience (устойчивость) is defined as the ability to withstand difficult events and recover from them; since everyone will face hard circumstances, this quality helps one learn "not to break" and to recover faster. The author says Wallace's lectures demand involvement and openness to the new but give contact with deep wisdom and experience. The lecture, he says, covers six questions well: [msg #105]
+1. Why and how the mind must be trained. [msg #105]
+2. How projections work: why we see what is not there. [msg #105]
+3. The connection between neurophysiology and pharmaceuticals. [msg #105]
+4. How to achieve mental health. [msg #105]
+5. What a life endowed with meaning is, and why meaning is more important than power and pleasure. [msg #105]
+6. Whether it makes sense to strive for happiness. [msg #105]
+(!) INCOMPLETE: the post lists the questions but does not give Wallace's answers; they are in the audio lecture, which was not transcribed. [msg #105]
+
+### CCR model of contemplative research
+The Center for Contemplative Research (CCR), founded by Alan Wallace and Eva Natanya, calls itself an "observatory of consciousness": a place for long individual retreats and for collaboration between practitioners and scientists, with sites in the USA, Italy and New Zealand. The North American centre is in Crestone; the Dalai Lama named it "the Abode of Unshakable Samadhi" («Обитель непоколебимой самадхи»). [msg #1534]
+1. **Premise.** Most human crises are rooted in mental afflictions (mental-affective distortions), so treating symptoms is not enough — the mind itself must be studied and trained. People who do serious inner work, mainly Mahamudra and Dzogchen, gather there. [msg #1534]
+2. **Full attention training — shamatha:** stable, clear, relaxed attention. [msg #1534]
+3. **The four immeasurables:** compassion, loving-kindness, equanimity and sympathetic joy. [msg #1534]
+4. **Joint research with scientists,** aiming at replicable discoveries about the nature of consciousness. This research line grew out of the Shamatha Project, which the author calls one of the largest longitudinal meditation studies: 3 months of intensive retreat practice with objective metrics. [msg #1534]
+5. **Setting:** 15 secluded cabins for retreats from 2–3 months to several years, a strict regime of silence, and selection of participants because places are few. [msg #1534]
+The philosophy behind it is Wallace's "radical empiricism" (радикальный эмпиризм): inner experience is not discarded but studied with rigorous methods. In the author's reading, CCR is a modern place for scientific dialogue free of naive and reductionist materialism — "not just another retreat centre, but an attempt to restart the conversation between science and contemplative psychology at a new level." Wallace's recent lectures, given online from Crestone while he is in multi-year retreat, are on exactly this. [msg #1534]
+
+### Shinzen Young's model: Concentration – Clarity – Equanimity and See–Hear–Feel
+The author calls Shinzen Young one of the key figures of modern Western mindfulness, standing at the origins of integrating Buddhist phenomenology with cognitive science. Young developed a practical and research model built on the triad Concentration – Clarity – Equanimity (сосредоточение – ясность – уравновешенность), and the See–Hear–Feel system, which became "a bridge between subjective experience and neuroscientific methods." [msg #1555]
+(!) INCOMPLETE: the post names the triad and the See–Hear–Feel system but does not explain how each component or category is practised.
+The author values that Young never reduced practice to a tool of stress management or productivity, as the mass mindfulness movement did; his approach preserved the ontological and phenomenological depth of meditation, investigating the nature of perception, suffering and consciousness. [msg #1555]
+
+**Reading order for Shinzen Young (selection by Viktor Shiryaev, adopted by the author).** These three "manuals" are closest to books setting out his method; it makes sense to read all of them, preferably in this order: [msg #1555]
+1. *Five Ways to Know Yourself* — 183 pages. [msg #1555]
+2. *What is Mindfulness* — 76 pages. [msg #1555]
+3. *An Outline of Practice* — 15 pages. [msg #1555]
+Some of these and other Shinzen texts exist in Russian translation on Viktor Shiryaev's site. [msg #1555]
+
+### Three styles of the best-known Western Buddhist nuns
+The author says there is no formal ranking, but in the Western Buddhist world the three best-known nuns are fairly obvious — three figures and three completely different ways of talking about practice and the transformation of mind: [msg #1702]
+1. **Pema Chodron** — the language of softness, vulnerability and compassion. [msg #1702]
+2. **Thubten Chodron** — a clear, structured, almost academic delivery. [msg #1702]
+3. **Robina Courtin** — a very direct and uncompromising style (see *Robina Courtin* below). [msg #1702]
+
+### Four forms of systemic oppression of women in Theravada
+In Theravada countries — Thailand, Myanmar, Laos, Cambodia, Sri Lanka — the monastic system is still formally built around male figures. The historical lineage of bhikkhuni (fully ordained nuns) was broken in a number of regions, so most women hold the status of *mae chee*: a form of monasticism with substantially fewer rights, less prestige and institutional support. They wear light-coloured clothes, unlike the orange robes of monks, and are de facto not recognised as equal members of the community. The author lists how women are systematically oppressed in these cultures: [msg #1711]
+1. They lack financial support, access to resources and education — unlike men. [msg #1711]
+2. They receive food after the monks and are occupied with serving them. [msg #1711]
+3. They live in more modest conditions. [msg #1711]
+4. They practically never receive official teacher titles, even after decades of practice: a male monk with twenty years of practice is automatically seen as a senior teacher, while a woman with 35 years remains "sister". [msg #1711]
+
+## Detailed insights
+
+### Kopan: the foundations course in Kathmandu
+Kopan runs one of the world's best-known courses for foreigners held in Tibetan monasteries: a course on the foundations of Tibetan Buddhism, held since 1968. From the start until now Lama Zopa lectures on it — a highly realised and revered teacher and a student of the Dalai Lama. The course takes place once a year in Kathmandu in November and lasts one month; it is a month of the basics of Tibetan Buddhism and of living in an international community of 250 open and kind people from all over the world. Competition for a place is roughly 1 in 4, so the author advises applying "very persistently". The author attended in 2017. [msg #69]
+His reason for writing about it: a whole generation of teachers who fled Tibet during the Chinese war is passing away right now; "Поехать в Копан значит соприкоснуться с историей - увидеть тибетцев, видевших Тибет" (Going to Kopan means touching history — seeing Tibetans who saw Tibet). [msg #69]
+
+### Alan Wallace: the author's teacher
+Wallace is known as a scientist, prolific Western author and translator, a student of the Dalai Lama who has worked for decades with the tools of Tibetan Buddhism and seeks innovative ways to integrate contemplative practice with Western science. The author studied with him in 2019: five days with him advanced his personal growth "like nothing else in recent years". [msg #105, #1534]
+Thanks to the Foundation for Contemplative Research (Фонд Контемплативных исследований), Wallace came to Russia several times; from him the author received instructions in Dzogchen practice, which he says he still tries to understand "due to my modest abilities". Nevertheless, Wallace showed him "the most important ways to develop on the meditative path, which have no equal". The author describes Wallace as having the deepest knowledge of traditional meditation practices while himself embodying "the sharpest mind and all-pervading compassion" — exactly the qualities one wants to develop through practice. Wallace has been in a multi-year retreat (4 years as of autumn 2025) a few hours from Boulder, so new teachings are hard to receive. [msg #1062, #1534]
+
+### Crestone and the visit to CCR
+Tiny Crestone in Colorado became a "hub" of spiritual communities in the late 1970s thanks to Maurice and Hanne Strong: their Manitou Foundation owned land for business but eventually decided to give it to spiritual, educational and ecological projects. As a result, stupas and retreat centres, Hindu and Christian abodes, Sufi establishments and centres of indigenous traditions ended up next to each other — today a rare place where dozens of practices coexist within a few kilometres. National Geographic once counted Crestone as the quietest place in America. The Boulder post calls Crestone "high-mountain American Tibet". [msg #1534, #1308]
+The author describes driving to CCR hoping to meet Wallace (whom he had not seen since 2019), having written to the institute director and the centre without reply. They found total silence and were leaving when a nun appeared; on learning they had come from Russia she brought them back and, instead of a tour, opened the main hall for them to meditate in perfect silence — "the tour of the centre of contemplative research very quickly led precisely to contemplation itself." She wrote their names down for Wallace, lost them, and met them again half an hour later to tell the history of Crestone. [msg #1534]
+
+### Chogyam Trungpa Rinpoche
+**Profile.** Trungpa remains, in the author's words, the most-cited Buddhist teacher. He was a highly educated Tibetan from the upper class and also an innovator who adapted Buddhism — especially Vajrayana, a school "extremely unusual for our mind" — for Western audiences, which made him at once outstanding and controversial. His concept of noble warrior spirituality, delivered through Shambhala centres and programmes, gave a new reading of Buddhist practice, linking wisdom, compassion and inner discipline with an active social position. The author says this approach to spirituality is very close to his own (the very existence of deep mind shows it), although he was never connected with Trungpa or practised under his students. [msg #1210]
+**What he gave the author.** About 8 years before 2024 Trungpa interested him through his approach to leadership grounded in spirituality and Tibetan Buddhism; he showed the author "the inner point from which truly powerful leadership is possible". Despite some controversy, Trungpa left a rich legacy: outstanding students, Shambhala publishing house, the Naropa Institute and meditation centres across America. The author calls him an incredibly inspiring teacher whose vajra style he recognises in Pakchok Rinpoche, whom he met in person. In Boulder the author meditated for a week in the hall where the chair from which Trungpa taught still stands untouched. [msg #1062]
+**The controversy.** People either adore or criticise him; the author's friend Viktor Shiryaev wrote a very sharp post accusing Trungpa "of all human sins". The author treats this as a story discussed for decades in America and Buddhist circles, where nothing new remains and all conclusions are drawn; he wanted to look at it from close range — not through tabloids and other people's analyses, but by being in a room with his real students almost 40 years after his death (at a meeting on Trungpa at Naropa University's 50th anniversary). [msg #1210]
+**How students remember him after 40 years.**
+- He succeeded in knocking students out of the projections we place on leaders, especially spiritual figures. We always have ideas of how things should be and cling to them, substituting them for the direct factual reality that genuine practice should uncover. You go to meet a meditation master and meet a man in a suit and tie, with a cigarette in his mouth and a glass of juice: "what? / eeee — this is not how it should be in my ideas!" His students still carry the state of *not understanding*, *not knowing* that he transmitted through himself, which throws one out of ideas into the present moment with its absolute unpredictability and the instability of any constructs. It is unpleasant yet natural — and for that reason, the author says, the very essence of Buddhist teaching. [msg #1210]
+- Students remember him as a teacher yet very human — not an enlightened ideal guru, mystical lama or distant being. Through his contradictory story, part real and part fiction and speculation, he gave them the chance to have not an ideal teacher but a very real person. [msg #1210]
+- Under the hood of an outstanding 20th-century spiritual leader was a refugee with a terrible history: a meditation master who could not return to his country, occupied by China, with many relatives killed. The author's opinion: such conditions create grounds for psychological trauma that needs to be healed by therapy, not meditation — something little was known about then. [msg #1210]
+**Living legacy.** A whole generation of teachers passed his teaching through themselves and continued, each in their own style: Pema Chodron, "who supports in the most terrible times"; Bruce Tift, who wrote only one book about human life, "but such a precise one"; and many students the author met in Boulder. They all took on the most serious commitment — constantly looking at oneself, being kind to oneself, being kind to others and contributing that to the world — and "without Trungpa none of this would exist". [msg #1210]
+
+### Ken Wilber
+Wilber has long lived in Boulder (in seclusion near the town) and was soon to release a new work on human wholeness. His books came to the author exactly when he was struggling with meditation on his second retreat 14 years earlier: the benefit of meditation and inner work was already obvious to him, but he would hardly have placed it on the top floors of his "building of priorities". He read *A Brief History of Everything* in one go; it answered literally all the questions tormenting him then. Since then he has a ritual of reading one Wilber book every year, which lets him see new facets of integral theory because he himself keeps changing and growing. He considers Wilber his teacher because Wilber "amazingly structured the whole field of inner work", without which the author is not sure he would have stayed in it with such motivation. Wilber's works also gave a strong boost to the spread of vertical development theories in the Russian-speaking space. [msg #1062, #1308]
+
+### Boulder and Naropa
+The author's emotional moment in Boulder: in a local bookstore rich in psychological and meditative literature he stood before huge shelves with the faces and names of teachers he had met in texts or in person, and was moved to tears by gratitude and inspiration; Boulder felt "saturated" with the presence of teacher figures. A photo of a bookstore shelf in the album shows titles such as Gurdjieff's *Beelzebub's Tales to His Grandson* (in Russian), Bruce Frantzis's *Taoist Sexual Meditation*, *Integral Spirituality*, *Kalachakra Tantra*, *Buddha Nature*, *Becoming Bodhisattvas*, *Chop Wood, Carry Water*, *Spiritual Emergency*, *I Ching* and a Lama Surya Das title. [msg #1062, #1312]
+In a guest post for the travel channel "Дикие", the author describes Boulder as a gold-rush town where the spirit of wealth, courage and search still pervades; the America many emigrants imagined — great climate, the Rocky Mountains reserve, people who work and rest conscientiously, smile and help each other, everyone does sport, spiritual practices are popular. Many IT companies opened R&D branches there to join this atmosphere, so you can meet a deer in town and a robot walked by Google employees. Boulder is expensive but cheaper than Colorado ski resorts like Aspen, where one can easily spend 1000 dollars a day. It attracts for two main reasons: [msg #1308]
+1. **Hiking straight from town** — the most comfortable, accessible and varied hikes from a city, hard to find anywhere in the world. Much of town life is organised around this, including a street of top outdoor brands (Arcteryx, Patagonia, Helly Hansen, Norrøna and many more); thanks to altitude and high living standards triathletes love living there, and it feels as if the whole town goes to the mountains almost daily. [msg #1308]
+2. **Spiritual practice and self-development** — Boulder was the starting point of Tibetan Buddhism in the USA and possibly the whole West. Here Trungpa opened his first Shambhala meditation centre; here later appeared the cult publisher of spiritual literature Shambhala Publications, which published and still publishes leading contemporary psychologists and spiritual practitioners, such as Ken Wilber. In the 1970s Naropa University was founded here, with help not only from Trungpa but from 1960s figures Ram Dass, Allen Ginsberg and William Burroughs. Today Naropa, which celebrated its 50th anniversary in 2024, focuses on psychedelic research and psychedelic-assisted psychotherapy; this has become a key theme for Boulder, where ceremonies and retreats with practically every existing substance can be found. [msg #1308]
+The Naropa anniversary wall photographed in the album reads "50 Years of Naropa University", with timeline panels "Naropa Institute Begins — 1973" and "Launch of Naropa Institute — 1974" and the slogan "…mind, ignite the heart". [img #1309]
+Visitor guide from the same post: best time to visit — May and October; what to do — go to the mountains and national parks, take part in Buddhist and psychedelic ceremonies, study psychedelic therapy; nearby — Pikes Peak (4,302 m, famous for sports-car races, with a road to the summit, at Colorado Springs), the high-mountain "American Tibet" of Crestone, and the "strange industrial big city" of Denver. [msg #1308]
+
+### Thich Nhat Hanh
+A world-famous Vietnamese monk, social activist and spreader of Buddhism in the West, who died at 95 after a life the author calls an example of the highest meaningfulness and focus on reducing suffering. Mindfulness appeared in the West largely thanks to him: arriving in the USA in the mid-20th century, he lectured at Cornell and Columbia and tried to translate meditation and Buddhist philosophy into forms understandable even to children. He taught meditation to Jon Kabat-Zinn, who later formed the widely spread secular basic course in mindfulness practices outside a religious context — MBSR. He embodied socially active Buddhism, where monks take an engaged position in society's life; for this Martin Luther King nominated him for the Nobel Peace Prize in 1967. [msg #564]
+
+### Tsoknyi Rinpoche and the "quiet bridge" to China
+**The teaching.** The author attended Tsoknyi Rinpoche's teachings in a five-star hotel in Kuala Lumpur. Tsoknyi was born in exile in Nepal, though his father, one of the most revered masters of the 20th century, still lived in Tibet. The Rinpoche creates no intense or miraculous experience, leads past no edges and does not talk politics; "Он просто показывает: что такое внимание, когда оно не связано. Что такое ум, когда он не закрыт историями." (He simply shows what attention is when it is not bound, what mind is when it is not closed by stories.) The nature of such mind is like space — open, pure and boundless; when we rest in it, natural simplicity and compassion arise. His voice carries not only personal practice but hundreds or thousands of years of tradition. [msg #1378]
+**Historical context given by the author.** In 1950 the People's Republic army entered Tibet; 9 years later the Dalai Lama fled to India and the Tibetan world began to collapse. About a million Tibetans and thousands of lamas were killed, tortured or sent to camps; more than 6000 monasteries were destroyed. Tibetans fled across the harshest mountains barefoot, carrying texts wrapped in cloth, and in India, Nepal and later America and Europe began reassembling "the main thing" piece by piece. On 17 May Tibetans worldwide demonstrate against the occupation with placards "Where is the Panchen Lama?" — the second most important figure in Tibetan Buddhism, abducted by Chinese authorities on 17 May 1995 as a six-year-old with his family. The attached photo shows a placard referring to the 11th Panchen Lama. [msg #1378, img #1378]
+**The author's analysis.** The hall was full of Chinese students — a Tibetan master teaching people from the country that occupied his homeland; it all looked so ordinary that the cognitive dissonance only hit the author days later. Hundreds of thousands of Chinese, often from the educated, intellectual class, now learn from Tibetans and increasingly choose a path not formally encouraged in China. They find in the Tibetan tradition what state ideology cannot give: meaning, silence, support, the possibility of being oneself outside productive efficiency. For the new Chinese class tired of the materialism and cynicism of "socialist capitalism" and the Communist Party, Tibetan Buddhism becomes a kind of inner alternative, a reminder that "inside there is a living heart". Teachings on compassion, clarity and attention cannot be banned directly because they are not formalised as a threat and carry no political slogans — "not yet politics, but already cultural pressure". The tradition, stripped of slogans, returns to China "through the back door" — through the minds and hearts of the Chinese themselves. [msg #1378]
+**Lesson.** Tibetans show how one can return love rather than hatred, passing the most valuable thing their people have to the descendants of their occupiers and killers — "perhaps the wisest thing we can sometimes do". The author's forecast: if the movement grows, the Party will face a choice — suppress it harder (difficult in the digital age) or gradually integrate it as part of a new cultural norm, and then perhaps have to answer "where is the Panchen Lama?" [msg #1378]
+
+### Shinzen Young: leaving the teacher role for science
+In October 2025 Shinzen Young announced on X that he was stepping out of the role of traditional meditation teacher to focus on scientific projects combining mindfulness, AI, neurotechnology and mathematics. Five years earlier he moved to Tucson, Arizona, to work with neuroscientist Jay Sanguinetti on the Focused Ultrasound project — research on focused ultrasound as a possible accelerator of the equanimity states cultivated in meditation. Since then he has led joint research within the SEMA Lab at the University of Arizona and became Chief Visionary at the biotech startup Sanmai Technologies, which had just left stealth mode. [msg #1555]
+His own words (in the author's Russian translation): at 81 he moves to the next stage and mostly leaves the role of traditional teacher, organising programmes devoted to scientific experiments and concepts; he wants to make big intellectual bets, since in science when they pay off it is worth it; he is grateful to everyone on the journey and the responsibility now passes to them — "support each other"; he wants to spend the rest of his life fighting windmills and enjoying the desert, open to unexpected directions. [msg #1555]
+**The author's lesson:** a person who practised mindfulness for decades shows that at any age one can rethink one's identity and continue serving — "inspiring flexibility and adaptability". The new stage looks not like abandoning spirituality but its genuine embodiment in the world in the language and forms people need today and tomorrow; genuine practice continues as a life of continuous investigation of reality and living contact with it, with readiness to let go of any identities. [msg #1555]
+**His place in the field (author's assessment).** Young belongs to the deep-intellectual level of Western mindfulness alongside Ken McLeod, John Yates (Culadasa) and Richard Davidson. Not the most media-visible, but definitely in the top 10 most influential methodologists and systematisers of mindfulness — those who formed the language in which meditation is now discussed in the context of science, phenomenology and psychotherapy. In the Russian-speaking space his ideas spread thanks to Viktor Shiryaev, the author's friend, a mindfulness teacher and researcher of practices, who translated and popularised Young's approach. [msg #1555]
+
+### Robina Courtin: "practice without painkillers"
+Australian by birth, in the late 1960s–early 1970s Robina lived between London, Melbourne and New York; she studied classical singing, did social activism, feminism and prisoners' rights work, and studied martial arts. In the mid-1970s she came to Tibetan practice through Buddhist courses taught by Lama Thubten Yeshe and Lama Zopa Rinpoche. Her youth was marked by constant aggression, strong inner turbulence and lack of grounding and trust in her own mind; she describes it bluntly: «Я была злым, запутавшимся человеком» (I was an angry, confused person). [msg #1702]
+For her, practice was not a way to feel better but a chance to stop running from the reality of her own inner world — so her teaching is oriented to responsibility rather than consolation. The author stresses this is not a pedagogical pose but the voice of someone who knows what happens when there is no grounding at all; that is why she is heard by people in prisons, in harsh crises and those who don't recognise themselves in the soft rhetoric of modern mindfulness. [msg #1702]
+She worked for many years as a translator and editor for the Dalai Lama and was editor-in-chief of Wisdom Publications, one of the key Western publishers of Buddhist literature, which shaped the language through which practice became accessible to Western readers. The most important part of her biography, per the author, is where she directed her energy: she founded the Liberation Prison Project and has worked with prisoners for decades — people in isolation, guilt, aggression and despair, where one cannot hide behind beautiful words about acceptance and mindfulness, "where practice either works or it doesn't". [msg #1702]
+Her core message: practice is not about becoming calmer or more pleasant but about developing clarity, responsibility and the ability to see how the mind itself produces suffering — and how it can stop. In a culture where meditation is sold as state optimisation, stress reduction or efficiency, she reminds that practice is about growing up and dropping illusions, about readiness to meet what is uncomfortable, unattractive and unpleasant inside us. Real resilience arises from that place, not from striving for special states. [msg #1702]
+
+### Mae Chee Brigitte
+The author has known her since 2013. For over 20 years she has taught Western students meditation, and tens of thousands have passed through her retreats in Thailand and other countries. On her retreats the author first saw that one can go much deeper without forcing or violence against oneself — through softness, metta, attentiveness and even humour; this changed both his practice and his worldview. [msg #1711]
+Born in Austria, her youth was far from monastic quiet, but an early retreat in Thailand changed her inner orientation so deeply that she became a renunciate — a radical break with ordinary life in which she already had 2 children; the author says such a decision cannot be understood superficially. She is not a loud global figure; her name does not stand next to famous male monks, which itself reflects her story: a woman doing great work within a tradition that systematically devalues women's contribution (see *Four forms of systemic oppression of women in Theravada*). [msg #1711]
+To become a "full nun" she had to find a teacher in Bhutan and be ordained there; she then began wearing a monastic robe, drawing extra attention and resistance within the Thai tradition. The abbot of her monastery does not support her initiatives and constantly creates difficulties because she is a woman going beyond the usual role — "a big trigger for the whole system". [msg #1711]
+**Social work as continuation of practice:** all donations from her retreats she directs monthly to help 60 low-income families, and she supports many mae chee in monasteries with education, medical treatment and life in general. She was honoured by the Thai royal family as an outstanding woman in Buddhism. In daily life she is not called teacher or given the honorific "venerable" — just "mae chee"; the author deliberately adds the honorific and sees her path as both a genuine personal path and a quiet social transformation. "Каждый раз, когда мне кажется, что сделать доброе дело сложно, я думаю про мей чи Б." (Every time it seems to me that doing a good deed is hard, I think of Mae Chee B.) [msg #1711]
+
+### Robert Thurman
+Thurman, who died at 84, was the first Westerner personally ordained as a Tibetan monk by the Dalai Lama, in 1965. He later gave up robes, married, raised five children (among them Uma Thurman) and taught for almost 30 years at Columbia University, developing the first Buddhist studies chair in the West and becoming professor emeritus. In 1987 he co-founded Tibet House in New York with Tenzin Tethong, Richard Gere and Philip Glass. In 1984 he brought the Dalai Lama's voice together with Western psychiatrists and neuroscientists at the first Inner Science Conference in Amherst — a niche event then, from which, the author says, a whole field largely grew: contemplative science, the Buddhism–neurobiology dialogue, and the mindfulness practice used by millions today. [msg #1816]
+His legacy as the author lists it: [msg #1816]
+1. Tibet House and the associated Menla Retreat centre near New York continue as institutions, not just one man's idea. [msg #1816]
+2. His book *Inner Revolution* and his translation of *The Tibetan Book of the Dead* spread far beyond his personal reach and became many people's first entry into the Tibetan tradition. [msg #1816]
+3. Generations of his students carried his methods and approaches to Buddhist studies into their professions. [msg #1816]
+4. In 1997 Time magazine named him one of the 25 most influential Americans. [msg #1816]
+**The author's lesson:** Thurman did not choose between depth and ordinary life, between science and practice, between monasticism and family roles; he integrated all of it, and precisely for that reason made a tangible contribution to society rather than merely having a personal experience of practice. The author calls him an important, supportive reference point. [msg #1816]
+
+## Tools and resources mentioned
+
+- **Kopan foundations course** (Kathmandu, November, one month, Lama Zopa) — recommended as contact with the generation of Tibetan teachers who saw Tibet. [msg #69]
+- **Alan Wallace, lecture on mental resilience and meaningful life** (audio, contemplative-ru SoundCloud) — the author calls Wallace "an incredibly valuable author". [msg #105]
+- **Alan Wallace, *Внимаем пристально: четыре применения памятования*** (Minding Closely: The Four Applications of Mindfulness) — the author's "book for getting acquainted" with Wallace. [msg #1062]
+- **Wallace's recent online lectures from Crestone** — about radical empiricism and restarting the science–contemplation dialogue. [msg #1534]
+- **Thich Nhat Hanh, *Жить в мире. Искусство общения и взаимодействия*** (Living in the World: the Art of Communication and Interaction) — the book attached to the obituary post. [msg #564]
+- **Trungpa** — an introductory book (linked, title not given in text) and the Shambhala publishing house, Naropa Institute/University, Shambhala meditation centres. (!) UNCLEAR: the title of the Trungpa "book for getting acquainted" is only a link. [msg #1062]
+- **Ken Wilber, *A Brief History of Everything*** — answered all the author's questions on his second retreat; his second "book for getting acquainted" recommendation is Wilber's *Religion of the Future*. [msg #1062]
+- **Bruce Tift's book** — his only book about human life, called "so precise" (title not given). [msg #1210]
+- **Shinzen Young: *Five Ways to Know Yourself*, *What is Mindfulness*, *An Outline of Practice*** — read all three in this order (see reading order above); Russian translations partly on Viktor Shiryaev's site; the author also recommends his own interview with Shiryaev. [msg #1555]
+- **Robert Thurman: *Inner Revolution*** — "probably his main book": the real revolution starts with working on one's own mind (no Russian translation found by the author); ***Love Your Enemies*** with Sharon Salzberg — a direct bridge between traditional Buddhist practice and what is now called mindfulness; ***The Last Dalai Lama?*** (2017 documentary) — Thurman is one of the voices, showing how he carries himself: lightly, with humour, without pathos. [msg #1816]
+- **Wisdom Publications, Liberation Prison Project** — Robina Courtin's publishing and prison work. [msg #1702]
+
+## Notable quotes
+
+> "Для эффективного внутреннего развития просто необходимы некоторые карты, иначе мы не понимаем куда идем." (*For effective inner development some maps are simply necessary, otherwise we don't understand where we are going.*) — author [msg #105]
+> "Поехать в Копан значит соприкоснуться с историей - увидеть тибетцев, видевших Тибет" (*Going to Kopan means touching history — seeing Tibetans who saw Tibet*) — author [msg #69]
+> "Для меня лично он показал внутреннюю точку, из которой возможно действительно мощное лидерство." (*For me personally he showed the inner point from which truly powerful leadership is possible.*) — author on Trungpa [msg #1062]
+> "Она так неприятна нам, но так естественна. И от этого является самой сутью буддистского учения." (*It is so unpleasant to us, yet so natural. And for that reason it is the very essence of Buddhist teaching.*) — author on the state of not-knowing Trungpa transmitted [msg #1210]
+> "Они все взяли самое серьезное обязательство — постоянно смотреть на себя. Быть добрыми к себе. Быть добрыми к другим." (*They all took on the most serious commitment — constantly looking at themselves. Being kind to themselves. Being kind to others.*) — author on Trungpa's students [msg #1210]
+> "Это ещё не политика, но уже культурное давление." (*This is not yet politics, but already cultural pressure.*) — author [msg #1378]
+> "Тибетцы показывают удивительный пример, как можно возвращать любовь, а не ненависть." (*Tibetans show an amazing example of how one can return love rather than hatred.*) — author [msg #1378]
+> "Хочу делать большие интеллектуальные ставки — в науке, когда они оправдываются, это того стоит." (*I want to make big intellectual bets — in science, when they pay off, it is worth it.*) — Shinzen Young, as translated by the author [msg #1555]
+> "Где практика либо работает, либо нет." (*Where practice either works or it doesn't.*) — author on Robina Courtin's prison work [msg #1702]
+
+## Caveats, disagreements and open questions
+
+- (!) CONTRADICTION / disagreement: Trungpa is "either adored or criticised"; Viktor Shiryaev accuses him "of all human sins", while the author, after meeting his students, emphasises his legacy. The author explicitly acknowledges "some controversy" and that part of Trungpa's story is real and part fiction and speculation, without detailing the accusations. [msg #1062, #1210]
+- The author's view that Trungpa's likely trauma needed therapy rather than meditation is presented as his own opinion ("Думаю" — I think). [msg #1210]
+- The rankings ("most-cited Buddhist teacher", "top-10 methodologists", "three best-known nuns") are the author's judgments; he notes himself that no formal ranking of nuns exists. [msg #1210, #1555, #1702]
+- The forecast about the Chinese Communist Party's choice regarding Tibetan Buddhism is the author's speculation. [msg #1378]
+- (!) INCOMPLETE: the Wallace lecture answers, Shinzen's triad details and several book titles (Trungpa, Bruce Tift) are not given in the text. [msg #105, #1555, #1062, #1210]
+- (!) UNCLEAR: #1062 says Trungpa's influence began "about 8 years ago", while #1210 says the author was never connected with Trungpa or practised under his students — consistent if the influence was through books only, but not stated. [msg #1062, #1210]
+- The posts on Robina Courtin and Mae Chee Brigitte were written partly to introduce teachers of the author's own meditation camp (logistics dropped here), so the portraits are not disinterested. [msg #1702, #1711]
+
+## Resources and links
+
+Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
+
+### Resources
+
+- ★ **Shinzen Young — An Outline of Practice (PDF, 15 pp)** (guide) — Third, short free manual with the outline of practice. [msg #1555] → <https://www.shinzen.org/wp-content/uploads/2016/08/AnOutlineOfPractice_ver2.5.pdf>
+- ★ **Shinzen Young — Five Ways to Know Yourself (PDF, 183 pp)** (guide) — First of three free manuals recommended to read in order for Shinzen's method. [msg #1555] → <https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf>
+- ★ **Shinzen Young — What Is Mindfulness (PDF, 76 pp)** (guide) — Second free manual by Shinzen Young. [msg #1555] → <https://www.shinzen.org/wp-content/uploads/2016/08/WhatIsMindfulness_SY_Public_ver1.5.pdf>
+- ★ **Alan Wallace — Mental Resilience (Contemplative.ru, SoundCloud)** (podcast) — Audio lecture from Alan Wallace on meaningful life and resilience of mind, recommended as extremely valuable. [msg #105] → <https://soundcloud.com/contemplative-ru/alan-wallace-mental-resilience>
+- ★ **Shamatha Project (UC Davis Saron Lab)** (study) — One of the largest longitudinal studies of meditation, 3 months of intensive retreat practice with objective measures. [msg #1534] → <https://saronlab.ucdavis.edu/shamatha-project.html>
+- ★ **Alan Wallace lecture (YouTube)** (video) — One of Wallace's latest lectures, given online from his long retreat in Crestone, on restarting the dialogue between science and contemplative psychology. [msg #1534] → <https://www.youtube.com/watch?v=_Z5oXFThLgQ&t=2473s>
+- ★ **Interview with Viktor Shiryaev (Act of Presence post)** (video) — Interview by the author with Shiryaev, who translated and popularised Shinzen Young's approach in Russian. [msg #1555] → <https://t.me/actofpresence/2495>
+- ★ **Center for Contemplative Research (Alan Wallace and Eva Natanya)** (website) — Organisation described as an observatory of consciousness: long solitary retreats and collaboration with scientists in the US, Italy and New Zealand. [msg #1534] → <https://centerforcontemplativeresearch.org/about-ccr-mission/?utm_source=chatgpt.com>
+- ★ **Viktor Shiryaev: Shinzen texts in Russian** (website) — Site with Russian translations of Shinzen Young's texts. [msg #1555] → <https://victorshiryaev.org/shinzen-in-russian/>
+- **Marvelous Gates Telegram post on Chogyam Trungpa** (article) — Sharp post accusing Trungpa, an old debate in Buddhist circles, to which the author responds. [msg #1210] → <https://t.me/marvelousgates/191>
+- **Wikipedia: Thich Nhat Hanh** (article) — Encyclopedia page about the Vietnamese monk and peace activist, who died the day before the post. [msg #564] → <https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh>
+
+### External links
+
+- ★ **B. Alan Wallace — Mindful Attention: The Four Applications of Mindfulness (Vnimaem pristalno), LiveLib** (book) — Book on the four applications of mindfulness; entry book for Wallace. [msg #1062] → <https://www.livelib.ru/book/1007893093-vnimaem-pristalno-chetyre-primeneniya-pamyatovaniya-alan-uolles>
+- ★ **Ken Wilber book (Labirint)** (book) — Introductory Wilber book recommended as a start into his integral theories of vertical development. [msg #1062] → <https://www.labirint.ru/books/490251/>
+- ★ **Ken Wilber — Religion (search link)** (book) — Google search link for a Wilber book on religion, listed as an entry book. [msg #1062] → <https://www.google.com/search?q=%D0%BA%D0%B5%D0%BD+%D1%83%D0%B8%D0%BB%D0%B1%D0%B5%D1%80+%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE&sourceid=chrome&ie=UTF-8>
+- ★ **Thich Nhat Hanh — Peace Is Every Step / Living in the world (Zhit v mire), Litres** (book) — Book on communication and interaction by Thich Nhat Hanh, linked in the memorial post. [msg #564] → <https://www.litres.ru/nat-han-tit/zhit-v-mire-iskusstvo-obscheniya-i-vzaimodeystviya/>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1308, #1534, #1555] → <https://t.me/mindfulleadersrussia>
+- **Deep Meditation camp (deep mind, February)** (event) — Page for the camp with Robina Courtin in person and in Russian; invitation to join. [msg #1702, #1711] → <https://deepmindconsulting.ru/camp>
+- **опубликовал** (profile) [msg #1555] → <https://x.com/ShinzenYoung>
+
+## Source messages
+
+#69, #105, #564, #1062, #1210, #1308, #1309, #1312, #1378, #1534, #1555, #1702, #1711, #1816

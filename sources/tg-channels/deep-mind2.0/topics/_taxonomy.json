@@ -1,0 +1,4481 @@
+{
+ "domains": [
+  {
+   "domain": "Meditation & Contemplative Practice",
+   "slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "topics": [
+    {
+     "title": "Mindfulness as a core meta-skill",
+     "slug": "mindfulness-as-meta-skill",
+     "scope": "Why mindfulness is the base development skill: a real-time feedback loop on automatic patterns, levels of mindfulness in daily life, well-being as a trainable skill, and its limits (shadow, dissociation, mainstream hype).",
+     "themes": [
+      "mindfulness",
+      "meta-skills"
+     ],
+     "also_areas": [
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "mindful-leadership",
+      "spiritual-bypassing"
+     ],
+     "ids": [
+      108,
+      209,
+      273,
+      323,
+      449,
+      480,
+      574,
+      902,
+      977,
+      998,
+      1011,
+      1113,
+      1145,
+      1198,
+      1394,
+      1395,
+      1396,
+      1397,
+      1398,
+      1399,
+      1400,
+      1401,
+      1719,
+      1800
+     ],
+     "count": 24
+    },
+    {
+     "title": "Meditation practice: how to start and keep going",
+     "slug": "meditation-practice-fundamentals",
+     "scope": "Practical how-to of meditation: beginner goals, working with mind-wandering through positive reinforcement, pleasant sensations, consistency, short frequent practices, and fixing a stuck practice.",
+     "themes": [
+      "meditation",
+      "practice"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "habit-formation",
+      "motivation",
+      "self-compassion"
+     ],
+     "ids": [
+      28,
+      50,
+      100,
+      151,
+      277,
+      385,
+      393,
+      639,
+      653,
+      938,
+      1008,
+      1271,
+      1413,
+      1416,
+      1508,
+      1639,
+      1795
+     ],
+     "count": 17
+    },
+    {
+     "title": "Metta, compassion and the four immeasurables",
+     "slug": "metta-compassion-practices",
+     "scope": "Heart practices: why and how to do Metta and self-compassion, adapting phrases, the four immeasurables, and using compassion with pain, hatred and rejection.",
+     "themes": [
+      "metta",
+      "compassion"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "loving-kindness-metta",
+      "self-compassion",
+      "meditation-mindfulness",
+      "emotional-regulation"
+     ],
+     "ids": [
+      93,
+      94,
+      358,
+      359,
+      366,
+      556,
+      1185,
+      1580,
+      1647,
+      1805,
+      1807,
+      1891,
+      1978
+     ],
+     "count": 13
+    },
+    {
+     "title": "Retreats and the deeper contemplative path",
+     "slug": "retreats-deeper-contemplative-path",
+     "scope": "Going deeper: retreats and vipassana, shamatha, tantra, jhanas and cessation, prerequisites and risks of advanced practice, right motivation, and telling dissociation from witnessing.",
+     "themes": [
+      "retreat",
+      "vipassana",
+      "advanced practice"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "advanced-meditation-retreats",
+      "meditation-mindfulness",
+      "spiritual-bypassing"
+     ],
+     "ids": [
+      138,
+      290,
+      727,
+      870,
+      955,
+      982,
+      991,
+      1010,
+      1072,
+      1166,
+      1167,
+      1168,
+      1169,
+      1170,
+      1171,
+      1172,
+      1252,
+      1280,
+      1327,
+      1328,
+      1688,
+      1698,
+      1701,
+      1740
+     ],
+     "count": 24
+    },
+    {
+     "title": "Impermanence, suffering and meeting experience",
+     "slug": "impermanence-suffering-acceptance",
+     "scope": "Contemplative views on suffering, fear, death and impermanence: pain times resistance, Tift's life as process not problem, Stoic control, memento mori, grief and resting in presence.",
+     "themes": [
+      "impermanence",
+      "suffering",
+      "acceptance"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "impermanence-acceptance",
+      "stress-and-anxiety",
+      "uncertainty-resilience",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      684,
+      739,
+      869,
+      873,
+      876,
+      944,
+      1002,
+      1049,
+      1184,
+      1255,
+      1270,
+      1272,
+      1273,
+      1277,
+      1281,
+      1299,
+      1334,
+      1379,
+      1393,
+      1632,
+      1787
+     ],
+     "count": 21
+    },
+    {
+     "title": "Buddhist teachers, lineages and contemplative centres",
+     "slug": "buddhist-teachers-lineages",
+     "scope": "Profiles and lessons of teachers and places that shaped the author's path: Trungpa, Wallace, Tsoknyi Rinpoche, Thich Nhat Hanh, Thurman, Shinzen Young, Kopan, Boulder, Crestone.",
+     "themes": [
+      "teachers",
+      "buddhism"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "buddhist-teachers",
+      "meditation-mindfulness",
+      "loving-kindness-metta"
+     ],
+     "ids": [
+      69,
+      105,
+      564,
+      1062,
+      1210,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1378,
+      1534,
+      1535,
+      1536,
+      1537,
+      1538,
+      1539,
+      1540,
+      1541,
+      1555,
+      1702,
+      1711,
+      1816
+     ],
+     "count": 28
+    }
+   ]
+  },
+  {
+   "domain": "Trauma, Nervous System & Self-Regulation",
+   "slug": "trauma-nervous-system",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Trauma and the nervous system: foundations",
+     "slug": "trauma-nervous-system-foundations",
+     "scope": "What trauma is and how it changes brain and body; window of tolerance, vagal tone, fight/freeze responses, why regulation precedes thinking, and trauma healing paths (EMDR, long-term work).",
+     "themes": [
+      "trauma",
+      "nervous system"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "trauma-and-nervous-system",
+      "emotional-regulation",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      124,
+      169,
+      194,
+      429,
+      438,
+      475,
+      691,
+      704,
+      722,
+      759,
+      830,
+      921,
+      1362,
+      1443,
+      1861,
+      1862
+     ],
+     "count": 16
+    },
+    {
+     "title": "Self-regulation techniques for stress and anxiety",
+     "slug": "self-regulation-techniques",
+     "scope": "Concrete body-based practices to calm the nervous system: breathing patterns, EFT tapping, grounding, centering, somatic micro-practices, glimmers, and short resets for hyperactivation.",
+     "themes": [
+      "self-regulation",
+      "breathing",
+      "tapping"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Movement & Body"
+     ],
+     "concepts": [
+      "somatic-regulation",
+      "emotional-regulation",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      431,
+      444,
+      588,
+      647,
+      688,
+      730,
+      741,
+      745,
+      889,
+      1022,
+      1286,
+      1635,
+      1640,
+      1696,
+      1704,
+      1743,
+      1767
+     ],
+     "count": 17
+    },
+    {
+     "title": "Coping with anxiety, panic, depression and personal crisis",
+     "slug": "anxiety-depression-crisis-coping",
+     "scope": "How to recognise and work with anxiety, panic and depression in crises (market crash, Covid, lockdown, permacrisis): checklists, action plans, support teams and fear practices.",
+     "themes": [
+      "anxiety",
+      "depression",
+      "crisis"
+     ],
+     "also_areas": [
+      "Society & Politics",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "stress-and-anxiety",
+      "uncertainty-resilience",
+      "depression"
+     ],
+     "ids": [
+      19,
+      139,
+      147,
+      149,
+      155,
+      160,
+      173,
+      214,
+      216,
+      404,
+      491,
+      750,
+      758,
+      1859
+     ],
+     "count": 14
+    }
+   ]
+  },
+  {
+   "domain": "Mindful Leadership & Teams",
+   "slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "topics": [
+    {
+     "title": "Qualities of mindful and compassionate leaders",
+     "slug": "mindful-leadership-qualities",
+     "scope": "What makes a conscious leader: Dalio and Potential Project qualities, compassion in hard decisions, vulnerability, adult communication, ego, presence over 'fix it' neurosis.",
+     "themes": [
+      "leadership"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "mindful-leadership",
+      "ego-narcissism",
+      "emotional-intelligence"
+     ],
+     "ids": [
+      26,
+      31,
+      40,
+      45,
+      70,
+      121,
+      175,
+      200,
+      321,
+      384,
+      447,
+      453,
+      536,
+      651,
+      662,
+      665,
+      706,
+      757,
+      791,
+      819,
+      900,
+      942,
+      958,
+      1024,
+      1305,
+      1809,
+      1979
+     ],
+     "count": 27
+    },
+    {
+     "title": "Toxic leadership, power and workplace ethics",
+     "slug": "toxic-leadership-power",
+     "scope": "Abuse and toxic behavior by leaders, rank and power dynamics, directive management roots, workplace toxicity data and ethical alternatives.",
+     "themes": [
+      "toxic leadership",
+      "power",
+      "ethics"
+     ],
+     "also_areas": [
+      "Society & Politics",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "toxic-leadership",
+      "corporate-culture",
+      "boundaries"
+     ],
+     "ids": [
+      230,
+      246,
+      283,
+      371,
+      457,
+      461,
+      710,
+      918,
+      919,
+      1054,
+      1055,
+      1057,
+      1365,
+      1447,
+      1970
+     ],
+     "count": 15
+    },
+    {
+     "title": "Team trust, feedback and conflict",
+     "slug": "team-trust-feedback-conflict",
+     "scope": "Building trust and psychological safety, feedback rules, constructive conflict, perfectionism culture and team flow.",
+     "themes": [
+      "teams",
+      "trust",
+      "feedback"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "team-trust-feedback",
+      "corporate-culture",
+      "emotional-intelligence"
+     ],
+     "ids": [
+      92,
+      128,
+      342,
+      386,
+      405,
+      420,
+      437,
+      439,
+      820,
+      840,
+      1074,
+      1543
+     ],
+     "count": 12
+    },
+    {
+     "title": "Meetings and group facilitation",
+     "slug": "meetings-facilitation",
+     "scope": "Good meeting rules and roles, leader as facilitator, brave space vs safe space, team workshops, year-end facilitation and setting group boundaries.",
+     "themes": [
+      "meetings",
+      "facilitation"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "meetings-facilitation",
+      "team-trust-feedback",
+      "mindful-leadership"
+     ],
+     "ids": [
+      217,
+      219,
+      284,
+      345,
+      346,
+      347,
+      971,
+      1070,
+      1162,
+      1163,
+      1164,
+      1165,
+      1193,
+      1234,
+      1382,
+      1638,
+      1666
+     ],
+     "count": 17
+    },
+    {
+     "title": "Motivation, talent and hiring",
+     "slug": "motivation-talent-hiring",
+     "scope": "Intrinsic motivation and self-determination theory, Hogan motivators and derailers, hiring for culture fit, and the shifting talent market.",
+     "themes": [
+      "motivation",
+      "hiring"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "workplace-motivation-hiring",
+      "motivation",
+      "corporate-culture"
+     ],
+     "ids": [
+      74,
+      202,
+      413,
+      417,
+      430,
+      553,
+      812,
+      854,
+      1103,
+      1130,
+      1266
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Organizations & Corporate Culture",
+   "slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "topics": [
+    {
+     "title": "Conscious business and company purpose",
+     "slug": "conscious-business-purpose",
+     "scope": "Conscious capitalism, purpose and values beyond profit, the myth that only measurable things matter, and anchoring a company in inner truth.",
+     "themes": [
+      "conscious capitalism",
+      "purpose"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "conscious-business",
+      "meaning-purpose",
+      "corporate-culture"
+     ],
+     "ids": [
+      4,
+      10,
+      11,
+      12,
+      97,
+      131,
+      183,
+      199,
+      245,
+      479,
+      1318
+     ],
+     "count": 11
+    },
+    {
+     "title": "Corporate culture change",
+     "slug": "corporate-culture-change",
+     "scope": "How companies change culture: organizational grooves, types of companies, diversity and inclusion, change leadership, corporate retreats and stages of employee-care culture.",
+     "themes": [
+      "corporate culture"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "corporate-culture",
+      "employee-wellbeing",
+      "mindful-leadership"
+     ],
+     "ids": [
+      13,
+      41,
+      75,
+      133,
+      178,
+      179,
+      180,
+      181,
+      182,
+      190,
+      237,
+      286,
+      287,
+      332,
+      416,
+      454,
+      476,
+      542,
+      562,
+      565,
+      658,
+      676,
+      754,
+      1412
+     ],
+     "count": 24
+    },
+    {
+     "title": "Employee wellbeing and workplace mental health",
+     "slug": "employee-wellbeing-mental-health",
+     "scope": "Data and practice on workplace stress, burnout and mental health: surveys, resilience programs, quiet quitting, performance reviews, ESG and trauma-informed workplaces.",
+     "themes": [
+      "employee wellbeing",
+      "mental health"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "employee-wellbeing",
+      "burnout",
+      "stress-and-anxiety",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      177,
+      231,
+      398,
+      414,
+      435,
+      469,
+      489,
+      541,
+      573,
+      747,
+      753,
+      806,
+      945,
+      988,
+      1027,
+      1043,
+      1059,
+      1131,
+      1346,
+      1419,
+      1442,
+      1723,
+      1956
+     ],
+     "count": 23
+    },
+    {
+     "title": "Supporting teams through crisis",
+     "slug": "team-crisis-support",
+     "scope": "Managing team state in crises (Belarus, war, mobilization): productivity drops, Regulate-Relate-Reason, at-risk groups, support formats and leaders' new role in team state.",
+     "themes": [
+      "crisis",
+      "team state"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "employee-wellbeing",
+      "uncertainty-resilience",
+      "stress-and-anxiety",
+      "emotional-regulation"
+     ],
+     "ids": [
+      203,
+      280,
+      387,
+      576,
+      582,
+      624,
+      637,
+      656,
+      724,
+      731,
+      738,
+      784,
+      785,
+      904,
+      1018,
+      1019,
+      1877,
+      1953
+     ],
+     "count": 18
+    },
+    {
+     "title": "Self-management and new organization models",
+     "slug": "self-management-org-models",
+     "scope": "Teal organizations, deep democracy, mechanistic vs organic companies, managing by context, transference in self-organization and Sociocracy 3.0.",
+     "themes": [
+      "self-management",
+      "teal"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "self-managing-organizations",
+      "corporate-culture",
+      "mindful-leadership"
+     ],
+     "ids": [
+      116,
+      205,
+      226,
+      383,
+      418,
+      442,
+      875
+     ],
+     "count": 7
+    },
+    {
+     "title": "Founder lessons from building a meaning-driven company",
+     "slug": "founder-lessons-meaning-driven-business",
+     "scope": "Deep mind's origin, year reviews, failures and post-mortems, generative entrepreneurship, delegation, community as product and founder fear and burnout.",
+     "themes": [
+      "entrepreneurship",
+      "founder"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "entrepreneurship-founder",
+      "burnout",
+      "meaning-purpose",
+      "conscious-business"
+     ],
+     "ids": [
+      52,
+      112,
+      134,
+      228,
+      257,
+      349,
+      350,
+      443,
+      563,
+      720,
+      728,
+      817,
+      821,
+      855,
+      859,
+      932,
+      1148,
+      1218,
+      1230,
+      1258,
+      1263,
+      1404
+     ],
+     "count": 22
+    }
+   ]
+  },
+  {
+   "domain": "Theory U & Presencing",
+   "slug": "theory-u",
+   "area": "Leadership & Organizations",
+   "topics": [
+    {
+     "title": "Theory U, presencing and co-sensing",
+     "slug": "theory-u-presencing",
+     "scope": "Scharmer's Theory U: open mind, heart and will, presencing, case clinics, Social Presencing Theater and The Village, and its application in companies, retreats and communities.",
+     "themes": [
+      "theory u",
+      "presencing"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "theory-u",
+      "mindful-leadership",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      39,
+      152,
+      320,
+      432,
+      465,
+      481,
+      606,
+      816,
+      1013,
+      1114,
+      1129,
+      1156,
+      1157,
+      1178,
+      1274,
+      1278,
+      1307,
+      1403,
+      1486,
+      1515,
+      1619,
+      1620,
+      1621,
+      1622,
+      1623,
+      1624,
+      1625,
+      1728,
+      1729,
+      1730,
+      1731,
+      1732,
+      1769,
+      1779,
+      1780,
+      1781,
+      1782,
+      1783,
+      1784,
+      1812,
+      1842,
+      1843,
+      1844,
+      1845,
+      1846,
+      1847,
+      1848,
+      1849,
+      1850,
+      1851,
+      1852,
+      1853,
+      1879,
+      1928,
+      1946
+     ],
+     "count": 55
+    }
+   ]
+  },
+  {
+   "domain": "Stress, Burnout & Rest",
+   "slug": "stress-burnout-rest",
+   "area": "Rest & Burnout",
+   "topics": [
+    {
+     "title": "Burnout: causes, warning signs and prevention",
+     "slug": "burnout-causes-prevention",
+     "scope": "Burnout as chronic stress with systemic roots: personal stories, warning signs, exercise and habits during burnout, talking to your boss, and frameworks like ReST.",
+     "themes": [
+      "burnout"
+     ],
+     "also_areas": [
+      "Leadership & Organizations",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "burnout",
+      "fatigue",
+      "self-care",
+      "boundaries"
+     ],
+     "ids": [
+      35,
+      266,
+      271,
+      448,
+      567,
+      695,
+      860,
+      1147,
+      1197,
+      1440,
+      1641,
+      1642,
+      1643,
+      1644,
+      1645,
+      1738
+     ],
+     "count": 16
+    },
+    {
+     "title": "Rest and recovery: vacations, year-end and weekends",
+     "slug": "rest-recovery",
+     "scope": "How to really rest: types of rest, why year-end crunch backfires, vacation and retreat design, weekends, letting go instead of rest-as-project.",
+     "themes": [
+      "rest",
+      "recovery"
+     ],
+     "also_areas": [
+      "Energy & Resource",
+      "Sleep"
+     ],
+     "concepts": [
+      "rest-and-recovery",
+      "fatigue",
+      "digital-hygiene",
+      "energy-management"
+     ],
+     "ids": [
+      27,
+      76,
+      115,
+      232,
+      288,
+      441,
+      548,
+      776,
+      976,
+      979,
+      1051,
+      1117,
+      1388
+     ],
+     "count": 13
+    },
+    {
+     "title": "Measuring and managing stress load",
+     "slug": "stress-load-management",
+     "scope": "Why people misjudge their stress, HRV and stress-load measurement, chronic false adaptation, state management as a skill and closing open loops.",
+     "themes": [
+      "stress",
+      "hrv"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "self-tracking",
+      "stress-and-anxiety",
+      "burnout"
+     ],
+     "ids": [
+      364,
+      865,
+      1048,
+      1106,
+      1383,
+      1790,
+      1813
+     ],
+     "count": 7
+    },
+    {
+     "title": "Critique of achievement and productivity culture",
+     "slug": "achievement-culture-critique",
+     "scope": "Byung-Chul Han's burnout society, grind and hustle myths, 'achievism' in crisis, achieving from trauma vs presence, and why slowing down is hard.",
+     "themes": [
+      "productivity culture",
+      "achievement"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "productivity-culture-critique",
+      "burnout",
+      "work-life-balance",
+      "meaning-purpose"
+     ],
+     "ids": [
+      912,
+      1115,
+      1330,
+      1348,
+      1664,
+      1694,
+      1708,
+      1710,
+      1762,
+      1764,
+      1765,
+      1768,
+      1804,
+      1896,
+      1897,
+      1898,
+      1967
+     ],
+     "count": 17
+    }
+   ]
+  },
+  {
+   "domain": "Emotions, Ego & Personal Growth",
+   "slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Emotional skills: accepting, naming and working with emotions",
+     "slug": "emotional-skills",
+     "scope": "Emotional intelligence in practice: accepting and naming emotions, emotions in decisions, anger, shame, guilt vs regret, cultivating constructive emotions, oversharing and three levels of treating emotions.",
+     "themes": [
+      "emotions",
+      "emotional intelligence"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "emotional-intelligence",
+      "emotional-regulation",
+      "shame",
+      "inner-parts-ifs"
+     ],
+     "ids": [
+      184,
+      258,
+      408,
+      427,
+      660,
+      672,
+      681,
+      755,
+      798,
+      809,
+      857,
+      968,
+      969,
+      1366,
+      1367,
+      1368,
+      1512,
+      1684,
+      1693,
+      1786,
+      1808
+     ],
+     "count": 21
+    },
+    {
+     "title": "Ego, narcissism and authenticity",
+     "slug": "ego-narcissism-authenticity",
+     "scope": "Healthy vs inflated ego, narcissism in the attention economy, cynicism and idealism, vulnerability, and real vs performative authenticity.",
+     "themes": [
+      "ego",
+      "narcissism",
+      "authenticity"
+     ],
+     "also_areas": [
+      "Society & Politics"
+     ],
+     "concepts": [
+      "ego-narcissism",
+      "shame",
+      "community-belonging"
+     ],
+     "ids": [
+      559,
+      939,
+      948,
+      964,
+      983,
+      1052,
+      1326,
+      1445,
+      1506,
+      1556,
+      1759,
+      1910,
+      1954,
+      1958
+     ],
+     "count": 14
+    },
+    {
+     "title": "Meaning, purpose and life direction",
+     "slug": "meaning-purpose-direction",
+     "scope": "Finding purpose and meaning: want vs must motivation, agency and authorship, against nihilism, values and direction instead of yearly goals, and transcendent tasks.",
+     "themes": [
+      "meaning",
+      "purpose"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "meaning-purpose",
+      "motivation",
+      "self-reflection-tools"
+     ],
+     "ids": [
+      6,
+      20,
+      96,
+      99,
+      458,
+      568,
+      569,
+      788,
+      790,
+      799,
+      1402,
+      1446,
+      1747,
+      1976
+     ],
+     "count": 14
+    },
+    {
+     "title": "Vertical development and the integral approach",
+     "slug": "vertical-adult-development",
+     "scope": "Adult development (Kegan, Torbert, spiral dynamics) and Wilber's integral map: stages, boosters of vertical growth, integral life practice and inner work across the lifespan.",
+     "themes": [
+      "vertical development",
+      "integral"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "adult-development",
+      "self-reflection-tools",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      140,
+      671,
+      675,
+      837,
+      880,
+      890,
+      905,
+      987,
+      1044,
+      1095,
+      1466,
+      1513,
+      1544,
+      1547,
+      1630,
+      1748,
+      1798,
+      1817,
+      1823
+     ],
+     "count": 19
+    },
+    {
+     "title": "Relationships, family systems and parenting",
+     "slug": "relationships-family-parenting",
+     "scope": "Conscious partnership, family loyalty systems and separation, parenting and children's stress, supporting loved ones, and relationships as the indicator of inner growth.",
+     "themes": [
+      "relationships",
+      "family"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "relationships-family",
+      "boundaries",
+      "emotional-regulation"
+     ],
+     "ids": [
+      221,
+      888,
+      931,
+      1462,
+      1507,
+      1618,
+      1705,
+      1820,
+      1841,
+      1878,
+      1921
+     ],
+     "count": 11
+    },
+    {
+     "title": "Masculinity, gender and leadership",
+     "slug": "masculinity-gender",
+     "scope": "Fear and compensation in men's psychology (Hollis), hegemonic vs mature masculinity, men's coping, and feminine qualities and diversity in leadership.",
+     "themes": [
+      "masculinity",
+      "gender"
+     ],
+     "also_areas": [
+      "Leadership & Organizations",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "gender-expectations",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      51,
+      103,
+      146,
+      174,
+      389,
+      395,
+      1471,
+      1472,
+      1716
+     ],
+     "count": 9
+    },
+    {
+     "title": "Community, belonging and loneliness",
+     "slug": "community-belonging",
+     "scope": "Why social isolation harms, the value of small trusted communities, and how narcissistic or alpha-driven communities differ from honest, egalitarian ones.",
+     "themes": [
+      "community",
+      "belonging"
+     ],
+     "also_areas": [
+      "Interviews & Community",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "community-belonging",
+      "ego-narcissism",
+      "relationships-family"
+     ],
+     "ids": [
+      123,
+      192,
+      537,
+      613,
+      1120,
+      1291
+     ],
+     "count": 6
+    },
+    {
+     "title": "Willpower, self-control and habits: what the evidence says",
+     "slug": "willpower-self-control-habits",
+     "scope": "The failed replication of ego depletion ('willpower is a muscle'), and why people with high self-control rely on habits and fewer temptations rather than willpower; skepticism toward attractive scientific explanations.",
+     "themes": [
+      "willpower",
+      "ego depletion",
+      "habits",
+      "replication crisis"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "willpower",
+      "habit-formation",
+      "motivation"
+     ],
+     "ids": [
+      1902
+     ],
+     "count": 1
+    },
+    {
+     "title": "Relating to the future: images of the future, future self and mature progress",
+     "slug": "future-images-future-self",
+     "scope": "Why the future feels darker and how to relate to it: Polak's image of the future and four attitudes, Three Horizons, MIT 'Future You' and Hershfield's future self, and Schmachtenberger's questions for mature vs immature progress.",
+     "themes": [
+      "future",
+      "anxiety",
+      "future self",
+      "progress",
+      "agency"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "future-orientation",
+      "stress-and-anxiety",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      1905,
+      1973,
+      1975
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "domain": "Inner Work: Therapy, Ethics & Pitfalls",
+   "slug": "inner-work-therapy-ethics",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "Psychotherapy: methods, choosing and getting results",
+     "slug": "psychotherapy-methods-results",
+     "scope": "How therapy works and how to get more from it: therapeutic alliance, evidence debates, IFS, Focusing, Hoffman, personality types, psychedelic therapy, and AI vs human therapists.",
+     "themes": [
+      "psychotherapy",
+      "therapy"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "psychotherapy",
+      "inner-parts-ifs",
+      "trauma-and-nervous-system",
+      "ethics-in-inner-work"
+     ],
+     "ids": [
+      9,
+      256,
+      492,
+      546,
+      629,
+      666,
+      792,
+      813,
+      835,
+      906,
+      914,
+      990,
+      1029,
+      1030,
+      1031,
+      1032,
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1239,
+      1297,
+      1323,
+      1343,
+      1485,
+      1616,
+      1674,
+      1862,
+      1907,
+      1921
+     ],
+     "count": 31
+    },
+    {
+     "title": "Ethics and safety in inner work: choosing teachers and practitioners",
+     "slug": "inner-work-ethics-safety",
+     "scope": "Trauma-informed ethics, retraumatization risks, red flags of pseudo-gurus and cults, operational language vs 'energy', facilitator duty of care, and how to choose specialists.",
+     "themes": [
+      "ethics",
+      "trauma-informed",
+      "safety"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "ethics-in-inner-work",
+      "trauma-and-nervous-system",
+      "wellness-industry-critique"
+     ],
+     "ids": [
+      21,
+      32,
+      433,
+      440,
+      597,
+      693,
+      719,
+      751,
+      768,
+      769,
+      770,
+      771,
+      772,
+      774,
+      838,
+      878,
+      925,
+      1100,
+      1143,
+      1174,
+      1369,
+      1602,
+      1603,
+      1604,
+      1605,
+      1606,
+      1607,
+      1608,
+      1609,
+      1610,
+      1611,
+      1668,
+      1706,
+      1799,
+      1900,
+      1907,
+      1930,
+      1981
+     ],
+     "count": 38
+    },
+    {
+     "title": "Spiritual materialism and pitfalls on the inner path",
+     "slug": "spiritual-materialism-bypassing",
+     "scope": "Consumer and collecting approaches to self-development, intensity bias, spiritual bypassing and 'resort consciousness', and why motivation, repetition and simplicity matter.",
+     "themes": [
+      "spiritual bypassing",
+      "inner work"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "spiritual-bypassing",
+      "wellness-industry-critique",
+      "motivation",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      488,
+      762,
+      773,
+      777,
+      916,
+      1012,
+      1224,
+      1292,
+      1337,
+      1339,
+      1511,
+      1521,
+      1523,
+      1524,
+      1525,
+      1526,
+      1527,
+      1528,
+      1614
+     ],
+     "count": 19
+    }
+   ]
+  },
+  {
+   "domain": "Attention & Digital Wellbeing",
+   "slug": "attention-digital-wellbeing",
+   "area": "Attention & Digital Wellbeing",
+   "topics": [
+    {
+     "title": "Attention, focus and information overload",
+     "slug": "attention-focus-overload",
+     "scope": "Attention deficit and overload, multitasking costs, focus principles, mind-wandering data, ADHD vs dysregulation, and information-management systems like FAST.",
+     "themes": [
+      "attention",
+      "focus"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "focus-attention",
+      "digital-hygiene",
+      "neurodiversity"
+     ],
+     "ids": [
+      240,
+      244,
+      253,
+      487,
+      709,
+      803,
+      804,
+      822,
+      823,
+      824,
+      1088,
+      1121,
+      1190,
+      1227,
+      1370
+     ],
+     "count": 15
+    },
+    {
+     "title": "Digital detox and healthy screen habits",
+     "slug": "digital-detox-screens",
+     "scope": "Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design and mindful craving work.",
+     "themes": [
+      "digital detox",
+      "screens"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "digital-hygiene",
+      "focus-attention",
+      "stress-and-anxiety",
+      "habit-formation"
+     ],
+     "ids": [
+      400,
+      470,
+      795,
+      1042,
+      1253,
+      1294,
+      1386,
+      1495,
+      1542,
+      1548,
+      1678,
+      1689,
+      1745,
+      1753,
+      1788
+     ],
+     "count": 15
+    },
+    {
+     "title": "Neurodiversity: ADHD, autism and masking",
+     "slug": "neurodiversity-adhd-autism",
+     "scope": "Why no one fits the 'average' norm (Daniels' cockpit study) and what neurodiversity means in practice: autism, ADHD, masking, support at work and AI prompts for self-support.",
+     "themes": [
+      "neurodiversity",
+      "adhd",
+      "autism",
+      "masking"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "focus-attention"
+     ],
+     "ids": [
+      1874,
+      1875
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "domain": "Work, Technology & AI",
+   "slug": "work-technology-ai",
+   "area": "Leadership & Organizations",
+   "topics": [
+    {
+     "title": "Remote, hybrid and the future of work",
+     "slug": "remote-hybrid-future-of-work",
+     "scope": "Remote and hybrid work, return to office, BANI and post-covid forecasts, freelance and solo-preneurship, flexible schedules and future employee demands.",
+     "themes": [
+      "remote work",
+      "future of work"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "remote-work",
+      "work-life-balance",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      48,
+      98,
+      161,
+      210,
+      211,
+      282,
+      360,
+      365,
+      370,
+      396,
+      426,
+      451,
+      531,
+      619,
+      645,
+      797,
+      1014,
+      1734
+     ],
+     "count": 18
+    },
+    {
+     "title": "AI and the human transition",
+     "slug": "ai-human-transition",
+     "scope": "Psychology of the AI era: AI anxiety and adoption, AI-native professionals, AI in therapy and mindfulness, human intelligences AI cannot replace, meaning of work.",
+     "themes": [
+      "ai"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "ai-and-humans",
+      "uncertainty-resilience",
+      "meaning-purpose"
+     ],
+     "ids": [
+      317,
+      490,
+      669,
+      811,
+      1390,
+      1391,
+      1392,
+      1483,
+      1519,
+      1550,
+      1551,
+      1707,
+      1712,
+      1724,
+      1739,
+      1761,
+      1793,
+      1802,
+      1819
+     ],
+     "count": 19
+    }
+   ]
+  },
+  {
+   "domain": "Society, War & Collective Trauma",
+   "slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "topics": [
+    {
+     "title": "Collective trauma, propaganda and society",
+     "slug": "collective-trauma-propaganda",
+     "scope": "How collective trauma and wounded narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, and healing through communities.",
+     "themes": [
+      "collective trauma",
+      "propaganda"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "collective-trauma",
+      "trauma-and-nervous-system",
+      "shame"
+     ],
+     "ids": [
+      452,
+      589,
+      601,
+      602,
+      611,
+      626,
+      664,
+      828,
+      846,
+      853,
+      984,
+      1021,
+      1028,
+      1685,
+      1856,
+      1857,
+      1860,
+      1876,
+      1942
+     ],
+     "count": 19
+    },
+    {
+     "title": "Keeping an inner stance through war and repression",
+     "slug": "inner-stance-war-repression",
+     "scope": "Personal practice and ethics in wartime: inner supports, agency, avoiding numbness and normalization of violence, moral injury and staying humane.",
+     "themes": [
+      "war",
+      "resilience",
+      "ethics"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "war-ethics-resilience",
+      "uncertainty-resilience",
+      "emotional-regulation",
+      "collective-trauma"
+     ],
+     "ids": [
+      581,
+      591,
+      593,
+      598,
+      610,
+      634,
+      682,
+      786,
+      800,
+      951,
+      1006,
+      1465,
+      1722,
+      1735,
+      1785,
+      1789
+     ],
+     "count": 16
+    },
+    {
+     "title": "Politics, power and authoritarianism",
+     "slug": "politics-authoritarianism",
+     "scope": "Essays on authoritarian leadership, Belarus protests, values shifts, why people wage war, populism and the narrative of personal agency in social change.",
+     "themes": [
+      "politics",
+      "authoritarianism"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "politics-authoritarianism",
+      "collective-trauma",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      30,
+      136,
+      137,
+      150,
+      165,
+      220,
+      269,
+      272,
+      322,
+      326,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      652,
+      752,
+      923,
+      924,
+      1231,
+      1233,
+      1306,
+      1636,
+      1741,
+      1895,
+      1922,
+      1971
+     ],
+     "count": 28
+    },
+    {
+     "title": "Emigration and relocation psychology",
+     "slug": "emigration-relocation",
+     "scope": "Psychology of the 2022 emigration: life split, grief, separation-individuation, the four groups of the community and integration into new cultures.",
+     "themes": [
+      "emigration"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "relocation",
+      "collective-trauma",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      599,
+      600,
+      737,
+      802,
+      848,
+      1349,
+      1350,
+      1351,
+      1352,
+      1353
+     ],
+     "count": 10
+    },
+    {
+     "title": "Freedom, capitalism and contemporary culture",
+     "slug": "freedom-capitalism-culture",
+     "scope": "Critiques of consumption and attention capitalism, freedom (Fromm, Scott, Foucault), culture wars, postmodern values and cultural reflections from travel.",
+     "themes": [
+      "freedom",
+      "capitalism",
+      "culture"
+     ],
+     "also_areas": [
+      "Attention & Digital Wellbeing",
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "freedom-and-culture",
+      "wellness-industry-critique",
+      "digital-hygiene"
+     ],
+     "ids": [
+      141,
+      163,
+      207,
+      223,
+      557,
+      640,
+      1086,
+      1144,
+      1242,
+      1284,
+      1290,
+      1332,
+      1333,
+      1380,
+      1601,
+      1648,
+      1650,
+      1909,
+      1929
+     ],
+     "count": 19
+    },
+    {
+     "title": "Public ethics, abuse scandals and media responsibility",
+     "slug": "public-ethics-media",
+     "scope": "Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise.",
+     "themes": [
+      "ethics",
+      "media"
+     ],
+     "also_areas": [
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "media-ethics",
+      "ego-narcissism",
+      "wellness-industry-critique"
+     ],
+     "ids": [
+      445,
+      941,
+      961,
+      1325,
+      1331,
+      1629,
+      1634,
+      1651,
+      1699,
+      1727,
+      1750,
+      1979
+     ],
+     "count": 12
+    }
+   ]
+  },
+  {
+   "domain": "Sleep",
+   "slug": "sleep",
+   "area": "Sleep",
+   "topics": [
+    {
+     "title": "Sleep, sleep debt and caffeine",
+     "slug": "sleep-caffeine",
+     "scope": "Sleep as the basis of resilience: evening routines, sleep debt, light and circadian rhythm, magnesium baths, quitting caffeine and insomnia as an anxiety-control loop.",
+     "themes": [
+      "sleep"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Nutrition"
+     ],
+     "concepts": [
+      "sleep-hygiene",
+      "caffeine",
+      "circadian-rhythm"
+     ],
+     "ids": [
+      262,
+      324,
+      740,
+      767,
+      1256,
+      1700,
+      1756
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Body & Embodiment",
+   "slug": "body-embodiment",
+   "area": "Movement & Body",
+   "topics": [
+    {
+     "title": "Embodiment and body practices",
+     "slug": "embodiment-body-practices",
+     "scope": "Why the body matters for mental health and organizations: posture, exercise in burnout, yoga and TRE, hiking and dance as embodiment, and embodiment as a basic need.",
+     "themes": [
+      "embodiment",
+      "body"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "embodiment",
+      "physical-activity",
+      "burnout",
+      "trauma-and-nervous-system"
+     ],
+     "ids": [
+      78,
+      351,
+      826,
+      1005,
+      1345,
+      1473,
+      1474,
+      1475,
+      1476,
+      1733
+     ],
+     "count": 10
+    }
+   ]
+  },
+  {
+   "domain": "Biohacking & Wellness Industry",
+   "slug": "biohacking-wellness-industry",
+   "area": "Wellness Industry, Gadgets & Longevity",
+   "topics": [
+    {
+     "title": "Supplements and recovery protocols",
+     "slug": "supplements-recovery-protocols",
+     "scope": "Protocols for brain fog, high load and travel: anti-inflammatory nutrition, supplements and adaptogens, MCT/ghee, ergonomic setup, with safety caveats.",
+     "themes": [
+      "supplements",
+      "protocols"
+     ],
+     "also_areas": [
+      "Nutrition",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "supplements",
+      "brain-fog-recovery",
+      "nutrition-basics",
+      "caffeine"
+     ],
+     "ids": [
+      329,
+      867,
+      950,
+      966,
+      1079,
+      1160
+     ],
+     "count": 6
+    },
+    {
+     "title": "Wellness industry, gadgets and trends",
+     "slug": "wellness-industry-gadgets-trends",
+     "scope": "Mental-health investment, luxury wellness, neurofeedback and wearables, recovery tech, and wellness trend forecasts with a critique of biohacking reductionism.",
+     "themes": [
+      "wellness industry",
+      "gadgets"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "wellness-industry-critique",
+      "self-tracking",
+      "biohacking",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      196,
+      263,
+      839,
+      901,
+      1302,
+      1335,
+      1371,
+      1487,
+      1488,
+      1489,
+      1490,
+      1491,
+      1492,
+      1493,
+      1494,
+      1637,
+      1654,
+      1655,
+      1656,
+      1657,
+      1658,
+      1659,
+      1660,
+      1661,
+      1662,
+      1955
+     ],
+     "count": 26
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 5,
+   "kind": "announcement",
+   "gist": "Author started a private test Telegram channel for practice, not promoting it yet"
+  },
+  {
+   "id": 7,
+   "kind": "other",
+   "gist": "One-line comment that the attached picture suits the author"
+  },
+  {
+   "id": 8,
+   "kind": "other",
+   "gist": "Image quote (Cliff Pollard): the way out of suffering was told 2,600 years ago and people still don't get it"
+  },
+  {
+   "id": 14,
+   "kind": "other",
+   "gist": "Lead-in line to a table image on new-paradigm business effectiveness"
+  },
+  {
+   "id": 17,
+   "kind": "personal-update",
+   "gist": "Author notes his work reaches 150,000 employees of one state company with stress-related content"
+  },
+  {
+   "id": 18,
+   "kind": "announcement",
+   "gist": "Announcement of a Nov 20 19:30 event on unbiased listening for leaders (mindfulness, embodiment, Theory U) with registration link"
+  },
+  {
+   "id": 22,
+   "kind": "promo",
+   "gist": "Bare link to a vc.ru article on monitoring employee mental health (psychologist's view)"
+  },
+  {
+   "id": 23,
+   "kind": "other",
+   "gist": "Short comment that work with employees' inner state is gaining momentum"
+  },
+  {
+   "id": 24,
+   "kind": "logistics",
+   "gist": "Reminder of open Facebook call today 19:30 with Pasha Khegay from SF venture business, topic sex and relationships"
+  },
+  {
+   "id": 25,
+   "kind": "announcement",
+   "gist": "Author speaks at RBC conference on Dec 3 on anti-burnout and wellbeing management, with link"
+  },
+  {
+   "id": 29,
+   "kind": "other",
+   "gist": "Cover image of Kuladasa's book The Light of the Mind, a complete meditation guide"
+  },
+  {
+   "id": 33,
+   "kind": "announcement",
+   "gist": "Recording 3 of informal talk with Pasha Khegay and psychotherapist Dasha Kravchenko on sex and relationships, YouTube link"
+  },
+  {
+   "id": 34,
+   "kind": "promo",
+   "gist": "Author's vc.ru article on stress and wellbeing at work: map of working with people's inner world in companies"
+  },
+  {
+   "id": 36,
+   "kind": "personal-update",
+   "gist": "Reflections after RBC talk: meditation is no longer taboo at business events, HR term should vanish, people are the most valuable asset"
+  },
+  {
+   "id": 37,
+   "kind": "other",
+   "gist": "Photo of conference speaker card: HR in a smart city, Maksim Timofeev, Deep Mind Consulting, RBC"
+  },
+  {
+   "id": 38,
+   "kind": "other",
+   "gist": "Photo from RBC conference at WeWork about HR in a smart city"
+  },
+  {
+   "id": 46,
+   "kind": "other",
+   "gist": "Photo from RBC conference with Deep Mind Consulting branding, attached to talk theses"
+  },
+  {
+   "id": 49,
+   "kind": "other",
+   "gist": "Finland's government has ministers and PM aged 32-34, framed as the present not the future"
+  },
+  {
+   "id": 53,
+   "kind": "other",
+   "gist": "Photo with RBC branding and the word love, tied to the new mentor"
+  },
+  {
+   "id": 54,
+   "kind": "personal-update",
+   "gist": "Impressions of Sergey Galitsky's free private park in Krasnodar showing good things exist in Russian regions"
+  },
+  {
+   "id": 55,
+   "kind": "other",
+   "gist": "Photo of Krasnodar park, no text"
+  },
+  {
+   "id": 62,
+   "kind": "promo",
+   "gist": "Link to Reminder magazine article on embodiment practices for influencing the brain through the body"
+  },
+  {
+   "id": 72,
+   "kind": "announcement",
+   "gist": "Heading to Kazan for the first Theory U education initiative in Russia with 150 school directors"
+  },
+  {
+   "id": 73,
+   "kind": "personal-update",
+   "gist": "After Kazan, shares supportive words from Brazilian mentor Anita on listening, courage and feeling"
+  },
+  {
+   "id": 79,
+   "kind": "personal-update",
+   "gist": "Year-end reflection: tired after 5 projects, heading to a week-long retreat in Thailand, attention as the most valuable resource"
+  },
+  {
+   "id": 80,
+   "kind": "other",
+   "gist": "Photo from Bangkok, no text"
+  },
+  {
+   "id": 87,
+   "kind": "promo",
+   "gist": "Author's vc.ru article on genuinely effective rest over the holidays, with link"
+  },
+  {
+   "id": 88,
+   "kind": "other",
+   "gist": "Google Trends chart comparing Russian searches for weight loss and meditation, 2011-2019"
+  },
+  {
+   "id": 89,
+   "kind": "other",
+   "gist": "Interest in meditation in Russia overtook interest in weight loss per Google Trends"
+  },
+  {
+   "id": 90,
+   "kind": "personal-update",
+   "gist": "New Year plans after 5 days without phone: rest in January, write from desire, set goals and values, launch mentoring, reflect on team failures, work with government clients"
+  },
+  {
+   "id": 91,
+   "kind": "promo",
+   "gist": "Asks followers to repost his article on rest, which had only 1500 views"
+  },
+  {
+   "id": 104,
+   "kind": "announcement",
+   "gist": "Channel mission post: expert filtering, no ads, building a values community of conscious leaders, planned calls and masterminds, request to share with 5 people"
+  },
+  {
+   "id": 117,
+   "kind": "announcement",
+   "gist": "Reader poll on which topics are most interesting (personal development, global trends, management, curated content, personal experience); 326 votes"
+  },
+  {
+   "id": 118,
+   "kind": "announcement",
+   "gist": "Request to vote in the reader poll and leave own options in comments"
+  },
+  {
+   "id": 119,
+   "kind": "other",
+   "gist": "One-word recommendation with no content text"
+  },
+  {
+   "id": 120,
+   "kind": "promo",
+   "gist": "Forwarded from Khegai Network: launch of third February networking course, updated landing page, random coffee and mastermind tested"
+  },
+  {
+   "id": 122,
+   "kind": "announcement",
+   "gist": "Index of best January posts with links"
+  },
+  {
+   "id": 126,
+   "kind": "announcement",
+   "gist": "Free Zoom community call on Saturday 15:00 about burnout and conscious leadership with Khegai, Kravchenko and Timofeev"
+  },
+  {
+   "id": 127,
+   "kind": "announcement",
+   "gist": "Deep mind to teach mindfulness and Centering technique for stress to 150,000 Rostelecom employees; stress is normal, chronic stress with inaction is not"
+  },
+  {
+   "id": 132,
+   "kind": "personal-update",
+   "gist": "Author flying to Singapore for partnership and internship with a mindfulness-based culture consultancy active in 26 countries, despite coronavirus"
+  },
+  {
+   "id": 142,
+   "kind": "announcement",
+   "gist": "Index of best February posts with links"
+  },
+  {
+   "id": 144,
+   "kind": "personal-update",
+   "gist": "Personal update: detained at borders in Thailand and Singapore, losses, now in Vietnam returning to work"
+  },
+  {
+   "id": 145,
+   "kind": "other",
+   "gist": "Image for Women's Day reading 'Female leaders will save the world' (deep mind)"
+  },
+  {
+   "id": 148,
+   "kind": "promo",
+   "gist": "Shares a closed investor report by Freedom Finance analysts on the current market situation"
+  },
+  {
+   "id": 154,
+   "kind": "announcement",
+   "gist": "Announces open call 'After the crisis - growth: emerging future' on 18 March 15:00 with named panelists, using Theory U; comment email to get invite"
+  },
+  {
+   "id": 156,
+   "kind": "announcement",
+   "gist": "Poll on today's anxiety level about the covid/crisis situation (396 votes)"
+  },
+  {
+   "id": 157,
+   "kind": "logistics",
+   "gist": "Reminder for today's 15:00 open call with five named speakers incl. Maxim Timofeev; send email by 12:00 via form for Zoom link"
+  },
+  {
+   "id": 159,
+   "kind": "promo",
+   "gist": "Points to Timofeev's Facebook video on how business owners can rebuild their business and a possible new product; asks for feedback"
+  },
+  {
+   "id": 162,
+   "kind": "logistics",
+   "gist": "Shares a link to a quality Russian-language COVID-19 Q&A summary (biomolecula.ru) for informed decisions; author admits not being an expert"
+  },
+  {
+   "id": 164,
+   "kind": "announcement",
+   "gist": "Announces free meditation marathon 26-27 April and two-week emotional resilience course from 8 April (free for COVID medics); stress pushes us into automatic primitive strategies"
+  },
+  {
+   "id": 166,
+   "kind": "announcement",
+   "gist": "Announces open call Emerging future 2 on emotional resilience, Saturday 4 April 15:00, four expert speakers, Timofeev moderating; registration form"
+  },
+  {
+   "id": 167,
+   "kind": "promo",
+   "gist": "Links Timofeev's vc.ru article on network mindset: how people react to danger, why that is ineffective, and which attitudes help adapt"
+  },
+  {
+   "id": 168,
+   "kind": "announcement",
+   "gist": "Poll asking how followers are doing emotionally (311 votes)"
+  },
+  {
+   "id": 171,
+   "kind": "announcement",
+   "gist": "Recording of the expert panel call on emotional resilience (therapist, coach, mindfulness teacher, embodiment facilitator) on YouTube; basic practices group starts next week"
+  },
+  {
+   "id": 176,
+   "kind": "promo",
+   "gist": "Links YouTube talk at Happiness Forum on adapting leaders and teams to the new reality: pre-crisis company problems, stress-reducing practices, bonus mindfulness practice"
+  },
+  {
+   "id": 185,
+   "kind": "announcement",
+   "gist": "Announcement of early-user signup for a new app of mindfulness and body practices built with Dmitry Tsurakov, 5-10 minute lectures and expert Q&A"
+  },
+  {
+   "id": 186,
+   "kind": "personal-update",
+   "gist": "Personal note on the entrepreneurial path of an inner-work specialist in Russia: skepticism and hostile sales meetings, unsafe new mindfulness projects, rule to let people be at their own level"
+  },
+  {
+   "id": 187,
+   "kind": "personal-update",
+   "gist": "Short recommendation of Dud's documentary about Russian-speakers in Silicon Valley, noting burnout and stress behind the success"
+  },
+  {
+   "id": 188,
+   "kind": "other",
+   "gist": "Short question asking why readers disliked the previous post"
+  },
+  {
+   "id": 191,
+   "kind": "announcement",
+   "gist": "Poll: do you have people to talk to about personal important topics (266 votes)"
+  },
+  {
+   "id": 193,
+   "kind": "announcement",
+   "gist": "Announcement of a closed experimental community group (up to 15 leaders) for inner work: monthly themes like shadow, Wilber integral, Theory U, embodiment"
+  },
+  {
+   "id": 197,
+   "kind": "promo",
+   "gist": "Three 10-15 minute mindfulness practice videos (body scan, self-kindness, sense of being) recommended for the MyZdesSeychas project"
+  },
+  {
+   "id": 198,
+   "kind": "promo",
+   "gist": "Link to the author's article on reviving bureaucratic organizations with a Theory U case in state education"
+  },
+  {
+   "id": 201,
+   "kind": "announcement",
+   "gist": "Announcement of attending the online European Integral Conference (May 27-31) with Wilber, Scharmer, Laloux, Kegan, Robertson and why this paradigm matters"
+  },
+  {
+   "id": 204,
+   "kind": "announcement",
+   "gist": "Stream announcement: conversation with Dmitry Shamenkov (Open Dialogue) tomorrow 10:00 on people in organizations during crisis"
+  },
+  {
+   "id": 206,
+   "kind": "announcement",
+   "gist": "Public enrollment into the two-week Less stress mindfulness group for state work, with benefits list"
+  },
+  {
+   "id": 213,
+   "kind": "announcement",
+   "gist": "Poll on emotional state about the end of quarantine (188 votes)"
+  },
+  {
+   "id": 215,
+   "kind": "logistics",
+   "gist": "Invitation to an open Zoom call June 12 at 14:00 with guests from Silicon Valley, South Africa and Berlin, with Russian translation"
+  },
+  {
+   "id": 218,
+   "kind": "logistics",
+   "gist": "Last-call reminder: FB live stream of open call at 14:00 and last day to join Less stress group"
+  },
+  {
+   "id": 222,
+   "kind": "promo",
+   "gist": "Link to interview where therapist Daria Kravchenko gives a beginner's guide to psychotherapy for the Мы.Здесь.Сейчас project"
+  },
+  {
+   "id": 224,
+   "kind": "announcement",
+   "gist": "Monthly update (#deepmindnews): OKRs launched, values article, sales funnel for b2c courses, Tilltech and PWC projects, 3-month leadership course concept"
+  },
+  {
+   "id": 225,
+   "kind": "announcement",
+   "gist": "Link to recorded FB dialogue with Pavel Khegai on company culture, meaning at work, generations and turquoise organizations"
+  },
+  {
+   "id": 229,
+   "kind": "other",
+   "gist": "Link to a Forbes.ru article on why 20-somethings no longer want to kill themselves at work"
+  },
+  {
+   "id": 233,
+   "kind": "announcement",
+   "gist": "Teaser about community and channel development and August programs"
+  },
+  {
+   "id": 235,
+   "kind": "announcement",
+   "gist": "Poll: which content readers want most (states, human development science, mindfulness, leaders mindset, living organizations etc.)"
+  },
+  {
+   "id": 236,
+   "kind": "announcement",
+   "gist": "Poll thanks and results: focus on states management, leaders mindset, development science, living organizations, mindfulness"
+  },
+  {
+   "id": 238,
+   "kind": "announcement",
+   "gist": "Channel update: plan to systematize inbound questions, connect readers into a community, experiment with video and audio"
+  },
+  {
+   "id": 239,
+   "kind": "personal-update",
+   "gist": "Author bio: Maksim Timofeev's background, mindfulness practice since 2008, certifications, and why he founded deep mind"
+  },
+  {
+   "id": 242,
+   "kind": "personal-update",
+   "gist": "Playful note about an hour of practice fighting mosquitoes and flies"
+  },
+  {
+   "id": 243,
+   "kind": "announcement",
+   "gist": "Announcement of article on 8 steps to build company values published on Alpina Publishers blog, plus best books list"
+  },
+  {
+   "id": 247,
+   "kind": "other",
+   "gist": "Two videos on state management for entrepreneurs at MIT delta v accelerator: intro and practice"
+  },
+  {
+   "id": 250,
+   "kind": "announcement",
+   "gist": "Poll asking feedback via emoji on video format versus text"
+  },
+  {
+   "id": 251,
+   "kind": "announcement",
+   "gist": "Question whether to run more live sessions with the team and guest experts"
+  },
+  {
+   "id": 252,
+   "kind": "personal-update",
+   "gist": "Joking remark that feedback discouraged him from recording video"
+  },
+  {
+   "id": 254,
+   "kind": "announcement",
+   "gist": "Announcement of Less stress mindfulness group starting August 15: 2 weeks, 4 meetings, 15 minutes daily practice"
+  },
+  {
+   "id": 259,
+   "kind": "other",
+   "gist": "Pointer to an earlier post on the modern understanding of emotions"
+  },
+  {
+   "id": 261,
+   "kind": "announcement",
+   "gist": "Announcement of Monday 19:00 Zoom and FB live on how not to burn out yourself and the team this autumn"
+  },
+  {
+   "id": 267,
+   "kind": "announcement",
+   "gist": "Announcement of new Less stress group: 2-week online mindfulness and stress course starting Saturday, 4 sessions, 3 teachers"
+  },
+  {
+   "id": 268,
+   "kind": "announcement",
+   "gist": "Recording of deepmind Live stream on people's state now and how to support oneself, posted on Facebook"
+  },
+  {
+   "id": 275,
+   "kind": "promo",
+   "gist": "Link to author's article on mindfulness in business for ZehMedia (trend, beyond stress and burnout, leadership and culture)"
+  },
+  {
+   "id": 276,
+   "kind": "personal-update",
+   "gist": "Personal note after mountain digital detox: rest is far more effective with no work tasks and no phone; urgent new project in Belarus starting"
+  },
+  {
+   "id": 278,
+   "kind": "announcement",
+   "gist": "Link to recorded Zhivye Goroda forum talk on revitalizing organizations via inclusion culture and mindfulness practices"
+  },
+  {
+   "id": 281,
+   "kind": "logistics",
+   "gist": "Reminder about Community course for leaders starting 12 Sept, entry interview required, 15% promo code until 6 Sept"
+  },
+  {
+   "id": 285,
+   "kind": "announcement",
+   "gist": "Announcement of Hegai x Deep mind offline retreat 8-11 Oct at Yasno Pole, 40 people, digital detox, daily mindfulness and body practices"
+  },
+  {
+   "id": 289,
+   "kind": "promo",
+   "gist": "Short pointer to a NORM podcast episode on quality rest, burnout story, nervous system and multitasking"
+  },
+  {
+   "id": 304,
+   "kind": "other",
+   "gist": "Photo album from the retreat with no text"
+  },
+  {
+   "id": 314,
+   "kind": "other",
+   "gist": "Photo album with deep mind branding, no meaningful text"
+  },
+  {
+   "id": 318,
+   "kind": "personal-update",
+   "gist": "Personal and team update: 10-day team pause to prevent burnout, November-December plans (community course shadow module, consulting project), reflections on depth of group work"
+  },
+  {
+   "id": 325,
+   "kind": "promo",
+   "gist": "Asks readers to vote for Personalytics, an AI app by a community member that analyzes tracker data and gives recommendations, on Product Hunt"
+  },
+  {
+   "id": 327,
+   "kind": "announcement",
+   "gist": "Community member's The Shell art project: collective track of kind messages, a cloud reinterpretation of Metta practice; invitation to contribute"
+  },
+  {
+   "id": 331,
+   "kind": "announcement",
+   "gist": "Pointer to comments on the previous post"
+  },
+  {
+   "id": 333,
+   "kind": "other",
+   "gist": "Photo caption for Deep mind corporate retreat 2020 album"
+  },
+  {
+   "id": 343,
+   "kind": "announcement",
+   "gist": "Digest of best Deep mind 2020 articles: company values, mindfulness for business, changing bureaucracies, network mindset"
+  },
+  {
+   "id": 344,
+   "kind": "announcement",
+   "gist": "Asks leaders in comments which Telegram channels they recommend, to compile a list"
+  },
+  {
+   "id": 348,
+   "kind": "promo",
+   "gist": "Recommendation of channel Fanat Servisa on customer experience and conscious business"
+  },
+  {
+   "id": 353,
+   "kind": "personal-update",
+   "gist": "Year-end personal reflection on 2020: acceleration of digital economy, leaders' choice between control and open systems, public request for community support in 2021"
+  },
+  {
+   "id": 354,
+   "kind": "other",
+   "gist": "Photo-only posts of New Year album"
+  },
+  {
+   "id": 362,
+   "kind": "personal-update",
+   "gist": "Personal political reflection on 1990s Russia and Belarus, with sources (Zygar book, Khodorkovsky interview, Nemtsov film)"
+  },
+  {
+   "id": 363,
+   "kind": "announcement",
+   "gist": "Announcement of live stream with mindfulness teacher Viktor Shiryaev on activism, trauma-informed teaching, mindfulness vs tradition"
+  },
+  {
+   "id": 367,
+   "kind": "promo",
+   "gist": "Promotes community member's Deva women's health project, with Deep mind psychotherapist involved; example of purpose-based entrepreneurship"
+  },
+  {
+   "id": 368,
+   "kind": "promo",
+   "gist": "Recommends Lobsang Tenpa's 1.5h audio lecture on learned helplessness (Seligman) with two meditation practices"
+  },
+  {
+   "id": 369,
+   "kind": "personal-update",
+   "gist": "Leader as role model: when the leader is above the rules, lawlessness spreads to all levels; opinion on Navalny and Putin legacy"
+  },
+  {
+   "id": 373,
+   "kind": "announcement",
+   "gist": "Invitation to GAIA Just Money dialogue on 4 Feb (Otto Scharmer, Presencing Institute) on rethinking finance, with registration link"
+  },
+  {
+   "id": 380,
+   "kind": "personal-update",
+   "gist": "Personal civic stance: will move sales and taxes abroad, argues systems tend to health via integration and that suppressing voices reflects fear and weakness"
+  },
+  {
+   "id": 381,
+   "kind": "other",
+   "gist": "Forwarded podcast cover for Maksim Timofeev on Dusha kompanii"
+  },
+  {
+   "id": 382,
+   "kind": "promo",
+   "gist": "Forwarded from Dusha kompanii: podcast episode with Timofeev on mindfulness in business, emotions, burnout, values, Theory U and trauma, with van der Kolk links"
+  },
+  {
+   "id": 390,
+   "kind": "promo",
+   "gist": "Link to INC article on supporting employees during street violence and protests, based on PandaDoc work"
+  },
+  {
+   "id": 391,
+   "kind": "announcement",
+   "gist": "Clubhouse investor says mindfulness is a top topic and developer burnout a core pain in Silicon Valley; mentions Rostelecom program for 150,000; asks for discussion topics"
+  },
+  {
+   "id": 397,
+   "kind": "logistics",
+   "gist": "Announcement of Deep Mind retreat April 1-4 at Yasno Pole, digital detox, embodiment and mindfulness; venue moved from Sochi"
+  },
+  {
+   "id": 401,
+   "kind": "personal-update",
+   "gist": "Author shares his minimal phone home screen (screenshot, Phone, Chrome, Evernote) as example of the detox advice"
+  },
+  {
+   "id": 403,
+   "kind": "personal-update",
+   "gist": "Observation of two 19-year-olds discussing childhood trauma in cafe: therapy becoming mainstream across generations will push teams toward flexibility"
+  },
+  {
+   "id": 406,
+   "kind": "promo",
+   "gist": "Promotes Deep mind Manifesto, 6-hour interview with Dima Solovyov on Medium covering Wilber, Theory U, mindfulness, trauma therapy, conscious business"
+  },
+  {
+   "id": 407,
+   "kind": "logistics",
+   "gist": "Schedule of open events: Happy forum on relationship with self and Clubhouse room about retreats on Saturday"
+  },
+  {
+   "id": 419,
+   "kind": "announcement",
+   "gist": "Deep mind statement condemning violence against people expressing opinions, supporting right to assemble"
+  },
+  {
+   "id": 422,
+   "kind": "announcement",
+   "gist": "Channel renamed from Mindful leaders Russia to Deep mind; mission, differentiators and ways to engage"
+  },
+  {
+   "id": 424,
+   "kind": "promo",
+   "gist": "Hanzi Freinacht: societal development depends on development of consciousness and values; links to article on four fields of development"
+  },
+  {
+   "id": 425,
+   "kind": "personal-update",
+   "gist": "Victory Day reflection: wars come from clouded traumatised minds that blame an other; refuse to normalise abnormal"
+  },
+  {
+   "id": 428,
+   "kind": "logistics",
+   "gist": "Reminder of live ICF coaching week session on economy and leadership of the future, today 12:00"
+  },
+  {
+   "id": 434,
+   "kind": "promo",
+   "gist": "Recommends delegating tasks to personal-assistant service NeedSupport to unload memory and attention and reduce burnout; includes referral link"
+  },
+  {
+   "id": 436,
+   "kind": "announcement",
+   "gist": "Link to a podcast with deep mind about mindfulness practices in corporate and personal contexts"
+  },
+  {
+   "id": 446,
+   "kind": "announcement",
+   "gist": "Invitation to open discussion on management trends and mindfulness in business for HR, founders, team leads, on Sunday; registration link"
+  },
+  {
+   "id": 455,
+   "kind": "announcement",
+   "gist": "How to engage with deep mind: read and share content, build communities, invite them to teams, open programs, activism, work with them"
+  },
+  {
+   "id": 456,
+   "kind": "announcement",
+   "gist": "Announcement of a mini-enrollment for deep mind community course on mindfulness and open communication"
+  },
+  {
+   "id": 459,
+   "kind": "logistics",
+   "gist": "Hiring mindfulness and embodiment teachers: requirements on education, certification, trauma-informed training, therapy and practice experience"
+  },
+  {
+   "id": 460,
+   "kind": "other",
+   "gist": "Video of gymnastics federation head verbally abusing a champion as example of Russian motivation and communication culture; video unavailable"
+  },
+  {
+   "id": 462,
+   "kind": "announcement",
+   "gist": "Digest of best channel articles of the last half year (mindfulness, burnout guide, Theory U, somatics, feedback, detox)"
+  },
+  {
+   "id": 463,
+   "kind": "other",
+   "gist": "Video breathing practice from Ximena Fuentes to relieve anxiety and stress before an important meeting (video not in export)"
+  },
+  {
+   "id": 464,
+   "kind": "personal-update",
+   "gist": "Personal story of a ~70-year-old man at yin yoga who turns out to attend tantra retreats; moral: do not age in heart"
+  },
+  {
+   "id": 466,
+   "kind": "announcement",
+   "gist": "PS asking readers to comment if joining u.lab; Deep mind offers joint calls for Russian community"
+  },
+  {
+   "id": 468,
+   "kind": "announcement",
+   "gist": "Monday news: Lobsang Tenpa's secular course with Ekman/Wallace program, and launch of Russian MIT U.Lab hub (54 then 225 members)"
+  },
+  {
+   "id": 472,
+   "kind": "announcement",
+   "gist": "Digest of best 2020 personal-development articles: understanding the world and practice (EQ, focus, sleep, rest types, meditation)"
+  },
+  {
+   "id": 473,
+   "kind": "personal-update",
+   "gist": "Author's month in a crypto community on Phangan; sees crypto as new internet and plans to test combining crypto with deep mind; seeks crypto contacts"
+  },
+  {
+   "id": 474,
+   "kind": "promo",
+   "gist": "Link to Rusbase article on how to give feedback in teams, structured from consulting experience on toxicity and communication culture"
+  },
+  {
+   "id": 478,
+   "kind": "promo",
+   "gist": "Link to article by Polina Chizhova (Sbermarket) on managing a remote team while living in Cyprus; deurbanization trend"
+  },
+  {
+   "id": 486,
+   "kind": "promo",
+   "gist": "Deep mind practices and courses included in Reminder's mental health guide (100+ links)"
+  },
+  {
+   "id": 495,
+   "kind": "promo",
+   "gist": "Taking a week off for Hoffman process; links to podcast episode on mindfulness in companies, civil service, Moscow and crypto"
+  },
+  {
+   "id": 513,
+   "kind": "announcement",
+   "gist": "Community meeting outcome: three focus meanings for season 22-23: Matrix exit, In-deepth learning (attention/meta-skills), Healing (trauma as root of conflict)"
+  },
+  {
+   "id": 522,
+   "kind": "other",
+   "gist": "Photo with caption text 'on rust', no post text"
+  },
+  {
+   "id": 534,
+   "kind": "announcement",
+   "gist": "Poll: end of November 2021 energy check (squeezed lemon, ripe tomato, fresh cucumber), 671 votes"
+  },
+  {
+   "id": 535,
+   "kind": "logistics",
+   "gist": "Invitation to open Zoom lecture on DAO, governance and Web 3.0 on Dec 9 at 18:00 with Artem Zhiganov"
+  },
+  {
+   "id": 538,
+   "kind": "announcement",
+   "gist": "Announcement of Deep mind's Kommersant column on Theory U with cases from Avito, Qiwi, Croc, Sbermarket, plus credits and repost request"
+  },
+  {
+   "id": 540,
+   "kind": "logistics",
+   "gist": "Practical Koh Phangan guide: entry rules, where to find housing and live, what to do, warning it is boring for those who dislike solitude"
+  },
+  {
+   "id": 545,
+   "kind": "announcement",
+   "gist": "Video lecture announcement: Governance and Web 3.0, organizations of the future (after Frederic Laloux), with recording link and slide listing governance functions"
+  },
+  {
+   "id": 547,
+   "kind": "logistics",
+   "gist": "Pre-opening of deep mind mindfulness and crypto communities: 3 test seats each, 30k RUB/year, whitelist application; all seats taken"
+  },
+  {
+   "id": 549,
+   "kind": "announcement",
+   "gist": "Announces deep mind's systematic Russian-language guide on psychological trauma (Reminder article), arguing trauma awareness helps with burnout, addiction, violence and retraumatization"
+  },
+  {
+   "id": 554,
+   "kind": "personal-update",
+   "gist": "Year-end thanks from the deep mind team, on vacation until February"
+  },
+  {
+   "id": 555,
+   "kind": "promo",
+   "gist": "Forwarded from Vanya Zamesin: recording of 5-hour 'Lessons of the Year' stream with 18 leaders, with timestamped speaker list"
+  },
+  {
+   "id": 558,
+   "kind": "personal-update",
+   "gist": "Recommends comedian Denis Chuzhoy's solo concert to ease back into work after holidays"
+  },
+  {
+   "id": 560,
+   "kind": "announcement",
+   "gist": "Poll on attitude to relocating from Russia (895 votes)"
+  },
+  {
+   "id": 566,
+   "kind": "announcement",
+   "gist": "Poll on topics for periodic live video chats with the deep mind team (353 votes)"
+  },
+  {
+   "id": 570,
+   "kind": "announcement",
+   "gist": "Forwarded from Maxim Timofeev: video intro to the April Deep mind retreat (why, format, hosts); video not available"
+  },
+  {
+   "id": 571,
+   "kind": "announcement",
+   "gist": "Announcement of Deep mind retreat 14-17 April at Yasno Pole: mindfulness, embodiment, theatre; facilitators, registration"
+  },
+  {
+   "id": 575,
+   "kind": "announcement",
+   "gist": "Hoffman Institute (Russia/Austria) lecture for Deep mind community released openly: healing, Hoffman process, inner-child practice; 70 min talk + 20 min practice"
+  },
+  {
+   "id": 577,
+   "kind": "announcement",
+   "gist": "Announcement of psychotherapy Q&A voice chat with Daria Kravchenko and Maxim Timofeev; cancelled due to the situation"
+  },
+  {
+   "id": 580,
+   "kind": "announcement",
+   "gist": "Avito art director Alexander Stogov on a year of culture work in a 100+ person design department; video of talk"
+  },
+  {
+   "id": 583,
+   "kind": "announcement",
+   "gist": "Announcement of 17:00 audio call for Deep mind community to adapt self and team to the situation"
+  },
+  {
+   "id": 590,
+   "kind": "announcement",
+   "gist": "Channel moderation notice: Deep mind opposes hate between Russians and Ukrainians; hateful comments deleted and users banned"
+  },
+  {
+   "id": 592,
+   "kind": "promo",
+   "gist": "Link to notes of Ekaterina Shulman's special broadcast on the war, broken into theses for quick reading"
+  },
+  {
+   "id": 594,
+   "kind": "personal-update",
+   "gist": "Opinion post: no justification for the war, cannot hide in everyday life; find inner supports"
+  },
+  {
+   "id": 595,
+   "kind": "announcement",
+   "gist": "Channel statement: will not be apolitical, supports and clarifies amid collective trauma of Russians and Ukrainians; channel used for support"
+  },
+  {
+   "id": 605,
+   "kind": "announcement",
+   "gist": "Poll for managers on biggest upcoming challenges (own stability, team state, productivity, hiring, strategy, relocation, finance, clients); 477 votes"
+  },
+  {
+   "id": 607,
+   "kind": "promo",
+   "gist": "Deep mind offering for companies in crisis: return team to zero state, view from meta-position; links to updated facilitation formats"
+  },
+  {
+   "id": 609,
+   "kind": "other",
+   "gist": "Meme image of a ship with two holes and people denying the problem; satire of denial"
+  },
+  {
+   "id": 612,
+   "kind": "announcement",
+   "gist": "Deep mind community meeting with Thai nun Mae Chee Brigitte on Buddhist support in dark times, includes metta practice; video link and donation links"
+  },
+  {
+   "id": 614,
+   "kind": "promo",
+   "gist": "Quick online stress-level test built with Care team plus practice recommendations; unpractised people poorly judge their own state"
+  },
+  {
+   "id": 617,
+   "kind": "announcement",
+   "gist": "Max Timofeev's introduction: Deep mind mission and a directory of links to articles, podcast, interview and communities"
+  },
+  {
+   "id": 620,
+   "kind": "announcement",
+   "gist": "Announcement of 3 April Zoom open broadcast supporting journalists and media professionals, hosts Balandina, Kravchenko, Timofeev; registration"
+  },
+  {
+   "id": 622,
+   "kind": "other",
+   "gist": "Speaker card image: Maxim Timofeev, creator of Deep mind, mindfulness teacher and embodiment facilitator"
+  },
+  {
+   "id": 627,
+   "kind": "announcement",
+   "gist": "Pointer post: short history of the author's war-related posts and comments"
+  },
+  {
+   "id": 628,
+   "kind": "personal-update",
+   "gist": "Forwarded from #запискисолнцевой: poem-like list of deflections people answer with to 'it is wrong to kill people'"
+  },
+  {
+   "id": 630,
+   "kind": "promo",
+   "gist": "Announces translation of Otto Scharmer's (Theory U) article on Putin's blind spots and the power of awareness, part 1"
+  },
+  {
+   "id": 631,
+   "kind": "promo",
+   "gist": "Announces translation of part 2 of Scharmer's article on social creation and conditions for positive social transformation, with quote on coming paradigm shift"
+  },
+  {
+   "id": 632,
+   "kind": "announcement",
+   "gist": "Recording of open deep mind stream for journalists: reducing trauma risk, 3 factors of psychological instability, how trauma/stress feels, building psyche resources"
+  },
+  {
+   "id": 633,
+   "kind": "logistics",
+   "gist": "Hiring a junior community manager for deep mind's mindfulness and crypto communities; applications paused"
+  },
+  {
+   "id": 635,
+   "kind": "personal-update",
+   "gist": "Reader comment on feeling split inside Russia plus list of Russian artists' songs as metaphors for the moment"
+  },
+  {
+   "id": 636,
+   "kind": "promo",
+   "gist": "Link to author's Medium guide for nomads on Thailand: locations, costs, communities, focus on Koh Phangan"
+  },
+  {
+   "id": 638,
+   "kind": "announcement",
+   "gist": "Announcement of FOCUS online mindfulness and meditation conference at Skolkovo on 28 April 2022, where deep mind speaks on trauma"
+  },
+  {
+   "id": 641,
+   "kind": "announcement",
+   "gist": "Author's podcast appearance on Sol podcast: system of working with one's state in the current moment, about 10 recommendations (40 min)"
+  },
+  {
+   "id": 642,
+   "kind": "announcement",
+   "gist": "Recruiting new members for deep mind communities (mindfulness and crypto/web3); first cycle grew to 70-75 people, second cycle starts"
+  },
+  {
+   "id": 648,
+   "kind": "announcement",
+   "gist": "Poll for leaders two months in: which tasks are hardest (own stability, team state, retention, strategy, relocation, finance, clients); 355 votes"
+  },
+  {
+   "id": 649,
+   "kind": "logistics",
+   "gist": "Link to comparison of this poll with the same poll two months earlier"
+  },
+  {
+   "id": 650,
+   "kind": "announcement",
+   "gist": "Launch of deep dive podcast; episode 1 with Belarusian entrepreneur and a psychotherapist on lessons from Belarusians for Russians abroad: national feelings, emigration, identity"
+  },
+  {
+   "id": 654,
+   "kind": "promo",
+   "gist": "Teaser linking to a Medium article on results of working during intensive meditation retreat (Workapassana)"
+  },
+  {
+   "id": 655,
+   "kind": "announcement",
+   "gist": "Announcing deep mind Mastermind groups launching in May, aimed at warm non-functional relationships that still lead to goals"
+  },
+  {
+   "id": 661,
+   "kind": "announcement",
+   "gist": "Deep mind turns 3; gift of a sleep mindfulness practice recorded in a night forest; asks for feedback"
+  },
+  {
+   "id": 663,
+   "kind": "promo",
+   "gist": "Promo of community member Dima Solovyev's 137-note Medium mini-book on vipassana retreat, meditation methods and mindfulness in research work"
+  },
+  {
+   "id": 667,
+   "kind": "other",
+   "gist": "Image only: a16z slide on DAOs vs traditional companies (tight/loose, hierarchical/grassroots, transparent, open)"
+  },
+  {
+   "id": 670,
+   "kind": "announcement",
+   "gist": "Announcement: deep mind column on mental health at RBC-pro, with link to article on psychological resilience"
+  },
+  {
+   "id": 674,
+   "kind": "announcement",
+   "gist": "Invitation to a live conversation with Filipp Guzenyuk today at 16:00, recording link added"
+  },
+  {
+   "id": 677,
+   "kind": "personal-update",
+   "gist": "Max Timofeev on the podcast 'Budet sdelano': personal episode on meditation, therapy, relationships and psychedelics"
+  },
+  {
+   "id": 678,
+   "kind": "announcement",
+   "gist": "Announcing Theory U Global Forum 2022; free promo code Uhub22 for a month of access; deep mind story in the Audio Garden"
+  },
+  {
+   "id": 679,
+   "kind": "announcement",
+   "gist": "DM statement image: war and violence are a crime, politics is everyone's responsibility, we must heal from aggression together"
+  },
+  {
+   "id": 680,
+   "kind": "promo",
+   "gist": "Link to Bubble article on mindfulness for productivity and mistakes of introducing it to teams"
+  },
+  {
+   "id": 683,
+   "kind": "announcement",
+   "gist": "Deep Dive podcast ep 3 with Adel Shadrina (Yandex Practicum) on mindful, human-centered leadership and building human-centered culture"
+  },
+  {
+   "id": 685,
+   "kind": "promo",
+   "gist": "Promo of article by Ilya Grigoryan on 5 features of community as a product, from deep mind's community experience"
+  },
+  {
+   "id": 686,
+   "kind": "announcement",
+   "gist": "Digest of 22 most important channel posts since the start of the year with links"
+  },
+  {
+   "id": 689,
+   "kind": "announcement",
+   "gist": "Announcing Deep mind Leadership Day conference on 26 July with speaker list and tickets"
+  },
+  {
+   "id": 692,
+   "kind": "promo",
+   "gist": "Profile of Buddhist monk Lobsang Tenpa and his contributions; invitation to his lecture at Leadership Day"
+  },
+  {
+   "id": 694,
+   "kind": "announcement",
+   "gist": "Profile of Maxim Spiridonov (ex-Netologia CEO, mentor of Deep mind) as a speaker on love, creativity and mentoring in business at the leadership conference"
+  },
+  {
+   "id": 696,
+   "kind": "announcement",
+   "gist": "Invitation to an open online community meetup on new leadership with listed speakers, tomorrow 10:30 MSK"
+  },
+  {
+   "id": 705,
+   "kind": "logistics",
+   "gist": "Release of three new meditation practices on Soundcloud: 15-min state check, 48-min concentration and metta, 22-min sleep practice"
+  },
+  {
+   "id": 707,
+   "kind": "announcement",
+   "gist": "Recording of a community talk with playwright Ivan Vyrypaev and a call to support his Teal House arts project in Poland"
+  },
+  {
+   "id": 708,
+   "kind": "announcement",
+   "gist": "Announcement of a talk on community-building at Epic Growth, with deep mind's 4-point community approach (mission-driven, hand-picked members, safe open atmosphere, community as product)"
+  },
+  {
+   "id": 711,
+   "kind": "promo",
+   "gist": "Shares a 2.5-hour candid podcast with Mark Develman about communication, relationships and life purpose, contrasting pleasure-maximizing with the author's values"
+  },
+  {
+   "id": 712,
+   "kind": "announcement",
+   "gist": "Launch of the Emotional Balance program for nervous-system regulation (pilot of 20 rated 9-10), plus invitation to a talk with trauma therapist Daria Kravchenko"
+  },
+  {
+   "id": 717,
+   "kind": "announcement",
+   "gist": "Shares a 60-min conference lecture by Lobsang Tenpa on leadership in Tibetan Buddhist contemplative practice (ethics as basis of leadership)"
+  },
+  {
+   "id": 718,
+   "kind": "announcement",
+   "gist": "Poll asking subscribers which content they want most in the new season"
+  },
+  {
+   "id": 721,
+   "kind": "announcement",
+   "gist": "Part 2 of the business update: main community still unprofitable but invested in, revenue up 32% year over year, problems with focus and scale, thanks for support"
+  },
+  {
+   "id": 723,
+   "kind": "announcement",
+   "gist": "Shares Maxim Spiridonov's hour-long talk on love, creativity and mentoring as drivers of successful business, arguing for values over cynical hardness"
+  },
+  {
+   "id": 725,
+   "kind": "other",
+   "gist": "Infographic image on the main current people-management challenges: who and where we are, how teams stay connected, how people feel"
+  },
+  {
+   "id": 726,
+   "kind": "promo",
+   "gist": "Digest of fresh content: podcasts, trauma-witness interview, community onboarding article, and a 7-min EFT Tapping practice"
+  },
+  {
+   "id": 729,
+   "kind": "personal-update",
+   "gist": "Personal reflection on leaving government service 5 years ago and hope that the current regime will fall"
+  },
+  {
+   "id": 732,
+   "kind": "announcement",
+   "gist": "Announces an ultimate step-by-step guide for leaders on supporting teams in crisis, compiled from community leaders' experience plus neurophysiology"
+  },
+  {
+   "id": 734,
+   "kind": "personal-update",
+   "gist": "Personal update from Tbilisi with the author's five principles on the war, accountability and complicity"
+  },
+  {
+   "id": 735,
+   "kind": "promo",
+   "gist": "Menu of support formats after mobilization: Tbilisi in-person circle, Emotional Balance discount, team workshops, community, media help"
+  },
+  {
+   "id": 742,
+   "kind": "promo",
+   "gist": "Recommends community member Ekaterina Irtikeeva's book 'Organic Leadership' on vertical leadership development and paradigms of thinking"
+  },
+  {
+   "id": 756,
+   "kind": "announcement",
+   "gist": "Deep dive podcast episode with Olga Vasilieva (CEO of Scandinavia clinics, ex-McKinsey): mental health, societal change, authenticity for leaders"
+  },
+  {
+   "id": 760,
+   "kind": "announcement",
+   "gist": "Announcement of a meeting/recording on motivation and team atmosphere with Alexandra Fomina on the Yasno platform"
+  },
+  {
+   "id": 763,
+   "kind": "logistics",
+   "gist": "Back Friday discounts on Emotional Balance (8,000 RUB), Less stress team program (-20%), community (45,000 RUB) until Dec 1"
+  },
+  {
+   "id": 765,
+   "kind": "announcement",
+   "gist": "Re-feel podcast episode on leaders' and teams' state with Eggsellent founders, Yandex HR director and Max Rodin"
+  },
+  {
+   "id": 775,
+   "kind": "announcement",
+   "gist": "Poll on how readers feel at year end (714 votes)"
+  },
+  {
+   "id": 779,
+   "kind": "announcement",
+   "gist": "Year-end digest of best deep mind 2022 posts, meditations, podcasts and talks, grouped as do/read/listen"
+  },
+  {
+   "id": 781,
+   "kind": "promo",
+   "gist": "Kommersant article by deep mind analyzing global trend of uncertainty and psychological pressure, based on UN human development report"
+  },
+  {
+   "id": 782,
+   "kind": "promo",
+   "gist": "Podcast with Oleg Zamyshlyaev (Future learning) on current company challenges in people management and how to address them"
+  },
+  {
+   "id": 783,
+   "kind": "announcement",
+   "gist": "Describes deep mind community (150 cap) built on psychological safety and non-judging attention, invites to interviews, quarterly access launched"
+  },
+  {
+   "id": 789,
+   "kind": "logistics",
+   "gist": "Repeat announcement of small people-management leaders group in January 2023; registration closed"
+  },
+  {
+   "id": 793,
+   "kind": "announcement",
+   "gist": "Deep dive podcast ep. 5: 40-min interview with Lobsang Tenpa on the crisis of mindfulness, Buddhism and love"
+  },
+  {
+   "id": 794,
+   "kind": "logistics",
+   "gist": "Deep mind news: restructuring, hiring a personal assistant for the founder, link to Richard Davidson meeting on 9 Feb"
+  },
+  {
+   "id": 796,
+   "kind": "logistics",
+   "gist": "How to help Turkey and Syria after the earthquake: list of donation funds (UNICEF, AFAD, AKUT, Kizilay)"
+  },
+  {
+   "id": 807,
+   "kind": "announcement",
+   "gist": "Announces deep dive podcast episode 6 with Yandex HR director Dasha Zolotukhina on meaning, humane big business and changing company culture"
+  },
+  {
+   "id": 808,
+   "kind": "announcement",
+   "gist": "Announces second April masterheart group for leaders with Max Rodin and Olya Sokolova: paid, online, 2 hours, case solving"
+  },
+  {
+   "id": 810,
+   "kind": "logistics",
+   "gist": "Reminder that enrollment for the April masterheart group is almost closed; waiting list available"
+  },
+  {
+   "id": 818,
+   "kind": "announcement",
+   "gist": "Describes community trigger-topics track starting with God and religion (spiritual intelligence) plus the April event schedule poster"
+  },
+  {
+   "id": 825,
+   "kind": "announcement",
+   "gist": "Recap of community lecture by Lutheran priest Pavel Levushkan on turquoise religion of the 22nd century, an integral and spiral-dynamics view of Christianity"
+  },
+  {
+   "id": 827,
+   "kind": "announcement",
+   "gist": "Asks audience for ideas how to create support and healing around 9 May amid war and collective trauma"
+  },
+  {
+   "id": 829,
+   "kind": "promo",
+   "gist": "Shares a Telegram folder of 8 friend channels on psychology and mindfulness, with orientation links for newcomers"
+  },
+  {
+   "id": 833,
+   "kind": "personal-update",
+   "gist": "Story of meeting a Theravada monk in a Himalayan cave during solo retreat, with his view that ignorance of interdependence causes violence"
+  },
+  {
+   "id": 834,
+   "kind": "logistics",
+   "gist": "Announces 200 discounted or free Emotional Balance program accesses for LGBTQ+ people and Belarusian psychologists via donations, with price and sign-up steps"
+  },
+  {
+   "id": 843,
+   "kind": "announcement",
+   "gist": "Announcement and recording of open talk with Elena Skorobogataya on leadership in current conditions (leadership, teams, management in war, leader education)"
+  },
+  {
+   "id": 847,
+   "kind": "announcement",
+   "gist": "Promo for Masterheart 3, a leaders' supervision/lab group (Theory U based) with waiting list"
+  },
+  {
+   "id": 849,
+   "kind": "announcement",
+   "gist": "Announcement and audio recording of open talk with Igor Budnikov on retreats: why go, preparation, when not to, integration"
+  },
+  {
+   "id": 856,
+   "kind": "announcement",
+   "gist": "Promo for third Masterheart leaders' group with Olya Sokolova; registration closed, waitlist for next"
+  },
+  {
+   "id": 858,
+   "kind": "logistics",
+   "gist": "Request for intros to wellbeing/culture leads at big companies and interviewees for a July research on corporate culture and employee wellbeing"
+  },
+  {
+   "id": 861,
+   "kind": "announcement",
+   "gist": "Digest of best deep mind posts, talks and projects from first half of 2023, grouped by category"
+  },
+  {
+   "id": 863,
+   "kind": "announcement",
+   "gist": "Deep dive podcast 7: conversation with Viktor Shiryaev on mindfulness, meta-skills, integral approach, crises, war and activism"
+  },
+  {
+   "id": 864,
+   "kind": "personal-update",
+   "gist": "Short personal reflection on remembering death and impermanence, prompted by rain and mountains"
+  },
+  {
+   "id": 866,
+   "kind": "promo",
+   "gist": "Pitch for deep mind community: what members co-create (agenda, safe space, growth without harm, support, microcosm of new society)"
+  },
+  {
+   "id": 868,
+   "kind": "announcement",
+   "gist": "Invitation to a paid English breathwork workshop with Santiago Ramirez (HIVE BIO), 31 July, $32, 20 seats"
+  },
+  {
+   "id": 871,
+   "kind": "promo",
+   "gist": "Shares an old long interview with Max Timofeev and Daria Kravchenko (by Dima Soloviev) containing a blueprint of personal and organizational evolution; link to read"
+  },
+  {
+   "id": 872,
+   "kind": "announcement",
+   "gist": "Announcement of the next Masterheart leaders group in September, combining intervision and Theory U, plus a plug for Olya Sokolova's channel"
+  },
+  {
+   "id": 874,
+   "kind": "announcement",
+   "gist": "Announces a separate personal channel (MaxRodin[Onlyfans]) for more radical posts, while deep mind shifts toward a hub for mindfulness and new leadership"
+  },
+  {
+   "id": 881,
+   "kind": "promo",
+   "gist": "Releases a pocket guide 'Working with groups in the modern era' with trauma-informed and ethics recommendations for facilitators, made with DWE Consulting"
+  },
+  {
+   "id": 882,
+   "kind": "personal-update",
+   "gist": "Forwarded from MaxRodin[Onlyfans]: Sundae Kids comic image 'Maybe you just need a hug'"
+  },
+  {
+   "id": 891,
+   "kind": "announcement",
+   "gist": "Announcement of a live talk Max Rodin x Dmitry Shamenkov on emigration as a path to growth, 5 Sept 18:00"
+  },
+  {
+   "id": 893,
+   "kind": "announcement",
+   "gist": "Releases a free 7-min audio guide of the 'I/Me/Mine' mindfulness practice for intense emotions and softening egoism"
+  },
+  {
+   "id": 894,
+   "kind": "announcement",
+   "gist": "Call for a non-professional investor to close deep mind's first round ($50-80k), with traction figures and Aon wellbeing market data; updated that the round is closed"
+  },
+  {
+   "id": 903,
+   "kind": "announcement",
+   "gist": "Podcast episode with Dmitry Shamenkov on emigration (challenges, non-attachment, losing oneself, cultural integration) with timestamps and links"
+  },
+  {
+   "id": 908,
+   "kind": "announcement",
+   "gist": "Announcement of a live talk Max Rodin x Anya Bichevskaya on restarting after loss and finding new identity, 19 Sept, with recording link"
+  },
+  {
+   "id": 915,
+   "kind": "logistics",
+   "gist": "Hiring announcement for two deep mind roles: B2B Program Manager and Creative Marketing Manager"
+  },
+  {
+   "id": 920,
+   "kind": "announcement",
+   "gist": "Announcement of Masterheart leaders group on 5 November with Alina Chichina, a support format based on Theory U practices"
+  },
+  {
+   "id": 926,
+   "kind": "announcement",
+   "gist": "Digest of best channel posts of recent months grouped by practices, professional topics and watch/listen"
+  },
+  {
+   "id": 927,
+   "kind": "announcement",
+   "gist": "Announcement of live talk on neurofeedback with Anton Ivanov of Neiry (12.10, 18:00); recording link added"
+  },
+  {
+   "id": 933,
+   "kind": "announcement",
+   "gist": "Announcement of live talk with Alexandra Vilvovskaya on Israel, body, collective trauma and post-traumatic growth (19.10, 18:30); recording link added"
+  },
+  {
+   "id": 940,
+   "kind": "announcement",
+   "gist": "Podcast episode with activist Artem Temirov (Kooperativ Chorny) on purposeful entrepreneurship, crises, emigration and activism"
+  },
+  {
+   "id": 947,
+   "kind": "announcement",
+   "gist": "Author's winter retreat plans: Vajrayana teachings in Vietnam, Theravada retreat near Bangkok, planned Bali retreat in February"
+  },
+  {
+   "id": 953,
+   "kind": "announcement",
+   "gist": "Release of an 8-minute Morning inspiration practice, an analytic and conative meditation based on Theory U for setting daily intention; suggests doing it daily for a month"
+  },
+  {
+   "id": 962,
+   "kind": "promo",
+   "gist": "Roundup of a year of the Deep Dive podcast with episode links: guests Olya Sokolova, Lobsang Tenpa, Dasha Zolotukhina, Viktor Shiryaev, Dmitry Shamenkov, Artem Temirov"
+  },
+  {
+   "id": 965,
+   "kind": "other",
+   "gist": "Photo only of an MCT oil and ghee jar with a down-arrow, no text"
+  },
+  {
+   "id": 972,
+   "kind": "announcement",
+   "gist": "Announcement of a live stream on Dec 20, 17:00 MSK about AI in mental health with Tanya Savelyeva and Rishat Iskhakov, with recording link added"
+  },
+  {
+   "id": 978,
+   "kind": "personal-update",
+   "gist": "Year-end note skipping a recap: thanks to readers, and the view that peace comes from love and compassion, not tech optimism, so inner work matters most"
+  },
+  {
+   "id": 980,
+   "kind": "promo",
+   "gist": "List of podcasts where Max appeared as guest (Make Sence, Chuzhie grabli, Slerm) on human-centric companies, values and spiral dynamics"
+  },
+  {
+   "id": 981,
+   "kind": "personal-update",
+   "gist": "Personal diary note linking to a Medium article on aligning outer life with inner values after five years of ceasing to postpone"
+  },
+  {
+   "id": 985,
+   "kind": "announcement",
+   "gist": "Digest of best recent channel posts grouped by personal development, practices, and watch/listen, plus bonus posts from Max Rodin's second channel"
+  },
+  {
+   "id": 989,
+   "kind": "promo",
+   "gist": "Promo for a start-of-year team workshop 'Ритмы и сезоны' using body practices and facilitated reflection to align team rhythms with shared goals"
+  },
+  {
+   "id": 994,
+   "kind": "announcement",
+   "gist": "Announcement of a live stream with Alexander Malakhov on why the consciousness revolution (Esalen, New Age, transpersonal projects) fell short, with recording link"
+  },
+  {
+   "id": 997,
+   "kind": "logistics",
+   "gist": "Job posting: remote full-time personal assistant and team support for deep mind (now closed)"
+  },
+  {
+   "id": 999,
+   "kind": "announcement",
+   "gist": "Scam warning: fraudsters impersonate deep mind offering prepaid consultation discounts; verify via contacts in channel bio"
+  },
+  {
+   "id": 1000,
+   "kind": "other",
+   "gist": "Screenshot of the scam message impersonating the founder offering a discounted online consultation"
+  },
+  {
+   "id": 1001,
+   "kind": "logistics",
+   "gist": "Founder's 2024 travel schedule (Bali, Dharamsala, Boulder, NYC, San Francisco, Peru/Mexico, Bangkok) and invitation to meet in person via a form"
+  },
+  {
+   "id": 1003,
+   "kind": "personal-update",
+   "gist": "Personal essay after Navalny's death likening Russia to a family with a terminally ill adult; end of 'political childhood' means Russian speakers must take adult responsibility"
+  },
+  {
+   "id": 1004,
+   "kind": "announcement",
+   "gist": "Announcement that deep mind raised $200k in first investment (Rusbase), with founder's reflections on the journey and thanks"
+  },
+  {
+   "id": 1007,
+   "kind": "announcement",
+   "gist": "Forwarded from The Future Of Work: announcement of a Feb 25 live stream with Max Rodin about the deep mind investment and wellbeing business in Russia"
+  },
+  {
+   "id": 1009,
+   "kind": "promo",
+   "gist": "Offer of free 30-minute intro calls with founders and team leads to build deep mind's partner network, citing Stanford and Google research on team dynamics"
+  },
+  {
+   "id": 1016,
+   "kind": "promo",
+   "gist": "Article for Cuprum medical media on psychological trauma for doctors and anyone working with people; lists contents and link"
+  },
+  {
+   "id": 1017,
+   "kind": "logistics",
+   "gist": "Condolence post after Moscow tragedy with links to free crisis psychologist help and an EFT+EMDR practice"
+  },
+  {
+   "id": 1025,
+   "kind": "personal-update",
+   "gist": "Forwarded personal account of meeting the Dalai Lama while sick with an Indian infection, humorous reflection on reality vs expectations"
+  },
+  {
+   "id": 1026,
+   "kind": "other",
+   "gist": "Infographic of the components of resilience: mindfulness, self-regulation, adaptability, goal orientation and optimism, resources and support"
+  },
+  {
+   "id": 1038,
+   "kind": "announcement",
+   "gist": "Channel orientation post: founder Max Rodin introduces deep mind, its programs, track record and a list of key intro texts, video and audio links"
+  },
+  {
+   "id": 1041,
+   "kind": "personal-update",
+   "gist": "Travel update: leaving India for New York and Boulder, partner studying at Naropa, plans to network and find partnerships"
+  },
+  {
+   "id": 1045,
+   "kind": "announcement",
+   "gist": "Report on Product Camp panel about developing soft skills, with centering and anchoring practices done live"
+  },
+  {
+   "id": 1053,
+   "kind": "announcement",
+   "gist": "Announces Max Rodin's big Tinkoff Business Secrets interview on deep mind's corporate programs, the $200k raise and plans"
+  },
+  {
+   "id": 1056,
+   "kind": "announcement",
+   "gist": "Workshop announcement: managing teams through change, 23.05 18:30 MSK, 10,000 RUB, based on 20 studies"
+  },
+  {
+   "id": 1063,
+   "kind": "other",
+   "gist": "Photo of Boulder bookstore event poster featuring Ken Wilber, no text content"
+  },
+  {
+   "id": 1067,
+   "kind": "other",
+   "gist": "Photo of bookstore Fiction shelf sign, no meaningful text"
+  },
+  {
+   "id": 1068,
+   "kind": "personal-update",
+   "gist": "Max's personal reflection on deep mind's mission after investor feedback: authentic health and meaningful life, reconnecting with purpose amid business challenges"
+  },
+  {
+   "id": 1071,
+   "kind": "announcement",
+   "gist": "Announces a joint review 'Mindfulness Revolution: results of the first wave' with Maria Sharapan, on vc.ru, 12 min read"
+  },
+  {
+   "id": 1073,
+   "kind": "promo",
+   "gist": "Links to two podcast appearances: meta-skills for adapting in times of change, and body/embodiment in emotional intelligence"
+  },
+  {
+   "id": 1075,
+   "kind": "promo",
+   "gist": "Forwarded Dasha's digest of posts worth rereading on leadership, creativity, meta-skills and AI, with links"
+  },
+  {
+   "id": 1076,
+   "kind": "promo",
+   "gist": "Overview of deep mind's workshop topics: mindfulness, stress reduction via polyvagal theory, resilience, goals and rhythms, self-compassion, human-centered teams"
+  },
+  {
+   "id": 1078,
+   "kind": "other",
+   "gist": "Image card with text 'Get well, better.'"
+  },
+  {
+   "id": 1080,
+   "kind": "personal-update",
+   "gist": "Personal essay on constant relocation, seeking freedom to be human, and refusing to stay silent about patriarchy and hierarchies"
+  },
+  {
+   "id": 1081,
+   "kind": "logistics",
+   "gist": "Update: Max's LinkedIn and expanded list of cities for in-person meetups (San Francisco, Peru, Mexico)"
+  },
+  {
+   "id": 1082,
+   "kind": "personal-update",
+   "gist": "Obituary-style note on Arnold Mindell, founder of process-oriented psychotherapy, and Max's personal experience with it"
+  },
+  {
+   "id": 1083,
+   "kind": "logistics",
+   "gist": "Hiring call for trainers and facilitators at deep mind, with selection criteria and application form"
+  },
+  {
+   "id": 1084,
+   "kind": "announcement",
+   "gist": "Poll on how often followers practice meditation or other development practices (740 votes)"
+  },
+  {
+   "id": 1087,
+   "kind": "personal-update",
+   "gist": "Personal story of skipping a flight to Colorado to see Ken Wilber's book presentation, while a friend attended instead"
+  },
+  {
+   "id": 1090,
+   "kind": "personal-update",
+   "gist": "Observation on self-employed 'infobusiness' culture of selling oneself and Max's discomfort with it; no practical framework"
+  },
+  {
+   "id": 1092,
+   "kind": "announcement",
+   "gist": "Announcement of live stream on 26 June with Avito's Anastasia Chertovskikh about employee development"
+  },
+  {
+   "id": 1096,
+   "kind": "other",
+   "gist": "Image card for mental clarity recommendations podcast"
+  },
+  {
+   "id": 1097,
+   "kind": "announcement",
+   "gist": "22-minute podcast on maintaining mental clarity, announced with a call for feedback; audio content not in text"
+  },
+  {
+   "id": 1098,
+   "kind": "announcement",
+   "gist": "Asks audience about subtle non-practical struggles after emigrating (loneliness, locals, accepting difference) and floats a meetup with a PhD in intercultural communication on the science of immigration"
+  },
+  {
+   "id": 1099,
+   "kind": "announcement",
+   "gist": "Poll to choose the next podcast topic (privilege and power, psychedelic therapy, AI-era leadership, supporting teams under load)"
+  },
+  {
+   "id": 1102,
+   "kind": "personal-update",
+   "gist": "Describes how he writes only from desire to create (two scenarios), and announces an event idea about integrating the last 2.5 years of war and emigration and the community's identity"
+  },
+  {
+   "id": 1104,
+   "kind": "other",
+   "gist": "Chart image of stress-load stage distribution by whole company, top management, HR and finance from a real company measurement"
+  },
+  {
+   "id": 1107,
+   "kind": "logistics",
+   "gist": "Announcement and registration details for a 23 July online workshop on scientific, mindfulness-based adaptation to a new country (3500 RUB early, 5000 RUB later)"
+  },
+  {
+   "id": 1109,
+   "kind": "announcement",
+   "gist": "Poll on how engaged readers currently are in online activities (streams, meetings, learning, communities)"
+  },
+  {
+   "id": 1110,
+   "kind": "announcement",
+   "gist": "Announces panel discussion on capitalism, technology and work with Volnov, Gershuni and Malakhov, moderated by Max, with recording link"
+  },
+  {
+   "id": 1111,
+   "kind": "other",
+   "gist": "Screenshot of an in-flight entertainment screen showing a mindfulness stress-support app"
+  },
+  {
+   "id": 1119,
+   "kind": "promo",
+   "gist": "Promotes a 9-minute YouTube video on how leaders can support their teams scientifically, with consultation contact"
+  },
+  {
+   "id": 1124,
+   "kind": "promo",
+   "gist": "Shares his note for the 'Dikiye' outdoor guidebook (travel tips, nature lowers cortisol per studies) and promotes the guidebook"
+  },
+  {
+   "id": 1125,
+   "kind": "other",
+   "gist": "Cover image for the podcast episode 'Why there is so much stress: a systemic view'"
+  },
+  {
+   "id": 1126,
+   "kind": "announcement",
+   "gist": "Podcast episode on systemic causes of stress: technological, political, corporate and individual factors"
+  },
+  {
+   "id": 1127,
+   "kind": "promo",
+   "gist": "Offers a free stress-load questionnaire with interpretation and recommendations, with a participant testimonial"
+  },
+  {
+   "id": 1133,
+   "kind": "other",
+   "gist": "Photo album from San Francisco and Silicon Valley without descriptive text (street signs, Stanford church, meditation flyer)"
+  },
+  {
+   "id": 1142,
+   "kind": "personal-update",
+   "gist": "Satirical travelogue of San Francisco and Silicon Valley: cyberpunk future, homelessness, money and startups, AI boom, emigrant stories, politics, Russians; link to full text"
+  },
+  {
+   "id": 1146,
+   "kind": "promo",
+   "gist": "Pointers to two podcast guest appearances (TalkAuthentic on feeling stupid and learning; Humanity with Anya Bichevskaya on emotional labor, crisis, deep mind)"
+  },
+  {
+   "id": 1150,
+   "kind": "announcement",
+   "gist": "Video announcement: 4 meta-skills for thriving in an era of change (9 min), meta-skills defined as durable universal learning and adaptation competencies"
+  },
+  {
+   "id": 1152,
+   "kind": "personal-update",
+   "gist": "Travel diary from Boulder: the contemplative-community ecosystem (Naropa, Trungpa lineage, Crestone retreats) and the author's observations of the local culture"
+  },
+  {
+   "id": 1153,
+   "kind": "announcement",
+   "gist": "Podcast episode with Daria Kravchenko on psychedelic-assisted therapy: overview, what the work looks like for client and therapist, PTSD, stigma history, difference from shamanic ceremonies"
+  },
+  {
+   "id": 1154,
+   "kind": "announcement",
+   "gist": "Announcement of open co-sensing community call (Theory U group practice) on 19.09 19:00 MSK with registration via bot"
+  },
+  {
+   "id": 1161,
+   "kind": "announcement",
+   "gist": "Last call for the co-sensing event (400 registered) with a carousel on why group work with Theory U matters"
+  },
+  {
+   "id": 1175,
+   "kind": "other",
+   "gist": "Photo of a bookshelf of spiritual and psychedelic literature with no text of its own"
+  },
+  {
+   "id": 1179,
+   "kind": "personal-update",
+   "gist": "In-memoriam note for Holger Markin-Dick, Naranjo-lineage teacher of the Hoffman Process in Russian, with a recollection of a last meeting"
+  },
+  {
+   "id": 1182,
+   "kind": "other",
+   "gist": "Photo of Shambhala Center sign"
+  },
+  {
+   "id": 1186,
+   "kind": "promo",
+   "gist": "Promotes the Emotional Balance neuro-practice tools-kit with new basic embodiment set for nervous system dysregulation; lists symptoms, lifetime subscription"
+  },
+  {
+   "id": 1187,
+   "kind": "announcement",
+   "gist": "Audio address from Max about the project's crisis, its lessons and the next chapter for deep mind"
+  },
+  {
+   "id": 1188,
+   "kind": "announcement",
+   "gist": "Launch of Resonance, 6-week online group program on future-based leadership (Theory U), starting 3 Nov, early birds until 14 Oct"
+  },
+  {
+   "id": 1192,
+   "kind": "announcement",
+   "gist": "News board: California community chat for November offline meetups, Daria Kravchenko offering psychedelic preparation/integration therapy, a recommendation for Anya Bichevskaya seeking a project."
+  },
+  {
+   "id": 1194,
+   "kind": "announcement",
+   "gist": "Podcast episode 16 (25 min) on Theory U by Otto Scharmer: change process at personal, group and organizational level, sensing the future via intuition and collective intelligence."
+  },
+  {
+   "id": 1196,
+   "kind": "announcement",
+   "gist": "Digest of the channel's main posts of the last two months, grouped by topic (psychedelic therapy, tantra, stress, USA notes, etc.)."
+  },
+  {
+   "id": 1199,
+   "kind": "logistics",
+   "gist": "Invitation to open deep listening workshop on Oct 17 (Theory U Empathy Walk by Ed Schein, pair practice), with benefits of deep listening, format, zoom/calendar links and suggested donation."
+  },
+  {
+   "id": 1200,
+   "kind": "other",
+   "gist": "Photo album opener on Naropa University's 50th anniversary (history slides and lojong mind-training chart), no text from the author."
+  },
+  {
+   "id": 1214,
+   "kind": "personal-update",
+   "gist": "Personal reflection after an open deep listening practice: life is not a problem (Bruce Tift, Already Free), openness in an unregistered 60-person practice, and why warm people gather around deep mind."
+  },
+  {
+   "id": 1215,
+   "kind": "announcement",
+   "gist": "Max Rodin's guest appearance on the Recruiter's Code podcast about companies and teams in an era of global fatigue, assessing fatigue, and one employee's stress affecting team results."
+  },
+  {
+   "id": 1220,
+   "kind": "announcement",
+   "gist": "Podcast episode 17 with Lena Volkovskaya (CROC marketing director) on leadership, team development, meaning at work, adopting practices, freediving and emotion management."
+  },
+  {
+   "id": 1221,
+   "kind": "announcement",
+   "gist": "Podcast episode on the power of presence: transpersonal experience and integration, Resonance space, Theory U, leadership from the future, with timecodes and Nov 3 join deadline."
+  },
+  {
+   "id": 1222,
+   "kind": "promo",
+   "gist": "Intro to a forwarded testimonial by Anastasia Grigorieva about her change path after a deep mind retreat four years ago."
+  },
+  {
+   "id": 1223,
+   "kind": "promo",
+   "gist": "Forwarded from Anastasia Grigorieva: how Max Rodin's retreat (Theory U, business with meaning, non-judgmental support) changed her career, ending with a recommendation of the Resonance program starting Nov 3."
+  },
+  {
+   "id": 1225,
+   "kind": "personal-update",
+   "gist": "Personal musical post sharing fresh young Belarusian/Ukrainian/Russian pop artists as a playful practice of contact with the anima and with passing time."
+  },
+  {
+   "id": 1226,
+   "kind": "announcement",
+   "gist": "Last call for the Resonance group process starting Nov 3 (first meeting Nov 7): group composition, diversity, and participants' common challenges (emigration, leaving corporations, team burnout, rethinking role)."
+  },
+  {
+   "id": 1228,
+   "kind": "announcement",
+   "gist": "News board: team in San Francisco until December, Resonance enrollment closed with waiting list, 5 sponsored social places (minimum package 400 usd, group of ~30) and a note on inclusivity."
+  },
+  {
+   "id": 1235,
+   "kind": "promo",
+   "gist": "Forwarded from SETTERS Media: teaser that company success depends on employees' inner state, linking an article on four psychological meta-skills"
+  },
+  {
+   "id": 1237,
+   "kind": "personal-update",
+   "gist": "Personal story from San Francisco/Stanford: deep mind's reinvention (Resonance launch, corporate work on request only, psychedelic wellness group) and Theory U as embracing the 'flight' of not-knowing"
+  },
+  {
+   "id": 1240,
+   "kind": "promo",
+   "gist": "Curated list of adult-education programs for worldview and soft-skill transformation: Authentic Communication, Creative Leadership (SETTERS), Resonance"
+  },
+  {
+   "id": 1241,
+   "kind": "promo",
+   "gist": "Offer of corporate year-end workshops (patterns, 'Rhythms and Time') based on embodiment and mindfulness, with Qiwi example; contact to book"
+  },
+  {
+   "id": 1254,
+   "kind": "announcement",
+   "gist": "Poll on ability to handle deep, long formats (reading, reflection) in recent years; 536 votes"
+  },
+  {
+   "id": 1257,
+   "kind": "promo",
+   "gist": "Author's book selection for Litres, tied to the reading poll; encourages slow content and asks for suggestions; link with discount"
+  },
+  {
+   "id": 1259,
+   "kind": "announcement",
+   "gist": "Enrollment announcement for the February 2025 Resonance 6-week Theory U program, target audience and special terms until year end"
+  },
+  {
+   "id": 1262,
+   "kind": "announcement",
+   "gist": "Shares open-access 60-min video on navigating transformational periods (causes, features, support), recorded at the Izionisty community, with resource links"
+  },
+  {
+   "id": 1264,
+   "kind": "logistics",
+   "gist": "Job posting for a remote full-time creative producer / marketer at deep mind"
+  },
+  {
+   "id": 1267,
+   "kind": "logistics",
+   "gist": "New Year roundup: charity food drive via Dari Edu, free YearCompass planner for yearly reflection, and last early-bird prices for Resonance"
+  },
+  {
+   "id": 1268,
+   "kind": "personal-update",
+   "gist": "Year-end personal message: no personal greetings this year, war lament, January meditation retreat tradition"
+  },
+  {
+   "id": 1269,
+   "kind": "promo",
+   "gist": "Roundup of the best deep mind podcasts of 2024 (Theory U, psychedelic therapy, stress, mental clarity) as holiday listening"
+  },
+  {
+   "id": 1275,
+   "kind": "announcement",
+   "gist": "Maxim's reflection on deep mind's 6-year path and 2025 direction: less corporate, focus on Resonance and psychedelic therapy, community activation"
+  },
+  {
+   "id": 1276,
+   "kind": "personal-update",
+   "gist": "Obituary for David Lynch: his films and his promotion of Transcendental Meditation via the David Lynch Foundation, with balanced critique of TM"
+  },
+  {
+   "id": 1283,
+   "kind": "promo",
+   "gist": "Pointer to Rating Runeta's 2025 trends overview (AI, culture, crypto, leadership transformation, meaning work) with Maxim as contributor"
+  },
+  {
+   "id": 1285,
+   "kind": "announcement",
+   "gist": "Announces RBC Pro article on practices for new leadership in unpredictable world, co-authored with Elena Stupina; summary of 4 practices linked"
+  },
+  {
+   "id": 1287,
+   "kind": "announcement",
+   "gist": "Enrollment announcement for Resonance 2.0, a Theory U based group process on presence-based leadership; sold out, waiting list"
+  },
+  {
+   "id": 1293,
+   "kind": "logistics",
+   "gist": "Invitation to open co-sensing session on Feb 23 with Olya Gurova and Max Rodin, online, donation-based, registration via bot"
+  },
+  {
+   "id": 1295,
+   "kind": "announcement",
+   "gist": "Q&A on Resonance, the 8-week Theory U group process: why it is a space not a program, no prior practice needed, daily practice plus 2 group meetings weekly, why the price; early bird ends tomorrow"
+  },
+  {
+   "id": 1298,
+   "kind": "announcement",
+   "gist": "News digest: open co-sensing practice (Theory U) this Sunday, Bali community chat, social (reduced/free) places on Resonance, apply by 2 March"
+  },
+  {
+   "id": 1320,
+   "kind": "announcement",
+   "gist": "Last call for Resonance second group process starting Sunday: activating circles, participant profile, Theory U; update says sold out, waiting list open"
+  },
+  {
+   "id": 1321,
+   "kind": "personal-update",
+   "gist": "Story of a night in a teepee ceremony in Colorado where a Russian-language song was sung by a Latvian-rooted woman; reflection on transpersonal moments, with an audio track"
+  },
+  {
+   "id": 1324,
+   "kind": "promo",
+   "gist": "Pitch for Resonance activating circles as spaces to drop masks and practice presence, citing Boyatzis on resonant leadership; sold out, with links to related materials"
+  },
+  {
+   "id": 1329,
+   "kind": "announcement",
+   "gist": "Poll on the next text topic: Fromm, Byung-Chul Han, Holecek on death, social location, about me, about deep mind (471 votes)"
+  },
+  {
+   "id": 1338,
+   "kind": "promo",
+   "gist": "Directory of podcasts and videos where deep mind founder was a guest, plus topics he would like to be invited to discuss"
+  },
+  {
+   "id": 1340,
+   "kind": "logistics",
+   "gist": "Hiring announcement for a team assistant at deep mind, remote, flexible on experience, vacancy open 3 weeks"
+  },
+  {
+   "id": 1341,
+   "kind": "personal-update",
+   "gist": "Personal manifesto of disillusionment with politics, capitalism and social media, and commitment to seek and serve authenticity"
+  },
+  {
+   "id": 1347,
+   "kind": "personal-update",
+   "gist": "Personal reflection on words running dry amid normalized violence and staying human"
+  },
+  {
+   "id": 1354,
+   "kind": "other",
+   "gist": "Album images without text"
+  },
+  {
+   "id": 1360,
+   "kind": "announcement",
+   "gist": "Audience poll on how often subscribers use AI (GPT, Claude, Grok, DeepSeek)"
+  },
+  {
+   "id": 1372,
+   "kind": "announcement",
+   "gist": "Announcement of a free open Theory U workshop at MSU Moscow on 23.05, 18:00, with registration form"
+  },
+  {
+   "id": 1373,
+   "kind": "personal-update",
+   "gist": "Personal note on being back in Moscow after 4 years, poor recovery state and plans to write about Russia when texts emerge naturally"
+  },
+  {
+   "id": 1376,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 1381,
+   "kind": "logistics",
+   "gist": "MSU Theory U meeting cancelled due to measles quarantine and tentatively moved to 20 June, Friday 18:00"
+  },
+  {
+   "id": 1384,
+   "kind": "announcement",
+   "gist": "Pre-call announcement for Resonance 3 group process in September, early birds until 16 June, with links to related materials"
+  },
+  {
+   "id": 1389,
+   "kind": "personal-update",
+   "gist": "Personal essay on life in Russia after being cancelled: living in the present without a future, quiet solidarity and hope"
+  },
+  {
+   "id": 1405,
+   "kind": "announcement",
+   "gist": "Announcement of live stream on June 19 14:00 MSK with Maxim Nogotkov on network states and new forms of community in the AI era; recording linked"
+  },
+  {
+   "id": 1406,
+   "kind": "announcement",
+   "gist": "Overview of what deep mind does in 2025: Resonance group process (B2C), state-management flagship program and strategy sessions (B2B), psychedelic-assisted therapy side project, deep mind travels coming"
+  },
+  {
+   "id": 1415,
+   "kind": "announcement",
+   "gist": "Announcement of 'Theory U in the Himalayas' two-week group trip in November, 12 people, 6 already signed up; details and contact links"
+  },
+  {
+   "id": 1418,
+   "kind": "promo",
+   "gist": "Promo for free online Leadership Conf (July 10) where the author talks about Theory U and living, present-based leadership in an era of change"
+  },
+  {
+   "id": 1430,
+   "kind": "personal-update",
+   "gist": "Photo post about a live Resonance Alumni+ meetup in Moscow; no teachable content, mentions upcoming Resonance and a planned open event"
+  },
+  {
+   "id": 1441,
+   "kind": "announcement",
+   "gist": "Welcome-style digest of the channel's best recent posts grouped into misc, inner work and deep mind projects, with links"
+  },
+  {
+   "id": 1449,
+   "kind": "personal-update",
+   "gist": "Personal update from Moscow: overloaded summer, stopped reading, planning a solo mountain retreat; asks which book from the backlog to finish and review first"
+  },
+  {
+   "id": 1453,
+   "kind": "other",
+   "gist": "Photo of a book cover (Arnold Mindell, 'Тело шамана') from the reading backlog, no text"
+  },
+  {
+   "id": 1454,
+   "kind": "announcement",
+   "gist": "Announcement of a live with Matilda Shnurova (Swanly) on body and somatic practices, 28 July 20:00 MSK, tied to the Resonance program; recording link added"
+  },
+  {
+   "id": 1463,
+   "kind": "logistics",
+   "gist": "deep mind autumn-winter 2025 schedule: Re-connect (Yerevan, California), Theory U in the Himalayas, Resonance online, with seats and signup links"
+  },
+  {
+   "id": 1468,
+   "kind": "announcement",
+   "gist": "Invitation and registration for an open co-sensing (Theory U) meeting at DK Rassvet, Moscow, 23 August, with venue capacity and dinner details"
+  },
+  {
+   "id": 1469,
+   "kind": "promo",
+   "gist": "Link to Max's Forbes piece on immunity to change and corporate transformation methods (Theory U, embodiment, AI assistants), mentioning the Kegan and Lahey framework"
+  },
+  {
+   "id": 1481,
+   "kind": "personal-update",
+   "gist": "Personal reflection on a writing block: Max can't write the way he used to, describes his intuitive, no-content-plan writing style, and chooses honesty and self-compassion over forcing a text"
+  },
+  {
+   "id": 1484,
+   "kind": "personal-update",
+   "gist": "Narrative of a late-night Moscow walk triggering memories of 10 and 20 years ago, reflections on time and identity, and helping a migrant woman carry a microwave"
+  },
+  {
+   "id": 1497,
+   "kind": "other",
+   "gist": "Photo only, no text (album from Moscow practice)"
+  },
+  {
+   "id": 1510,
+   "kind": "announcement",
+   "gist": "Announcement and enrollment for Resonance 3, an 8-week online Theory U group leadership process starting 21 Sept 2025, with social places and Himalayas mention"
+  },
+  {
+   "id": 1514,
+   "kind": "announcement",
+   "gist": "Announcement of a community stream on 14 Sept 19:00 MSK (Zoom, no recording) with Olya Gurova on Theory U after her Vermont retreat with Scharmer and Senge, tied to Resonance launch"
+  },
+  {
+   "id": 1546,
+   "kind": "logistics",
+   "gist": "Last call for deep mind group Theory U process and Himalayas hike, 1-14 November"
+  },
+  {
+   "id": 1552,
+   "kind": "other",
+   "gist": "Slide image: Gallup 2025 chart of employee engagement declining while technology advances (from Tech Week panel)"
+  },
+  {
+   "id": 1568,
+   "kind": "other",
+   "gist": "Photo with text 'CHICA' only, no teachable content"
+  },
+  {
+   "id": 1578,
+   "kind": "announcement",
+   "gist": "Poll asking subscribers which topic to write about next (capitalism, freedom, mindfulness on Twitter, IFS Self, millennials, Harvard meditation research)"
+  },
+  {
+   "id": 1579,
+   "kind": "announcement",
+   "gist": "Author's RBC-Pro article on JOMO (joy of missing out) as a more mature stage of digital culture after FOMO; links only"
+  },
+  {
+   "id": 1583,
+   "kind": "announcement",
+   "gist": "Announcement that 138 Russian speakers (later about 300 in chat) joined the Wilber/DiPerna integral course with scholarship and translation; card series"
+  },
+  {
+   "id": 1584,
+   "kind": "announcement",
+   "gist": "Card 2/8 of the integral-course series: author saw Wilber's course, applied and negotiated terms and translation for post-Soviet participants"
+  },
+  {
+   "id": 1591,
+   "kind": "personal-update",
+   "gist": "Personal essay on falling for San Francisco after New York, including the loss of a close friend and awareness of finitude"
+  },
+  {
+   "id": 1646,
+   "kind": "personal-update",
+   "gist": "Personal Bangkok evening reflection: 17 years of change, a lost young traveler, longing for a retreat community and Maichi Bridget"
+  },
+  {
+   "id": 1649,
+   "kind": "announcement",
+   "gist": "Invitation to free Zoom contemplative performance 'Silence' on 20.12 11:00 CET+2, with the idea that silence heals and is a space free of ideology and war"
+  },
+  {
+   "id": 1653,
+   "kind": "logistics",
+   "gist": "Reminder that the Silence performance is tomorrow at 11:00, 130 registered"
+  },
+  {
+   "id": 1667,
+   "kind": "announcement",
+   "gist": "Announcement of Sunday online event with 10 storytellers from around the world sharing one story each from 2025, built on Theory U, registration required, 200 signed up"
+  },
+  {
+   "id": 1671,
+   "kind": "other",
+   "gist": "Appeal to adopt Aya, a one-year-old rescue dog from Kursk, or donate or repost to help Kursk shelter dogs"
+  },
+  {
+   "id": 1672,
+   "kind": "personal-update",
+   "gist": "Year-end personal reflection: refusing 'tangentiality' (feeling events but not looking directly), choosing to name black as black and white as white despite risk"
+  },
+  {
+   "id": 1673,
+   "kind": "announcement",
+   "gist": "Index of best 2025 deep mind wellness posts with links, plus ask to share or donate"
+  },
+  {
+   "id": 1675,
+   "kind": "announcement",
+   "gist": "Index of best 2025 deep mind posts on practice, practitioner worldview and pseudo-practice, with links"
+  },
+  {
+   "id": 1676,
+   "kind": "announcement",
+   "gist": "Why deep mind introduces donations: funding non-monetizable content, avoiding elitist narcissistic communities, quarterly closed meetings for regular supporters"
+  },
+  {
+   "id": 1677,
+   "kind": "announcement",
+   "gist": "Index of best 2025 deep mind posts on society, politics, power and freedom, AI and technology psychology, with links"
+  },
+  {
+   "id": 1680,
+   "kind": "logistics",
+   "gist": "Hiring an operations assistant at deep mind (remote, mission-driven), applications reviewed from 19 January, other collaboration forms listed"
+  },
+  {
+   "id": 1681,
+   "kind": "personal-update",
+   "gist": "Personal retreat diary from a Thai vipassana (Mahasi Sayadaw) monastery: nostalgia, impermanence, getting out of concept-spinning toward basic awareness"
+  },
+  {
+   "id": 1683,
+   "kind": "announcement",
+   "gist": "Index of best 2025 deep mind location-based posts by city (Boulder, Bali, Yerevan, San Francisco, Kathmandu and others), with links"
+  },
+  {
+   "id": 1691,
+   "kind": "announcement",
+   "gist": "Announcement of free online Deep Meditation camp, 21 Feb-14 Mar 2026, with Robina Courtin, Meshin Kelly, Meichi Schrottenbacher; donation-based, registration links"
+  },
+  {
+   "id": 1709,
+   "kind": "announcement",
+   "gist": "Poll on which formats readers want more of with deep mind in the new season (texts, practices, events, programs, community)"
+  },
+  {
+   "id": 1713,
+   "kind": "announcement",
+   "gist": "Announcement of live dialogue with Otto Scharmer on Organic Intelligence in the AI era, March 4, Zoom, with translation, donation-based registration"
+  },
+  {
+   "id": 1714,
+   "kind": "announcement",
+   "gist": "Announcement/teaser of author's review of ending 12 years of psychoanalysis: popularity wave, method limits, how to choose analysis today (full text on Teletype)"
+  },
+  {
+   "id": 1718,
+   "kind": "announcement",
+   "gist": "Milestone: Deep Meditation camp reached 1000 participants; lists Russian-speaking teachers and their practice topics (body scan, trauma-informed practice, RAIN etc.)"
+  },
+  {
+   "id": 1720,
+   "kind": "personal-update",
+   "gist": "Tribute to Shortparis frontman Nikolai Komyagin: authentic art inseparable from life, presence and meta-position without polarities"
+  },
+  {
+   "id": 1726,
+   "kind": "announcement",
+   "gist": "Teaser for a Teletype article on mindfulness 2025-2030: secular meditation moving beyond the stress/focus 'brain exercise' stage (Kabat-Zinn, Holecek)"
+  },
+  {
+   "id": 1736,
+   "kind": "promo",
+   "gist": "Promo for 4th Resonance cohort: 6-week group process on Theory U practices (Otto Scharmer, MIT), launching in April"
+  },
+  {
+   "id": 1742,
+   "kind": "announcement",
+   "gist": "Recording of the 4 March meeting with Otto Scharmer on Theory U (YouTube, 1.5h), plus plug for Resonance and Early Birds"
+  },
+  {
+   "id": 1744,
+   "kind": "announcement",
+   "gist": "Call for 5-7 readers to co-develop the book 'Beyond Efficiency' (map of 6 inner-work domains); form closed after 100 responses"
+  },
+  {
+   "id": 1746,
+   "kind": "announcement",
+   "gist": "Poll on what content to post next (personal, deep mind, AI adaptation, Wilber review, book chapter, workshops, etc.), 763 votes"
+  },
+  {
+   "id": 1749,
+   "kind": "announcement",
+   "gist": "Announces longread on early Silicon Valley AI worldview; cites MIT Media Lab finding that 95% of AI pilots show no measurable profit effect"
+  },
+  {
+   "id": 1751,
+   "kind": "personal-update",
+   "gist": "Personal update: Claude analysis of channel archive showed texts became less personal; author reflects on losing authenticity and reopening"
+  },
+  {
+   "id": 1752,
+   "kind": "announcement",
+   "gist": "Podcast episode on stuckness, uncertainty and nonlinear leadership (Theory U), using deep mind's own AI-disrupted strategy as a case"
+  },
+  {
+   "id": 1754,
+   "kind": "logistics",
+   "gist": "Workshop announcement: AI adaptation without FOMO or denial (deep mind + Soloveev), 19 April, tiered pricing"
+  },
+  {
+   "id": 1755,
+   "kind": "announcement",
+   "gist": "Teaser for article on entrepreneurship and narcissism: does entrepreneurship attract or produce narcissistic traits, role inflation, empathy, avoiding unhappy success"
+  },
+  {
+   "id": 1757,
+   "kind": "announcement",
+   "gist": "Shares open recording of Venerable Robina Courtin's talk from the Deep Meditation camp (difficult emotions, motivation, do Buddhists suppress emotions); other camp recordings unlockable"
+  },
+  {
+   "id": 1760,
+   "kind": "announcement",
+   "gist": "Announces deep mind live with Bruce Tift (Already Free) on 4 May 2026, Zoom with translation, donation-based, with author's background on him"
+  },
+  {
+   "id": 1775,
+   "kind": "announcement",
+   "gist": "deep mind 2.0 at 7 years: refined mission, new focus on humans and AI, live connections over content, plus launch of orientation page"
+  },
+  {
+   "id": 1778,
+   "kind": "promo",
+   "gist": "Promotes Resonance group (Theory U) starting Sunday: who it helps, who is in the group, remaining seats, social places"
+  },
+  {
+   "id": 1794,
+   "kind": "personal-update",
+   "gist": "Personal story: meeting a friend in Ho Chi Minh City, a flight scene, and resolve to practice answering harm with kindness (samsara)"
+  },
+  {
+   "id": 1796,
+   "kind": "announcement",
+   "gist": "deep mind named in top-9 of Lifestyle and development in Inc. Russia's survey of entrepreneurs' Telegram channels"
+  },
+  {
+   "id": 1806,
+   "kind": "announcement",
+   "gist": "Announcement of June 16 open webinar on transformative learning in companies with Yandex leaders"
+  },
+  {
+   "id": 1810,
+   "kind": "announcement",
+   "gist": "Announcement of June 25 online workshop AI for psychotherapists and helping practitioners, price 3500 rub"
+  },
+  {
+   "id": 1811,
+   "kind": "announcement",
+   "gist": "Recording of Bruce Tift session made public: 1.5h YouTube in Russian and English on anxiety, freedom, suffering and being human"
+  },
+  {
+   "id": 1814,
+   "kind": "announcement",
+   "gist": "Registration announcement for The Village (Theory U / Social Presencing Theater practice) in Moscow on 5 July, with format changes and sliding-scale price"
+  },
+  {
+   "id": 1822,
+   "kind": "announcement",
+   "gist": "Announcement and program of the online Rest Day conference (28 June, free) with Pure Cognitions: neurodiversity, music, RAIN mindfulness, AI, sleep, Theory U, embodiment"
+  },
+  {
+   "id": 1834,
+   "kind": "announcement",
+   "gist": "Announcement of Max Rodin's first personal long-form interview (YouTube, 1h30) on Buddhism, security services background and organizational transformation"
+  },
+  {
+   "id": 1854,
+   "kind": "announcement",
+   "gist": "Release of a 35-page AI-assisted analytical report Psychotherapy 2023-2045 (end of schools, C-PTSD, EMDR/IFS mechanism, body, 11 books) with ready prompts"
+  },
+  {
+   "id": 1858,
+   "kind": "announcement",
+   "gist": "Announces a personal page listing formats for interacting with Max Rodin (lectures, feedback, individual work, networking)"
+  },
+  {
+   "id": 1863,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 1873,
+   "kind": "announcement",
+   "gist": "Poll: which topic to publish before the author's writing leave (economic downturn, AI-use concealment, neurodivergence report, venture thinking, etc.)"
+  },
+  {
+   "id": 1880,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 1889,
+   "kind": "announcement",
+   "gist": "Enrollment for Resonance cohort 5 (autumn 2026, 11 online sessions) with argument for Theory U when planning by extrapolation stops working in stagnation and AI era"
+  },
+  {
+   "id": 1890,
+   "kind": "announcement",
+   "gist": "Announces podcast on trauma and healing with Daria Kravchenko hosted by Lola Duplinskaya, with guest's background in EMDR, IFS, PAT"
+  },
+  {
+   "id": 1893,
+   "kind": "announcement",
+   "gist": "Re-posted poll on party preference if elections were held this weekend (bots forced repost)"
+  },
+  {
+   "id": 1894,
+   "kind": "announcement",
+   "gist": "Author takes a writing leave, channel posts will be rare; recap of year's key podcasts (Scharmer, Tift, Kurtin, Kravchenko, Rodin) and note that autumn Resonance may be the last"
+  },
+  {
+   "id": 1901,
+   "kind": "announcement",
+   "gist": "Charity appeal: Nastya's rescue dog Lisya (10 months, from Orenburg) needs a home; adopt, donate to foster costs, or share"
+  },
+  {
+   "id": 1903,
+   "kind": "personal-update",
+   "gist": "Personal reflection on returning to a provincial southern Russian town: the past and context of childhood cannot be escaped; story of a bipolar man and cut flowers"
+  },
+  {
+   "id": 1906,
+   "kind": "personal-update",
+   "gist": "Lyrical in-flight reflection on how writing began as contact with a pulsing feeling in the chest that turned out to be love; goodbyes and airplane tea"
+  },
+  {
+   "id": 1911,
+   "kind": "personal-update",
+   "gist": "Closing of the author's Moscow seasons with a private meetup for Resonance alumni and friends; photos and thanks"
+  },
+  {
+   "id": 1923,
+   "kind": "announcement",
+   "gist": "Resonance 5 'Emerging Future' enrollment post: Scharmer's Theory U, four inner shifts (grounding, letting go, presencing, community), starts Oct 4, 87% full, prices until Sep 23"
+  },
+  {
+   "id": 1944,
+   "kind": "announcement",
+   "gist": "Announces Max Rodin's upcoming MIF book 'Six Domains of Personal Maturity' (map of inner work beyond efficiency) and asks for pre-orders to raise the print run"
+  },
+  {
+   "id": 1951,
+   "kind": "personal-update",
+   "gist": "Channel is in functional mode while the author reworks a 260-page book manuscript; mentions a month in Japan with no sleepless nights, first in 8 years"
+  },
+  {
+   "id": 1960,
+   "kind": "other",
+   "gist": "Album of photos without text or caption"
+  },
+  {
+   "id": 1968,
+   "kind": "announcement",
+   "gist": "Announces live Zoom with John Churchill on 7 Nov, 11:00 MSK, on integrating therapy (heal), meditation (wake up) and vertical development (grow); topics list, speaker bio and registration with donation"
+  },
+  {
+   "id": 1977,
+   "kind": "announcement",
+   "gist": "Author announces the book manuscript is finished, goes to print with a 4000-copy run for end of year, why a book can give a fuller navigation map of inner work than short posts; pre-order link"
+  },
+  {
+   "id": 1980,
+   "kind": "promo",
+   "gist": "Fundraiser appeal: Committee Against Torture seeks 250,000 rubles to fund a year of a psychological support group for torture survivors"
+  },
+  {
+   "id": 1982,
+   "kind": "promo",
+   "gist": "Sponsored recommendation of Kleos employer-of-record platform, with a cost example (4,000 EUR gross senior costs 4,834 EUR in Ireland vs 6,478 EUR in Spain) and a calculator link"
+  }
+ ]
+}

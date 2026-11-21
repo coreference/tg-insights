@@ -1,0 +1,498 @@
+{
+ "channel": "На балансе с Катей Стрельниковой",
+ "slug": "na-balanse",
+ "files": [
+  {
+   "file": "energy-1.md",
+   "domain": "Energy & Resource",
+   "domain_slug": "energy",
+   "area": "Energy & Resource",
+   "part": 1,
+   "parts": 4,
+   "title": "Energy & Resource (part 1 of 4)",
+   "topics": [
+    {
+     "slug": "what-is-energy",
+     "title": "What energy is and where it comes from"
+    },
+    {
+     "slug": "biorhythms",
+     "title": "Biorhythms and energy peaks"
+    }
+   ],
+   "words": 11374
+  },
+  {
+   "file": "energy-2.md",
+   "domain": "Energy & Resource",
+   "domain_slug": "energy",
+   "area": "Energy & Resource",
+   "part": 2,
+   "parts": 4,
+   "title": "Energy & Resource (part 2 of 4)",
+   "topics": [
+    {
+     "slug": "energy-drains",
+     "title": "Energy drains, leaks and myths"
+    }
+   ],
+   "words": 4684
+  },
+  {
+   "file": "energy-3.md",
+   "domain": "Energy & Resource",
+   "domain_slug": "energy",
+   "area": "Energy & Resource",
+   "part": 3,
+   "parts": 4,
+   "title": "Energy & Resource (part 3 of 4)",
+   "topics": [
+    {
+     "slug": "energy-boosters",
+     "title": "Energy boosters and replenishing practices"
+    }
+   ],
+   "words": 9331
+  },
+  {
+   "file": "energy-4.md",
+   "domain": "Energy & Resource",
+   "domain_slug": "energy",
+   "area": "Energy & Resource",
+   "part": 4,
+   "parts": 4,
+   "title": "Energy & Resource (part 4 of 4)",
+   "topics": [
+    {
+     "slug": "energy-diary",
+     "title": "A year of the energy diary"
+    },
+    {
+     "slug": "energy-interviews",
+     "title": "Three questions about energy (mini-interviews)"
+    }
+   ],
+   "words": 10354
+  },
+  {
+   "file": "rest-1.md",
+   "domain": "Rest & Burnout",
+   "domain_slug": "rest",
+   "area": "Rest & Burnout",
+   "part": 1,
+   "parts": 3,
+   "title": "Rest & Burnout (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "tired-series",
+     "title": "Series: I'm 40 and worn out"
+    }
+   ],
+   "words": 7132
+  },
+  {
+   "file": "rest-2.md",
+   "domain": "Rest & Burnout",
+   "domain_slug": "rest",
+   "area": "Rest & Burnout",
+   "part": 2,
+   "parts": 3,
+   "title": "Rest & Burnout (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "learning-to-rest",
+     "title": "Learning to rest"
+    }
+   ],
+   "words": 7587
+  },
+  {
+   "file": "rest-3.md",
+   "domain": "Rest & Burnout",
+   "domain_slug": "rest",
+   "area": "Rest & Burnout",
+   "part": 3,
+   "parts": 3,
+   "title": "Rest & Burnout (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "burnout",
+     "title": "Burnout: prevention and exit"
+    },
+    {
+     "slug": "otdohnuvshie",
+     "title": "«Отдохнувшие»: the rest laboratory"
+    }
+   ],
+   "words": 10424
+  },
+  {
+   "file": "sleep.md",
+   "domain": "Sleep",
+   "domain_slug": "sleep",
+   "area": "Sleep",
+   "part": 1,
+   "parts": 1,
+   "title": "Sleep",
+   "topics": [
+    {
+     "slug": "sleep-base",
+     "title": "Sleep as the base"
+    },
+    {
+     "slug": "sleep-practice",
+     "title": "Sleep practice and gear"
+    }
+   ],
+   "words": 11831
+  },
+  {
+   "file": "nutrition-1.md",
+   "domain": "Nutrition",
+   "domain_slug": "nutrition",
+   "area": "Nutrition",
+   "part": 1,
+   "parts": 2,
+   "title": "Nutrition (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "sugar",
+     "title": "Sugar, sweets and glucose"
+    },
+    {
+     "slug": "nutrition-myths",
+     "title": "Nutrition myths and evidence-based guidelines"
+    },
+    {
+     "slug": "nutrition-column",
+     "title": "Marina's nutrition column"
+    }
+   ],
+   "words": 8675
+  },
+  {
+   "file": "nutrition-2.md",
+   "domain": "Nutrition",
+   "domain_slug": "nutrition",
+   "area": "Nutrition",
+   "part": 2,
+   "parts": 2,
+   "title": "Nutrition (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "coffee-alcohol",
+     "title": "Coffee, caffeine and alcohol-free"
+    },
+    {
+     "slug": "food-culture",
+     "title": "Everyday food culture"
+    }
+   ],
+   "words": 8797
+  },
+  {
+   "file": "body-1.md",
+   "domain": "Movement & Body",
+   "domain_slug": "body",
+   "area": "Movement & Body",
+   "part": 1,
+   "parts": 3,
+   "title": "Movement & Body (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "fitness",
+     "title": "Fitness independence and sustainable movement"
+    },
+    {
+     "slug": "minimal-dose",
+     "title": "Minimal effective dose of movement"
+    }
+   ],
+   "words": 8382
+  },
+  {
+   "file": "body-2.md",
+   "domain": "Movement & Body",
+   "domain_slug": "body",
+   "area": "Movement & Body",
+   "part": 2,
+   "parts": 3,
+   "title": "Movement & Body (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "beauty",
+     "title": "Body image, face and beauty"
+    }
+   ],
+   "words": 11753
+  },
+  {
+   "file": "body-3.md",
+   "domain": "Movement & Body",
+   "domain_slug": "body",
+   "area": "Movement & Body",
+   "part": 3,
+   "parts": 3,
+   "title": "Movement & Body (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "weight-and-ed-recovery",
+     "title": "Eating disorder recovery, weight genetics and body acceptance"
+    }
+   ],
+   "words": 3661
+  },
+  {
+   "file": "balance-1.md",
+   "domain": "Balance & Life Philosophy",
+   "domain_slug": "balance",
+   "area": "Balance & Life Philosophy",
+   "part": 1,
+   "parts": 2,
+   "title": "Balance & Life Philosophy (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "what-is-balance",
+     "title": "What is balance (and is it real)"
+    }
+   ],
+   "words": 9390
+  },
+  {
+   "file": "balance-2.md",
+   "domain": "Balance & Life Philosophy",
+   "domain_slug": "balance",
+   "area": "Balance & Life Philosophy",
+   "part": 2,
+   "parts": 2,
+   "title": "Balance & Life Philosophy (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "work-life",
+     "title": "Work-life balance in practice"
+    },
+    {
+     "slug": "womens-load",
+     "title": "Women's fatigue and social expectations"
+    },
+    {
+     "slug": "relocation-stability",
+     "title": "Relocation and staying stable through moves"
+    }
+   ],
+   "words": 11714
+  },
+  {
+   "file": "mind-1.md",
+   "domain": "Mind & Emotions",
+   "domain_slug": "mind",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 3,
+   "title": "Mind & Emotions (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "emotions",
+     "title": "Emotions as energy"
+    },
+    {
+     "slug": "meditation",
+     "title": "Meditation and mindfulness"
+    }
+   ],
+   "words": 7241
+  },
+  {
+   "file": "mind-2.md",
+   "domain": "Mind & Emotions",
+   "domain_slug": "mind",
+   "area": "Mind & Emotions",
+   "part": 2,
+   "parts": 3,
+   "title": "Mind & Emotions (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "inner-work",
+     "title": "Inner work: self-worth, shame, parts"
+    }
+   ],
+   "words": 10231
+  },
+  {
+   "file": "mind-3.md",
+   "domain": "Mind & Emotions",
+   "domain_slug": "mind",
+   "area": "Mind & Emotions",
+   "part": 3,
+   "parts": 3,
+   "title": "Mind & Emotions (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "digital-hygiene",
+     "title": "Digital hygiene and attention"
+    },
+    {
+     "slug": "impermanence-uncertainty",
+     "title": "Impermanence, uncertainty and resilience"
+    }
+   ],
+   "words": 8773
+  },
+  {
+   "file": "change-1.md",
+   "domain": "Behavior Change & Coaching",
+   "domain_slug": "change",
+   "area": "Behavior Change & Coaching",
+   "part": 1,
+   "parts": 3,
+   "title": "Behavior Change & Coaching (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "why-change-is-hard",
+     "title": "Why change is hard"
+    }
+   ],
+   "words": 12529
+  },
+  {
+   "file": "change-2.md",
+   "domain": "Behavior Change & Coaching",
+   "domain_slug": "change",
+   "area": "Behavior Change & Coaching",
+   "part": 2,
+   "parts": 3,
+   "title": "Behavior Change & Coaching (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "tools",
+     "title": "Tools and reflection practices"
+    }
+   ],
+   "words": 7882
+  },
+  {
+   "file": "change-3.md",
+   "domain": "Behavior Change & Coaching",
+   "domain_slug": "change",
+   "area": "Behavior Change & Coaching",
+   "part": 3,
+   "parts": 3,
+   "title": "Behavior Change & Coaching (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "coaching",
+     "title": "Coaching practice and client stories"
+    },
+    {
+     "slug": "dictionary-of-change",
+     "title": "Dictionary of change: paired concepts (Словарь изменений)"
+    }
+   ],
+   "words": 11842
+  },
+  {
+   "file": "industry-1.md",
+   "domain": "Wellness Industry, Gadgets & Longevity",
+   "domain_slug": "industry",
+   "area": "Wellness Industry, Gadgets & Longevity",
+   "part": 1,
+   "parts": 2,
+   "title": "Wellness Industry, Gadgets & Longevity (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "supplements",
+     "title": "Supplements: benefits and harms"
+    },
+    {
+     "slug": "gadgets",
+     "title": "Gadgets and trackers"
+    }
+   ],
+   "words": 11133
+  },
+  {
+   "file": "industry-2.md",
+   "domain": "Wellness Industry, Gadgets & Longevity",
+   "domain_slug": "industry",
+   "area": "Wellness Industry, Gadgets & Longevity",
+   "part": 2,
+   "parts": 2,
+   "title": "Wellness Industry, Gadgets & Longevity (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "wellness-independence",
+     "title": "Wellness independence and industry critique"
+    },
+    {
+     "slug": "longevity",
+     "title": "Longevity and aging"
+    }
+   ],
+   "words": 8124
+  },
+  {
+   "file": "women.md",
+   "domain": "Women's Health",
+   "domain_slug": "women",
+   "area": "Women's Health",
+   "part": 1,
+   "parts": 1,
+   "title": "Women's Health",
+   "topics": [
+    {
+     "slug": "womens-health",
+     "title": "Women's health: cycle, pregnancy, check-ups"
+    }
+   ],
+   "words": 8534
+  },
+  {
+   "file": "community-1.md",
+   "domain": "Interviews & Community",
+   "domain_slug": "community",
+   "area": "Interviews & Community",
+   "part": 1,
+   "parts": 3,
+   "title": "Interviews & Community (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "interviews",
+     "title": "«На балансе с…» interview series"
+    }
+   ],
+   "words": 40281
+  },
+  {
+   "file": "community-2.md",
+   "domain": "Interviews & Community",
+   "domain_slug": "community",
+   "area": "Interviews & Community",
+   "part": 2,
+   "parts": 3,
+   "title": "Interviews & Community (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "recommendations",
+     "title": "Recommendations: channels, podcasts, books, series"
+    }
+   ],
+   "words": 5869
+  },
+  {
+   "file": "community-3.md",
+   "domain": "Interviews & Community",
+   "domain_slug": "community",
+   "area": "Interviews & Community",
+   "part": 3,
+   "parts": 3,
+   "title": "Interviews & Community (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "channel-life",
+     "title": "Channel life and announcements"
+    }
+   ],
+   "words": 10961
+  }
+ ]
+}

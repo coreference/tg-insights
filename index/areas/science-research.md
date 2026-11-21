@@ -1,0 +1,64 @@
+# Area index — Science & Research
+
+Cross-channel domain index: every knowledge base's topics on this subject. Open ALL topic files that match the request (from every channel listed), read them in full, and attribute each view to its channel. Before using a channel's files, read its skill (persona + constraints) named in the channel heading.
+
+**Light versions (NotebookLM study files)** — the same knowledge as plain text per domain, compact `[#id]` citations, no frontmatter or source lists. Read these for an overview of the whole area in few reads or for lighter processing; read the topic files below when you need exact provenance, dates or precise quotes. All of them together (copies): `index/notebooklm/science-research/`
+
+- `sources/tg-channels/human-machine/notebooklm/science-research-careers-1.md` — Human Gazing Upon Machine · Science, Research and Careers (part 1 of 2) (~9,901 words): Scientific thinking, philosophy and reading lists; Biomedical research news: aging, epigenetics and medicine
+- `sources/tg-channels/human-machine/notebooklm/science-research-careers-2.md` — Human Gazing Upon Machine · Science, Research and Careers (part 2 of 2) (~2,759 words): Careers in psychology and science: from clinic to research
+
+## Human Gazing Upon Machine  (`human-gazing-upon-machine`) — domain “Science, Research and Careers”
+
+Channel skill (adopt its persona and constraints): `sources/tg-channels/human-machine/agent-kb/SKILL.md`
+
+### Scientific thinking, philosophy and reading lists
+- File: `sources/tg-channels/human-machine/topics/science-research-careers/scientific-thinking-reading.md` · 11 msgs · 2022-05-22..2024-09-25
+- Light version: `sources/tg-channels/human-machine/notebooklm/science-research-careers-1.md`
+- What the author thinks makes a science "good" (updatable, integrated, still scientific, open), what philosophy is for next to the sciences, how the LK-99 room-temperature-superconductor claim failed replication (the "magic sample" problem), the author's ten formative books and her reading on humanity's future, plus free portals for finding and reading research (research.com, Edge, JSTOR).
+- Answers: What makes a science good or worth trusting, according to the author? · What does "integrated" or "updatable" science mean and which disciplines should be linked? · What conditions does an open-science ecosystem need to produce innovation and better science? · Is philosophy a science, and is it still useful when the sciences exist? · What did Patricia Churchland and eliminative materialism claim about folk concepts like free will? · What happened with LK-99 and why is it not considered a real superconductor? · What is a "magic sample" and how can you spot a non-replicable result? · Which books shaped the author and what is each one about? · Which books does the author recommend on economics and on humanity's future and existential risk? · Where can I read or find research and leading scientists for free?
+- Frameworks: Criteria of a "good" science (updatable, integrated, basic scientificity) · Integrated-science cycle (evolutionary biology to cognitive sciences) · Three sources from which we learn what we value · Open Science co-creation ecosystem model (framework conditions, ecosystem conditions, outputs, outcomes) · Four key branches of academic philosophy · What remains in philosophy's domain (two areas) · Red flags of a non-replicable breakthrough (LK-99 / magic sample) · Dialectical reading (read both poles and the grey zone)
+- Concepts: `scientific-thinking`, `open-science`
+- Resources and links: 13 resources, 3 external links (section *Resources and links* of the file) · ★ Edge.org Conversations; JSTOR; N+1: seven failed attempts to reproduce LK-99 (Aug 2023); Post by Katerina in the channel besyachievse on superconductors; research.com — science portal with rankings of influential researchers; Smeshariki episode on superconductivity (YouTube) …
+
+### Biomedical research news: aging, epigenetics and medicine
+- File: `sources/tg-channels/human-machine/topics/science-research-careers/biomedical-research-news.md` · 10 msgs · 2022-05-16..2023-12-08
+- Light version: `sources/tg-channels/human-machine/notebooklm/science-research-careers-1.md`
+- Short research digests shared by the channel on sex differences in strength training, mitochondrial transplants, a mouse model for transgenerational epigenetic inheritance, lessons from the COVID pandemic, cryopreserved kidney transplants in rats, entropy and life, parabiosis in aging mice, a manifesto for a digital twin of the C. elegans nervous system, aspartame and memory in mice, and a cheaper and shorter treatment for multidrug-resistant tuberculosis — each with the numbers and the author's commentary.
+- Answers: Do men and women gain strength differently from the same training? · What role do testosterone and progesterone play in muscle and strength differences? · How can epigenetic marks be passed from parents to offspring, and how is it studied in mice? · Does aspartame affect memory, and can the effect pass to offspring? · What did parabiosis with young mice do to the lifespan of old mice? · Why did humanity handle COVID badly, according to the forwarded post? · Why was mass vaccination needed early in COVID but not later? · What does successful cryopreservation of rat kidneys mean for organ transplantation and life extension? · What is the proposal to build a digital twin of the C. elegans nervous system? · What changed in the treatment of multidrug-resistant tuberculosis with the endTB trial?
+- Frameworks: Reasoning for changing COVID vaccination policy (early mass vaccination vs later selective boosters) · Catalogue of failures in the COVID response · Vision of future neuroscience (better observation tools + machine learning + in-silico experiments)
+- Concepts: `biomedical-research`, `longevity`, `epigenetics` · also relevant to: Wellness Industry, Gadgets & Longevity
+- Resources and links: 16 resources, 1 external links (section *Resources and links* of the file) · ★ endTB clinical trial results; Google Translate; Hank/John Green video on endTB TB treatment results (YouTube); N+1: Russian translation on mitochondrial transplantation (Dec 2022); Scientific Reports article (2023, s41598-023-41213-2); YouTube explainer on the concept of entropy (Russian auto-subtitles)
+
+### Careers in psychology and science: from clinic to research
+- File: `sources/tg-channels/human-machine/topics/science-research-careers/psychology-science-careers.md` · 8 msgs · 2022-05-27..2024-09-28
+- Light version: `sources/tg-channels/human-machine/notebooklm/science-research-careers-2.md`
+- How the channel author got hired as a psychologist on an international online therapy platform (Fitcy) without re-licensing, why moving from clinical practice into neuroscience research requires coding (Python above all), how to use the Academic Transfer job site, the full chapter map of Peter J. Feibelman's science-survival guide "A PhD Is Not Enough!", and how she completed her first coding step with the free MATLAB Onramp course.
+- Answers: How can a psychologist from Russia work with clients on an international online platform? · What does Fitcy pay or charge per session, and how does it depend on experience? · What is the hiring interview at an online therapy platform like and what do they ask? · Do I need to re-license or translate documents to work on Fitcy? · What is the hardest part of moving from clinical psychology into neuroscience research? · Why do I need to learn Python to get a neuroscience lab job? · Where can I look for paid academic research vacancies? · What does the book "A PhD Is Not Enough!" cover, chapter by chapter? · How should a beginner start learning MATLAB for neuroscience, and is MATLAB Onramp good? · Which free course helps understand computational neuroscience in practice?
+- Frameworks: Chapter map of "A PhD Is Not Enough! A Guide to Survival in Science" (Feibelman) - ten parts plus Afterthoughts · Online-platform hiring path for a psychologist abroad (Fitcy case) · Two-pass method for completing MATLAB Onramp
+- Concepts: `academic-career`, `career-change`, `remote-work`
+- Resources and links: 2 resources, 4 external links (section *Resources and links* of the file) · ★ Computational Neuroscience (Coursera); MATLAB Onramp (MathWorks Academy); Task Human — marketplace for health and wellbeing specialists
+
+## Also relevant — topics filed under another area
+
+These topics' primary area is elsewhere, but they substantially teach this subject too. Read them like the topics above (same rules: the channel's skill first, then the file in full).
+
+### Large language models: capabilities, limits and risks  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Technology & AI
+- File: `sources/tg-channels/human-machine/topics/ai-human-machine/llm-capabilities-limits-risks.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
+- How the channel tracked large language models and generative AI from the first amazement at ChatGPT (2022) to their documented failures — arithmetic errors, hallucinated summaries of scientific papers, political bias, and the specific risks that led US states to ban AI as a therapist — plus what an AI summarizer and a video generator actually produce.
+- Concepts: `large-language-models`, `ai-and-humans`, `scientific-thinking`, `psychotherapy`
+
+### Human-machine interfaces and AI in science  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Technology & AI
+- File: `sources/tg-channels/human-machine/topics/ai-human-machine/human-machine-interfaces-ai-science.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
+- What the channel reported on devices that connect the human body to machines (a face-tracking VR mask, the AlterEgo silent-speech wearable, the Human Operator project in which AI briefly controls part of the body), on 24/7 driverless robotaxis, on AI used in science (generative design of new proteins, AI discovery of the antibiotic abaucin), on a Tokyo lab that builds robots on Piaget's assimilation/accommodation and structuralism, and on Gibson's The Peripheral as fiction about neural interfaces.
+- Concepts: `human-machine-interfaces`, `ai-and-humans`, `biomedical-research`
+
+### Reading autism and ADHD research critically  — *also relevant* · Нейропряность (`neyropryanost`) · primary area: Neurodiversity
+- File: `sources/tg-channels/neurospicy/topics/diagnosis-research/autism-research-critique.md` · channel skill: `sources/tg-channels/neurospicy/agent-kb/SKILL.md`
+- What the channel taught about the biology of autism (under- and over-connectivity theories, the salience network in infants, four fMRI-based connectivity subtypes, genetics and incomplete penetrance) and how it critically takes apart popular claims and studies — the Z944 mouse "cure", the autism / vulnerable-narcissism study, the paracetamol claim, and Ozempic for ADHD.
+- Concepts: `scientific-thinking`, `brain-connectivity`, `biomedical-research`, `neurodiversity`
+
+### Screening and diagnosis of adult ADHD and autism  — *also relevant* · (нейро)разнообразная психология (`neurodiv-psy`) · primary area: Neurodiversity
+- File: `sources/tg-channels/neurodiv_psy/topics/diagnosis-and-identity/screening-diagnosis-adhd-autism.md` · channel skill: `sources/tg-channels/neurodiv_psy/agent-kb/SKILL.md`
+- Where Russian-speaking adults can start screening for ADHD and autism (adult ADHD guide, ADHD screening test, aspergers.ru tests with RAADS-R first, crowd-sourced lists of informed specialists), why many people, especially women, discover ADHD at 18–25, and the full text of Samantha Craft's unofficial checklist of autistic traits (sections A–H, J and the optional executive-function section) with its suggested use and disclaimers. The Russian translation of the UK ADHD Foundation's adult ADHD guide (ASRS self-screening, the UK diagnostic route, DSM-5 criteria and subtypes, executive functions, five externalisation strategies, sleep, diet, exercise, stress, relationships, medication, CBT/coaching), a curated list of eight science-based adult ADHD screening tools with the psychiatrist's view on self-screening, the late and missed autism diagnosis of women, and a large Swedish study showing that ADHD/autism diagnoses rose while symptom levels stayed stable.
+- Concepts: `psychiatric-diagnosis`, `neurodiversity`, `executive-function`, `masking-camouflaging`, `gender-expectations`
+

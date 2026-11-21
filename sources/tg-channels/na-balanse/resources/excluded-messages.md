@@ -1,0 +1,129 @@
+# Excluded messages (not knowledge)
+
+Announcements, logistics, promotion and bare personal updates are kept in `parsed/messages.jsonl` for fidelity but are not part of the knowledge files. Nothing is dropped silently — every excluded message is listed here.
+
+- [#15] · 2023-12-11 · **navigation - pinned place for reader questions** · Channel life and announcements
+- [#38] · 2024-02-01 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#47] · 2024-02-20 · **announcement - stream date, venue and agenda** · Channel life and announcements
+- [#52] · 2024-02-26 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#55] · 2024-03-02 · **promo (forwarded recommendation of the channel listing its own posts)** · What energy is and where it comes from
+- [#69] · 2024-03-13 · **promo (Sleep Check-Up project card: dates, format; its single thesis duplicates #64)** · Sleep as the base
+- [#72] · 2024-03-21 · **no-content (poll on readers' emotional stability, no transferable knowledge)** · Emotions as energy
+- [#77] · 2024-03-28 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#86] · 2024-04-15 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#91] · 2024-04-19 · **poll about channel format** · Why change is hard
+- [#96] · 2024-05-01 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#104] · 2024-05-13 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#114] · 2024-05-27 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#119] · 2024-06-06 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#123] · 2024-06-14 · **navigation - repeat of the questions post** · Channel life and announcements
+- [#126] · 2024-06-18 · **logistics (stream starting in 10 minutes)** · Burnout: prevention and exit
+- [#128] · 2024-06-21 · **no-content (cover card with the rubric title and guest name only)** · «На балансе с…» interview series
+- [#138] · 2024-07-10 · **no-content (decorative photo, no text)** · Why change is hard
+- [#146] · 2024-07-24 · **no-content (video invitation, not available in export)** · Inner work: self-worth, shame, parts
+- [#165] · 2024-08-24 · **no-content (photo-only illustration of a river landscape to #164)** · Energy boosters and replenishing practices
+- [#186] · 2024-09-27 · **poll about channel format** · Channel life and announcements
+- [#192] · 2024-10-06 · **announcement — navigation post collecting links to all interviews of the series (no knowledge content)** · «На балансе с…» interview series
+- [#196] · 2024-10-08 · **no-content — reader poll ("tired of it / inspires every time") with no reported breakdown** · «На балансе с…» interview series
+- [#217] · 2024-11-09 · **promo - cross-promotion of the author's second channel** · Channel life and announcements
+- [#235] · 2024-12-06 · **announcement (navigation post linking back to #57 and #58, no new content)** · Coffee, caffeine and alcohol-free
+- [#254] · 2025-01-06 · **announcement - giveaway mechanics** · Channel life and announcements
+- [#267] · 2025-01-28 · **no-content (photo-only illustration to #266, hiking landscape)** · Energy boosters and replenishing practices
+- [#268] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#269] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#270] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#271] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#272] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#273] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#274] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#275] · 2025-01-28 · **no-content (photo-only illustration to #266)** · Energy boosters and replenishing practices
+- [#282] · 2025-02-13 · **no-content (photo of Katya in bed, no text)** · «Отдохнувшие»: the rest laboratory
+- [#283] · 2025-02-13 · **no-content (photo of an unmade bed, no text)** · «Отдохнувшие»: the rest laboratory
+- [#284] · 2025-02-13 · **no-content (photo of Katya after a float/spa session; only stray sign text "SPA RU…")** · «Отдохнувшие»: the rest laboratory
+- [#303] · 2025-03-20 · **no-content (photo-only illustration to #302, floating capsule)** · Energy boosters and replenishing practices
+- [#305] · 2025-03-25 · **promo - podcast appearance announcement without content** · Channel life and announcements
+- [#307] · 2025-03-27 · **no-content (illustration photo of whipped cream, no text)** · What is balance (and is it real)
+- [#315] · 2025-04-12 · **no-content (podcast cover photo, no knowledge)** · Learning to rest
+- [#316] · 2025-04-12 · **no-content (podcast cover photo)** · Learning to rest
+- [#317] · 2025-04-12 · **no-content (podcast cover photo)** · Learning to rest
+- [#318] · 2025-04-12 · **no-content (podcast cover photo)** · Learning to rest
+- [#319] · 2025-04-12 · **no-content (podcast cover photo with show name)** · Learning to rest
+- [#325] · 2025-04-25 · **no-content (vintage childhood photo in the #323 album, no text)** · Inner work: self-worth, shame, parts
+- [#326] · 2025-04-25 · **no-content (video file, not available in export)** · Inner work: self-worth, shame, parts
+- [#342] · 2025-06-01 · **personal-update (story of how she became a health coach plus links to an interview elsewhere)** · Learning to rest
+- [#354] · 2025-07-14 · **promo (reminder that an advertiser's 50% discount and promo code expire tomorrow; no knowledge)** · Women's health: cycle, pregnancy, check-ups
+- [#362] · 2025-07-15 · **no-content (decorative photo of a forest path accompanying #360, no text)** · Minimal effective dose of movement
+- [#363] · 2025-07-15 · **no-content (photo of a road marking "BIKE LANE", decorative, no transferable content)** · Minimal effective dose of movement
+- [#364] · 2025-07-15 · **no-content (video not available in export)** · Minimal effective dose of movement
+- [#375] · 2025-08-18 · **announcement - hiring an assistant** · Channel life and announcements
+- [#379] · 2025-08-23 · **no-content (video message not available in export, no text)** · Sleep practice and gear
+- [#389] · 2025-09-06 · **logistics - lab lecturers card for a promoted course** · Channel life and announcements
+- [#390] · 2025-09-06 · **logistics - lab schedule card for a promoted course** · Channel life and announcements
+- [#395] · 2025-09-18 · **no-content (video message not available in export, no text)** · Work-life balance in practice
+- [#422] · 2025-10-08 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#424] · 2025-10-08 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#425] · 2025-10-08 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#436] · 2025-10-18 · **no-content (video message, not available in export)** · Inner work: self-worth, shame, parts
+- [#438] · 2025-10-24 · **promo - partnership and advertising page** · Channel life and announcements
+- [#445] · 2025-11-04 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#446] · 2025-11-04 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#447] · 2025-11-04 · **no-content (video not available in export, no caption)** · Body image, face and beauty
+- [#472] · 2025-12-06 · **no-content (video not available in export)** · Everyday food culture
+- [#498] · 2025-12-24 · **no-content (round video message, not available in export; per #499 it showed the beer)** · Coffee, caffeine and alcohol-free
+- [#515] · 2026-01-09 · **no-content (video message not available in export)** · A year of the energy diary
+- [#537] · 2026-02-21 · **no-content (video message not available in export)** · Marina's nutrition column
+- [#550] · 2026-03-01 · **no-content (photo of a breakfast plate illustrating #549; OCR garbage)** · What is balance (and is it real)
+- [#552] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#553] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#554] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#555] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#556] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#557] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#558] · 2026-03-02 · **no-content (travel photo of a spa door with the sign "reflect")** · Learning to rest
+- [#559] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#560] · 2026-03-02 · **no-content (travel photo)** · Learning to rest
+- [#568] · 2026-03-19 · **personal-update (selfie from a spring run in Moscow, outfit joke)** · Fitness independence and sustainable movement
+- [#569] · 2026-03-19 · **personal-update (photo; only text is the brand name Columbia)** · Fitness independence and sustainable movement
+- [#570] · 2026-03-19 · **personal-update (photo from the same run, no text)** · Fitness independence and sustainable movement
+- [#571] · 2026-03-19 · **personal-update (photo from the same run, no text)** · Fitness independence and sustainable movement
+- [#583] · 2026-04-07 · **no-content (product photo of kulich, no text)** · Everyday food culture
+- [#584] · 2026-04-07 · **no-content (product photo, no text)** · Everyday food culture
+- [#585] · 2026-04-07 · **no-content (product photo, no text)** · Everyday food culture
+- [#586] · 2026-04-07 · **no-content (product photo, no text)** · Everyday food culture
+- [#588] · 2026-04-11 · **no-content (video message not available in export)** · Gadgets and trackers
+- [#589] · 2026-04-11 · **announcement (forwarded event announcement for a morning "cardio rave": programme, date, venue, promo code, registration)** · Channel life and announcements
+- [#593] · 2026-04-18 · **promo: short intro "Приходите!" plus link to the coach bot for a forwarded testimonial; the testimonial content itself is extracted from #594** · Coaching practice and client stories
+- [#596] · 2026-04-22 · **no-content (video message not available in export)** · Gadgets and trackers
+- [#629] · 2026-06-02 · **no-content (photo of an online coaching call on a laptop; no transferable text)** · «Отдохнувшие»: the rest laboratory
+- [#633] · 2026-06-04 · **no-content (video message not available in the export)** · Channel life and announcements
+- [#634] · 2026-06-04 · **announcement (post collecting viewer questions after the "From the third attempt" event; recording logistics and speaker names only)** · Channel life and announcements
+- [#674] · 2026-07-31 · **promo** — Cross-promo of Katya's conversations in Alisa's channel (@ceoalisa) on whether you or your tracker knows better how you feel, and on sport, banya and raves. · (card step)
+- [#679] · 2026-08-10 · **personal-update** — Introductory self-presentation post: Katya's background (eating disorder, burnout, addictions, emigrations, marketing career, training) and how her coaching approach grows from it. · (card step)
+- [#682] · 2026-08-14 · **promo** — Recommendation of Zhenya Datsko's blogger research and her 'Неидеальный план' mentoring program (starts 5 September), with Katya considering joining. · (card step)
+- [#686] · 2026-08-19 · **personal-update** — Katya's reaction to the forwarded feedback that her sleep workshop led a reader to sleep better and start going to the gym, with a pointer to the free recording. · (card step)
+- [#690] · 2026-08-26 · **personal-update** — Forwarded from Kira: after the pity vs compassion post she chose a walk over lying in bed and felt more energetic · (card step)
+- [#691] · 2026-08-26 · **promo** — Katya replies to Kira's feedback and recommends the 'Осенняя аскеза' course by Olia Bastron and Radmila Khakova for procrastinated tasks · (card step)
+- [#694] · 2026-08-31 · **announcement** — Reminder of the 2 Sept stages-of-change workshop and a 3-minute stage diagnostic in the event bot · (card step)
+- [#697] · 2026-09-02 · **logistics** — Same-day reminder that the free workshop with Zhenya Datsko is at 19:00 Moscow time, with bot registration and recording · (card step)
+- [#698] · 2026-09-03 · **announcement** — Recap of the stages-of-change workshop (changes are a process, relapse is natural), recording available, wait-list for a seminar for helping professionals; includes participant feedback screenshot · (card step)
+- [#699] · 2026-09-03 · **other** — Screenshot of a participant's thank-you comment after the change-practicum webinar · (card step)
+- [#700] · 2026-09-03 · **other** — Screenshot of a participant's thank-you comment after the change-practicum webinar · (card step)
+- [#701] · 2026-09-03 · **other** — Screenshot of a participant thanking for the webinar and noting many reasons for reflection · (card step)
+- [#702] · 2026-09-03 · **other** — Screenshot of a one-line participant reaction in the practicum chat ('this is exactly me') · (card step)
+- [#703] · 2026-09-03 · **other** — Screenshot of a participant's chat comment about waiting for the perfect moment; no teaching content of its own · (card step)
+- [#704] · 2026-09-03 · **other** — Screenshot of participant chat questions and short replies from the practicum; no teachable content · (card step)
+- [#705] · 2026-09-03 · **other** — Screenshot of participant chat comments about knowing one's values; no teachable content · (card step)
+- [#706] · 2026-09-05 · **announcement** — Announces joint guide with Anya Bichevskaya on which meta-skills (self-awareness, emotion regulation, learnability, antifragility) are needed at each stage of change · (card step)
+- [#710] · 2026-09-11 · **promo** — Katya's autumn reading picks: two clubs (Lana Chesnovitskaya, Annagleeskee) and two books (Архитектор эмоций, Быть в плюсе) with enrollment links · (card step)
+- [#714] · 2026-09-17 · **announcement** — Navigation post linking Katya's earlier posts on minimal wellness (micro-dosing mindfulness, 7,000 steps, 10-minute workouts, active lifestyle) · (card step)
+- [#715] · 2026-09-18 · **personal-update** — Katya shares the 'This Girl Can' video about women's bodies and sport and wishes for a Russian equivalent · (card step)
+- [#716] · 2026-09-20 · **promo** — Katya explains her blog pause by a move to a new country and recommends the Visual Practicum by Olia Bastron and Anya Mitus (21 Sept - 11 Oct) with payment links · (card step)
+- [#719] · 2026-10-01 · **announcement** — Announces the public YouTube recording of the webinar 'С третьей попытки. Почему так сложно менять жизнь к лучшему' with several speakers · (card step)
+- [#725] · 2026-10-13 · **announcement** — Index post collecting all six issues of the Словарь изменений column (Усилие/Насилие, Контроль/Выбор, Жалость/Сострадание, Приятное/Необходимое, Вера/Ожидания, Отказ/Воздержанность) · (card step)
+- [#729] · 2026-10-18 · **no-content (portrait photo from the #728 photoshoot, no text)** · Body image, face and beauty
+- [#730] · 2026-10-18 · **no-content (portrait photo from the #728 photoshoot, no text)** · Body image, face and beauty
+- [#731] · 2026-10-18 · **no-content (portrait photo from the #728 photoshoot, no text)** · Body image, face and beauty
+- [#732] · 2026-10-18 · **no-content (portrait photo from the #728 photoshoot, no text)** · Body image, face and beauty
+- [#733] · 2026-10-18 · **no-content (portrait photo from the #728 photoshoot, no text)** · Body image, face and beauty
+- [#736] · 2026-10-26 · **personal-update** — Forwarded comment from client Irina Kasatkina confirming the case post: life changed after health coaching with Katya, more zen · (card step)
+- [#743] · 2026-11-11 · **promo** — Recommendation and enrollment details for Nastya Grabovich's 7th 'Тело и движение' online practicum (Nov 14-Dec 21, from 5400 RUB) as a way to find light in the dark season · (card step)

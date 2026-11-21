@@ -1,0 +1,2112 @@
+{
+ "domains": [
+  {
+   "domain": "Autism and Neurodiversity",
+   "slug": "autism-neurodiversity",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Understanding autism: myths, stereotypes and the spectrum",
+     "slug": "autism-myths-and-spectrum",
+     "scope": "What autism is and is not: deficit vs difference models, empathy and masking myths, DSM-5 support levels, why 'high-functioning' is a bad label, the spectrum as a wheel of traits, history (Sukhareva, Wing) and media stereotypes.",
+     "themes": [
+      "autism",
+      "myths",
+      "neurodiversity"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "stigma-and-acceptance",
+      "empathy",
+      "relationships-family"
+     ],
+     "ids": [
+      244,
+      317,
+      318,
+      324,
+      359,
+      360,
+      372,
+      373,
+      402,
+      403,
+      533,
+      534,
+      535,
+      621,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      692
+     ],
+     "count": 24
+    },
+    {
+     "title": "The double empathy problem: mutual misunderstanding between autistic and neurotypical people",
+     "slug": "double-empathy-problem",
+     "scope": "Milton's double empathy theory vs mind-blindness, studies of autistic-neurotypical communication and first impressions, and how both sides can bridge the gap with openness and self-compassion.",
+     "themes": [
+      "autism",
+      "empathy",
+      "communication"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "double-empathy",
+      "neurodiversity",
+      "empathy",
+      "stigma-and-acceptance",
+      "self-compassion"
+     ],
+     "ids": [
+      420,
+      425,
+      426,
+      432,
+      443,
+      444
+     ],
+     "count": 6
+    },
+    {
+     "title": "Autism and employment: strengths, barriers and workplace inclusion",
+     "slug": "autism-employment-inclusion",
+     "scope": "Myths about autistic careers and teamwork, work strengths (detail focus, monotropism), Buckland Review statistics, barriers and recommendations, accommodations that help, and research on remote work and neuroinclusive teams.",
+     "themes": [
+      "autism",
+      "work",
+      "inclusion"
+     ],
+     "also_areas": [
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "workplace-inclusion",
+      "neurodiversity",
+      "workplace-motivation-hiring",
+      "remote-work",
+      "stigma-and-acceptance"
+     ],
+     "ids": [
+      379,
+      383,
+      386,
+      544,
+      545,
+      549,
+      550,
+      552,
+      675
+     ],
+     "count": 9
+    },
+    {
+     "title": "Sensory regulation, emotions and recovery for neurodivergent people",
+     "slug": "sensory-regulation-emotions-recovery",
+     "scope": "Stimming and its functions, the eight sensory channels including interoception, how autistic adults recognize and regulate emotions, and concrete sensory-based ways to relax and restore energy.",
+     "themes": [
+      "sensory",
+      "emotions",
+      "rest"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Mind & Emotions",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "emotional-regulation",
+      "neurodiversity",
+      "stress-and-anxiety",
+      "rest-and-recovery",
+      "energy-management"
+     ],
+     "ids": [
+      365,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      727,
+      729,
+      732
+     ],
+     "count": 16
+    }
+   ]
+  },
+  {
+   "domain": "Brain Research",
+   "slug": "brain-research",
+   "area": "Neuroscience & Cognitive Science",
+   "topics": [
+    {
+     "title": "Brain connectivity and subtypes in autism",
+     "slug": "autism-brain-connectivity",
+     "scope": "Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.",
+     "themes": [
+      "autism",
+      "connectivity",
+      "fmri"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "brain-connectivity",
+      "neurodiversity",
+      "brain-development",
+      "biomedical-research"
+     ],
+     "ids": [
+      456,
+      457,
+      458,
+      463,
+      464,
+      519,
+      521,
+      525,
+      526,
+      541
+     ],
+     "count": 10
+    },
+    {
+     "title": "How the brain changes across the lifespan",
+     "slug": "brain-development-lifespan",
+     "scope": "Cambridge study of four brain turning points (9, 32, 66, 83), asynchronous cognitive peaks, adolescent synaptic pruning and shared risk for mental disorders, musicians' aging brains and human brain evolution.",
+     "themes": [
+      "brain development",
+      "aging",
+      "adolescence"
+     ],
+     "also_areas": [
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "brain-development",
+      "brain-connectivity",
+      "longevity",
+      "music-and-brain"
+     ],
+     "ids": [
+      64,
+      175,
+      176,
+      181,
+      678,
+      679,
+      680,
+      682
+     ],
+     "count": 8
+    },
+    {
+     "title": "Emotion circuits: fear extinction, anger and aggression",
+     "slug": "fear-extinction-emotion-circuits",
+     "scope": "How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.",
+     "themes": [
+      "fear",
+      "amygdala",
+      "dopamine",
+      "anger"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "fear-extinction",
+      "emotional-regulation",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      150,
+      264,
+      599,
+      600,
+      602,
+      603
+     ],
+     "count": 6
+    },
+    {
+     "title": "Brain maintenance: waste clearance, mental fatigue and Alzheimer's links",
+     "slug": "brain-clearance-mental-fatigue",
+     "scope": "Deep sleep and 40 Hz gamma stimulation driving glymphatic brain clearance, why hours of hard cognitive work build up glutamate and push toward short-term choices, and a fungal pathway to Alzheimer's-like pathology.",
+     "themes": [
+      "glymphatic",
+      "sleep",
+      "mental fatigue",
+      "alzheimer"
+     ],
+     "also_areas": [
+      "Sleep",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "brain-health",
+      "fatigue",
+      "sleep-hygiene",
+      "willpower"
+     ],
+     "ids": [
+      169,
+      170,
+      246,
+      247,
+      314,
+      315
+     ],
+     "count": 6
+    }
+   ]
+  },
+  {
+   "domain": "Mind, Self and Perception",
+   "slug": "mind-self-perception",
+   "area": "Neuroscience & Cognitive Science",
+   "topics": [
+    {
+     "title": "The self, consciousness and free will",
+     "slug": "self-consciousness-free-will",
+     "scope": "The 'I' as a brain model and useful illusion, critiques of IIT wording, Sapolsky's case against free will, measuring consciousness under anesthesia, and how alpha rhythms create the sense of body ownership.",
+     "themes": [
+      "self",
+      "consciousness",
+      "free will"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice"
+     ],
+     "concepts": [
+      "consciousness-and-self",
+      "free-will",
+      "sensory-perception"
+     ],
+     "ids": [
+      13,
+      14,
+      50,
+      173,
+      248,
+      690
+     ],
+     "count": 6
+    },
+    {
+     "title": "How perception works: from sensory fragments to meaning",
+     "slug": "perception-science",
+     "scope": "How the brain assembles sensations into percepts (the dress, duck-rabbit), individual differences in color perception, the visually evoked auditory response, simultaneous vs successive perception and the left/right brain myth.",
+     "themes": [
+      "perception",
+      "senses",
+      "hemispheres"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "sensory-perception",
+      "sensory-processing"
+     ],
+     "ids": [
+      199,
+      227,
+      366,
+      474
+     ],
+     "count": 4
+    },
+    {
+     "title": "Music and the brain",
+     "slug": "music-and-brain",
+     "scope": "Why music moves us: biology of intonation, major/minor and rhythm, neural resonance and entrainment theory, universal note prediction, musicians' brains and sonification of stars.",
+     "themes": [
+      "music",
+      "neuroscience",
+      "emotion"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "music-and-brain",
+      "sensory-perception"
+     ],
+     "ids": [
+      25,
+      157,
+      683,
+      684,
+      685,
+      720
+     ],
+     "count": 6
+    }
+   ]
+  },
+  {
+   "domain": "Social Psychology and Society",
+   "slug": "social-psychology-society",
+   "area": "Society & Politics",
+   "topics": [
+    {
+     "title": "Group polarization, conformity and social norms",
+     "slug": "polarization-conformity-norms",
+     "scope": "Why groups radicalize and people defend positions ever more fiercely, preference falsification, Asch/Milgram/Zimbardo reread, why rumors and memes spread, traditions and unwritten norms (Serbian hospitality) as system rigidity or balance, and masculinity as a shifting social norm (the 'crisis of masculinity' and men's double bind).",
+     "themes": [
+      "polarization",
+      "conformity",
+      "social identity"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "group-polarization",
+      "conformity",
+      "gender-expectations",
+      "cognitive-biases"
+     ],
+     "ids": [
+      28,
+      52,
+      55,
+      57,
+      86,
+      91,
+      97,
+      369,
+      423,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615
+     ],
+     "count": 9
+    },
+    {
+     "title": "Cooperation, game theory and the origins of morality",
+     "slug": "cooperation-game-theory-morality",
+     "scope": "Prisoner's dilemma, Nash equilibrium, Axelrod's tournament and tit-for-tat, pseudo-dilemmas built on emotional pressure, plus how empathy, kindness and moral progress arise (de Waal, Pinker).",
+     "themes": [
+      "game theory",
+      "cooperation",
+      "morality"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "game-theory-cooperation",
+      "empathy"
+     ],
+     "ids": [
+      4,
+      274,
+      275,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      330,
+      343,
+      344,
+      345,
+      450,
+      462
+     ],
+     "count": 15
+    },
+    {
+     "title": "Living under authoritarian regimes: compliance, denunciation and resistance",
+     "slug": "authoritarian-regimes-psychology",
+     "scope": "Why regimes get denunciations, why conscripts comply, asking who benefits instead of thinking in abstractions, double binds, witchcraft belief where institutions fail, and ridicule and whispered jokes as resistance.",
+     "themes": [
+      "authoritarianism",
+      "resistance",
+      "humor"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "politics-authoritarianism",
+      "war-ethics-resilience",
+      "conformity"
+     ],
+     "ids": [
+      12,
+      33,
+      77,
+      79,
+      108,
+      140,
+      141,
+      167
+     ],
+     "count": 8
+    },
+    {
+     "title": "Small actions and social change: beating helplessness",
+     "slug": "small-actions-social-change",
+     "scope": "Why the nirvana fallacy blocks action, historical cases where single actions led to big change, ripple effects and micro-legacies, and helping others as an antidote to helplessness and depression.",
+     "themes": [
+      "social change",
+      "helplessness",
+      "meaning"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "social-change-activism",
+      "meaning-purpose",
+      "uncertainty-resilience"
+     ],
+     "ids": [
+      11,
+      554,
+      555,
+      556
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "domain": "Psychotherapy, Relationships and Self-Work",
+   "slug": "psychotherapy-relationships",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "Self-blame, overcontrol and the inner critic",
+     "slug": "self-blame-overcontrol",
+     "scope": "How hindsight bias and error-correction produce self-blame, why 'I did my best' is a flawed frame, the costs of overcontrol (RO DBT), the 'good daughter' false self, satisficing over overcomplication, habit replacement and creators' restlessness.",
+     "themes": [
+      "self-blame",
+      "perfectionism",
+      "cognitive quirks"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "self-compassion",
+      "cognitive-biases",
+      "perfectionism",
+      "habit-formation",
+      "ego-narcissism"
+     ],
+     "ids": [
+      20,
+      22,
+      23,
+      89,
+      195,
+      473,
+      497,
+      543,
+      717
+     ],
+     "count": 9
+    },
+    {
+     "title": "Evidence-based therapy approaches and choosing help",
+     "slug": "evidence-based-therapy-help",
+     "scope": "ACT and its hexaflex, Integrative Behavioral Couple Therapy, harmful psychotherapies to avoid, choosing a self-help book for anxiety, a grounding practice for anxiety and insomnia, and free mental-health programs and lectures.",
+     "themes": [
+      "therapy",
+      "act",
+      "self-help"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "psychotherapy",
+      "acceptance-commitment-therapy",
+      "relationships-family",
+      "ethics-in-inner-work",
+      "somatic-regulation",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      34,
+      43,
+      68,
+      142,
+      321,
+      337,
+      338,
+      339,
+      340,
+      668
+     ],
+     "count": 10
+    },
+    {
+     "title": "Relationships, communication and repairing connection",
+     "slug": "relationships-communication-repair",
+     "scope": "Saying no with NVC, why familiar partners feel right, connection as exchange of shared facets and how to review a strained bond, the love-languages myth, Grice's conversational maxims, and how to support a hurt person (validation, attachment, restorative justice).",
+     "themes": [
+      "relationships",
+      "communication",
+      "attachment"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "relationships-family",
+      "nonviolent-communication",
+      "attachment-theory",
+      "boundaries",
+      "trauma-and-nervous-system"
+     ],
+     "ids": [
+      3,
+      190,
+      229,
+      280,
+      281,
+      286,
+      395,
+      498,
+      499
+     ],
+     "count": 9
+    }
+   ]
+  },
+  {
+   "domain": "Happiness, Meaning and Rest",
+   "slug": "happiness-meaning-rest",
+   "area": "Balance & Life Philosophy",
+   "topics": [
+    {
+     "title": "Happiness, meaning and the good life",
+     "slug": "happiness-meaning-good-life",
+     "scope": "Why wishes fail to bring happiness (affective forecasting, adaptation, comparison), the hedonic treadmill, the experience machine, a psychologically rich life as a third axis, meaning as support against stress (Frankl), personal values, and checking happiness claims against sources.",
+     "themes": [
+      "happiness",
+      "meaning",
+      "values"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "happiness-wellbeing",
+      "meaning-purpose",
+      "freedom-and-culture",
+      "scientific-thinking"
+     ],
+     "ids": [
+      101,
+      102,
+      103,
+      130,
+      134,
+      137,
+      138,
+      139,
+      145,
+      151,
+      664
+     ],
+     "count": 11
+    },
+    {
+     "title": "Hobbies, play and switching off",
+     "slug": "hobbies-play-switching-off",
+     "scope": "Why keep hobbies in a crisis, whether a hobby must counterbalance work (focused vs diffused mode), daily creative expression, reading without guilt, and lessons from a writing marathon.",
+     "themes": [
+      "hobbies",
+      "rest",
+      "play"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "hobbies-and-play",
+      "rest-and-recovery",
+      "uncertainty-resilience",
+      "work-life-balance"
+     ],
+     "ids": [
+      122,
+      126,
+      128,
+      132,
+      143
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "AI and Human-Machine Technology",
+   "slug": "ai-human-machine",
+   "area": "Technology & AI",
+   "topics": [
+    {
+     "title": "Large language models: capabilities, limits and risks",
+     "slug": "llm-capabilities-limits-risks",
+     "scope": "First impressions of ChatGPT, why it fails at arithmetic, hallucinations when summarizing papers, political biases in language models, citing AI, summarizers and video generators, and why states ban AI as a therapist.",
+     "themes": [
+      "chatgpt",
+      "llm",
+      "ai risks"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Science & Research"
+     ],
+     "concepts": [
+      "large-language-models",
+      "ai-and-humans",
+      "scientific-thinking",
+      "psychotherapy"
+     ],
+     "ids": [
+      136,
+      159,
+      171,
+      184,
+      204,
+      523,
+      524,
+      635,
+      672
+     ],
+     "count": 9
+    },
+    {
+     "title": "Human-machine interfaces and AI in science",
+     "slug": "human-machine-interfaces-ai-science",
+     "scope": "Wearables that read faces and silent speech, an AI that moves the user's body, robotaxis, AI-designed proteins and antibiotics, Piaget-inspired robotics, and fiction about the human-machine future.",
+     "themes": [
+      "wearables",
+      "interfaces",
+      "ai in science"
+     ],
+     "also_areas": [
+      "Science & Research"
+     ],
+     "concepts": [
+      "human-machine-interfaces",
+      "ai-and-humans",
+      "biomedical-research"
+     ],
+     "ids": [
+      118,
+      156,
+      172,
+      182,
+      192,
+      206,
+      566,
+      567,
+      568,
+      569,
+      734
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Science, Research and Careers",
+   "slug": "science-research-careers",
+   "area": "Science & Research",
+   "topics": [
+    {
+     "title": "Scientific thinking, philosophy and reading lists",
+     "slug": "scientific-thinking-reading",
+     "scope": "What makes a science good (updatable, integrated, open), whether philosophy is useful, failed replication (LK-99), formative book lists and books on humanity's future, and free resources for reading research.",
+     "themes": [
+      "science",
+      "philosophy",
+      "books"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "scientific-thinking",
+      "open-science"
+     ],
+     "ids": [
+      40,
+      58,
+      109,
+      110,
+      116,
+      121,
+      208,
+      334,
+      335,
+      336,
+      494
+     ],
+     "count": 11
+    },
+    {
+     "title": "Biomedical research news: aging, epigenetics and medicine",
+     "slug": "biomedical-research-news",
+     "scope": "Short research digests: parabiosis and cryopreservation, epigenetic inheritance, aspartame and memory in mice, mitochondrial transplants, sex differences in strength training, TB and COVID public health lessons, digital twins of nervous systems, and entropy.",
+     "themes": [
+      "biomedicine",
+      "aging",
+      "epigenetics"
+     ],
+     "also_areas": [
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "biomedical-research",
+      "longevity",
+      "epigenetics"
+     ],
+     "ids": [
+      39,
+      146,
+      174,
+      178,
+      186,
+      187,
+      201,
+      210,
+      238,
+      255
+     ],
+     "count": 10
+    },
+    {
+     "title": "Careers in psychology and science: from clinic to research",
+     "slug": "psychology-science-careers",
+     "scope": "Working as a psychologist on online platforms abroad, moving from clinical practice into neuroscience, PhD survival skills from 'A PhD Is Not Enough', and first coding steps (MATLAB, Python) for research.",
+     "themes": [
+      "career",
+      "phd",
+      "psychologist"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "academic-career",
+      "career-change",
+      "remote-work"
+     ],
+     "ids": [
+      41,
+      45,
+      287,
+      299,
+      300,
+      301,
+      302,
+      495
+     ],
+     "count": 8
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 6,
+   "kind": "personal-update",
+   "gist": "Author's reply on when she most easily agrees to requests: quick pleasant reciprocity lowers tension"
+  },
+  {
+   "id": 8,
+   "kind": "announcement",
+   "gist": "Shares a presentation with 7 points on what happens to us now and 7 on self-help (calm, shame, self-judgment); video to follow"
+  },
+  {
+   "id": 15,
+   "kind": "other",
+   "gist": "3/3: Attached 'Мои опоры' workbook file for the practice; no text"
+  },
+  {
+   "id": 17,
+   "kind": "announcement",
+   "gist": "Announcement of NIMH webinar on fMRI-guided TMS plus cognitive therapy for depression, with depression symptom overview and speaker bios"
+  },
+  {
+   "id": 19,
+   "kind": "personal-update",
+   "gist": "Joke about living in Serbia, renaming the town 'Razdraevo', and Sarajevo 1914 hypothetical"
+  },
+  {
+   "id": 29,
+   "kind": "other",
+   "gist": "Photo of the book cover 'Заправляй кровать' (McRaven); no text beyond cover"
+  },
+  {
+   "id": 32,
+   "kind": "announcement",
+   "gist": "Remarks on a mystery: 39 subscribers but 50-100+ unique views; asks readers who they are"
+  },
+  {
+   "id": 35,
+   "kind": "other",
+   "gist": "Geek humor image about the ribosome and ribosomal proteins"
+  },
+  {
+   "id": 36,
+   "kind": "personal-update",
+   "gist": "Humorous dialogue about planting a date pit and 'Russian chernozem' as most expensive soil in the Emirates"
+  },
+  {
+   "id": 37,
+   "kind": "personal-update",
+   "gist": "Notes on Fitcy, a UAE therapist platform, with session price 149 AED per session in packages of four, plus anagram joke"
+  },
+  {
+   "id": 38,
+   "kind": "personal-update",
+   "gist": "Anecdote about a hotel parking chain noise and the pun 'chain reaction'"
+  },
+  {
+   "id": 44,
+   "kind": "announcement",
+   "gist": "One-line news: Alexandra Arkhipova plans a podcast 'Ты не один' on life under different political regimes"
+  },
+  {
+   "id": 46,
+   "kind": "logistics",
+   "gist": "Reminder with webinar access details for the NIMH TMS plus cognitive therapy event today via WebEx"
+  },
+  {
+   "id": 47,
+   "kind": "other",
+   "gist": "Joke image: top-3 questions we ask ourselves, from a toddler encyclopedia"
+  },
+  {
+   "id": 48,
+   "kind": "announcement",
+   "gist": "Asks readers whether to post material in plain English"
+  },
+  {
+   "id": 49,
+   "kind": "announcement",
+   "gist": "Poll: can you read and watch in English, or only Russian (18 votes)"
+  },
+  {
+   "id": 51,
+   "kind": "other",
+   "gist": "Meme image about false dichotomies: we embrace them because the only alternative is cannibalism"
+  },
+  {
+   "id": 56,
+   "kind": "other",
+   "gist": "Photo of soft natural polarization, a pun on the topic; no text"
+  },
+  {
+   "id": 61,
+   "kind": "personal-update",
+   "gist": "Share of a musical parody by Rock Privet on Shufutinsky hit, for Sept 3"
+  },
+  {
+   "id": 62,
+   "kind": "other",
+   "gist": "Joke image about being a scientist in the Middle Ages"
+  },
+  {
+   "id": 63,
+   "kind": "personal-update",
+   "gist": "Self-made English riddle-rhyme about funding good projects"
+  },
+  {
+   "id": 66,
+   "kind": "announcement",
+   "gist": "Thanks readers; link to boost channel avatar with a reaction"
+  },
+  {
+   "id": 67,
+   "kind": "announcement",
+   "gist": "Notes that Robert Sapolsky is speaking now at the Russian CBT conference"
+  },
+  {
+   "id": 69,
+   "kind": "other",
+   "gist": "Audio 1 for the grounding practice: one breath cycle (voice message not available)"
+  },
+  {
+   "id": 72,
+   "kind": "other",
+   "gist": "Audio 4 for the grounding practice: four sensations (voice message not available)"
+  },
+  {
+   "id": 76,
+   "kind": "other",
+   "gist": "Shares a view by historian of religion Konstantin Mikhailov on one key question instead of reactions; no content in text"
+  },
+  {
+   "id": 78,
+   "kind": "promo",
+   "gist": "Shares fresh video by Irina Yakutenko, asking readers to reflect critically on whether it resonates"
+  },
+  {
+   "id": 80,
+   "kind": "other",
+   "gist": "Screenshot of beauty salon discount message and a reply explaining she is no longer in Russia"
+  },
+  {
+   "id": 82,
+   "kind": "announcement",
+   "gist": "Announces Kafka and Orwell Forum, 7-9 October 2022 in Georgia, a civic discussion platform"
+  },
+  {
+   "id": 84,
+   "kind": "personal-update",
+   "gist": "Humorous musical post about overusing a newly learned technique on any instrument, with a video link"
+  },
+  {
+   "id": 85,
+   "kind": "personal-update",
+   "gist": "Screenshot of Dubai rock concert listings (The Coronas, Kylie Minogue) as a joke"
+  },
+  {
+   "id": 87,
+   "kind": "personal-update",
+   "gist": "Explains the tag about writing publicly: author's self-intro as clinical psychologist and her 4700+ notes, joining a writing-accountability group"
+  },
+  {
+   "id": 88,
+   "kind": "personal-update",
+   "gist": "Joy at being mentioned in the Alinamoria channel, plus link to a psychodemia talk"
+  },
+  {
+   "id": 90,
+   "kind": "other",
+   "gist": "Reply with a link to a weekly inspiration blog and image of mind-related words"
+  },
+  {
+   "id": 98,
+   "kind": "other",
+   "gist": "Image with only fragmentary letters (B, C), no usable content"
+  },
+  {
+   "id": 107,
+   "kind": "other",
+   "gist": "Shares anthropologist Aleksandra Arkhipova's humorous observation about double bind"
+  },
+  {
+   "id": 114,
+   "kind": "announcement",
+   "gist": "Teaser that the next forwarded post is important for psychotherapists (legal topic)"
+  },
+  {
+   "id": 115,
+   "kind": "announcement",
+   "gist": "Forward from Психодемия: webinar on 17 Nov 18:00 on how traditional-values laws affect psychological practice, registration link"
+  },
+  {
+   "id": 117,
+   "kind": "other",
+   "gist": "Photo of library book spines (i-Minds, Experiments in Democracy, The Brain and Behavior, personality disorders workbook)"
+  },
+  {
+   "id": 120,
+   "kind": "announcement",
+   "gist": "Announcement of a livestream 'Crises and identity' by Чистые когниции hosts (ACT psychologists) on rebuilding identity in migration and loss"
+  },
+  {
+   "id": 124,
+   "kind": "personal-update",
+   "gist": "Shares a funny video about being a psychotherapist or in therapy, asks for hearts"
+  },
+  {
+   "id": 125,
+   "kind": "other",
+   "gist": "Image reply with a signature-like fragment, no usable content"
+  },
+  {
+   "id": 127,
+   "kind": "other",
+   "gist": "Screenshot of a dictionary entry for 'hobby' that jokingly includes 'penis'"
+  },
+  {
+   "id": 129,
+   "kind": "other",
+   "gist": "Humorous flowchart for migrants choosing a country to move to"
+  },
+  {
+   "id": 131,
+   "kind": "personal-update",
+   "gist": "Playful call for the mysterious reader who cries under her posts to step forward; update: found"
+  },
+  {
+   "id": 133,
+   "kind": "personal-update",
+   "gist": "Shares the song 'Wise Enough' by Lamb with lyrics and streaming links"
+  },
+  {
+   "id": 135,
+   "kind": "personal-update",
+   "gist": "Joke about Teo soap name meaning 'Lord' in Greek"
+  },
+  {
+   "id": 144,
+   "kind": "other",
+   "gist": "Notes that Russian publishers face difficulties from new censorship, linking Galina Yuzefovich's Meduza interview"
+  },
+  {
+   "id": 147,
+   "kind": "personal-update",
+   "gist": "Pun joke about Alaska ('alas') renamed"
+  },
+  {
+   "id": 148,
+   "kind": "other",
+   "gist": "Forwarded (Signal) fake-sounding news about an Alaska referendum to join Russia"
+  },
+  {
+   "id": 149,
+   "kind": "other",
+   "gist": "Short note recommending a translated review shared in the next forward"
+  },
+  {
+   "id": 152,
+   "kind": "announcement",
+   "gist": "Announcement that journal Nature Mental Health launches in January, with subscribe link"
+  },
+  {
+   "id": 154,
+   "kind": "other",
+   "gist": "Meme image about identity ('С тождеством!')"
+  },
+  {
+   "id": 155,
+   "kind": "other",
+   "gist": "Vague teaser about something fun from human-machine integration"
+  },
+  {
+   "id": 158,
+   "kind": "promo",
+   "gist": "Shares Kagi Universal Summarizer that summarizes any article by URL, asks to test"
+  },
+  {
+   "id": 160,
+   "kind": "other",
+   "gist": "Joke video on how to tell geek from nerd"
+  },
+  {
+   "id": 161,
+   "kind": "other",
+   "gist": "Reddit ELI5 joke: why we cannot monitor neurotransmitters like insulin"
+  },
+  {
+   "id": 163,
+   "kind": "announcement",
+   "gist": "Nature Mental Health first issue released, free to read for a limited time"
+  },
+  {
+   "id": 164,
+   "kind": "other",
+   "gist": "Link to Dud' interview about humanism and law toward criminals with a Hague educator"
+  },
+  {
+   "id": 166,
+   "kind": "other",
+   "gist": "Neural-net-generated unusual architecture images, link to Instagram artist, hope for a beautiful future"
+  },
+  {
+   "id": 168,
+   "kind": "other",
+   "gist": "Philosophy joke image playing on FAQ: ontology, causality, epistemology, phenomenology"
+  },
+  {
+   "id": 177,
+   "kind": "other",
+   "gist": "One-line remark about an important day for humanity"
+  },
+  {
+   "id": 179,
+   "kind": "personal-update",
+   "gist": "Humor: pillowcases from same wash differ, twins in same environment analogy"
+  },
+  {
+   "id": 180,
+   "kind": "other",
+   "gist": "Teaser sharing something unmissable in next forward"
+  },
+  {
+   "id": 183,
+   "kind": "promo",
+   "gist": "Playful link to MIT Press book Distributional Reinforcement Learning"
+  },
+  {
+   "id": 185,
+   "kind": "personal-update",
+   "gist": "Joke screenshot of Abu Dhabi airport wifi accept page"
+  },
+  {
+   "id": 188,
+   "kind": "other",
+   "gist": "Link to therapy memes short video"
+  },
+  {
+   "id": 189,
+   "kind": "personal-update",
+   "gist": "Booking find: sleeping in a wine barrel at an Austrian vineyard"
+  },
+  {
+   "id": 191,
+   "kind": "other",
+   "gist": "Teaser for news on thought-recognition technology"
+  },
+  {
+   "id": 193,
+   "kind": "other",
+   "gist": "Teaser for AI-created content"
+  },
+  {
+   "id": 194,
+   "kind": "other",
+   "gist": "Forwarded (Neuro): AI cover of System of a Down Toxicity with Winnie the Pooh voice, so-vits-svc GitHub link"
+  },
+  {
+   "id": 196,
+   "kind": "announcement",
+   "gist": "Poll teaser: does a visual gif of towers make you hear sound?"
+  },
+  {
+   "id": 197,
+   "kind": "announcement",
+   "gist": "Poll: looking at the gif, do you hear a sound (25 votes)"
+  },
+  {
+   "id": 200,
+   "kind": "other",
+   "gist": "Teaser pointing to immortality-related news in next forward"
+  },
+  {
+   "id": 202,
+   "kind": "other",
+   "gist": "Therapy joke image: smoker doctor dialogue about 'supports'"
+  },
+  {
+   "id": 205,
+   "kind": "other",
+   "gist": "Comment: even AI is biased, referring to previous post"
+  },
+  {
+   "id": 207,
+   "kind": "other",
+   "gist": "Teaser heading about the Korean material LK-99 turning out to be an ordinary insulator"
+  },
+  {
+   "id": 209,
+   "kind": "other",
+   "gist": "Teaser for the next forward about neuroscience"
+  },
+  {
+   "id": 211,
+   "kind": "other",
+   "gist": "Reddit meme: the Rick Astley paradox (never gives you up but lets you down)"
+  },
+  {
+   "id": 213,
+   "kind": "personal-update",
+   "gist": "Personal update: author's new base in the Balkans, Belgrade pride week cultural program"
+  },
+  {
+   "id": 214,
+   "kind": "logistics",
+   "gist": "Forwarded from Mapa Mag: guide to Belgrade Pride Week 2023 events (exhibitions, theatre, lectures, parties, concert)"
+  },
+  {
+   "id": 215,
+   "kind": "other",
+   "gist": "Meme: Google's 'Manage your family' screenshot, joke about machine not parsing it"
+  },
+  {
+   "id": 216,
+   "kind": "personal-update",
+   "gist": "Author notes visual illusions: looking at photos of Belgrade flats evokes sounds and body sensations; asks readers if it happens to them"
+  },
+  {
+   "id": 218,
+   "kind": "other",
+   "gist": "ADHD breakfast meme from Dankest Memes"
+  },
+  {
+   "id": 219,
+   "kind": "personal-update",
+   "gist": "Personal engineering hack: fixing an over-long soap pump by swapping in a tube from a shower-gel dispenser, with reasoning on plastic vs effort trade-offs"
+  },
+  {
+   "id": 222,
+   "kind": "other",
+   "gist": "Photo without text (soap dispenser fix result)"
+  },
+  {
+   "id": 225,
+   "kind": "other",
+   "gist": "Meme: Russian society says depression is invented, yet folklore's Ilya Muromets lay on the stove for 33 years"
+  },
+  {
+   "id": 226,
+   "kind": "announcement",
+   "gist": "Quick gestalt exercise: what do you see on the 'KONTAKT healthy & fine dining' sign; answers in comments"
+  },
+  {
+   "id": 228,
+   "kind": "personal-update",
+   "gist": "Anecdote of rescuing an overturned beetle by laying paper next to it so it climbs on; moral about compassion"
+  },
+  {
+   "id": 232,
+   "kind": "promo",
+   "gist": "Tinkoff released a mini-course on using neural networks for work, study and daily life; author plans to test it"
+  },
+  {
+   "id": 234,
+   "kind": "promo",
+   "gist": "Shares a Yandex Music album link she liked"
+  },
+  {
+   "id": 235,
+   "kind": "announcement",
+   "gist": "Author, a psychotherapist, announces ORKT (solution-focused) supervision groups for practitioners"
+  },
+  {
+   "id": 236,
+   "kind": "logistics",
+   "gist": "Launch of ORKT supervisions: twice-monthly case groups based on Frank Thomas's practices; first meeting 21.10, 800 rub, Zoom"
+  },
+  {
+   "id": 240,
+   "kind": "personal-update",
+   "gist": "Humor: author's first milk-pour latte art attempt not recognized by partner, called abstract expressionism"
+  },
+  {
+   "id": 249,
+   "kind": "other",
+   "gist": "Meme about wizard/sorcerer/warlock classes: who is the wizard today"
+  },
+  {
+   "id": 250,
+   "kind": "promo",
+   "gist": "Shares a game 'Antidepressants or Tolkien' for therapists and psychiatrists"
+  },
+  {
+   "id": 251,
+   "kind": "logistics",
+   "gist": "Free DocPsyFest evidence-based psychology festival until 19 Nov; topics include procrastination, insomnia, attachment wounds, C-PTSD, assertiveness"
+  },
+  {
+   "id": 252,
+   "kind": "personal-update",
+   "gist": "Humor: audiobook of Frans de Waal blaring 'Sexual signals of primates' in the airport"
+  },
+  {
+   "id": 254,
+   "kind": "other",
+   "gist": "Meme: Newton's law of gravitation phrased jokingly; behind every discovery is a ton of work"
+  },
+  {
+   "id": 256,
+   "kind": "other",
+   "gist": "Joke: Serbian IKEA 'teflon' coating as a Germanic tribe, nothing sticks to it"
+  },
+  {
+   "id": 260,
+   "kind": "personal-update",
+   "gist": "Personal note on first winter in Belgrade: snow, climate (Alps and Carpathians, cold air from Russia), forecast"
+  },
+  {
+   "id": 262,
+   "kind": "personal-update",
+   "gist": "Wolf meme and personal update: keeping interests alive by grabbing 10-15 minutes of audio in transit; recommends Sapolsky discussion and Patricia Churchland's 'Touching a Nerve'"
+  },
+  {
+   "id": 263,
+   "kind": "personal-update",
+   "gist": "TikTok vortex filter challenge that warps what the camera sees; poll on reaction"
+  },
+  {
+   "id": 265,
+   "kind": "other",
+   "gist": "Meme about the book that makes you go 'hmmmm' and wear tiny glasses"
+  },
+  {
+   "id": 267,
+   "kind": "other",
+   "gist": "Meme: Mercator projection distorts a borzoi dog; checking physical reality is a key skill"
+  },
+  {
+   "id": 268,
+   "kind": "announcement",
+   "gist": "Channel's 2-year anniversary: plans for autism research, ambidexterity, clinical notes, exercise, PhD life, Python; languages Russian, English, Serbian"
+  },
+  {
+   "id": 269,
+   "kind": "personal-update",
+   "gist": "Author's English poem about the channel name: human gazing upon machine, depth within"
+  },
+  {
+   "id": 271,
+   "kind": "other",
+   "gist": "Spring photo with a note about love"
+  },
+  {
+   "id": 272,
+   "kind": "other",
+   "gist": "Humor: Chekhov's pince-nez as Russian answer to VR and Google glasses"
+  },
+  {
+   "id": 278,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 283,
+   "kind": "personal-update",
+   "gist": "Humor: asking 'if it is hard, say no' and the partner answers 'No' to the 'Is it hard?' question"
+  },
+  {
+   "id": 284,
+   "kind": "personal-update",
+   "gist": "Message of concern to Moscow readers after the Crocus attack"
+  },
+  {
+   "id": 285,
+   "kind": "other",
+   "gist": "Part 2 header of 'Contact of facets' (dated 2021/2024), text continues in the next post"
+  },
+  {
+   "id": 290,
+   "kind": "logistics",
+   "gist": "Crocus attack help: free psychologist sessions, Pure Cognitions self-help guides, emergency phone lines"
+  },
+  {
+   "id": 291,
+   "kind": "other",
+   "gist": "Lateral proverb 'a pig of discord ran between us'"
+  },
+  {
+   "id": 294,
+   "kind": "other",
+   "gist": "Meme: purpose is a human-made concept; free yourself from the pressure"
+  },
+  {
+   "id": 295,
+   "kind": "other",
+   "gist": "Header for 'A PhD is Not Enough' by Peter Feibelman: guide to survival in science"
+  },
+  {
+   "id": 296,
+   "kind": "personal-update",
+   "gist": "Personal story of choosing a PhD path, discovering Feibelman's book 'A PhD Is Not Enough' in 2016 and returning to it"
+  },
+  {
+   "id": 297,
+   "kind": "other",
+   "gist": "PhD meme about being pushed to write a dissertation"
+  },
+  {
+   "id": 298,
+   "kind": "promo",
+   "gist": "Music find: Glass Beams, Melbourne psychedelic band with Indian roots and masks"
+  },
+  {
+   "id": 303,
+   "kind": "personal-update",
+   "gist": "Humor: Balkan breakfast ash as 'ash of Yugoslavia's collapse'"
+  },
+  {
+   "id": 310,
+   "kind": "other",
+   "gist": "Comic page about a lost child and double paradox (translation from artqot); part of April 1 comic"
+  },
+  {
+   "id": 316,
+   "kind": "other",
+   "gist": "Photo caption: silenced hippocampal neurons in mouse let less tracer through (figure from Nature study)"
+  },
+  {
+   "id": 322,
+   "kind": "logistics",
+   "gist": "Reply: Google surfaced a Balkan center's intro course on IBCT (online, 19 April 2024) right after the author's search"
+  },
+  {
+   "id": 325,
+   "kind": "other",
+   "gist": "Pointer to the continuation of the autism stereotypes post"
+  },
+  {
+   "id": 326,
+   "kind": "other",
+   "gist": "Forwarded meme from Аутичные переводы: ADHD hyperfixation joke about becoming a thermonuclear astrophysics expert overnight"
+  },
+  {
+   "id": 329,
+   "kind": "announcement",
+   "gist": "Teaser for a game-theory longread on cooperation; introduces the prisoner's dilemma as prerequisite"
+  },
+  {
+   "id": 331,
+   "kind": "personal-update",
+   "gist": "Anecdote: a nostalgic mulled-wine diffuser and husband Marco's 'I got used to it' reaction"
+  },
+  {
+   "id": 332,
+   "kind": "announcement",
+   "gist": "Author plans to attend an autism/neurodiversity online conference"
+  },
+  {
+   "id": 333,
+   "kind": "announcement",
+   "gist": "Forwarded from ДокПсиФест: promo for the online Otlichnaya Konferentsiya on neurodiversity, 19-21 April, 27 talks (ASD, ADHD, OCD, ARFID)"
+  },
+  {
+   "id": 341,
+   "kind": "personal-update",
+   "gist": "Conference break music share, lyrics resonating with context"
+  },
+  {
+   "id": 342,
+   "kind": "personal-update",
+   "gist": "Obituary note for philosopher Daniel Dennett, after de Waal and Kahneman"
+  },
+  {
+   "id": 348,
+   "kind": "logistics",
+   "gist": "Links to Yandex Music playlists from the neurodiversity conference, final day"
+  },
+  {
+   "id": 349,
+   "kind": "personal-update",
+   "gist": "Humor: Russian-speaking local overhears an N-queens chess/programming talk in an elevator"
+  },
+  {
+   "id": 352,
+   "kind": "personal-update",
+   "gist": "Calming art share: Gabriel Dawe's Plexus thread installations"
+  },
+  {
+   "id": 353,
+   "kind": "other",
+   "gist": "Photo with unreadable OCR, no text content"
+  },
+  {
+   "id": 355,
+   "kind": "personal-update",
+   "gist": "Humorous personal note on wearing quality clothes for years and a too-tight outfit after washing"
+  },
+  {
+   "id": 356,
+   "kind": "announcement",
+   "gist": "Announces collaboration with Maria Shut on a series debunking autism myths"
+  },
+  {
+   "id": 357,
+   "kind": "personal-update",
+   "gist": "Friday music playlist plus an excerpt of a client case-concept note about inner strength"
+  },
+  {
+   "id": 358,
+   "kind": "personal-update",
+   "gist": "Anecdote: husband repeatedly asks ChatGPT whether Romania is a Roma country; the model stays unchanged"
+  },
+  {
+   "id": 361,
+   "kind": "announcement",
+   "gist": "Navigation digest of the channel's autism posts and series, with links"
+  },
+  {
+   "id": 363,
+   "kind": "personal-update",
+   "gist": "Author's five-day writing intensive on autism winds down; exhausted but happy, more articles coming"
+  },
+  {
+   "id": 364,
+   "kind": "personal-update",
+   "gist": "Shares Stanford Medicine video 'Освобождаясь' with no explanation"
+  },
+  {
+   "id": 367,
+   "kind": "other",
+   "gist": "Humorous meme contrasting how a person talks to people vs to animals"
+  },
+  {
+   "id": 374,
+   "kind": "announcement",
+   "gist": "Poll asking readers' opinion of the autism post series"
+  },
+  {
+   "id": 380,
+   "kind": "announcement",
+   "gist": "Authors of the autism series invite readers to introduce themselves in comments"
+  },
+  {
+   "id": 384,
+   "kind": "other",
+   "gist": "Meme about masking (Dorian Gray video call)"
+  },
+  {
+   "id": 385,
+   "kind": "personal-update",
+   "gist": "Author asks readers to endorse or review her on LinkedIn for a move from psychotherapy into neuroscience research"
+  },
+  {
+   "id": 387,
+   "kind": "other",
+   "gist": "Weekend recommendation of a meditative gravity-and-trajectory puzzle game (Ouros)"
+  },
+  {
+   "id": 388,
+   "kind": "other",
+   "gist": "Screenshot of an H&M loyalty-points email with a garbled translation"
+  },
+  {
+   "id": 393,
+   "kind": "personal-update",
+   "gist": "Humorous personal story about a sleeping neighbour's oatmeal cookies on a plane, plus note on a disappointing autism dating network"
+  },
+  {
+   "id": 394,
+   "kind": "announcement",
+   "gist": "Teaser for upcoming autism myth articles and a link to the author's article on Chapman's love languages study"
+  },
+  {
+   "id": 396,
+   "kind": "other",
+   "gist": "Photo of a book stack (Tom Chatfield critical thinking, engineering guide)"
+  },
+  {
+   "id": 398,
+   "kind": "other",
+   "gist": "Humorous 'installation' made of books with critical thinking as the foundation"
+  },
+  {
+   "id": 399,
+   "kind": "announcement",
+   "gist": "Teaser that a post on the term 'high-functioning' autism is coming"
+  },
+  {
+   "id": 401,
+   "kind": "announcement",
+   "gist": "Intro to a series on why the label 'high-functioning' autism is flawed, prompted by Jessica Peno's article"
+  },
+  {
+   "id": 405,
+   "kind": "personal-update",
+   "gist": "Author introduces her new learning projects: Python and Serbian"
+  },
+  {
+   "id": 406,
+   "kind": "personal-update",
+   "gist": "Personal account of first steps learning Python with an MIT course: setup struggles, Anaconda vs Visual Studio, print, functions, hypotenuse"
+  },
+  {
+   "id": 412,
+   "kind": "other",
+   "gist": "Photo of coffee in Nikola Tesla's town"
+  },
+  {
+   "id": 413,
+   "kind": "announcement",
+   "gist": "Author reports her articles will be republished by Neuroset and a reading of her story by Neurospicy channel"
+  },
+  {
+   "id": 416,
+   "kind": "personal-update",
+   "gist": "Impressions of Inside Out 2 with Serbian subtitles plus a chart of combined emotions"
+  },
+  {
+   "id": 418,
+   "kind": "personal-update",
+   "gist": "Reflections on Disney prequels (Mufasa, Scar, Cruella) and the Joker comparison"
+  },
+  {
+   "id": 419,
+   "kind": "personal-update",
+   "gist": "Personal story of a Serbian homework answer about why being a housewife is hard that was taken as a feminist manifesto"
+  },
+  {
+   "id": 424,
+   "kind": "other",
+   "gist": "Image of a Serbian-language joke text about writing a thesis, attached to the previous post"
+  },
+  {
+   "id": 428,
+   "kind": "other",
+   "gist": "Programming-keyword meme text to the tune of Du Hast (Rammstein)"
+  },
+  {
+   "id": 431,
+   "kind": "personal-update",
+   "gist": "Author shares a Kurt Cobain-style Serbian song while learning Serbian; promises a return to autism topics"
+  },
+  {
+   "id": 435,
+   "kind": "personal-update",
+   "gist": "Author browses a Serbian bookstore for her first Serbian book and asks readers to guess the pick"
+  },
+  {
+   "id": 438,
+   "kind": "other",
+   "gist": "Photo of Serbian book covers (Taleb, Russell, others) with no text"
+  },
+  {
+   "id": 442,
+   "kind": "announcement",
+   "gist": "Digest of links to the channel's lighter non-science life-notes posts by category"
+  },
+  {
+   "id": 451,
+   "kind": "announcement",
+   "gist": "Channel re-introduction for new readers: author is a clinical psychologist, her projects, interests and blog tags"
+  },
+  {
+   "id": 452,
+   "kind": "personal-update",
+   "gist": "Quick poll from Marko: what are the paper slips in sugar boxes in Serbian restaurants"
+  },
+  {
+   "id": 454,
+   "kind": "announcement",
+   "gist": "Teaser for a long post on neural connectivity in autism, from synesthesia to special interests"
+  },
+  {
+   "id": 455,
+   "kind": "announcement",
+   "gist": "Title post for the series on connectivity theory of autism through neural assemblies"
+  },
+  {
+   "id": 459,
+   "kind": "logistics",
+   "gist": "Source list of 11 papers and articles for the autism connectivity series"
+  },
+  {
+   "id": 461,
+   "kind": "personal-update",
+   "gist": "Short note wishing more kindness in the feed, leading into a forwarded post"
+  },
+  {
+   "id": 465,
+   "kind": "personal-update",
+   "gist": "Humor: author politely asks ChatGPT if it wants a rest and gets silence"
+  },
+  {
+   "id": 466,
+   "kind": "personal-update",
+   "gist": "Personal story of a chaotic evening in Belgrade ending at an open-air screening of One Second, with a parody Wicked Game verse"
+  },
+  {
+   "id": 476,
+   "kind": "announcement",
+   "gist": "Shares an old post (#89) as a retrospective overcontrol manifesto and teases upcoming content"
+  },
+  {
+   "id": 477,
+   "kind": "announcement",
+   "gist": "Teaser for an upcoming event, with a recording link added later"
+  },
+  {
+   "id": 478,
+   "kind": "announcement",
+   "gist": "Forwarded announcement of the free Neurootlichniki lived-experience conference on 12 September with talk list and Zoom link"
+  },
+  {
+   "id": 479,
+   "kind": "personal-update",
+   "gist": "Sunday chat: studying Serbian and RO DBT, coffee after a rainy run"
+  },
+  {
+   "id": 481,
+   "kind": "announcement",
+   "gist": "Shares Nature news that CERN will end its collaboration with Russia on 30 November"
+  },
+  {
+   "id": 482,
+   "kind": "announcement",
+   "gist": "Promotes the free 10-day DocPsyFest conference starting today, highlighting a 29 September debate on cancel culture"
+  },
+  {
+   "id": 483,
+   "kind": "announcement",
+   "gist": "Forwarded from ДокПсиФест: announcement of 29 Sept debate 'Оскорбление и наказание' with speakers for both sides and registration link"
+  },
+  {
+   "id": 484,
+   "kind": "announcement",
+   "gist": "Forwarded from ДокПсиФест: debate card stating the main question (cancel culture and public censure: evil or necessary tool?) and three debate goals"
+  },
+  {
+   "id": 492,
+   "kind": "announcement",
+   "gist": "Forwarded from ДокПсиФест: speaker bio of Мария Кокова (existential analyst, death researcher) for debate side 2"
+  },
+  {
+   "id": 496,
+   "kind": "promo",
+   "gist": "Recommends colleague's 19 Oct webinar on solution-focused brief therapy (ОРКТ) for beginner therapists, with strengths-based framing 'we are more than our problem'"
+  },
+  {
+   "id": 503,
+   "kind": "personal-update",
+   "gist": "Illness update: autism-subtypes article nearly done; recommends TV series Shrinking and warns against the graphic rape scenes in Borgia"
+  },
+  {
+   "id": 504,
+   "kind": "promo",
+   "gist": "Shares a video on why schools should develop adolescents' autobiographical memory"
+  },
+  {
+   "id": 506,
+   "kind": "personal-update",
+   "gist": "Repeat of the Borgia content warning and recommendation of the series Shrinking (reply to #503)"
+  },
+  {
+   "id": 508,
+   "kind": "other",
+   "gist": "Short post sharing addictive 'scientific' toys"
+  },
+  {
+   "id": 513,
+   "kind": "personal-update",
+   "gist": "Update that the autism subtypes longread is almost done, plus a lo-fi jazz cat video for the weekend"
+  },
+  {
+   "id": 516,
+   "kind": "personal-update",
+   "gist": "Humorous intro to author's Serbian-class homework with an emoji poll (import vs deport) for reactions"
+  },
+  {
+   "id": 517,
+   "kind": "other",
+   "gist": "Photo of the Serbian homework page in Cyrillic (questions about what Russia and Moscow are known for)"
+  },
+  {
+   "id": 518,
+   "kind": "personal-update",
+   "gist": "Translation of the Serbian homework answers on what Russia and Serbia are famous for, written with humor"
+  },
+  {
+   "id": 529,
+   "kind": "personal-update",
+   "gist": "Joke screenshot of translator struggling with a word for handmade accessories"
+  },
+  {
+   "id": 531,
+   "kind": "personal-update",
+   "gist": "Return-from-silence update: promises remaining autism subtype parts, year-end review, ACT course, books by Snyder and Verne, and Balkan folk mysticism"
+  },
+  {
+   "id": 532,
+   "kind": "personal-update",
+   "gist": "Humorous travel post about a cold Welsh town and a trip for an Opeth concert, with listening recommendations"
+  },
+  {
+   "id": 539,
+   "kind": "personal-update",
+   "gist": "Joke tweet about autism and taking things literally versus kleptomaniacs"
+  },
+  {
+   "id": 540,
+   "kind": "personal-update",
+   "gist": "Announces attending a lecture on autism myths and accommodation in Israel and promises to report back"
+  },
+  {
+   "id": 542,
+   "kind": "personal-update",
+   "gist": "Humorous anecdote about a girl who knows six 'seasons' (musical works), illustrating literal context-dependence"
+  },
+  {
+   "id": 548,
+   "kind": "other",
+   "gist": "Humor meme about loving books like you love beer (reading problems)"
+  },
+  {
+   "id": 558,
+   "kind": "announcement",
+   "gist": "Shares Lena Movshina's survey on values and difficulties at work for people with autism and ADHD (15-25 min, reward, results for advocacy)"
+  },
+  {
+   "id": 561,
+   "kind": "other",
+   "gist": "Humor post (#humor_ex_machina) with a video joke about multitasking and tiredness"
+  },
+  {
+   "id": 564,
+   "kind": "announcement",
+   "gist": "Announces upcoming posts on neuroscience and AI discoveries and a new humor rubric #страньдня"
+  },
+  {
+   "id": 565,
+   "kind": "personal-update",
+   "gist": "#страньдня post: rusty tile wall in an old Oxford bookshop, light humor"
+  },
+  {
+   "id": 570,
+   "kind": "announcement",
+   "gist": "Registration opened for free DocPsyFest (June 23-29) on emotions with evidence-based mental health speakers"
+  },
+  {
+   "id": 582,
+   "kind": "announcement",
+   "gist": "DocPsyFest 25 poster (June 23-29, 7 days, 40+ topics, 50+ speakers, emotions)"
+  },
+  {
+   "id": 592,
+   "kind": "personal-update",
+   "gist": "Short humorous note thanking Natasha for books and shelving 'Living Well' (Pigliucci)"
+  },
+  {
+   "id": 593,
+   "kind": "promo",
+   "gist": "Forwarded from Психодемия: Natalia Kiselnikova's selection of 4 books that can serve as support (Alpina), with brief book blurbs"
+  },
+  {
+   "id": 598,
+   "kind": "announcement",
+   "gist": "Intro to a 'hardcore neuro' longread series on recent fear-related research with a question to readers"
+  },
+  {
+   "id": 606,
+   "kind": "announcement",
+   "gist": "Announces a Russian-speaking science-pop fest in Belgrade on June 15 (4 lectures, 15:00-20:00) with registration link"
+  },
+  {
+   "id": 616,
+   "kind": "announcement",
+   "gist": "Monthly digest (May 13 - June 13) linking posts on social change, Piaget conference, books, fear neuroscience and masculinity"
+  },
+  {
+   "id": 619,
+   "kind": "personal-update",
+   "gist": "Short music-sharing evening post (#musicislife)"
+  },
+  {
+   "id": 620,
+   "kind": "promo",
+   "gist": "Shares a video from psychiatrist Anastasia Afanasyeva about literal interpretation in autism"
+  },
+  {
+   "id": 632,
+   "kind": "personal-update",
+   "gist": "Personal short fiction written for a Serbian-language assignment, a Kharms/Zoshchenko-style bus story in Belgrade"
+  },
+  {
+   "id": 633,
+   "kind": "announcement",
+   "gist": "Preview of 8th Cognitive Science in Moscow conference (June 25-26) with selected poster talks on autism, dyslexia, interoception and a round table on generative AI"
+  },
+  {
+   "id": 639,
+   "kind": "other",
+   "gist": "Teaser for tomorrow's posts on masculinity and optogenetics with a video"
+  },
+  {
+   "id": 640,
+   "kind": "personal-update",
+   "gist": "Joke post on a mistyped book cover of 'Techniques of cognitive psychotherapy' by Robert Leahy"
+  },
+  {
+   "id": 642,
+   "kind": "logistics",
+   "gist": "Announces live lecture 'Emotions in autism: a guide for those around' with access link and recordings June 30 - July 2"
+  },
+  {
+   "id": 643,
+   "kind": "announcement",
+   "gist": "Live from DocPsyFest: lecture by Anastasia Kudryavtseva on living with regret over the unlived"
+  },
+  {
+   "id": 644,
+   "kind": "other",
+   "gist": "Slide from Kudryavtseva's DocPsyFest lecture on regret: sadness, shame and guilt over missed opportunities"
+  },
+  {
+   "id": 663,
+   "kind": "announcement",
+   "gist": "Teaser introducing a colleague's post on what a good life is, based on recent research"
+  },
+  {
+   "id": 665,
+   "kind": "personal-update",
+   "gist": "Shares a funny Serbian song about moldy bread with a link to the Russian lyrics translation"
+  },
+  {
+   "id": 666,
+   "kind": "personal-update",
+   "gist": "Joke post: a bad metaphor is like a kitten with a door"
+  },
+  {
+   "id": 670,
+   "kind": "promo",
+   "gist": "Comment pointing to the article on harmful therapies, noting it finally covers the harm of constellations (rasstanovki)"
+  },
+  {
+   "id": 671,
+   "kind": "announcement",
+   "gist": "Header teasing an important forwarded news item for all sides of psychology"
+  },
+  {
+   "id": 674,
+   "kind": "announcement",
+   "gist": "Notice about the mental health film festival (Moscow, SPb, Kaliningrad, Kazan) and a summary of the film 'Italy Syndrome' about migrant caregiver women's symptoms"
+  },
+  {
+   "id": 676,
+   "kind": "personal-update",
+   "gist": "Pun-based humor dialogue about rock (#humor_ex_machina)"
+  },
+  {
+   "id": 677,
+   "kind": "announcement",
+   "gist": "Announcement of the round table 'Нас этому не учили' on 22 and 24 Nov for helping professionals: migration, chronic illness and special parenthood"
+  },
+  {
+   "id": 687,
+   "kind": "logistics",
+   "gist": "Collected links for the music series: songs in odd meters (7/4, 5/4, 7/8), ancient modes in pop songs, and further reading on music neurodynamics by Edward Large"
+  },
+  {
+   "id": 689,
+   "kind": "other",
+   "gist": "Post consisting only of a number emoji"
+  },
+  {
+   "id": 693,
+   "kind": "announcement",
+   "gist": "Announcement of Lena Movshina's lecture on 24 May at 11:00 Moscow"
+  },
+  {
+   "id": 694,
+   "kind": "announcement",
+   "gist": "Forwarded announcement of online repeat lecture (24 May) on late-diagnosed autistic women from 30+ interviews, and Lena's neurodivergent career study; free webinar, recording 490 rub each"
+  },
+  {
+   "id": 696,
+   "kind": "logistics",
+   "gist": "Notice that the lecture recording is now available for purchase via a link"
+  },
+  {
+   "id": 697,
+   "kind": "personal-update",
+   "gist": "Meme image of a fox: we perceive our own limitations as limitations of the world"
+  },
+  {
+   "id": 698,
+   "kind": "announcement",
+   "gist": "Poll-style post asking readers hot or not, publish or perish"
+  },
+  {
+   "id": 699,
+   "kind": "promo",
+   "gist": "Forwarded from Not Boring Tech: Anthropic released Claude Science alongside Sonnet 5, a research lab tool connecting to 60 science databases with reproducible runs"
+  },
+  {
+   "id": 701,
+   "kind": "personal-update",
+   "gist": "Joke screenshot of VK suggesting an odd friend post, with commentary on expecting birthday greetings"
+  },
+  {
+   "id": 703,
+   "kind": "personal-update",
+   "gist": "Humorous comparison of Moscow water shutoff and Belgrade electricity saving request during heat, with news screenshot about low Danube"
+  },
+  {
+   "id": 704,
+   "kind": "personal-update",
+   "gist": "Photo joke about a Serbian mosaic resembling meat"
+  },
+  {
+   "id": 705,
+   "kind": "announcement",
+   "gist": "Invitation to Vadim's practicum in Belgrade on 11 Sept about decision paralysis and executive function depletion"
+  },
+  {
+   "id": 706,
+   "kind": "personal-update",
+   "gist": "Question why we want to start version 2.0 right after finishing a good project instead of enjoying it; asks readers for explanations and teases next post"
+  },
+  {
+   "id": 707,
+   "kind": "personal-update",
+   "gist": "Author's dream narrative 'Grain of Truth' about a bioterror plague and a dying 'terrorist'"
+  },
+  {
+   "id": 710,
+   "kind": "promo",
+   "gist": "Recommends a video on the physics of major, minor and dissonant chords and timbre differences, as a continuation of the music series"
+  },
+  {
+   "id": 712,
+   "kind": "other",
+   "gist": "Image-only album part with unreadable table of contents OCR"
+  },
+  {
+   "id": 714,
+   "kind": "announcement",
+   "gist": "Navigation post for new readers listing channel intro, music neurobiology cycle, autism digest, learned helplessness, social influence, group polarization and key posts"
+  },
+  {
+   "id": 715,
+   "kind": "personal-update",
+   "gist": "Joke about a client prescribed a drug without psychoeducation"
+  },
+  {
+   "id": 718,
+   "kind": "personal-update",
+   "gist": "Discussion prompt on which sense is our main channel to the world (vision vs smell, touch, taste) and favorite sensory experiences"
+  },
+  {
+   "id": 723,
+   "kind": "personal-update",
+   "gist": "Joke about the awkward moment when someone praises your structured summary of their chaos as 'just like a neural network'"
+  },
+  {
+   "id": 725,
+   "kind": "announcement",
+   "gist": "Invitation to join the discussion chat; join requests reviewed every 1-2 days, DM if no pass received"
+  },
+  {
+   "id": 726,
+   "kind": "announcement",
+   "gist": "Shares upcoming biology-engineering strategy game 'Bioneers' (Factorio-like, built in the microworld, demo in February) and teases coming series on human sensory machinery"
+  },
+  {
+   "id": 728,
+   "kind": "announcement",
+   "gist": "Opens two-voice series on tuning sensory signals for energy: asks what helps me relax, what restores me, what activates me"
+  },
+  {
+   "id": 731,
+   "kind": "other",
+   "gist": "Humor meme about Marx's uncompromising politics and his beard before styling"
+  }
+ ]
+}

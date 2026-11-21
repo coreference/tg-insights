@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TG Insights Guide</title>
+<style>
+:root{--bg:#faf9f6;--panel:#fff;--fg:#1d1c1a;--mut:#6d675c;--line:#e4dfd5;--acc:#7a5a20;--code:#f0efec;
+--tgx-bg:#fff;--tgx-fg:#1d1c1a;--tgx-line:#d9d3c7;--tgx-acc:#7a5a20;--tgx-accfg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#191816;--panel:#22211e;--fg:#ebe7dc;--mut:#a59d8b;--line:#3a372f;--acc:#d7b06c;--code:#2a2824;
+--tgx-bg:#22211e;--tgx-fg:#ebe7dc;--tgx-line:#3a372f;--tgx-acc:#d7b06c;--tgx-accfg:#191816}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15.5px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+main{max-width:860px;margin:0 auto;padding:58px 16px 90px}
+nav.top{font-size:14px;margin-bottom:8px}a{color:var(--acc)}
+h1{font-size:26px;margin:10px 0 4px}h2{font-size:19px;margin-top:34px;border-bottom:1px solid var(--line);padding-bottom:6px}
+h3{font-size:16px;margin-top:24px}p{margin:10px 0}li{margin:5px 0}
+code{background:var(--code);padding:1px 5px;border-radius:4px;font-size:88%;overflow-wrap:anywhere}
+pre{background:var(--code);padding:12px 14px;border-radius:8px;overflow:auto;font-size:13px;line-height:1.5}pre code{background:none;padding:0}
+.tw{overflow-x:auto}table{border-collapse:collapse;font-size:14px;margin:12px 0;width:100%}th,td{border:1px solid var(--line);padding:6px 10px;text-align:left;vertical-align:top}
+th{background:var(--panel)}em{color:var(--mut)}
+
+.tgx-bar{position:fixed;top:10px;right:12px;z-index:900;display:flex;gap:6px;align-items:center}
+.tgx-btn{font:13px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;padding:8px 11px;border-radius:8px;
+  border:1px solid var(--tgx-line,#d9d3c7);background:var(--tgx-bg,#fff);color:var(--tgx-fg,#1d1c1a);cursor:pointer;text-decoration:none;white-space:nowrap}
+.tgx-btn:hover{border-color:var(--tgx-acc,#7a5a20)}
+.tgx-btn.tgx-primary{background:var(--tgx-acc,#7a5a20);border-color:var(--tgx-acc,#7a5a20);color:var(--tgx-accfg,#fff)}
+.tgx-btn.tgx-q{width:32px;padding:8px 0;text-align:center;font-weight:700;border-radius:50%;border-color:var(--tgx-acc,#7a5a20);color:var(--tgx-acc,#7a5a20)}
+.tgx-btn[aria-pressed=true]{border-color:var(--tgx-acc,#7a5a20);color:var(--tgx-acc,#7a5a20)}
+.tgx-help{display:none;position:fixed;top:52px;right:12px;z-index:899;width:min(460px,calc(100vw - 24px));max-height:calc(100vh - 70px);overflow:auto;
+  background:var(--tgx-bg,#fff);color:var(--tgx-fg,#1d1c1a);border:1px solid var(--tgx-line,#d9d3c7);border-radius:12px;padding:14px 18px;
+  font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;box-shadow:0 8px 30px rgba(0,0,0,.18)}
+.tgx-help.open{display:block}
+.tgx-help h4{margin:0 0 6px;font-size:15px}.tgx-help ol,.tgx-help ul{margin:6px 0 8px 20px;padding:0}.tgx-help li{margin:4px 0}
+.tgx-help p{margin:6px 0}.tgx-help code{font-size:12.5px;background:rgba(127,127,127,.15);padding:1px 5px;border-radius:4px;overflow-wrap:anywhere}
+.tgx-help a{color:var(--tgx-acc,#7a5a20)}
+.tgx-modal{display:none;position:fixed;inset:0;z-index:950;background:rgba(0,0,0,.5);align-items:center;justify-content:center;padding:16px}
+.tgx-modal.open{display:flex}
+.tgx-modal>div{background:var(--tgx-bg,#fff);color:var(--tgx-fg,#1d1c1a);border-radius:12px;padding:20px 22px;max-width:520px;
+  font:14.5px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.tgx-modal h4{margin:0 0 8px;font-size:16px}.tgx-modal code{font-size:12.5px;background:rgba(127,127,127,.15);padding:2px 6px;border-radius:4px;overflow-wrap:anywhere}
+.tgx-modal p{margin:8px 0}.tgx-modal .tgx-row{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
+@media (max-width:640px){.tgx-btn .tgx-l{display:none}.tgx-bar{top:8px;right:8px}}
+
+</style></head><body>
+<script src="./tg-archivist/app/local.js"></script><div class="tgx-bar"><button class="tgx-btn" id="tgx-toggle" aria-pressed="false" title="Show or hide instructions for this page"><span aria-hidden="true">ⓘ</span> <span class="tgx-l">How to use this page</span></button><a class="tgx-btn tgx-primary" id="tgx-add" href="http://127.0.0.1:8765/#add" title="Add a new Telegram export or append a newer export to an existing channel">＋ <span class="tgx-l">Add / append knowledge base</span></a><a class="tgx-btn tgx-q" href="guide.html" title="Guide: how the whole setup works and how to use it" aria-label="Open the guide">?</a></div><div class="tgx-help" id="tgx-help" role="region" aria-label="How to use this page"><h4>How to use the guide</h4>
+<ol>
+<li>Sections 1–3 explain what the setup is, its screens, and where every file lives: every source has its own folder <code>sources/&lt;source type&gt;/&lt;source&gt;/</code> (Telegram channels in <code>sources/tg-channels/</code>) with its raw exports in <code>raw-exports/</code>.</li>
+<li>Section 4 has step-by-step instructions for each purpose: add a channel, append a newer export, use the library with an AI agent, study with NotebookLM, browse a subject yourself, check an original, keep things healthy, and (4H) tag topics with also-relevant areas and cross-channel concepts using <code>archivist.py tag</code>, read the <b>concept index</b> (<code>index/concepts.md</code>: each concept → every channel's topics on it, whatever their area) and merge duplicate concepts with <code>archivist.py concepts merge</code>; (4I) how every link and file shared in the posts is kept and classified as a resource or an external link.</li>
+<li>Section 7 is a live inventory of your knowledge bases, skills and commands.</li>
+<li>Use your browser's find (Cmd/Ctrl+F) to jump to a word. Links open the screens directly.</li>
+</ol>
+<p>This page is regenerated whenever the library or the toolkit changes.</p></div><div class="tgx-modal" id="tgx-modal"><div><div id="tgx-wait"><h4>Starting the Archivist…</h4><p>If the browser asks whether to open <b>TG Archivist</b>, allow it (tick “always allow” to skip the question next time). The panel opens in a new tab in a few seconds.</p></div><div id="tgx-how" style="display:none"><h4>Start the Archivist</h4><p>Adding or appending a knowledge base is done by the Archivist, a small local app that did not start from this page.</p><p><b>Start it once by hand:</b> double-click <code>Start Archivist.command</code> in <code>/Users/coreference/projects/tg insights</code><br>or run <code>python3 "/Users/coreference/projects/tg insights/tg-archivist/app/server.py"</code> in a terminal. It opens at <code>http://127.0.0.1:8765</code>.</p><p>On a Mac, that first start also installs the small launcher <code>~/Applications/TG Archivist.app</code>, and from then on this button starts the Archivist by itself.</p></div><div class="tgx-row"><button class="tgx-btn" id="tgx-close">Close</button><button class="tgx-btn tgx-primary" id="tgx-retry">Try again</button></div></div></div><div class="tgx-modal" id="tgx-req" role="dialog" aria-modal="true" aria-labelledby="tgx-req-h"><div><h4 id="tgx-req-h">Request a channel knowledge base</h4><p>This library turns Telegram channels into knowledge bases you can search and study: every insight, framework and method the authors taught, organised by topic, linked across channels by subject, with study packs for NotebookLM and AI agents.</p><p><b>Is there a channel whose knowledge belongs here?</b> A Telegram channel, or another source — a blog, a podcast, a book. Suggest it with the short form: what it is, where to find it and why it is worth adding.</p><div class="tgx-row"><button class="tgx-btn" id="tgx-req-close">Close</button><a class="tgx-btn tgx-primary" href="https://coreference.notion.site/41d05961cce680c9a13dff2c1faba52a?pvs=105" target="_blank" rel="noopener">Open the request form ↗</a></div></div></div>
+<main><nav class="top"><a href="hub.html">&larr; Knowledge Hub</a></nav>
+<h1>TG Insights — guide to the whole setup</h1>
+<p><em>Generated 2026-11-21 17:07 from <code>tg-archivist/docs/guide_template.md</code> plus the live state of the library. Do not edit <code>TG_INSIGHTS_GUIDE.md</code> or <code>guide.html</code> by hand — edit the template and run <code>python3 tg-archivist/archivist.py sync</code>.</em></p>
+<h2>1. What this is</h2>
+<p>TG Insights turns Telegram channel exports into <strong>knowledge bases</strong> and keeps them in one <strong>library</strong>. Each channel becomes a set of self-sufficient knowledge files (the channel's full insights, with every framework and step-by-step method written out and cited to the original messages). On top of the channels sits one cross-channel index, so a person or an AI agent can take a subject and read what <em>all</em> channels say about it.</p>
+<p>Library root: <code>/Users/coreference/projects/tg insights</code></p>
+<p>Three things you can do with it: <strong>add knowledge</strong> (new channels, or newer exports of channels you already have), <strong>ask an agent</strong> that answers from the library, and <strong>study or browse</strong> it yourself or with a learning tool such as NotebookLM.</p>
+<h2>2. The screens</h2>
+<div class="tw"><table><thead><tr><th>Screen</th><th>What it is for</th><th>Open</th></tr></thead><tbody>
+<tr><td><strong>Knowledge Hub</strong></td><td>Front door to all channels: search and browse any subject across every knowledge base</td><td><a href="hub.html" >hub.html</a></td></tr>
+<tr><td><strong>Channel library</strong> (one per channel)</td><td>Read one channel's topics; every citation unfolds the original message</td><td><a href="sources/tg-channels/na-balanse/library.html" >На балансе с Катей Стрельниковой</a> · <a href="sources/tg-channels/deep-mind2.0/library.html" >deep mind 2.0</a> · <a href="sources/tg-channels/human-machine/library.html" >Human Gazing Upon Machine</a> · <a href="sources/tg-channels/neurospicy/library.html" >Нейропряность</a> · <a href="sources/tg-channels/neurodiv_psy/library.html" >(нейро)разнообразная психология</a></td></tr>
+<tr><td><strong>Archivist</strong></td><td>Add a new Telegram export or append a newer one; watch progress</td><td>start it (see 4A), then <a href="http://127.0.0.1:8765" >http://127.0.0.1:8765</a></td></tr>
+<tr><td><strong>This guide</strong></td><td>How everything works</td><td><a href="guide.html" >guide.html</a> · for agents: <code>TG_INSIGHTS_GUIDE.md</code></td></tr>
+</tbody></table></div>
+<p>Every screen has the same three controls in the top-right corner: <strong>How to use this page</strong> (toggle with instructions for that screen), <strong>＋ Add / append knowledge base</strong> (opens the Archivist) and <strong>?</strong> (this guide). In a published copy of the library — one without the <code>tg-archivist/</code> toolkit, such as the GitHub repository — the middle button reads <strong>＋ Request a channel</strong> and opens a short form for suggesting a new channel or other source (the pages tell the two apart by whether <code>tg-archivist/app/local.js</code> loads).</p>
+<h2>3. What is where</h2>
+<div class="tw"><table><thead><tr><th>Path</th><th>Contents</th><th>Edit by hand?</th></tr></thead><tbody>
+<tr><td><code>hub.html</code>, <code>KNOWLEDGE_INDEX.md</code>, <code>knowledge_index.json</code>, <code>index/</code></td><td>Cross-channel hub and index: areas, per-area topic lists (with <em>also relevant</em> topics from other areas), the <strong>concept index</strong> <code>index/concepts.md</code> + <code>index/concepts.json</code> (each concept → every topic of every channel tagged with it, with channel, area and one-line scope), frameworks A–Z</td><td>No — generated</td></tr>
+<tr><td><code>TG_INSIGHTS_GUIDE.md</code>, <code>guide.html</code></td><td>This guide</td><td>No — generated from the template</td></tr>
+<tr><td><code>CLAUDE.md</code></td><td>Standing instructions for any agent working in this folder</td><td>Yes</td></tr>
+<tr><td><code>areas.json</code></td><td>Cross-channel areas (the shared top-level subjects)</td><td>Yes (titles/descriptions)</td></tr>
+<tr><td><code>concepts.json</code></td><td>Shared cross-channel concept vocabulary — the source of truth for the concept index: slug, label, definition, English and Russian synonyms, aliases (merged slugs). Grows when a taxonomy or <code>tag</code> run defines a new concept; taxonomy and tagging work orders read it</td><td>Yes (labels, definitions, synonyms); merge duplicates with <code>archivist.py concepts merge</code></td></tr>
+<tr><td><code>theme_aliases.json</code> <em>(optional)</em></td><td>Maps equivalent theme tags to one (<code>{"sleep-hygiene": "sleep"}</code>)</td><td>Yes</td></tr>
+<tr><td><code>kb_registry.json</code></td><td>List of knowledge bases in the library (each folder stored relative to the library root, so the library can be moved)</td><td>Via the Archivist</td></tr>
+<tr><td><code>.claude/skills/</code></td><td><code>tg-archivist</code> (build/append), <code>tg-kb-navigator</code> (answer from the library)</td><td>Yes</td></tr>
+<tr><td><code>.claude/agents/</code></td><td>Worker agents the archivist dispatches</td><td>Yes</td></tr>
+<tr><td><code>.claude/settings.json</code></td><td>Session-start hook that refreshes anything stale</td><td>Yes</td></tr>
+<tr><td><code>tg-archivist/</code></td><td>The toolkit: <code>archivist.py</code>, <code>lib/</code>, <code>prompts/</code> (incl. the extraction standard), <code>app/</code> (Archivist panel), <code>docs/</code></td><td>Yes (it is the code)</td></tr>
+<tr><td><code>Start Archivist.command</code></td><td>Double-click launcher for the Archivist panel (on a Mac its first start also installs <code>~/Applications/TG Archivist.app</code>, which lets the <strong>＋ Add / append</strong> button start the panel; <code>tg-archivist/app/launcher.py install / status / uninstall</code>)</td><td>—</td></tr>
+<tr><td><code>index/notebooklm/&lt;area&gt;/</code></td><td>Ready-made NotebookLM sets: every channel's study files on one area, to upload together</td><td>No — generated</td></tr>
+<tr><td><code>sources/</code></td><td>All source material, one folder per <strong>source type</strong>: <code>sources/tg-channels/</code> holds the Telegram channels; a new type of source (e.g. books) gets its own folder next to it (<code>sources/books/</code>)</td><td>see below</td></tr>
+<tr><td><code>sources/&lt;source type&gt;/&lt;source&gt;/</code></td><td>One knowledge base per source, e.g. <code>sources/tg-channels/na-balanse/</code>, <code>sources/tg-channels/deep-mind2.0/</code>. Its raw material is in <code>raw-exports/</code>, everything derived from it sits next to that</td><td>see below</td></tr>
+</tbody></table></div>
+<p>Inside a source folder (here a channel folder, <code>sources/tg-channels/&lt;channel&gt;/</code>):</p>
+<div class="tw"><table><thead><tr><th>Path</th><th>Contents</th><th>Source of truth?</th></tr></thead><tbody>
+<tr><td><code>raw-exports/&lt;export&gt;/</code> — e.g. <code>raw-exports/ChatExport_2026-07-16/</code> (<code>messages*.html</code>, <code>photos/</code>, <code>files/</code> …), one folder per export, the oldest is the original, later ones are appended</td><td>The Telegram exports themselves — the canonical place for the raw material is always <code>sources/&lt;source type&gt;/&lt;source&gt;/raw-exports/&lt;export&gt;/</code></td><td>Yes — never modified</td></tr>
+<tr><td><code>parsed/messages.jsonl</code>, <code>parsed/media_text.jsonl</code></td><td>Verbatim messages; text transcribed from images and PDFs</td><td>Derived by code from the exports</td></tr>
+<tr><td><code>parsed/index.jsonl</code>, <code>topics/_taxonomy.json</code></td><td>Per-post cards; the topic tree — each topic with its scope, posts, and cross-channel tags (<code>also_areas</code>, <code>concepts</code>)</td><td>Written by workers, validated by code</td></tr>
+<tr><td><code>work/tagging/</code></td><td><code>archivist.py tag</code> work order, input and the tag proposal to review (<code>tags.proposal.md</code>)</td><td>Working files</td></tr>
+<tr><td><code>work/resources/_resources.json</code></td><td>How every link and attached file shared in the posts is classified — resource / external link / skip, type, title, note, ★ recommended — written by the <code>resources</code> stage from validated work orders</td><td>Source of truth (written by code; edit a title, note or class here and <code>sync</code> if one is wrong)</td></tr>
+<tr><td><code>work/extract/*.md</code></td><td>Extracted knowledge, one file per topic part</td><td><strong>Yes — the knowledge itself</strong></td></tr>
+<tr><td><code>_profile.md</code></td><td>Channel profile: persona and constraints for agents</td><td>Yes</td></tr>
+<tr><td><code>topics/&lt;domain&gt;/&lt;topic&gt;.md</code></td><td>The knowledge files people and agents read (merged from the parts)</td><td>Generated</td></tr>
+<tr><td><code>library.html</code> (+ <code>library-messages.js</code>: the original posts its citations open; left out of published copies), <code>README.md</code>, <code>SUMMARY.md</code>, <code>glossary.md</code>, <code>people.md</code>, <code>resources/</code> (<code>resources.md</code> = usable resources, <code>links.md</code> = external links, plus files &amp; media and excluded messages), <code>notebooklm/</code>, <code>agent-kb/</code>, <code>99_qa_report.md</code></td><td>Everything else</td><td>Generated</td></tr>
+<tr><td><code>_kb.json</code>, <code>_state.json</code>, <code>_archivist.log</code></td><td>Configuration, pipeline state, log</td><td>Managed by the Archivist</td></tr>
+</tbody></table></div>
+<h2>4. Step by step</h2>
+<h3>A. Add a new channel</h3>
+<ol>
+<li>In Telegram Desktop open the channel → ⋮ → <strong>Export chat history</strong> → format <strong>HTML</strong>, include photos and files. You get a folder containing <code>messages.html</code>.
+</li>
+<li>Leave the export wherever it is (e.g. Downloads) — the path is all the Archivist needs. Building creates the channel's own folder <code>sources/tg-channels/&lt;slug&gt;/</code> (the folder name is the slug you choose; <code>--name</code> on the command line) and <strong>copies</strong> the export into its <code>raw-exports/</code> (<code>sources/tg-channels/&lt;slug&gt;/raw-exports/ChatExport_2026-07-16/</code>), so you can delete the download afterwards. An export that already lies inside the library is <strong>moved</strong> there instead. You may also prepare the folder yourself: <code>sources/tg-channels/my-channel/raw-exports/ChatExport_2026-07-16/</code> — then give the path of <code>sources/tg-channels/my-channel/</code>.
+</li>
+<li>Start the Archivist: press <strong>＋ Add / append knowledge base</strong> on any screen — if the panel is not running, the button starts it and opens it (on a Mac; the browser may ask once whether to open <em>TG Archivist</em>). The very first time, start it by hand: double-click <code>Start Archivist.command</code> in the library root (or run <code>python3 tg-archivist/app/server.py</code>); that start installs the small launcher app the button uses. The panel lives at <a href="http://127.0.0.1:8765" >http://127.0.0.1:8765</a>.
+</li>
+<li>Paste the folder path — the export folder or a channel folder holding export folders — press <strong>Inspect</strong> (it shows the folder the knowledge base will be created in), adjust title and options, press <strong>Build knowledge base</strong>. With several exports, the oldest becomes the original and the others are appended automatically. Parsing, text recognition of image cards and PDFs, and batching run immediately.
+</li>
+<li>The reading-and-writing stages need Claude. <strong>With the standalone Claude CLI</strong> (<code>claude</code>, installed with Claude Code) <strong>logged in</strong>, they run from the panel: the badge at the top says <em>Claude CLI logged in</em>, and a card waiting for Claude has a <strong>Run with Claude</strong> button (builds and appends start it by themselves). If the badge says <em>installed but not logged in</em>, press <strong>Log in to Claude CLI</strong> — it opens Terminal with <code>claude auth login</code>; sign in in the browser window that opens. (Signing in to the Claude desktop app does not log in the CLI.) <strong>Without the CLI</strong>, the panel shows a one-line command; paste it into Claude Code opened in the library root:
+</li>
+</ol>
+<pre><code>/tg-archivist &quot;sources/tg-channels/&lt;slug&gt;&quot;</code></pre>
+<ol>
+<li>When it finishes, the channel appears in the hub, the cross-channel index and the guide automatically.
+</li>
+</ol>
+<p>What the build does, in order: recon → parse → media text → cards (each post classified; announcements, logistics and promotion are excluded) → taxonomy (topics, the cross-channel area of each domain, and for every topic its <em>also-relevant areas</em> and <em>concepts</em> — see 4H) → extract (full-insight knowledge files, checked mechanically for depth) → retag (each topic's tags and scope re-checked against its extracted knowledge — see 4H) → resources (every link and attached file of the posts classified as resource or external link — see 4I) → profile (channel persona and constraints) → assemble → QA → index.</p>
+<h3>B. Append a newer export of a channel you already have</h3>
+<p>Export the channel again from Telegram (the whole history or only from the last date — both work; overlapping messages are merged by id). Then either:</p>
+<ul>
+<li><strong>Archivist panel, by path</strong>: paste the new export folder (wherever it is) and press <strong>Inspect</strong>. The panel recognises the channel and offers <strong>Append to “…”</strong>. Press it.
+</li>
+<li><strong>Archivist panel, by dropping it into the channel folder</strong>: put the new <code>ChatExport_…/</code> folder into the channel's <code>raw-exports/</code> folder (<code>sources/tg-channels/&lt;channel&gt;/raw-exports/ChatExport_2026-11-17/</code>). The channel's card in the panel then shows <strong>New export folder found</strong> with an <strong>Append</strong> button (pasting the channel folder path and pressing <strong>Inspect</strong> offers the same).
+</li>
+<li><strong>Command line</strong>: <code>python3 tg-archivist/archivist.py append "sources/tg-channels/&lt;channel&gt;" "&lt;new export folder&gt;"</code> — or, for export folders already inside the channel folder, just <code>python3 tg-archivist/archivist.py append "sources/tg-channels/&lt;channel&gt;"</code> — then <code>/tg-archivist "sources/tg-channels/&lt;channel&gt;"</code> in Claude Code. <code>archivist.py status "&lt;channel folder&gt;"</code> lists the exports; <code>doctor</code> flags any export folder that has not been appended.
+</li>
+</ul>
+<p>Only new material is processed: new posts are carded, placed into existing topics (new topics are created only when needed, each tagged with also-relevant areas and concepts; topics that receive new posts may gain concepts), and extracted as an additional <em>part</em> of each affected topic; the topic's knowledge file is re-merged (its summary gains the new part's summary; its questions and frameworks lists gain the new ones). Then the retag stage re-checks the tags and scope of every topic that received new posts (4H). If a message that was already extracted has been edited in the newer export, the affected part is re-opened. An export that lives outside the channel folder is copied into its <code>raw-exports/&lt;export folder name&gt;/</code>, so you can delete the download afterwards. If you have already placed the export folder in <code>raw-exports/</code> (for example <code>raw-exports/ChatExport_2026-11-17/</code> next to the original <code>raw-exports/ChatExport_2026-07-16/</code>), it is registered in place and not copied; one dropped anywhere else inside the channel folder is moved into <code>raw-exports/</code> first. All media links are resolved from the channel folder (<code>raw-exports/&lt;export&gt;/photos/…</code>). Newer Telegram exports format long posts as “rich blocks” (headings, paragraphs, embedded photos, slideshows); the parser reads these, keeping paragraph breaks and every attached photo.</p>
+<h3>C. Use the library as the knowledge base of a conversational agent</h3>
+<p><strong>In Claude Code, opened in the library root</strong> — nothing to install. Ask your question; the skill <code>tg-kb-navigator</code> routes through <code>KNOWLEDGE_INDEX.md</code>, consults <strong>every</strong> channel that covers the subject, adopts each channel's profile for that channel's material, and answers with per-channel attribution. Useful phrasings: “what do my channels say about …”, “how do I … according to …”, “compare what … and … say about …”, “give me the full method for …”.</p>
+<p><strong>In Claude Code elsewhere</strong> — symlink the skills so they stay current:</p>
+<pre><code>mkdir -p ~/.claude/skills
+ln -s &quot;/Users/coreference/projects/tg insights/.claude/skills/tg-kb-navigator&quot; ~/.claude/skills/tg-kb-navigator</code></pre>
+<p>and give the session access to the library root. A single channel can be installed alone by symlinking its <code>agent-kb/</code> folder (instructions in its <code>agent-kb/README.md</code>).</p>
+<p><strong>In claude.ai or another assistant</strong> — give it <code>KNOWLEDGE_INDEX.md</code>, the <code>index/</code> folder and the channels' <code>topics/</code> folders (or one channel's zipped <code>agent-kb/</code>). Tell it to follow the protocol at the top of <code>KNOWLEDGE_INDEX.md</code>.</p>
+<p>How an agent is expected to behave (the protocol in <code>KNOWLEDGE_INDEX.md</code>): start from the <strong>concept index</strong> <code>index/concepts.md</code> — pick the concept(s) matching the question and take every topic listed under them, from every channel and every area → as a safety net, one <code>find</code> with the concept's synonyms and the user's own words in Russian and English (<code>find --concept &lt;slug&gt; "&lt;words&gt;"</code>), because channels file the same subject under different areas and not every phrasing is tagged → open the area index of the obvious area and of its neighbours (each also lists, under <em>Also relevant</em>, topics filed under another area that teach the subject too) → for each relevant channel read its <code>agent-kb/SKILL.md</code> and adopt that persona and those constraints → read the matching knowledge files in full → synthesize across channels with attribution and caveats, and <strong>surface the resources</strong>: each topic file ends with <em>Resources and links</em>, and the agent gives the user the relevant files, guides, articles, studies, tools and websites (★ recommended first) with their links or file paths, plus products, books and courses labelled as external links; <code>index/resources.md</code> lists them all across channels. For lighter processing (an overview, a whole area at once, a tight context budget) agents read the NotebookLM study files instead — listed at the top of each area index and in each channel's routing tables — and return to the topic files when exact provenance or precise quotes matter. To locate material, any agent can run <code>python3 tg-archivist/archivist.py find "&lt;query&gt;" "&lt;synonym&gt;" "&lt;term in the other language&gt;" …</code>: it searches all knowledge bases at once, takes several queries in one call and merges the ranking (a topic found by several synonyms rises), matches Russian and English word forms (эмоции ~ эмоциональная, regulate ~ regulation), and shows each hit's area and which queries it matched. <code>--concept &lt;slug&gt;</code> adds every synonym of that vocabulary concept as a query and lifts the topics tagged with it; a query that names a concept (e.g. “саморегуляция”) also lifts that concept's topics.</p>
+<h3>D. Use it as study material (NotebookLM or any AI tutor)</h3>
+<ol>
+<li>Each channel has a <code>notebooklm/</code> folder: one document per domain (long domains are split into parts) with the same full knowledge as the knowledge files, in lighter markup. Its <code>README.md</code> lists which file covers what.
+</li>
+<li><strong>NotebookLM button</strong> — on every topic in the hub and in each channel library (in the topic's header), and next to every area heading in the hub. It shows the file that holds this topic and the NotebookLM files of <em>every</em> channel on the same area, with links, <strong>Copy folder path</strong> and <strong>Copy all file paths</strong>.
+</li>
+<li>For one subject across channels: upload everything in the ready-made folder <code>index/notebooklm/&lt;area&gt;/</code> (copies of every channel's files on that area, prefixed with the channel) into one notebook. In NotebookLM: <em>New notebook → Add source → Upload</em>; in the macOS file dialog press ⌘⇧G and paste the copied folder path.
+</li>
+<li>For a whole channel: upload all files of its <code>notebooklm/</code> folder.
+</li>
+<li>Ask the tool for an audio overview, a study guide, flashcards or a quiz. Citations look like <code><span class="cite">[<span class="chip" data-mid="123">#123</span>]</span></code>; look any of them up in the channel library.
+</li>
+</ol>
+<h3>E. Browse a subject yourself, across channels</h3>
+<ol>
+<li>Open <a href="hub.html" >hub.html</a>.
+</li>
+<li>Type the subject, pick <strong>area</strong> chips, or pick <strong>concepts</strong> — from the <strong>Concept index</strong> in the left bar (type in its search box, English or Russian; click its heading to fold it away), from the <em>Concepts</em> row above the results (the concepts with the most topics — its label says “top N of all”, and the <em>Area</em> label says how many areas there are), or from the concept tags on any topic card. To narrow to channels, click their <strong>channel cards</strong> in the right-hand panel. Areas, concepts and channels are multi-select: several can be on at once (topics in any of them). For concepts, the <strong>ANY | ALL</strong> switch under the concept search (repeated in the banner above the results) decides whether a topic needs any or all of the selected concepts — e.g. three concepts on ALL plus two areas shows the topics in those two areas tagged with all three; in ALL mode each concept in the index says how many topics carry it together with the ones already selected, and <code>#concept=a,b&amp;match=all</code> links to such a view. Click an active one again to switch it off, or use <em>deselect all</em> at the end of the row once two or more are on. Topics from all channels appear in the centre grouped by area, each titled first and then labelled with its channel. Each area heading folds its section away (click it again to unfold; <em>fold areas</em> does all). A topic card starts compact — title, channel, place and concept tags; click it to see it in full (summary, questions it answers, a <em>Frameworks (N)</em> toggle, resources, path of the knowledge file), and click its top again to fold it; <em>expand cards</em> / <em>collapse cards</em> do all. An area also shows, marked <em>also relevant</em>, topics filed under another area that teach the same subject; a concept shows every topic tagged with it, whatever its area, with the concept's definition and synonyms. <code>hub.html#concept=&lt;slug&gt;</code> (or <code>#concept=a,b</code>) opens concepts directly, and each channel library links its topics' concepts there. The channel cards (progress, library, README, NotebookLM pack, agent skill) sit in the right-hand panel under <em>Add / append knowledge base</em>; clicking a card outside its links switches that channel's filter on or off.
+</li>
+<li>Click a topic to read it in the channel library; click any <code>#id</code> chip there to unfold the original message, and click the same chip again (or the × on the message) to fold it away — the page returns to where you were. <strong>NotebookLM</strong> on a topic or area lists the matching study files from all channels.
+</li>
+</ol>
+<h3>F. Check something against the original</h3>
+<p>In a channel library, click the citation chip. For text search across originals use the library's search box. Files: <code>parsed/messages.jsonl</code> (message text), <code>parsed/media_text.jsonl</code> (text from images and PDFs).</p>
+<h3>G. Keep it healthy</h3>
+<ul>
+<li><code>python3 tg-archivist/archivist.py doctor</code> — lists anything stale, missing, unfinished, untagged (topics without concepts) or inconsistent (tags not in <code>concepts.json</code>, <code>also_areas</code> not in <code>areas.json</code>), with the command that fixes each.
+</li>
+<li><code>python3 tg-archivist/archivist.py tag "&lt;channel folder&gt;" | --all [--apply]</code> — propose / apply cross-channel tags for existing topics (see 4H).
+</li>
+<li><code>python3 tg-archivist/archivist.py concepts list</code> — every concept with its number of topics and channels; <code>concepts merge FROM INTO [--apply]</code> folds a duplicate concept into another; <code>concepts rename FROM TO [--label "…"] [--apply]</code> renames one (see 4H).
+</li>
+<li><code>python3 tg-archivist/archivist.py sync</code> — regenerates every derived document that is out of date (hub, indexes, guide, libraries, study packs, skill packs, QA reports).
+</li>
+<li><code>python3 tg-archivist/archivist.py list</code> / <code>status "sources/tg-channels/&lt;channel&gt;"</code> — progress.
+</li>
+<li><strong>Moved or renamed a folder?</strong> Keep every knowledge base in <code>sources/&lt;source type&gt;/&lt;source&gt;/</code> and its exports in <code>raw-exports/</code>, then run <code>python3 tg-archivist/archivist.py relocate --all</code> (a dry run that shows what will change) and <code>relocate --all --apply</code>. It finds each knowledge base by its slug, re-points the registry, the configuration, every stored media path (parsed messages, text from images, the resource classifications) and the work orders, then regenerates the documents. <code>doctor</code> reports a knowledge base that needs it, and any export folder lying outside <code>raw-exports/</code>. Moving the whole library folder needs nothing: all stored paths are relative.
+</li>
+<li>Each channel's <code>99_qa_report.md</code> shows coverage, depth and any open issue. Depth QA judges the extracted knowledge only: the generated <em>Resources and links</em> section of a topic file is not counted, and a <code>&lt;!-- depth-ok #id: reason --&gt;</code> exception written anywhere in an extract part is kept in the assembled file and honoured.
+</li>
+</ul>
+<h3>H. Cross-channel tags: also-relevant areas and concepts</h3>
+<p>Channels file the same subject under different areas — emotional regulation is <em>Mind &amp; Emotions</em> in one channel and <em>Rest &amp; Burnout</em> or <em>Meditation</em> in another. So besides its primary area (from its domain), every topic carries two tags in <code>topics/_taxonomy.json</code>:</p>
+<ul>
+<li><strong><code>also_areas</code></strong> — up to 3 other areas where the topic is substantially relevant. Each area index lists such topics under <strong>Also relevant — topics filed under another area</strong>, and <code>KNOWLEDGE_INDEX.md</code> counts them per area.
+</li>
+<li><strong><code>concepts</code></strong> — 2–6 cross-channel concept slugs from the shared vocabulary <code>concepts.json</code> (e.g. <code>emotional-regulation</code>, <code>burnout</code>, <code>sleep-hygiene</code>). Topics of different channels that share a concept can be read together, whatever their areas. A new concept is defined once (label, definition, English and Russian synonyms) and added to <code>concepts.json</code>.
+</li>
+</ul>
+<p><strong>New channels and appends are tagged automatically</strong>: the taxonomy work order fills both tags for every topic (and for every new topic after an append), reusing vocabulary concepts and defining new ones; the checker rejects missing or invalid tags with feedback. The taxonomy stage — and so the channel — is never complete while any topic lacks concepts: the runner issues a tagging work order for the untagged ones instead, and re-opens the stage of an already finished channel that has untagged topics.</p>
+<p><strong>Re-tagging after extraction (automatic).</strong> Tags chosen at the taxonomy stage are judged from short post cards, and a topic's tags do not follow its growth after an append. So once extraction finishes, the <strong>retag</strong> stage gives every topic whose extracted knowledge is new or has gained a part since its tags were last judged to the <code>tg-taxonomist</code> agent: it re-checks the tags against the full knowledge (summary, questions answered, frameworks, and the knowledge file itself), adds a concept for every subject the topic substantially teaches (posts usually cover more than one), drops ones it barely touches, revises <code>also_areas</code>, and rewrites the topic's scope line when it no longer describes what the topic contains. The result is applied automatically; <code>&lt;channel&gt;/work/retag/retag-NN.changes.md</code> lists every topic it changed. After an append only the topics that received new posts are re-checked.</p>
+<p><strong>Tagging existing topics by hand</strong> — <code>archivist.py tag</code>:</p>
+<ol>
+<li><code>python3 tg-archivist/archivist.py tag "&lt;channel folder&gt;"</code> (or <code>--all</code> for every channel) — a dry run. It writes a work order in <code>&lt;channel&gt;/work/tagging/</code> and prints it; give it to the <code>tg-taxonomist</code> agent (<code>Execute the work order at &lt;prompt_file&gt; exactly. Read it first.</code>; at most 2 at a time). Concepts proposed by other channels' pending proposals are offered to the worker, so channels converge on one vocabulary; whichever proposal is applied first adds the shared concept to <code>concepts.json</code>, and the others then simply reuse it.
+</li>
+<li>Run the same command again: it validates the worker's proposal and renders <code>&lt;channel&gt;/work/tagging/tags.proposal.md</code> — a table per domain (topic → also-relevant areas → concepts, new concepts marked ★). Review it; edit <code>tags.proposal.json</code> if you want changes.
+</li>
+<li><code>python3 tg-archivist/archivist.py tag "&lt;channel folder&gt;" --apply</code> — writes only <code>also_areas</code> and <code>concepts</code> into <code>topics/_taxonomy.json</code>, adds new concepts to <code>concepts.json</code>, and syncs. Topics, post assignments and extracted knowledge are never touched; applying the same proposal twice changes nothing.
+</li>
+</ol>
+<p>By default only untagged topics are proposed; <code>--retag</code> proposes tags for all topics again. <code>--run</code> lets a logged-in <code>claude</code> CLI do step 1's work order itself. <code>doctor</code> lists untagged topics, tags missing from <code>concepts.json</code>, invalid <code>also_areas</code>, topics still carrying a merged slug and incomplete vocabulary entries, each with the command that fixes it.</p>
+<p><strong>The concept index.</strong> Every <code>sync</code> joins <code>concepts.json</code> with every channel's tags into <code>index/concepts.md</code> (and <code>index/concepts.json</code>): an at-a-glance table (concept, channels, number of topics and areas, synonyms), then one section per concept listing every topic of every channel tagged with it — channel, topic, the area it is filed under, file path and one-line scope. <code>KNOWLEDGE_INDEX.md</code> links it (§3) and makes it step 1 of the agent protocol; the hub shows it as the <em>Concept</em> filter and the <strong>Concept index</strong> panel.</p>
+<p><strong>Merging duplicate concepts.</strong> When two concepts mean the same thing (for example <code>sleep-deprivation</code> and <code>sleep-hygiene</code>), run <code>python3 tg-archivist/archivist.py concepts merge sleep-deprivation sleep-hygiene</code> (several pairs at once are fine). The dry run lists the topics affected; add <code>--apply</code> to merge: the target concept gains the other's label and synonyms, the merged slug is kept as an <em>alias</em> (so workers and tags that still use it resolve to the target), every channel's taxonomy is re-tagged, and the library is synced. Running it again changes nothing. <code>concepts rename FROM TO [--label "New label"]</code> renames a concept the same way (dry run first, then <code>--apply</code>; the old slug stays as an alias). To reword a label, definition or synonyms, edit <code>concepts.json</code> directly and <code>sync</code>.</p>
+<h3>I. Resources and links: nothing a post shares is lost</h3>
+<p>Posts often share something beyond their text: a PDF guide, a study or medical article, the website of a project, a free tool, a podcast — or a book, a product, a paid course, the author's own site. The <code>resources</code> stage (after extraction) collects <strong>every link and every attached file</strong> of every topic's posts — including posts excluded from the knowledge as announcements — and classifies each one once:</p>
+<ul>
+<li><strong>Resource</strong> — usable directly: attached files (PDF guides, checklists, audio), articles and research papers, free guides and templates, free tools and apps, websites of projects and organisations, free videos, talks and podcasts.
+</li>
+<li><strong>External link</strong> — products and shop pages (including book stores), courses and programmes (paid or not), services, personal and author websites, profiles and channels.
+</li>
+<li><strong>Skip</strong> — only registration/payment/event logistics, cross-references to channel posts and broken links (still listed on the channel's <em>External links</em> page under <em>Skipped links</em>).
+</li>
+</ul>
+<p>Each item gets a title (the real name of the book, article, project or person), a note (what it is, why the post shares it, the author's verdict) and ★ when the author recommends it. Clear-cut links are classified by code (links to the channel's own posts, social profiles); the rest go to the <code>tg-resource-curator</code> agent in work orders of 50 (at most 2 at a time). After an append only links not seen before are sent.</p>
+<p>Where they show up: the end of every topic's knowledge file (<em>Resources and links</em>), the channel library's <strong>Resources</strong> and <strong>External Links</strong> pages, each topic card in the hub (<em>Resources &amp; links</em>), the library-wide list <code>index/resources.md</code> (+ <code>.json</code>, by area), the area indexes (counts and ★ items per topic), and <code>find</code> (titles and notes are searchable). Answering agents are told to give the user the relevant items with their links or file paths. A wrong classification is fixed in <code>&lt;channel&gt;/work/resources/_resources.json</code>, then <code>sync</code>.</p>
+<h2>5. Why nothing goes stale</h2>
+<p>There is one source of truth per channel (the exports, the extracted parts in <code>work/extract/</code>, the taxonomy and the profile). <strong>Everything else is generated</strong> and carries a fingerprint of what it was built from. The generator runs:</p>
+<ul>
+<li>after every Archivist step (<code>next</code>, <code>check</code>, <code>run</code>), so partial progress is visible immediately;
+</li>
+<li>at the start of every Claude Code session in the library root (hook in <code>.claude/settings.json</code>);
+</li>
+<li>when the Archivist panel starts and while it is open;
+</li>
+<li>on demand with <code>archivist.py sync</code>.
+</li>
+</ul>
+<p>Skills installed by symlink always read the current files. Copies uploaded elsewhere (claude.ai, NotebookLM) are snapshots — re-upload after an update.</p>
+<h2>6. Rules for agents working in this folder</h2>
+<ol>
+<li><strong>Answering questions</strong>: use the skill <code>tg-kb-navigator</code> and follow the protocol in <code>KNOWLEDGE_INDEX.md</code>. Start from the concept index <code>index/concepts.md</code>, then search with the concept's synonyms and several Russian and English terms (<code>find --concept &lt;slug&gt; …</code>) and scan neighbouring areas, not only the obvious one. Consult every relevant channel; adopt each channel's <code>agent-kb/SKILL.md</code> profile for its material; cite <code>&lt;channel&gt; · &lt;topic&gt; [msg #id]</code>.
+</li>
+<li><strong>Adding or updating knowledge</strong>: use the skill <code>tg-archivist</code>. Never write knowledge files freehand outside a work order; the extraction standard <code>tg-archivist/prompts/EXTRACTION_STANDARD.md</code> is binding.
+</li>
+<li><strong>Never edit generated files</strong> (section 3 marks them). Change the source of truth or the generator, then run <code>sync</code>.
+</li>
+<li><strong>When you change the structure, a screen, a command, a skill or a user action</strong>, update <code>tg-archivist/docs/guide_template.md</code> in the same change and run <code>sync</code>. <code>doctor</code> warns when the template is older than the code it describes.
+</li>
+<li>Fidelity: source only, quotes verbatim, uncertainty marked <code>(!)</code>, announcements and logistics excluded.
+</li>
+</ol>
+<h2>7. Live inventory</h2>
+<h3>Knowledge bases</h3>
+<div class="tw"><table><thead><tr><th>Channel</th><th>Folder</th><th>Messages</th><th>Dates</th><th>Topics extracted</th><th>Knowledge words</th><th>Exports</th><th>Status</th></tr></thead><tbody>
+<tr><td><a href="sources/tg-channels/na-balanse/library.html" >На балансе с Катей Стрельниковой</a></td><td><code>sources/tg-channels/na-balanse/</code></td><td>686</td><td>2023-12-04 → 2026-11-15</td><td>42/42</td><td>~283,692</td><td>2</td><td>complete</td></tr>
+<tr><td><a href="sources/tg-channels/deep-mind2.0/library.html" >deep mind 2.0</a></td><td><code>sources/tg-channels/deep-mind2.0/</code></td><td>1597</td><td>2019-11-10 → 2026-11-17</td><td>52/52</td><td>~486,928</td><td>2</td><td>complete</td></tr>
+<tr><td><a href="sources/tg-channels/human-machine/library.html" >Human Gazing Upon Machine</a></td><td><code>sources/tg-channels/human-machine/</code></td><td>560</td><td>2022-03-21 → 2026-11-12</td><td>25/25</td><td>~114,137</td><td>1</td><td>complete</td></tr>
+<tr><td><a href="sources/tg-channels/neurospicy/library.html" >Нейропряность</a></td><td><code>sources/tg-channels/neurospicy/</code></td><td>731</td><td>2024-02-10 → 2026-10-04</td><td>26/26</td><td>~132,214</td><td>1</td><td>complete</td></tr>
+<tr><td><a href="sources/tg-channels/neurodiv_psy/library.html" >(нейро)разнообразная психология</a></td><td><code>sources/tg-channels/neurodiv_psy/</code></td><td>326</td><td>2023-03-15 → 2026-11-07</td><td>14/14</td><td>~64,134</td><td>1</td><td>complete</td></tr>
+</tbody></table></div>
+<h3>Cross-channel areas</h3>
+<p>Energy &amp; Resource (6 topics, 1 channel(s)), Rest &amp; Burnout (8 topics, 2 channel(s)), Sleep (3 topics, 2 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement &amp; Body (5 topics, 2 channel(s)), Balance &amp; Life Philosophy (6 topics, 2 channel(s)), Mind &amp; Emotions (21 topics, 4 channel(s)), Behavior Change &amp; Coaching (4 topics, 1 channel(s)), Wellness Industry, Gadgets &amp; Longevity (6 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Interviews &amp; Community (3 topics, 1 channel(s)), Meditation &amp; Contemplative Practice (6 topics, 1 channel(s)), Leadership &amp; Organizations (14 topics, 1 channel(s)), Psychotherapy &amp; Inner Work (7 topics, 3 channel(s)), Attention &amp; Digital Wellbeing (3 topics, 1 channel(s)), Society &amp; Politics (10 topics, 2 channel(s)), Neurodiversity (34 topics, 3 channel(s)), Neuroscience &amp; Cognitive Science (7 topics, 1 channel(s)), Technology &amp; AI (2 topics, 1 channel(s)), Science &amp; Research (3 topics, 1 channel(s)), Chronic Illness &amp; Disability (5 topics, 1 channel(s))</p>
+<h3>Skills</h3>
+<ul>
+<li><code>/tg-archivist</code> — Build or update a channel knowledge base from a local Telegram HTML export folder — a new channel, or APPEND a newer export to a channel that already has a knowledge base. Produces full-insight knowledge files, the offline library
+</li>
+<li><code>/tg-kb-navigator</code> — Answer from the library of Telegram-channel knowledge bases, drawing on EVERY channel that covers the subject. Use when the user asks what a channel/author says or teaches, asks a subject question the channels may cover (health, e
+</li>
+</ul>
+<h3>Worker agents</h3>
+<ul>
+<li><code>tg-card-mapper</code> — Produces compact per-post cards (gist, keywords, kind, themes) for a batch of Telegram posts from a tg-archivist work order. Use for work orders whose agent field is tg-card-mapper.
+</li>
+<li><code>tg-insight-extractor</code> — Writes one full-depth knowledge file for a topic of a Telegram-channel knowledge base from a tg-archivist work order. Use for every work order whose agent field is tg-insight-extractor.
+</li>
+<li><code>tg-media-transcriber</code> — Transcribes text from images and PDFs of a Telegram export verbatim when local OCR is unavailable. Use for work orders whose agent field is tg-media-transcriber.
+</li>
+<li><code>tg-qa-verifier</code> — Independent fidelity spot-check of a finished Telegram-channel knowledge base — samples insights from knowledge files and verifies that the cited messages actually support them. Use after tg-archivist
+</li>
+<li><code>tg-resource-curator</code> — Classifies the links and files shared in a Telegram channel's posts from a tg-archivist work order — resource (usable directly — files, articles, studies, free tools, project websites), external link 
+</li>
+<li><code>tg-taxonomist</code> — Builds or updates the topic tree of a Telegram-channel knowledge base from a tg-archivist work order — the bottom-up Domains → Topics taxonomy (with cross-channel areas, also-relevant areas and concep
+</li>
+</ul>
+<h3>Commands (<code>python3 tg-archivist/archivist.py …</code>)</h3>
+<ul>
+<li><code>archivist.py init</code> — FOLDER [--title T] [--slug S] [--name N] [--set k=v ...]  new knowledge base in sources/tg-channels/&lt;name&gt;/
+</li>
+<li><code>archivist.py append KB_DIR [NEW_EXPORT_DIR] [--force]</code> — add later export(s) of the SAME channel: a folder
+</li>
+<li><code>archivist.py relocate KB_DIR | --all [--apply]</code> — after a knowledge base or its export folders were moved/renamed:
+</li>
+<li><code>archivist.py next</code> — KB_DIR [--limit N]   run deterministic stages; print open work orders (JSON)
+</li>
+<li><code>archivist.py check</code> — KB_DIR [--unit ID] [--final]    validate finished work orders
+</li>
+<li><code>archivist.py status KB_DIR</code> — stage table
+</li>
+<li><code>archivist.py run</code> — KB_DIR [--parallel N] unattended loop (needs a logged-in <code>claude</code> CLI)
+</li>
+<li><code>archivist.py sync</code> — [--if-stale] [--quiet] regenerate every derived document that is out of date
+</li>
+<li><code>archivist.py find</code> — "query" ["synonym" "other language" ...] [--concept SLUG] [--limit N] [--kb SLUG] [--json]
+</li>
+<li><code>archivist.py tag</code> — KB_DIR | --all [--apply] [--retag] [--run]  cross-channel tags (also_areas + concepts) for
+</li>
+<li><code>archivist.py concepts list | merge FROM INTO [FROM INTO ...] | rename FROM TO [--label L]</code> — [--apply]  the shared
+</li>
+<li><code>archivist.py doctor</code> — report anything stale, missing, untagged or inconsistent
+</li>
+<li><code>archivist.py list</code> — 
+</li>
+</ul>
+<p>Pipeline stages: recon → parse → media → cards → taxonomy → extract → retag → resources → profile → assemble → qa → index.</p>
+<h2>8. Troubleshooting</h2>
+<ul>
+<li><strong>“＋ Add / append” says it could not start the Archivist</strong> — double-click <code>Start Archivist.command</code> once (it installs the launcher the button uses; <code>python3 tg-archivist/app/launcher.py status</code> shows whether it is installed and for which library), then press the button again. If the browser asked whether to open <em>TG Archivist</em> and you declined, press the button again and allow it.
+</li>
+<li><strong>The panel still shows a command to copy although Claude Code is installed</strong> — the panel runs Claude through the standalone <code>claude</code> CLI, which has its own sign-in. Press <strong>Log in to Claude CLI</strong> on the panel (or run <code>claude auth login</code> in a terminal); the badge turns green and cards get <strong>Run with Claude</strong>.
+</li>
+<li><strong>The panel shows “needs Claude”</strong> — paste the shown <code>/tg-archivist …</code> command into Claude Code opened in the library root.
+</li>
+<li><strong>A stage is stuck</strong> — <code>archivist.py status "&lt;channel folder&gt;"</code>, then read the unit's issues in <code>_state.json</code>; re-running <code>/tg-archivist</code> retries with the checker's feedback.
+</li>
+<li><strong>A page looks out of date</strong> — <code>archivist.py sync</code>, then reload. <code>archivist.py doctor</code> explains what was stale.
+</li>
+<li><strong>A channel disappeared from the hub, or its photos and files no longer open, after a folder was moved or renamed</strong> — make sure it sits in <code>sources/&lt;source type&gt;/&lt;source&gt;/</code> with its exports in <code>raw-exports/</code>, then <code>archivist.py relocate --all --apply</code> (see 4G).
+</li>
+<li><strong>Text from an image is wrong</strong> — recognition is automatic; image-derived content is cited as <code>[img #id]</code> so it can be checked against the picture in the library.
+</li>
+</ul>
+</main><script>
+
+(function(){
+  var KEY='tgx-help-'+"guide", URL="http://127.0.0.1:8765", ROOT="/Users/coreference/projects/tg insights", REQ="https://coreference.notion.site/41d05961cce680c9a13dff2c1faba52a?pvs=105";
+  var help=document.getElementById('tgx-help'), tog=document.getElementById('tgx-toggle');
+  function set(open){help.classList.toggle('open',open);tog.setAttribute('aria-pressed',open?'true':'false');
+    try{localStorage.setItem(KEY,open?'1':'0')}catch(e){}}
+  var saved=null;try{saved=localStorage.getItem(KEY)}catch(e){}
+  set(saved===null?false:saved==='1');
+  tog.addEventListener('click',function(){set(!help.classList.contains('open'))});
+  var modal=document.getElementById('tgx-modal'), wait=document.getElementById('tgx-wait'), how=document.getElementById('tgx-how');
+  function ping(){var c=window.AbortController?new AbortController():null, t=c&&setTimeout(function(){c.abort()},1200);
+    return fetch(URL+'/api/ping',{mode:'cors',cache:'no-store',signal:c?c.signal:undefined}).then(function(r){clearTimeout(t);return r.ok}).catch(function(){clearTimeout(t);return false})}
+  function show(starting){wait.style.display=starting?'':'none';how.style.display=starting?'none':'';modal.classList.add('open')}
+  // Not running: ask the launcher app (tg-archivist://, installed by the Archivist on its first start) to start it.
+  // The launcher opens the panel itself once it answers; if nothing answers within ~12 s, show how to start it by hand.
+  function launch(){show(true);location.href='tg-archivist://start';var t0=Date.now();
+    (function poll(){ping().then(function(ok){if(ok){modal.classList.remove('open');return}
+      if(Date.now()-t0<12000)setTimeout(poll,500);else show(false)})})()}
+  function go(){var here=location.origin===URL; if(here){location.href='/#add';return}
+    var done=false, t=setTimeout(function(){if(!done){done=true;launch()}},1500);
+    ping().then(function(ok){if(done)return;done=true;clearTimeout(t);if(ok){window.open(URL+'/#add','_blank')}else{launch()}});}
+  // Published copy (no toolkit: tg-archivist/app/local.js did not load): the button invites requests for new sources.
+  var pub=!window.TGX_ARCHIVIST&&location.origin!==URL, add=document.getElementById('tgx-add'), req=document.getElementById('tgx-req');
+  if(pub&&add.classList.contains('tgx-btn')){add.innerHTML='＋ <span class="tgx-l">Request a channel</span>';
+    add.title='Suggest a Telegram channel or another source to be added to this library';add.href=REQ}
+  add.addEventListener('click',function(e){e.preventDefault();if(pub)req.classList.add('open');else go()});
+  document.getElementById('tgx-req-close').addEventListener('click',function(){req.classList.remove('open')});
+  req.addEventListener('click',function(e){if(e.target===req)req.classList.remove('open')});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'){req.classList.remove('open');modal.classList.remove('open')}});
+  document.getElementById('tgx-retry').addEventListener('click',function(){modal.classList.remove('open');go()});
+  document.getElementById('tgx-close').addEventListener('click',function(){modal.classList.remove('open')});
+})();
+
+</script></body></html>

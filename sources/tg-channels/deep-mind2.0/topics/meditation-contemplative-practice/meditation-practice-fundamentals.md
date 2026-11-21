@@ -1,0 +1,341 @@
+---
+kb: deep-mind-2-0
+domain: Meditation & Contemplative Practice
+topic: Meditation practice: how to start and keep going
+slug: meditation-practice-fundamentals
+messages: 17
+date_range: 2019-11-25..2026-05-20
+summary: How the deep mind channel teaches people to start meditating and keep going — the two beginner goals, rejoicing at noticing mind-wandering (positive reinforcement), deliberately finding pleasant sensations, motivation without craving for relief, a four-point checklist for a stuck practice, short frequent "frequency presence" practices, non-violent discipline, identity-based habit building, and several described practice formulas (Culadasa's formula, Thich Nhat Hanh's four lines, the "clerk of quality attention", Viktor Shiryaev's 4 "O").
+answers:
+  - What should a beginner actually be working on in meditation?
+  - What do I do when I notice my mind has wandered during meditation?
+  - Why do people quit meditation, and how do I make the practice something I look forward to?
+  - What is the most common mistake people make in meditation?
+  - My meditation practice is not working — what should I check and fix?
+  - How long and how often should I meditate if I am tired or a beginner?
+  - Should I force myself to meditate every day no matter what?
+  - How do I build a meditation habit through identity rather than willpower?
+  - Why do so few people do short daily practices even though they know the benefits?
+  - What simple practice formulas or algorithms can I use during a sit?
+frameworks:
+  - Culadasa's formula of successful meditation (relax, seek joy, observe, let everything arise-be-pass)
+  - Two beginner goals of meditation (daily intention; gradually reducing mind-wandering)
+  - Positive reinforcement of the moment of waking up from distraction (6-point scheme)
+  - Pleasant-sensations focus to break the cycle of pain and aversion (7 points)
+  - Pleasure Concentration audio-guide protocol
+  - Working with the motivation behind the most common mistake (meditating for relief)
+  - Identity-based habit formation (two identity questions)
+  - Checklist for when practice is not working (4 points)
+  - Frequency presence protocol (30-60 seconds, 5-10 times a day)
+  - Thich Nhat Hanh's four-line breathing practice
+  - The clerk of the corporation of quality attention (avoiding hyperactivation and dullness)
+  - Viktor Shiryaev's 4 "O" of mindfulness (Discover, Note, Embrace, Let go)
+themes:
+  - meditation
+  - habit-formation
+  - mindfulness
+  - motivation
+  - self-compassion
+terms:
+  - блуждание ума | mind-wandering; the attention forgetting the meditation object (usually the breath) | #50, #100
+  - момент пробуждения | the moment of "waking up" — the instant you recognize that you have been distracted; you are 100% mindful in it | #100
+  - положительное подкрепление | positive reinforcement; welcoming the moment of noticing distraction so the unconscious learns to notice sooner | #100, #639
+  - Pleasure Concentration | deep mind's 15-minute concentration audio-guide built on intention, joy at noticing distraction and noting pleasant sensations | #277
+  - медитация ради облегчения | meditating for relief; the author's "most common mistake" — a hidden form of resistance to present experience | #385
+  - радикальное принятие | radical acceptance of one's states and experience; the aim of correct practice | #385
+  - идентичность | identity; the deepest layer of the psyche that shapes behaviour, made of beliefs, attitudes and judgments about self and others | #393
+  - сопротивление | resistance; the whole path of practice can be described as working with it; looked for in the body | #639
+  - нейропластичность | neuroplasticity; the brain keeps developing throughout life under the influence of repeated experience | #653
+  - ненасилие / принуждение | non-violence vs coercion in inner work; coercion is a lack of understanding and a limited tactic | #1008
+  - дисэмбодимент | disembodiment; pathological but habitual disconnection from one's own body, emotions, feelings and needs | #1416
+  - частотное присутствие | frequency presence; short practices of 30-60 seconds done 5-10 times a day | #1508
+  - гиперактивация / прострация | the two extremes of attention: hyperactivation (jumping between objects) and prostration (dullness, sleepiness, murkiness) | #1639
+  - свобода от невроза | freedom from neurosis; the non-conceptual experience that nothing is lacking in the present moment | #1413
+  - страдание | suffering; in the contemplative context, primarily the subtle dissatisfaction and constant search for something missing from current experience | #1413
+  - искусные методы | skilful means; the traditional term the author applies to practices that are subtle and deep yet easy to do | #938
+people:
+  - Culadasa (Куладаса / Джон Чуладаса) | neuroscientist and meditation teacher, author of "Свет ума" (The Mind Illuminated); source of the success formula and a basis of Pleasure Concentration | #28, #277
+  - Alan Wallace (доктор Алан Уоллес) | teacher named as a basis of the Pleasure Concentration practice | #277
+  - Daniel Goleman | Harvard clinical psychologist, creator of the emotional-intelligence concept, co-author with Tsoknyi Rinpoche of "Why We Meditate" | #938
+  - Tsoknyi Rinpoche | Tibetan Buddhist teacher; the author admires his "integral" approach to teaching meditation in the West | #938
+  - Mingyur Rinpoche | Tibetan teacher; recommends many short practices (about 5 minutes) a day without accumulating frustration | #938, #1508
+  - Chokyi Nyima Rinpoche | named as Tsoknyi Rinpoche's brother | #938
+  - Pema Chödrön | quoted: "Awakening does not happen in comfort" | #1008
+  - Maychi Brigitte (Мейчи Бриджитт) | the channel's Austrian meditation teacher; "less is more", discipline through reflection not KPIs | #1008, #1795
+  - Ramana Maharshi | source of self-inquiry questions the author uses on days he does not sit | #1008
+  - Nancy McWilliams | psychoanalyst whose articles the author reads with pleasure when resourced | #1008
+  - Thich Nhat Hanh | author of a meditation book for children whose four-line practice gave the author and Dasha a deep experience | #1413
+  - Dasha (Даша) | the author's companion on the first vipassana trip; found the Thich Nhat Hanh practice | #1413
+  - Bhante (Банте) | Theravada monk at a Sri Lankan retreat centre who later helped the author understand the purpose of practice | #1413
+  - Viktor Shiryaev (Виктор Ширяев) | sinologist and mindfulness teacher, early popularizer of mindfulness in Russian; author of the 4 "O" algorithm | #1795
+  - Sri Aurobindo | Indian mystic, founder of Auroville (context of the travel story) | #1413
+excluded:
+  - none | every member message carries some transferable content; logistics inside mixed posts (links, purchase notes, event plugs) were dropped
+---
+# Meditation practice: how to start and keep going
+
+## What this covers
+
+This file collects everything the deep mind channel teaches about the practical side of meditation: what a beginner should actually be working on, how to treat mind-wandering, why to look for pleasant sensations, how motivation and expectations derail practice, what to check when practice "doesn't work", how to make practice regular (daily sits, short frequent sits, identity-based habits) and how to stay disciplined without self-violence. It also reproduces the concrete practice formulas the channel shared (Culadasa's formula, the Pleasure Concentration protocol, Thich Nhat Hanh's four lines, the frequency-presence protocol, Viktor Shiryaev's 4 "O") and the author's first-person descriptions of a sit. According to the source, building a stable, regular practice is "the key task for getting results and at the same time the main problem beginners without a teacher face" [msg #277], and without the ability to direct and hold attention no technique works [msg #50].
+
+## Core ideas
+
+- **Regularity beats technique.** What matters first is not the specific technique but the ability to do it every day; until practice is daily it is not really practice at all (see *Two beginner goals*) [msg #50, #151].
+- **Mind-wandering is trained through joy, not willpower.** Distraction and its spontaneous noticing are unconscious processes; you cannot will them away, but you can reinforce the moment of noticing by enjoying it (see *Positive reinforcement of the moment of waking up*) [msg #100].
+- **Make practice pleasant so you come back.** Mindfulness brings up long-held emotions and pain; doing something painful regularly is hard, so each session deliberately attends to the pleasant sensations that are always present (see *Pleasant-sensations focus*) [msg #151, #277].
+- **Meditating for relief is the most common mistake.** Expecting the session to improve your state is a hidden resistance to experience; the aim is awareness, not manipulation of state (see *Working with the motivation*) [msg #385].
+- **A stuck practice can be diagnosed.** Gratitude for each attempt, conditions, skill with resistance and positive reinforcement — the four-point checklist [msg #639].
+- **We are always practising something.** Through neuroplasticity, daily repeated experience — including irritation, stress and scrolling — shapes who we become; deliberate practice changes the result [msg #653].
+- **Short and frequent can work better than long.** 30-60-second practices 5-10 times a day are easier in hard circumstances and help beginners actually notice an effect [msg #1508].
+- **Discipline without violence.** Commitment matters, but forcing oneself is a limited tactic; when resources are lacking, seek resources or a gentler form of practice [msg #1008].
+- **Simplicity done sincerely can go furthest.** A children's practice done openly and sincerely may advance one further than a hunt for the "most advanced" technique [msg #1413].
+- **Practice is structural nervous-system training.** In a culture that generates ill-health, practices are islands of healthy experience that teach the nervous system an alternative mode [msg #1416].
+
+## Frameworks, models and step-by-step methods
+
+### Culadasa's formula of successful meditation
+Shared by the author from «Свет ума» (*The Mind Illuminated*), which he calls a «бомбовой недавно переведённой книги» ("a bomb of a recently translated book") by the neuroscientist and meditation teacher Culadasa [msg #28]. Four components, to be held together during a sit:
+1. **Relax (Расслабиться).** Be aware of and release any tension [msg #28].
+2. **Seek joy (Искать радость).** In every moment notice the pleasant aspects of the practice. Even when there is pain and unpleasant emotion, in the very same moment there are also good sensations, and these "должны быть частью нашего сознательного опыта" (should be part of our conscious experience) [msg #28].
+3. **Observe (Наблюдать).** Be aware of the phenomena occurring in the moment — without rejecting and without clinging, without evaluating [msg #28].
+4. **Let everything arise, be and pass unobstructed (Позволить всему беспрепятственно возникать, быть, уходить).** It does not matter what arises in experience; do not fight it and do not let anything carry you away from the practice [msg #28].
+
+### Two beginner goals of meditation
+Purpose: the author observes that more and more leaders and active people meditate and follow fashions in retreats — first everyone went to vipassana, now the trend is non-dual practices, Zen retreats and koans. These are "good processes", but what is often overlooked is understanding the concrete tasks of the first stages: not what result you might get (such as calm), but what exactly you are working on. Without knowing the goal "далеко не продвинешься" (you won't get far); without concrete goals practice, like any activity, becomes a random process with an unpredictable direction and outcome [msg #50]. At the start, meditation practice works on two tasks:
+1. **Create a conscious intention to practise a set amount of time every day** — and to train the mind diligently during sessions. Intention leads to action; then a habit forms. Do not create a vicious circle of guilt if regular practice does not work at once; better to keep working on intention and motivation. The author's blunt rule: you can try as many techniques as you like, sit on the mat with the most enlightened teachers "и сожрать тонну лсд" (and gobble a ton of LSD), but until practice becomes daily it does not actually become practice at all [msg #50].
+2. **Gradually and organically reduce periods of mind-wandering.** On starting, we discover the mind forgets the breath and willpower does not prevent it. Create an intention to value the moments when you recognize wandering; this gradually teaches the mind to remember the distraction from the object (usually the breath). Then return to the object again and again without judgment. This develops the habit of noticing distractions and increases the capacity to concentrate longer. This is the foundation: without the ability to direct and hold attention no technique works — not insight meditation (vipassana), not visualizations, not koans [msg #50].
+The closing rule: if you have started meditating, know concretely what you are realizing in practice right now — otherwise you are doing "непонятно что и неясно зачем" (who knows what, and who knows why). Once these goals are met, it is time to move on to the next ones [msg #50]. (!) INCOMPLETE: the source does not say what the "next" goals are.
+
+### Positive reinforcement of the moment of waking up (6-point scheme)
+Presented as "one of the most important emphases for success in meditation practice" [msg #100].
+1. **The natural but wrong reaction.** At some point we suddenly realize we are no longer watching the breath. The natural reaction is to force ourselves back to observation and condemn ourselves for the distraction. Doing so misses the most important moment of training and creates negative reinforcement; most likely we will soon abandon the practice [msg #100].
+2. **Noticing is a small insight — and not done by "you".** Realizing you are no longer watching the breath is a moment of small insight into how the mind works. But you are not the one doing it: you can never make yourself, by willpower, not get distracted and come back, because distractions and their spontaneous noticing are unconscious processes [msg #100].
+3. **The problem.** Progress requires overcoming wandering and reducing the time spent distracted. But how do you train something that happens unconsciously? [msg #100]
+4. **The answer: enjoy the moment of awakening.** At the instant you realize the mind has wandered you are 100% mindful. Feel the taste of greater presence in the present; love this instant; sincerely welcome it and rejoice in it [msg #100].
+5. **Why it works.** The intention to return to the breath plus the attitude of joy at waking up from distractions influence the unconscious. Welcoming moments of awakening trains the mind through positive reinforcement; in future it will notice distraction sooner. Do not get irritated or criticize yourself — you cannot scold yourself for such ingrained, unconscious habits as mind-wandering; doing so slows progress. "Важно не отвлечение, а его осознание" (What matters is not the distraction but noticing it) [msg #100].
+6. **If irritation or anger still come.** Simply note their appearance. Let the emotions come, be and go [msg #100].
+Generalization: the author says this scheme matters not only for meditation but for any change of habitual behaviour strategies — most often we cannot change because of the strong influence of unconscious processes, and effort of will only makes the situation worse [msg #100].
+
+### Pleasant-sensations focus to break the cycle of pain and aversion (7 points)
+From "Important aspects of meditation practice — 2" [msg #151].
+1. What matters first in practice is not the specific technique but the ability to do it daily [msg #151].
+2. All our lives culture transmits the messages «не чувствуй», «отрицай эмоции» ("don't feel", "deny emotions"). So mindfulness, which aims directly at feeling, seems unnatural at first. More than that — we run into emotions long clamped in the body and experience unpleasant, painful sensations [msg #151].
+3. It is quite hard to regularly do something that brings you pain. A cycle of aversion and anger quickly starts, and we quit [msg #151].
+4. The smart way out is to focus on pleasant sensations: in every practice give enough attention to pleasant experiences [msg #151].
+5. They are always present in the body: somewhere it is relaxed and that is pleasant; somewhere you can feel the pleasure of stillness; the quality of peace found in the body is in most cases pleasant; the chance to let go of anxiety and thoughts of past and future for a while is a pleasant state of mind. There are practically no situations in which absolutely everything is unpleasant — "Надо просто хорошо поискать" (you just need to look well) [msg #151].
+6. By focusing each time on pleasant sensations, and especially by ending the practice on such moments, we make it a favourite activity, overcome the cycle of pain and irritation and look forward to the next meditation with pleasure [msg #151].
+7. Unpleasant sensations should not be ignored, denied or thrown away — there are separate algorithms for them. The point here is not to get stuck on the pain and always to find what is pleasant in body and mind in each practice [msg #151]. (!) INCOMPLETE: the "separate algorithms" for unpleasant sensations are not described in this post.
+The author added (in March 2020) that the current situation was excellent conditions for practice and worth using to establish regular sessions and deepen mindfulness skills [msg #151].
+
+### Pleasure Concentration audio-guide protocol
+Built by deep mind on the "smart approach" above, as an authored audio-guide; you find a safe place to be alone for 15 minutes and a comfortable stable posture and do the meditation on your own [msg #277]. The base is classical concentration, "which you will certainly encounter if you decide to develop mindfulness", supplemented with three elements the author says are rarely found in free meditation recordings and that help overcome natural resistance and make practice truly regular:
+- **Forming intention** (Формирование намерения) [msg #277].
+- **Joy at noticing distraction** (Радость от замечания отвлечения) [msg #277].
+- **Noticing pleasant sensations** (Замечание приятных ощущений) [msg #277].
+The design creates a positive cycle of confirmation and thereby overcomes the frustration and unpleasant sensations that often arise in beginners [msg #277]. Protocol parameters:
+- Goal: building skills of mindfulness and concentration, relaxing and calming the mind.
+- Level: beginner or intermediate.
+- Duration of one session: 15 minutes.
+- Recommended frequency: daily.
+- Recommended course length: 2 weeks.
+- Teachers and approaches at its base: neuroscientist John Culadasa («Джон Чуладаса») and Dr. Alan Wallace [msg #277].
+(!) UNCLEAR: the post says the approach was described «Здесь» and «здесь» but both links point to the same post #151; presumably #100 and #151 were meant. The deep mind 15-minute Bodyscan recording is also mentioned alongside #151 [msg #151, #277].
+
+### Working with the motivation behind the most common mistake
+Context: over two years deep mind ran mindfulness programmes in companies and beyond for an audience of 300,000 people, and from this the author names the most widespread mistake of the current wave of meditators: **meditating for relief** [msg #385].
+- **The mistake.** Thanks to research, many people learned how well meditation helps to calm down, reduce stress and sleep better, and most come with exactly that motivation, expecting the session to change their state for the better. This expectation is the mistake, because behind it is a desire to change current experience. That desire prevents full awareness of experience and is a hidden form of resistance to immediate experience. Until we drop this resistance we are unlikely to fulfil the goal of meditation — to be as fully aware as possible of all sensations present right now [msg #385].
+- **How it usually resolves "by itself".** If we don't drop practice after its apparent ineffectiveness, for many the mistake resolves automatically, but through suffering and time: when practice gives no effect, or we cannot get back to pleasant experiences that appeared in it, disappointment comes; and when hopelessness appears in that disappointment, suddenly progress happens. That is the moment of letting go of clinging to the result — or of accepting the discomfort, pain and tiredness we originally tried to get rid of, which had created hidden resistance to our emotions and experiences [msg #385].
+- **The shortcut: work with motivation.** Remember the goal of meditation is to develop awareness, not to manipulate your state. Paradoxically, the right way to think is: we do not strive to get anything from practice and do it "просто так" (just because). Only with such motivation can we support ourselves through difficult experiences and learn to practise correctly [msg #385].
+- **What the task actually is.** Simply notice, without evaluation or interference, as many layers of experience as possible. "Noticed without trying to change, came back when distracted — and that's it: that is already a good meditation." Done with this attitude, practice teaches radical acceptance of one's states, and positive results follow [msg #385].
+- **Claimed neural result.** Correct practice — aimed at radical acceptance of self and experience — integrates disparate experiences and reactions into one system; as a neuro-result this shows up as increased functional connectivity between the prefrontal cortex and other parts of the brain after just 3 days of practice (the author cites a randomized controlled trial on mindfulness training and stress-related amygdala resting-state connectivity) [msg #385].
+
+### Identity-based habit formation (two identity questions)
+deep mind's stated belief: people change not in one day but gradually by accumulating useful ways of acting and dropping harmful ones, so all their products and even consulting are built on small daily practices embedded in a person's or team's routine [msg #393].
+- **Disciplined regular repetition is the component of gradual growth.** Small routine actions accumulate day by day into a visible result; small, simple practices at some point become a source of incredible strength [msg #393].
+- **Why habits fail.** Most of us struggle to keep a new good habit for more than a couple of days; meditation, morning exercise and writing practices are good at the start and then become a problem. Conversely, once a practice becomes a habit it happens almost effortlessly, automatically [msg #393].
+- **Start from motivation, at the level of identity.** Identity — the deepest layer of the psyche shaping behaviour — is tied to beliefs: worldview, attitudes, evaluations and judgments about self and others. Adopting or dropping habits fails most often because we don't work at this level; instead we focus on outcomes (lose 5 kg, be less nervous) or on actions and circumstances leading to them (eat less, don't get drawn into conflicts), which never raises the question of identity [msg #393].
+Method: think about, write down, or discuss with a psychotherapist the answers to two questions; even simply reflecting on them helps participants get much further than thinking only about outcomes or actions [msg #393]:
+1. **What kind of person do you want to be?** What do you want to embody? What are your values and principles? Who do you want to become in this life? Shift the emphasis from results to the qualities a person who achieves those results must have. Define your desired identity right now, even if not in ideal form [msg #393].
+2. **How can you prove to yourself, through small wins, that you are that person?** How does a person with the qualities from question 1 act in various situations? What choices does he or she make daily? What practices and habits help them? [msg #393]
+The author recommends the book "Atomic Habits" (Russian edition) on the topic of habits [msg #393].
+
+### Checklist for when practice is not working (4 points)
+For the classic beginner situation: you want the benefits, you try, it goes too hard, you get frustrated, quit, and conclude meditation is for special people but not for you — "a classic mistake of a beginner who lacked information and a good teacher". deep mind built this scheme teaching practice in their community and in companies for stress reduction. Check and fix [msg #639]:
+1. **We are grateful to ourselves for every attempt.** Most people will never go directly to work with their sensations and emotions; our readiness to do so already shows a high degree of consciousness and self-care. So we can be extremely grateful for every attempt, even if it lasts only 1 minute. Take time at the start of practice to rejoice and thank yourself for being in it [msg #639].
+2. **We have formed the conditions.**
+   - Formed motivation: we know what we are tired of and what we want to change for; we have studied what benefit regular practice can bring.
+   - Made a conscious decision to practise.
+   - Created a comfortable place, planned the right time, thought about possible distractions and obstacles.
+   - Know what to practise and how [msg #639].
+3. **We know how to work with resistance.** The whole path of practice can be described as working with resistance. In beginners it is usually tied to accumulated emotions and stress, which you are sure to meet without the usual distractions of work, tasks and social media; at such moments we often don't even understand why we want to end the practice or why it feels unpleasant. To work with it, look for the resistance in the body and observe it, exploring without wanting to change or fix it. The observer position lets us live through any discomfort if we don't collapse into it and stay as the observer — "И мы проверяем это" (and we test this) [msg #639].
+4. **Each time we create positive reinforcement and find the pleasant.**
+   - Rejoice when we notice distractions — at that moment we are certainly practising and 100% mindful.
+   - Rejoice and praise ourselves at the start and the end, since we managed to do the practice, support the habit and change ourselves a little for the better.
+   - Note pleasant sensations in the body during the process.
+   - Notice positive changes of state at the end and after the practice [msg #639].
+If we consistently analyse these points and fix what is needed, we come to know more and more joy, ease and clarity from practice and from life in general. The deep mind concentration practice is recommended as one that takes several of these points into account [msg #639].
+
+### Frequency presence protocol (30-60 seconds, 5-10 times a day)
+Title: "Tired or want more energy — practise frequency presence" [msg #1508]. A non-obvious mindfulness protocol that can be easier in difficult circumstances and still strongly affects state: short practices of 30-60 seconds, but often — 5-10 times a day. For the author it is also one of the best ways to show beginners that practice works and how powerful it is — often simpler than the standard secular protocols of daily 15-25-minute practice for several weeks. Reason: the combination of enough motivation to take it on faith and then weeks of action without a clear effect is rare; and without it, people with our scattered attention simply cannot notice the subtle aspects of experience that change in practice, so one or two sessions look like a terrible misunderstanding — the typical reaction: «попробовал эту вашу медитацию, ну чуть-чуть раслабился вроде, хорошо. Но вообще, конечно, разговоров больше, чем реального эффекта. Вот дыхательные техники, баня, психоделики — вот где эффект!» ("tried this meditation of yours, relaxed a bit I guess, fine. But really there's more talk than real effect. Now breathing techniques, sauna, psychedelics — that's where the effect is!") [msg #1508].
+The protocol:
+1. **Rate your energy on a 0-10 scale.** Simply so there is something to compare against and we know for sure whether practice works. You can rate it for the day overall or at the moments you do the practice. Within the experiment, compare: how am I on days with practice and without it [msg #1508].
+2. **Set 5-10 timers or calendar marks at equal intervals, 30-60 seconds each.** Whatever is going on, try to set things aside or stay in them, but direct attention to the body and your state and gently stay attentive to these objects for the whole minute. Without judging yourself for distractions, fill your experience with attention this way — bring it back from external objects to subjective experience [msg #1508].
+Any mindfulness technique fitting this description works: body scan, watching the breath, exploring the answer to the question "как я сейчас?" (how am I right now?); or more advanced things — setting an intention of compassion toward your experience, open awareness, awareness of awareness [msg #1508]. If you really are aware of your experience — not merely dwelling in the idea that you are meditating — you will most likely notice more strength, rising energy, and greater clarity of mind and quality of actions and decisions [msg #1508].
+Why such a small action can give a large result:
+- **Completing the stress response.** Even a minute of mindfulness can help the nervous system switch states — complete stress and intense emotional reactions that we now accumulate more in modern urban life. So just 1 minute can save the body hours in stress and a ton of physiological resources [msg #1508].
+- **Better management of needs.** Noticing ourselves, we feel our needs a bit more clearly and meet them better — faster and more precisely than usual we stretch, drink water, leave a destructive conversation. This too is a huge source of regaining resources [msg #1508].
+A subtler approach is used in deep mind's group process Resonance: to develop the mindfulness needed for the principles of Theory U, participants get 3 short practices with different attentional focuses in the first week, and they are always amazed at the results and the effect on their state [msg #1508]. The author found similar advice for Western audiences from Mingyur Rinpoche, who often recommends small practices — 5 minutes, but many times a day — and not accumulating frustration in them. The author's reading: Rinpoche seems to be trying to avoid the excess tension many beginners create by transferring to practice their habits of reaching results through strain and effort, which don't help much with awareness or attentiveness and can create a negative feedback loop — we suffer in practice and so lower our chances of returning to it [msg #1508].
+
+### Thich Nhat Hanh's four-line breathing practice
+Told in "The most advanced meditation practice" [msg #1413]. The practice (from a Thich Nhat Hanh book on meditation for children), paired with the breath:
+1. «Вдыхаю и успокаиваю тело» — Breathing in, I calm my body [in-breath].
+2. «Выдыхаю и улыбаюсь» — Breathing out, I smile [out-breath].
+3. «Я присутствую в настоящем моменте» — Dwelling in the present moment [in-breath].
+4. «Я понимаю, какой это прекрасный момент» — I know this is a wonderful moment [out-breath] [msg #1413].
+Result reported by the author: doing these simple instructions, both he and Dasha reached a "wonderful result" — a taste of simple presence and enjoyment of the moment. Simply calming down and smiling at life, at some instant you understand in the fullness of experience that this moment is truly, incredibly and paradoxically beautiful; everything is already sufficient in it, and although it is always the same, there will never be another like it [msg #1413]. This non-conceptual experience gave a sense of *freedom from neurosis*, in contrast with the usual experience of life, which always contains some insufficiency — sometimes obvious, sometimes subtle anxiety and an eternal search for something missing from current experience. That dissatisfaction is what is primarily called *suffering* in the contemplative context ("If you think you don't have it, just sit quietly for a couple of minutes"). It turned out one can live without it — a completely different quality of life that the author "could never un-see" [msg #1413].
+Lesson (the author's): watching how entrepreneurially many approach inner work — systematizing it, insisting on the most advanced practices and the best master — he recalls this story. The teacher, one's own mind, is always with us; it can be useful to take the simplest task for children but actually do it in your mind openly and sincerely. Perhaps these qualities take you further than the most pragmatic, narcissistic or other race to point B from a point of dissatisfaction with the present moment — that race itself being the obstacle [msg #1413].
+
+### The clerk of the corporation of quality attention
+A first-person description of a sit and of the "job" of attention [msg #1639].
+1. **Settle and ground.** Sit so as to calm the body in its natural stillness. Lower attention all the way down to the floor where the body touches the surface. Try to shift perception from the mode of concepts — mind-made thoughts of past and future, anxieties and hopes — into a non-conceptual mode of simple knowing, noticing, direct experiencing, and from there experience the simple sensation of support, "always available but so rarely felt" [msg #1639].
+2. **Know the body, then land on the belly.** Notice the body, its whole shape and volume. Without adding any effort ("for it is not needed here at all") be aware of all tactile sensations: tingling, heaviness, lightness, movement, absence of sensation. Calm the attention, relax it, land it on the sensations of movement in the abdomen; simply experience these movements, know them and stay with them — noticing them only as sensations that do not belong to me, that simply appear in the field of awareness and do not exist outside it ("If there is no awareness, there are no sensations") [msg #1639].
+3. **"Bang!" — noticing distraction and rejoicing.** Already several minutes thinking about work. Using the habit of self-observation, notice — if only retrospectively — that you got distracted, fell out of direct sensation into concepts and thoughts. Rejoice, relax, restore the flow of attention. In-breath, out-breath [msg #1639].
+4. **Allow discomfort.** Some tension — gently change posture; notice tiredness and let it be; note pain and allow it to occupy all the space [msg #1639].
+5. **Repeat — most of the time is distraction.** Again several minutes caught in some idea; attention unstable, mind foggy; "most of the time I'm distracted". But each remembering returns you to reality from the illusory world of ideas; exult at having remembered, rejoice in the moment of mindfulness, settle attention on the breath again [msg #1639].
+6. **Notice dullness and refresh.** Starting to fall asleep: from hyperactivation attention swings to the other extreme, prostration — object and attention mixing into "soap", a murky jelly. Rejoice at having noticed a subtle state of mind, the very quality of attention. Take a deeper breath, refresh motivation for practice, give the posture a little more alertness [msg #1639].
+The job description: «Я простой сотрудник корпорации качественного внимания» (I am a simple employee of the corporation of quality attention) — the simplest clerk, whose whole job is avoiding extremes on the conveyor of attention: not letting it fall into hyperactivation, where attention jumps from object to object creating a constant sense of boredom and discomfort; and not collapsing into prostration — murkiness, sleepiness, absence from one's own life. "The work is simple but requires discipline: calm the attention while relaxing as much as possible; relaxing, but without losing alertness." When the timer sounds the workday is over — "but the work will have to be taken home too" [msg #1639].
+
+### Viktor Shiryaev's 4 "O" of mindfulness
+Shared from deep mind's Deep Meditation camp, for the state the post calls "Оverwhelm" rather than mindfulness — a closed loop of endless tasks, thoughts, sensations, emotions, inner and outer noise [msg #1795]. The algorithm, described as "very simple and at the same time deep" for working with one's state [msg #1795, img #1795]:
+1. **Обнаружить** — Discover / detect.
+2. **Отметить** — Note / mark.
+3. **Обнять** — Embrace.
+4. **Отпустить** — Let go.
+The meeting discussed how to be in contact with life "не убегая от переживаний и не проваливаясь в них" (neither running from experiences nor falling into them) [msg #1795]. (!) INCOMPLETE: the post names the four steps but does not explain each; the explanation is in a video that was not part of the source.
+
+## Detailed insights
+
+### We are always practising something (neuroplasticity)
+Practice is defined as regular habitual actions that affect the psyche and the body and form our personality; right now, the author notes, we are practising sitting on social media, and it affects us somehow [msg #653]. The human brain keeps developing throughout life through neuroplasticity, but under the influence of experience: the more often we experience a certain state, the stronger the neural pathways in brain and nervous system become and the easier it is to take them again. That makes daily experience crucial — routine actions build personality by forming ever deeper habits, and habits most directly determine what qualities we develop and what results we get [msg #653]. This is why deep mind practises in community and builds all its team programmes on practices: people are asked to do small exercises to change state, behaviour and performance sustainably, which the author calls the most effective way to change because people "начинают делать что-то по-другому" (start doing something differently) [msg #653]. People often feel practice is an extra burden, but they in fact practise all their waking hours — the question is what. We can be very successful at regularly repeating irritation, stress, lack of focus, workaholism and fuss, and get matching results we are unlikely to be happy with [msg #653]. The good news is neuroplasticity: the brain develops fairly fast if experience repeats regularly. The author notes that "meditation" originally means *development* [msg #653]. "New results come from new actions — and that is the miracle of practice made real" [msg #653].
+
+### Commitment, discipline and non-violence
+Commitment and discipline are needed by most of us to not stay on the surface but actually realize something on the personal path of inner work; and the greatest growth often comes not when all is perfect but in difficulties — turning toward one's experience, practising in hard and painful moments, often opens new levels of wisdom and strength; Pema Chödrön is quoted: «Пробуждение не происходит в комфорте» (Awakening does not happen in comfort) [msg #1008].
+But what most of us, with our history, need to explore are our own patterns of self-violence, which we often reproduce in any method of inner work. Problems with discipline and commitment are sometimes due to lack of understanding, but can also signal a lack of resources. Then the non-violent strategy is not "do the practice no matter what" but finding additional resources or a form of practice possible without violence [msg #1008]. After much trial and error the author long ago stopped forcing himself into meditation, psychotherapy or other methods; he came to see **coercion** as simply a lack of understanding and a tactic of limited power that some confuse with a strategy and also impose on others [msg #1008].
+Example: when he hasn't slept or is going through re-traumatization, he can be in a lot of physical pain; then he does not force himself into the daily concentration meditation, although he has a commitment to it — he'd rather ask the self-inquiry questions of Ramana Maharshi than "sit in a lather for my half hour" not knowing what he's doing. He sees this as adaptivity in practice and finding a path without self-violence [msg #1008]. Their Austrian meditation teacher Maychi Brigitte constantly says that modern Western people are far too tired of everything, and stresses that in self-discovery "меньше значит больше" (less is more); she builds commitment and discipline through deep reflection on the situation the person is in, not by setting KPIs like hours of meditation or number of processed traumas [msg #1008].
+Beyond formalities: at some point — once we have explored our own patterns of rejecting responsibility and structure and formed a commitment to be open to everything we experience — it may be useful to let go of any need to achieve something specific in practice, to stop exploiting it for oneself and to expand it to its limits, giving oneself more fully to what **already is** and releasing ever subtler layers of tension from non-acceptance of current reality. Such flexibility in finding a non-violent path also gives ease in calmer times and powerfully advances inner work [msg #1008].
+When resources are sufficient, practice starts to attract naturally: if the author sleeps well, exercises and is not overloaded with stressors, he is drawn to meditation; or he reads Nancy McWilliams with pleasure, digs into workbooks on narcissistic abuse syndrome, or feels the pull toward talk therapy he hadn't felt for over a year — "Мне просто всего этого хочется!" (I simply want all of this!) [msg #1008]. To be happy — which he thinks is what we all ultimately seek in our tantras, trainings and therapies — violence is not required; on the contrary, happiness is hindered by it. So now when things are bad he tries not to close off from pain and to seek whatever support is available; when good, he effortlessly lights up with love for inner work — "Я — ее фанат, она — музыка, которую я слушаю" (I am its fan, it is the music I listen to); a youthful "imago" infatuation has turned into deep love [msg #1008].
+
+### Why most people don't practise (disembodiment and hyperproductivity)
+The paradox: we now know that the skills of being aware of and regulating one's state are a separate and very important line of development that affects the ability to work well and be happy, and that they can be trained; this knowledge is mainstream — yet most people do not do the small practices that are the ideal trainer for these skills, even while suffering from problems they could help with. Regular 15-minute practices remain rare among performers who live with chronic stress and so lower their own results [msg #1416].
+Why: loud research facts are not enough to build a whole picture of a complex question of human physiology-psyche. Although culture has leapt forward compared with past generations, we still poorly understand how much state determines the ability to act — to think, feel, decide, be in contact, cope with load — and how to work with it [msg #1416]. The difficulty of seeing clearly and prioritizing is caused by the traumatic experience of past generations and our own accumulated stress, which focus all attention on danger outside and push us out of direct feeling and contact with ourselves. This is **disembodiment** — the pathological yet, in modern culture, so habitual detachment, disidentification and disconnection from one's own body, emotions, feelings and needs [msg #1416]. On this disconnection grows capitalism's cult of hyperproductivity, in which we undervalue whatever brings no visible result here and now. So we experience life circumstances as material, serious, "real", and our state and the skills around it as ephemeral, "about relaxation", detached from life and ultimately unimportant — and keep getting stuck in distorted perception and deprioritizing the chance to return to a happier state of affairs [msg #1416].
+What to do: the correct but not simple answer is to heal trauma and reduce stress at personal and collective levels and change the culture and power that sustain the pathology. In the "quick-quick" spirit, the author offers his understanding: in an ocean of culture that literally generates ill-health, practices are often the only and truly precious islands of healthy experience for the nervous system [msg #1416]. The nervous system works by habit; regular mindfulness, stress- and emotion-regulation practices, even short ones, teach it an alternative mode and give the body *the experience of a different state*. The author calls this not just "relaxation" but structural neurophysiological work: switching between sympathetic and parasympathetic activation, restoring nervous-system plasticity, lowering cortisol and raising heart-rate variability [msg #1416]. Outside these islands most of us permanently swim in the water of tension and engagement, where the bodily and mental "norm" shifts: anxiety and mobilization become the nervous system's baseline. Even when we objectively need rest the organism cannot "switch" — it gets *stuck* in survival mode: a tired person cannot fall asleep, or rest becomes another source of anxiety. Hence regular practice is no longer an "extra option" but a tool without which any strategy of resilience and moving forward loses its foundation [msg #1416].
+
+### Practice as felt experience: a guided description
+In a lyrical post the author describes what a sit can feel like, which doubles as a sequence of instructions [msg #1271]:
+- Find peace in the natural stillness of the body; feel attention fill the whole body, knowing all its zones and literally feeling the vibration of each cell.
+- Let tension leave — really and fully — from the eyes, face, neck, then chest and belly; feel how the body at rest sways and moves smoothly moment to moment, without artificial tension or sharp impulses.
+- Notice the touch of air on the skin, its many-sided passage, cooling at the start and warm at the end.
+- Calm the breath in its natural rhythm: do not "do" in- and out-breaths but let them happen by themselves; get to know breathing "без эго" (without the ego) that does not strive to interfere and control. In the natural rhythm in- and out-breath flow into each other with softness and simplicity, with barely noticeable pauses; this breath "like music" connects the author with the essence of life — "Дверь к самому себе" (a door to oneself).
+- Finally notice the natural spaciousness of mind that has no edges or location, and as the "grand finale" meet again the ever-present space in which no observer can be found "но нет отсутствия" (yet there is no absence) — the stillness, emptiness and living luminosity of awareness itself, in which everything arises, including all sensations, emotions and mental images [msg #1271].
+The author's framing: how beautiful to be here, in oneself, not flying off into distant thoughts, memories, anxieties and hopes unrelated to this moment's reality; to feel oneself fully, beyond the splitting, fragmenting, diminishing contraction of the discursive mind. "Что может быть большим отдыхом и более полным наслаждением? Больше некуда идти и нечего искать, все уже здесь." (What could be greater rest and fuller enjoyment? There is nowhere else to go and nothing to seek; everything is already here.) [msg #1271]
+
+### Books and teachers as practice systems: the "you have to do it" limitation
+Reviewing Daniel Goleman and Tsoknyi Rinpoche's book (Russian title *Эмоциональная устойчивость*, "Emotional Resilience"; original *Why We Meditate*), the author says it may look like ordinary non-fiction collecting recent meditation research and practice recommendations, but is more: books on mindfulness for a broad audience that are systematic and integral are rare in Russian [msg #938]. He calls Tsoknyi Rinpoche "integral": deeply understanding the essence of practices through belonging to an important Tibetan Buddhist tradition, while knowing modern Western life and, partly thanks to Goleman, applying a scientific approach. The community had done practices from the book in the summer with a student of Tsoknyi Rinpoche who has travelled with him for several years; the author was most inspired by Rinpoche's approach to teaching meditation in the West, which looks very fresh compared with popular meditation or traditional training: the practices are of incredible subtlety and depth yet easy to do — traditionally one would call them truly *skilful means* of development [msg #938].
+The key limitation of the book, as of other practicums in non-fiction: "ее нужно делать" (it has to be done). Reading and understanding can give a lot, but the authors give a practical meditation system whose benefit comes from doing the exercises — and without an instructor and a group "only a few" do such exercises, though "maybe you are one of them" [msg #938]. About the authors: Goleman, a Harvard clinical psychologist, created the concept of emotional intelligence, develops mindfulness and researches awareness; he is himself a student of Tsoknyi Rinpoche and helped publish the book. Tsoknyi Rinpoche is a teacher in a classical Tibetan Buddhist lineage, brother of the well-known teachers Mingyur Rinpoche and Chokyi Nyima Rinpoche [msg #938].
+
+### The author's first retreat story (context for the Thich Nhat Hanh practice)
+At 23 the author took Dasha to her first vipassana: a winter trip across India "cutting the country horizontally" rather than a tourist route (he admits not all ideas are equally useful — they didn't return to India for 12 years), via Auroville (founded by Sri Aurobindo), Bangalore, Mysore, Tibetan settlements and Varkala, ending with severe food poisoning; then a small Theravada retreat centre in the mountains near Kandy, Sri Lanka, founded by an elderly teacher from Singapore. Dasha, then sceptical of religiosity and unfamiliar with meditation, found Thich Nhat Hanh's children's book in the library while the monk was busy, and the practice (above) "unpacked in the deepest and most amazing way". Later Bhante took them on seriously, met them regularly in the library to discuss practice and helped them understand "why all this" [msg #1413]. Lesson: deep results came from the simplest practice done sincerely, before any formal instruction [msg #1413].
+
+## Practical playbook
+
+- **Daily minimum first.** Set a conscious intention to practise a fixed amount of time every day; if you miss, don't spiral into guilt — work on intention and motivation [msg #50].
+- **When you notice you've wandered:** don't drag yourself back or scold; savour the moment ("I'm 100% aware now"), then gently return to the breath; if irritation arises, just note it and let it come, be and go [msg #100, #639, #1639].
+- **In every session hunt for something pleasant** (relaxed areas, stillness, peace, relief from thinking) and end the session on a pleasant moment [msg #151].
+- **Bookend with self-praise:** thank yourself at the start for showing up (even 1 minute counts) and at the end for keeping the habit [msg #639].
+- **Drop the "relief" expectation:** practise "просто так" — notice as many layers as possible without changing them; noticed-returned is already good meditation [msg #385].
+- **When tired or under strain:** switch to 30-60-second check-ins 5-10 times a day, track energy 0-10, compare days with and without practice; or, following Mingyur Rinpoche, about 5 minutes many times a day [msg #1508].
+- **On days of pain or no resources** replace the formal sit with a non-violent form (e.g. self-inquiry questions) rather than forcing yourself [msg #1008].
+- **Balance attention:** if jumpy — calm and relax; if dull and sleepy — deeper breath, refresh motivation, more alertness in posture [msg #1639].
+- **Beginner course option:** Pleasure Concentration — 15 minutes daily for 2 weeks [msg #277].
+
+## Evidence and numbers
+
+- deep mind ran mindfulness programmes over two years for an audience of 300,000 people; the basis for naming "meditating for relief" the most common mistake [msg #385].
+- The author cites research that meditation helps calm down, reduce stress and sleep better, and a randomized controlled trial on mindfulness training altering stress-related amygdala resting-state functional connectivity; he states increased functional connectivity between the prefrontal cortex and other brain areas appears after 3 days of practice [msg #385].
+- Claimed (sourced to a popular article as "proof") effects of even 15 minutes of daily meditation over several months: increases mental resilience; reduces pain; increases ability in competitions; reduces stress; improves sleep; reduces addictions; increases the feeling of happiness; reduces inflammation; makes the heart healthier [msg #653]. The author also cites an educational paper for the claim that habits determine results [msg #653].
+- A study of 2,500 leaders cited by the author: leaders with strong emotional-regulation skills perform 153% better than others in team interaction and much more often reach peak-performance states [msg #1416]. The attached chart shows "Team Performance Rating" by "Emotional Regulation Skill": High ≈ 48, Low ≈ 19 (axis 0-80) [img #1416]. (!) UNCLEAR: the study's authors and source are not named.
+- Physiological mechanisms the author attributes to regular practice: switching between sympathetic and parasympathetic activation, restoring nervous-system plasticity, lowering cortisol, raising heart-rate variability [msg #1416].
+- Standard secular protocols are described as 15-25 minutes daily for several weeks; frequency presence is 30-60 seconds 5-10 times a day; Resonance gives 3 short practices in week one [msg #1508].
+
+## Tools and resources mentioned
+
+- **«Свет ума» (The Mind Illuminated) by Culadasa** — the author calls it a "bomb" of a recently translated book; source of the success formula [msg #28].
+- **Pleasure Concentration (deep mind, SoundCloud)** — 15-minute authored concentration audio-guide for beginners/intermediate; also recommended as the concentration practice that covers several checklist points [msg #277, #639].
+- **Bodyscan (deep mind, 15 min)** — body-scan recording recommended with the pleasant-sensations post [msg #151].
+- **Goleman & Tsoknyi Rinpoche, *Эмоциональная устойчивость* / *Why We Meditate*** — "весьма впечатлился" (was quite impressed); systematic and integral, but must be practised to benefit [msg #938].
+- **"Atomic Habits"** — recommended book on habits [msg #393].
+- **Pema Chödrön, «Когда все рушится» (When Things Fall Apart)** — the source of the "awakening does not happen in comfort" quote [msg #1008].
+- **Thich Nhat Hanh's meditation book for children** — source of the four-line practice [msg #1413].
+- **Ramana Maharshi's self-inquiry questions** — the author's alternative on low-resource days [msg #1008].
+- **Resonance (deep mind group process on Theory U)** — uses 3 short practices in the first week [msg #1508].
+- **Viktor Shiryaev's video "4 O of mindfulness"** — recording from the Deep Meditation camp [msg #1795].
+
+## Notable quotes
+
+> "Важно не отвлечение, а его осознание." (*What matters is not the distraction but noticing it.*) — author [msg #100]
+> "Практически не бывает ситуаций, когда неприятно абсолютно все. Надо просто хорошо поискать." (*There are practically no situations in which absolutely everything is unpleasant. You just need to look well.*) — author [msg #151]
+> "цель практики медитации -- развивать осознанность, а не манипулировать своим состоянием" (*the goal of meditation practice is to develop awareness, not to manipulate one's state*) — author [msg #385]
+> "Замечал(а) без попытки изменить и возвращался, когда отвелкался и все -- это уже хорошая медитация." (*Noticed without trying to change, came back when distracted [sic], and that's it — that is already good meditation.*) — author [msg #385]
+> "они итак практикуют все время бодрствования, но вопрос – что именно." (*they are practising all their waking hours anyway; the question is what exactly.*) — author [msg #653]
+> "**принуждение** — это просто недостаток понимания и ограниченная в своих возможностях тактика" (*coercion is simply a lack of understanding and a tactic of limited capacity*) — author [msg #1008]
+> "Учитель — собственный ум, — всегда с нами." (*The teacher — one's own mind — is always with us.*) — author [msg #1413]
+> "Регулярная практика — давно не «дополнительная опция», а инструмент" (*Regular practice has long not been an "extra option" but a tool*) — author [msg #1416]
+> "Работа проста, но требует дисциплины: успокаивать внимание, максимально расслабляясь." (*The work is simple but requires discipline: calm the attention while relaxing as much as possible.*) — author [msg #1639]
+
+## Caveats, disagreements and open questions
+
+- (!) CONTRADICTION (mild): the author insists practice must be daily and that without daily practice it "isn't practice at all" [msg #50], and that disciplined repetition is the engine of growth [msg #393]; later he says he stopped forcing himself and skips the daily concentration sit on painful days, favouring non-violence and resources over "practice no matter what" [msg #1008]. He reconciles this as adaptivity — keeping commitment while changing the form [msg #1008].
+- (!) Tension between recommended doses: 15 minutes daily for 2 weeks (Pleasure Concentration) [msg #277] and 15-minute daily practice [msg #653, #1416] versus the later view that 30-60-second practices 5-10 times a day are often an easier entry than 15-25-minute daily protocols [msg #1508].
+- (!) UNCLEAR: Culadasa's name appears as «Куладасы» [msg #28] and «Джон Чуладаса» [msg #277]; same person.
+- (!) UNCLEAR: #277 links "here and here" both to #151.
+- (!) INCOMPLETE: the "separate algorithms" for unpleasant sensations [msg #151], the "next goals" after the beginner goals [msg #50] and the explanation of each of the 4 "O" [msg #1795] are not given in the source.
+- Evidence hedges: the 3-day connectivity claim, the list of 15-minute meditation benefits (sourced to a popular article) and the 153% figure are the author's citations; study details are not given [msg #385, #653, #1416].
+- Conflict of interest: several posts recommend deep mind's own audio-guides, community, programmes and camp [msg #277, #639, #653, #1508, #1795].
+- The author's own hedge on frequency presence: you will "most likely" notice more energy — only if you really are aware of experience rather than "dwelling in the idea that you are meditating" [msg #1508].
+
+## Resources and links
+
+Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
+
+### Resources
+
+- ★ **Australian Academy of Science: How practice changes the brain** (article) — Article on neuroplasticity cited for the idea that the brain keeps developing through life, shaped by repeated experience. [msg #653] → <https://www.science.org.au/curious/people-medicine/how-practice-changes-brain>
+- ★ **deep mind programmes for teams (Notion page)** (guide) — The authors' Notion overview of their practice-based programmes for team development, built on small repeated exercises. [msg #653, #938] → <https://dmcom.notion.site/Deep-Mind-049547592013465487a9fbab21e8f55d>
+- ★ **Welcome to Deep mind Mindfulness Community (Notion page)** (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [msg #639, #653, #938] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
+- ★ **Bodyscan practice by deep mind, 15 min (SoundCloud)** (podcast) — Free guided 15-minute body scan audio from the authors, to establish regular practice. [msg #151] → <https://soundcloud.com/deep-mind-consulting/bodyscan>
+- ★ **Concentration practice by deep mind (SoundCloud)** (podcast) — Free guided concentration audio from the authors that accounts for the common beginner mistakes listed in the post. [msg #639] → <https://soundcloud.app.goo.gl/PKevbf3RgHKDvS1K6>
+- ★ **Pleasure Concentration practice by deep mind (SoundCloud)** (podcast) — Free guided 15-minute concentration meditation built on classical concentration plus three additions by the authors. [msg #277] → <https://soundcloud.com/deep-mind-consulting/pleasure-concentration>
+- ★ **Deep Meditation 2026 event recording (YouTube, Viktor Shiryaev)** (video) — Free recording of the main Russian-language meditation event of 2026 with leading teachers; recommended to watch. [msg #1795] → <https://youtu.be/MMmlhv60X7s>
+- **Choosing Therapy: Narcissistic Abuse Syndrome** (article) — Article and workbooks on narcissistic abuse syndrome the author draws inspiration from in his own work on himself. [msg #1008] → <https://www.choosingtherapy.com/narcissistic-abuse-syndrome/>
+- **The Healthy: change in you, 15 minutes of meditation** (article) — Popular article cited as evidence that meditation changes life within months (resilience, less pain, etc.). [msg #653] → <https://www.thehealthy.com/alternative-medicine/change-in-you-15-minutes-meditation/>
+- **ERIC full-text paper EJ1075118 (habits and qualities)** (study) — Paper cited for the claim that deep habits determine which qualities and results we develop. [msg #653] → <https://files.eric.ed.gov/fulltext/EJ1075118.pdf>
+- **Mindfulness Meditation Training Alters Stress-Related Amygdala Resting State Functional Connectivity: A Randomized Controlled Trial (ResearchGate)** (study) — RCT cited for the neural effect of mindfulness: increased functional connectivity. [msg #385] → <https://www.researchgate.net/publication/277777439_Mindfulness_Meditation_Training_Alters_Stress-Related_Amygdala_Resting_State_Functional_Connectivity_A_Randomized_Controlled_Trial>
+- **PubMed 7649463 (meditation, stress and sleep study)** (study) — Study cited as showing meditation helps calm down, reduce stress and sleep better. [msg #385] → <https://pubmed.ncbi.nlm.nih.gov/7649463/>
+
+### External links
+
+- ★ **Daniel Goleman and Tsoknyi Rinpoche — Emotional Resilience (Why We Meditate), Mann Ivanov Ferber page** (book) — Recent book the author just finished and was very impressed by; publisher store page. [msg #938] → <https://www.mann-ivanov-ferber.ru/books/why-we-meditate/>
+- ★ **James Clear — Atomic Habits (Atomnye privychki), Ozon page** (book) — Book on building good habits and dropping bad ones; the post lists it as the recommended book on habits in a self-reflection exercise. [msg #393] → <https://www.ozon.ru/product/atomnye-privychki-kak-priobresti-horoshie-privychki-i-izbavitsya-ot-plohih-164717291/>
+- ★ **Pema Chodron — When Things Fall Apart (Kogda vse rushitsya), Litres** (book) — Book quoted for the idea that awakening does not happen in comfort; store page. [msg #1008] → <https://www.litres.ru/book/pema-chodron/kogda-vse-rushitsya-38007920/>
+- ★ **Act of Presence (Telegram channel of Viktor Shiryaev)** (channel) — Channel of Viktor Shiryaev, organiser of the Deep Meditation event, whose meeting gave the 'Discover, Note, Embrace, Release' algorithm. [msg #1795] → <https://t.me/actofpresence>
+- ★ **Nancy McWilliams (author page on LiveLib)** (profile) — Psychoanalyst whose recent articles the author enjoys reading; link to her books list. [msg #1008] → <https://www.livelib.ru/author/22012/top-nensi-makvilyams>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1008, #1271] → <https://t.me/mindfulleadersrussia>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The authors' own Telegram channel, used as footer link. [msg #1639] → <https://t.me/mindfulleadersrussia/>
+- **deep mind Resonance (Theory U programme)** (course) — Page of the Resonance programme on Theory U; mentioned as giving short mindfulness practices in the first week. [msg #1508] → <https://deepmindconsulting.ru/resonance>
+- **Theory U in Himalayas (deep mind programme, Craft page)** (course) — The authors' programme page, listed in the footer. [msg #1508] → <https://deepmind.craft.me/himalayas>
+- **deep mind consulting (b2b site)** (website) — Company website for corporate offers, footer link. [msg #1508] → <http://deepmindconsulting.ru/>
+- **Masterheart (Max Rodin's project website)** (website) — Project site with offers for teams and a community, linked from the author's footer. [msg #938] → <http://masterheart.space/>
+
+## Source messages
+
+#28, #50, #100, #151, #277, #385, #393, #639, #653, #938, #1008, #1271, #1413, #1416, #1508, #1639, #1795

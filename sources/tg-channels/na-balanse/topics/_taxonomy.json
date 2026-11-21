@@ -1,0 +1,1644 @@
+{
+ "domains": [
+  {
+   "domain": "Energy & Resource",
+   "slug": "energy",
+   "topics": [
+    {
+     "title": "What energy is and where it comes from",
+     "slug": "what-is-energy",
+     "scope": "The channel's core concept: energy as a finite resource/currency, its physiology (mitochondria, ATP), norms, the 4 energy types, and the 'battery' metaphor.",
+     "also_areas": [
+      "Mind & Emotions",
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "energy-management",
+      "meaning-purpose",
+      "metabolic-health",
+      "emotional-regulation"
+     ],
+     "ids": [
+      14,
+      17,
+      36,
+      55,
+      152,
+      178,
+      278,
+      308,
+      309,
+      573,
+      591,
+      621,
+      740,
+      744
+     ],
+     "count": 14
+    },
+    {
+     "title": "Biorhythms and energy peaks",
+     "slug": "biorhythms",
+     "scope": "Circadian and ultradian rhythms, planning the day around natural energy peaks, morning energy, seasonal changes, famous people's routines.",
+     "also_areas": [
+      "Sleep",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "circadian-rhythm",
+      "energy-management",
+      "rest-and-recovery",
+      "sleep-hygiene"
+     ],
+     "ids": [
+      12,
+      49,
+      71,
+      176,
+      179,
+      198,
+      199
+     ],
+     "count": 7
+    },
+    {
+     "title": "Energy drains, leaks and myths",
+     "slug": "energy-drains",
+     "scope": "What steals energy: productivity myths, energy drinks, Zoom fatigue, emotions and thoughts as leaks, procrastination vs low charge.",
+     "also_areas": [
+      "Nutrition",
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "energy-management",
+      "caffeine",
+      "boundaries",
+      "stress-and-anxiety",
+      "fatigue"
+     ],
+     "ids": [
+      78,
+      82,
+      95,
+      187,
+      188,
+      200,
+      262,
+      311,
+      327,
+      649
+     ],
+     "count": 10
+    },
+    {
+     "title": "Energy boosters and replenishing practices",
+     "slug": "energy-boosters",
+     "scope": "Practices and inputs the authors credit with restoring energy: MCT/ghee fats, banya, nature and forest bathing, hiking, floating, birding, daily routines (Huberman, Rick Owens).",
+     "also_areas": [
+      "Nutrition",
+      "Movement & Body",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "energy-management",
+      "nature-and-restoration",
+      "rest-and-recovery",
+      "nutrition-basics"
+     ],
+     "ids": [
+      16,
+      22,
+      25,
+      44,
+      46,
+      94,
+      161,
+      164,
+      165,
+      203,
+      251,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      302,
+      303,
+      321,
+      525,
+      671
+     ],
+     "count": 26
+    },
+    {
+     "title": "A year of the energy diary",
+     "slug": "energy-diary",
+     "scope": "Katya's longitudinal self-tracking experiment (time diary + energy diary through 2025): quarterly findings, dips and recoveries, final-year insights.",
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "self-tracking",
+      "energy-management",
+      "calendar-planning",
+      "burnout"
+     ],
+     "ids": [
+      225,
+      246,
+      247,
+      248,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      347,
+      348,
+      349,
+      350,
+      351,
+      439,
+      459,
+      514,
+      515,
+      520
+     ],
+     "count": 22
+    },
+    {
+     "title": "Three questions about energy (mini-interviews)",
+     "slug": "energy-interviews",
+     "scope": "Recurring rubric: guests rate their energy stability and share what drains and restores their resource.",
+     "also_areas": [
+      "Interviews & Community",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "energy-management",
+      "rest-and-recovery",
+      "digital-hygiene"
+     ],
+     "ids": [
+      233,
+      279,
+      312,
+      531,
+      614,
+      657
+     ],
+     "count": 6
+    }
+   ],
+   "area": "Energy & Resource"
+  },
+  {
+   "domain": "Rest & Burnout",
+   "slug": "rest",
+   "topics": [
+    {
+     "title": "Series: I'm 40 and worn out",
+     "slug": "tired-series",
+     "scope": "Katya's 2025-26 essay series on why everyone is so tired: the taboo on rest, generational fatigue, physiology of rest, pseudo-rest, self-tests, 42% for rest.",
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "fatigue",
+      "rest-and-recovery",
+      "burnout",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      337,
+      343,
+      391,
+      448,
+      449,
+      460,
+      463,
+      476,
+      479,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      579
+     ],
+     "count": 17
+    },
+    {
+     "title": "Learning to rest",
+     "slug": "learning-to-rest",
+     "scope": "How to actually rest: rest formula, rest types matched to depleted energy, aftercare, unplugged vacations, retreats, podcast appearances on rest.",
+     "also_areas": [
+      "Energy & Resource",
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "rest-and-recovery",
+      "energy-management",
+      "burnout",
+      "meaning-purpose"
+     ],
+     "ids": [
+      83,
+      131,
+      132,
+      135,
+      140,
+      141,
+      157,
+      277,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      330,
+      342,
+      365,
+      392,
+      418,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      666
+     ],
+     "count": 30
+    },
+    {
+     "title": "Burnout: prevention and exit",
+     "slug": "burnout",
+     "scope": "Burnout mechanics and recovery: red flags, 4 kinds of energy, passion-driven burnout, 'get sick to rest', Katya's own burnout history and experiments.",
+     "also_areas": [
+      "Energy & Resource",
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "burnout",
+      "meaning-purpose",
+      "energy-management",
+      "boundaries",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      125,
+      126,
+      127,
+      207,
+      236,
+      255,
+      299,
+      377,
+      451
+     ],
+     "count": 9
+    },
+    {
+     "title": "«Отдохнувшие»: the rest laboratory",
+     "slug": "otdohnuvshie",
+     "scope": "Katya's closed group and later laboratory for learning to rest: how it works, enrollment, client journeys and testimonials.",
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "rest-and-recovery",
+      "fatigue",
+      "health-coaching",
+      "burnout"
+     ],
+     "ids": [
+      280,
+      281,
+      282,
+      283,
+      284,
+      450,
+      465,
+      466,
+      467,
+      468,
+      480,
+      491,
+      492,
+      493,
+      494,
+      495,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      628,
+      629
+     ],
+     "count": 28
+    }
+   ],
+   "area": "Rest & Burnout"
+  },
+  {
+   "domain": "Sleep",
+   "slug": "sleep",
+   "topics": [
+    {
+     "title": "Sleep as the base",
+     "slug": "sleep-base",
+     "scope": "Why sleep is the foundation of energy: deprivation effects (hormones, glucose, appearance), alcohol and light at night, exercise and sleep, sufficiency self-tests, science uncertainty.",
+     "also_areas": [
+      "Energy & Resource",
+      "Nutrition"
+     ],
+     "concepts": [
+      "sleep-hygiene",
+      "circadian-rhythm",
+      "alcohol-free-living"
+     ],
+     "ids": [
+      13,
+      23,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      75,
+      81,
+      87,
+      88,
+      89,
+      143,
+      265,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336
+     ],
+     "count": 21
+    },
+    {
+     "title": "Sleep practice and gear",
+     "slug": "sleep-practice",
+     "scope": "Practical sleep hygiene: pillows, light alarms, earplugs, bedtime consistency, fixing broken sleep, revenge bedtime procrastination, the sleep practicum.",
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "sleep-hygiene",
+      "habit-formation",
+      "digital-hygiene",
+      "health-coaching"
+     ],
+     "ids": [
+      43,
+      121,
+      158,
+      264,
+      378,
+      379,
+      386,
+      437,
+      564,
+      656,
+      658,
+      662,
+      684,
+      685,
+      742
+     ],
+     "count": 15
+    }
+   ],
+   "area": "Sleep"
+  },
+  {
+   "domain": "Nutrition",
+   "slug": "nutrition",
+   "topics": [
+    {
+     "title": "Sugar, sweets and glucose",
+     "slug": "sugar",
+     "scope": "How sugar affects energy, calorie quality (Lustig/Hyman), eating sweets without bans and guilt.",
+     "also_areas": [
+      "Energy & Resource",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sugar-and-glucose",
+      "metabolic-health",
+      "intuitive-eating",
+      "self-compassion"
+     ],
+     "ids": [
+      28,
+      29,
+      30,
+      170,
+      257
+     ],
+     "count": 5
+    },
+    {
+     "title": "Nutrition myths and evidence-based guidelines",
+     "slug": "nutrition-myths",
+     "scope": "Gastroenterologist myth-busting (keto, fruit, gluten), Norway's dietary guidelines, oral health as a health pillar, evidence-based eating.",
+     "also_areas": [
+      "Wellness Industry, Gadgets & Longevity"
+     ],
+     "concepts": [
+      "nutrition-basics",
+      "gut-health-oral",
+      "supplements"
+     ],
+     "ids": [
+      56,
+      151,
+      154,
+      204
+     ],
+     "count": 4
+    },
+    {
+     "title": "Marina's nutrition column",
+     "slug": "nutrition-column",
+     "scope": "Marina Sidorich's food-for-energy rubric: calcium for women, fiber norms, what's wrong with calorie trackers.",
+     "also_areas": [
+      "Women's Health"
+     ],
+     "concepts": [
+      "nutrition-basics",
+      "womens-health",
+      "self-tracking"
+     ],
+     "ids": [
+      521,
+      533,
+      534,
+      535,
+      536,
+      537,
+      651
+     ],
+     "count": 7
+    },
+    {
+     "title": "Coffee, caffeine and alcohol-free",
+     "slug": "coffee-alcohol",
+     "scope": "Caffeine rules and myths, coffee-with-milk glucose experiment, Katya's 6+ alcohol-free years and non-alcoholic wine/beer picks.",
+     "also_areas": [
+      "Sleep",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "caffeine",
+      "alcohol-free-living",
+      "sugar-and-glucose",
+      "sleep-hygiene"
+     ],
+     "ids": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      234,
+      235,
+      497,
+      498,
+      499,
+      745
+     ],
+     "count": 13
+    },
+    {
+     "title": "Everyday food culture",
+     "slug": "food-culture",
+     "scope": "Intuitive eating, healthy-habit checklists, home cooking and recipes, ready-meal delivery, holiday eating, under-eating as a root problem.",
+     "also_areas": [
+      "Mind & Emotions",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "intuitive-eating",
+      "nutrition-basics",
+      "self-compassion",
+      "habit-formation"
+     ],
+     "ids": [
+      18,
+      19,
+      84,
+      110,
+      111,
+      112,
+      113,
+      190,
+      471,
+      472,
+      473,
+      474,
+      475,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586
+     ],
+     "count": 19
+    }
+   ],
+   "area": "Nutrition"
+  },
+  {
+   "domain": "Movement & Body",
+   "slug": "body",
+   "topics": [
+    {
+     "title": "Fitness independence and sustainable movement",
+     "slug": "fitness",
+     "scope": "Movement not tied to a gym: motivation, fitness independence steps, workouts never becoming automatic, workout recovery, endurance and career, VR fitness.",
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "physical-activity",
+      "motivation",
+      "habit-formation",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      42,
+      229,
+      230,
+      238,
+      239,
+      285,
+      322,
+      470,
+      477,
+      568,
+      569,
+      570,
+      571
+     ],
+     "count": 13
+    },
+    {
+     "title": "Minimal effective dose of movement",
+     "slug": "minimal-dose",
+     "scope": "7,000 steps, 10-minute workouts, zero-zone/NEAT activity, books that make you love movement (McGonigal, Murakami).",
+     "also_areas": [
+      "Energy & Resource",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "physical-activity",
+      "habit-formation",
+      "nature-and-restoration",
+      "longevity"
+     ],
+     "ids": [
+      360,
+      361,
+      362,
+      363,
+      364,
+      371,
+      372,
+      373,
+      393,
+      454,
+      455,
+      456,
+      457,
+      458
+     ],
+     "count": 14
+    },
+    {
+     "title": "Body image, face and beauty",
+     "slug": "beauty",
+     "scope": "Body neutrality, weight vs health, Zoom dysmorphia, beauty burnout, skincare and puffiness routines, LED masks, Ozempic critique, beauty spending.",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Wellness Industry, Gadgets & Longevity",
+      "Women's Health"
+     ],
+     "concepts": [
+      "body-image",
+      "beauty-skincare",
+      "self-compassion",
+      "eating-disorders"
+     ],
+     "ids": [
+      24,
+      133,
+      159,
+      160,
+      183,
+      286,
+      301,
+      310,
+      341,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      444,
+      445,
+      446,
+      447,
+      461,
+      576,
+      577,
+      613,
+      631,
+      659,
+      660,
+      669,
+      695,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733
+     ],
+     "count": 41
+    },
+    {
+     "title": "Eating disorder recovery, weight genetics and body acceptance",
+     "slug": "weight-and-ed-recovery",
+     "scope": "Katya's story of an unrecognized eating disorder, the EAT-26 screening test, why genetics and metabolic adaptation make thinness the wrong goal, and how a genetic test led to tailored eating, movement and sleep habits.",
+     "themes": [
+      "eating disorder",
+      "genetics of weight",
+      "metabolic adaptation",
+      "body acceptance"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions",
+      "Nutrition"
+     ],
+     "concepts": [
+      "eating-disorders",
+      "weight-and-genetics",
+      "body-image"
+     ],
+     "ids": [
+      683,
+      717,
+      741
+     ],
+     "count": 3
+    }
+   ],
+   "area": "Movement & Body"
+  },
+  {
+   "domain": "Balance & Life Philosophy",
+   "slug": "balance",
+   "topics": [
+    {
+     "title": "What is balance (and is it real)",
+     "slug": "what-is-balance",
+     "scope": "The channel's title question: balance definitions, critiques ('fuck the balance', adaptivity), balance as contrast, dosage, slowing down, psychological equilibrium, freedom.",
+     "also_areas": [
+      "Mind & Emotions",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "balance-philosophy",
+      "work-life-balance",
+      "self-reflection-tools",
+      "motivation"
+     ],
+     "ids": [
+      54,
+      93,
+      109,
+      153,
+      171,
+      306,
+      307,
+      340,
+      352,
+      353,
+      500,
+      549,
+      550,
+      563,
+      566,
+      567,
+      720
+     ],
+     "count": 17
+    },
+    {
+     "title": "Work-life balance in practice",
+     "slug": "work-life",
+     "scope": "Combining work, family and life: 8+8+8, calendar rules, agency and rest, misery tax, forwarded takes on work-life balance.",
+     "also_areas": [
+      "Leadership & Organizations",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "work-life-balance",
+      "calendar-planning",
+      "burnout",
+      "boundaries"
+     ],
+     "ids": [
+      35,
+      50,
+      74,
+      79,
+      124,
+      191,
+      201,
+      212,
+      258,
+      259,
+      394,
+      395
+     ],
+     "count": 12
+    },
+    {
+     "title": "Women's fatigue and social expectations",
+     "slug": "womens-load",
+     "scope": "Why women tire more: superwoman expectations, internalized misogyny, beauty burnout, depression in women, war and 'female' values.",
+     "also_areas": [
+      "Women's Health",
+      "Rest & Burnout",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "gender-expectations",
+      "fatigue",
+      "burnout",
+      "body-image"
+     ],
+     "ids": [
+      240,
+      241,
+      242,
+      301,
+      452,
+      517,
+      562
+     ],
+     "count": 7
+    },
+    {
+     "title": "Relocation and staying stable through moves",
+     "slug": "relocation-stability",
+     "scope": "How place affects well-being after emigration: why Belgrade suits her better than the US or Europe, and her portable 'rider' of routines (meditation, simple food, home workouts, housing, rituals) that keeps her stable through repeated moves.",
+     "themes": [
+      "emigration",
+      "relocation",
+      "portable routines",
+      "cost of living"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "relocation",
+      "stress-and-anxiety",
+      "uncertainty-resilience",
+      "self-care"
+     ],
+     "ids": [
+      734,
+      737
+     ],
+     "count": 2
+    }
+   ],
+   "area": "Balance & Life Philosophy"
+  },
+  {
+   "domain": "Mind & Emotions",
+   "slug": "mind",
+   "topics": [
+    {
+     "title": "Emotions as energy",
+     "slug": "emotions",
+     "scope": "Emotional regulation: Lisa Feldman Barrett's body budget, cognitive reappraisal, embodiment, the three emotion-regulation systems.",
+     "also_areas": [
+      "Energy & Resource",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "emotional-regulation",
+      "stress-and-anxiety",
+      "energy-management",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      70,
+      72,
+      73,
+      106,
+      243,
+      591
+     ],
+     "count": 6
+    },
+    {
+     "title": "Meditation and mindfulness",
+     "slug": "meditation",
+     "scope": "Meditation practices and courses: emotional-energy meditation, happiness course, microdosing mindfulness, Goleman/Davidson, anticipatory suffering, arkhe album.",
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "stress-and-anxiety",
+      "emotional-regulation"
+     ],
+     "ids": [
+      144,
+      209,
+      210,
+      211,
+      482,
+      522,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647
+     ],
+     "count": 16
+    },
+    {
+     "title": "Inner work: self-worth, shame, parts",
+     "slug": "inner-work",
+     "scope": "Self-compassion and the inner critic, self-esteem vs self-worth, the architecture of shame, IFS/self-leadership, self-care psychology and permissions.",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "self-compassion",
+      "shame",
+      "inner-parts-ifs",
+      "self-care",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      92,
+      116,
+      145,
+      146,
+      149,
+      150,
+      323,
+      324,
+      325,
+      326,
+      416,
+      435,
+      436,
+      528,
+      529,
+      676,
+      677,
+      727
+     ],
+     "count": 18
+    },
+    {
+     "title": "Digital hygiene and attention",
+     "slug": "digital-hygiene",
+     "scope": "Phone and information diet: morning chats, telegram hygiene, Brick, Kindle instead of phone, focus habits, unsubscribing.",
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "digital-hygiene",
+      "focus-attention",
+      "habit-formation",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      45,
+      184,
+      220,
+      221,
+      222,
+      223,
+      224,
+      227,
+      228,
+      245,
+      328,
+      329,
+      370
+     ],
+     "count": 13
+    },
+    {
+     "title": "Impermanence, uncertainty and resilience",
+     "slug": "impermanence-uncertainty",
+     "scope": "Living with things outside your control: impermanence and the two-arrows practice after a visa refusal, scenario thinking instead of predicting the future, and a six-step approach to chronic fatigue and anxiety in wartime.",
+     "themes": [
+      "impermanence",
+      "two arrows",
+      "scenario thinking",
+      "locus of control",
+      "resilience"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Psychotherapy & Inner Work",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "impermanence-acceptance",
+      "uncertainty-resilience",
+      "stress-and-anxiety",
+      "fatigue"
+     ],
+     "ids": [
+      665,
+      667,
+      678,
+      687
+     ],
+     "count": 4
+    }
+   ],
+   "area": "Mind & Emotions"
+  },
+  {
+   "domain": "Behavior Change & Coaching",
+   "slug": "change",
+   "topics": [
+    {
+     "title": "Why change is hard",
+     "slug": "why-change-is-hard",
+     "scope": "Behavior-change mechanics: why habits fail, stages of change, small steps, patience, identity, effort vs violence, 'I know but don't do'.",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "habit-formation",
+      "motivation",
+      "self-compassion"
+     ],
+     "ids": [
+      90,
+      91,
+      136,
+      137,
+      138,
+      195,
+      216,
+      252,
+      253,
+      481,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      572,
+      612,
+      615,
+      616,
+      626,
+      653,
+      654,
+      663,
+      689,
+      693,
+      709,
+      713
+     ],
+     "count": 29
+    },
+    {
+     "title": "Tools and reflection practices",
+     "slug": "tools",
+     "scope": "Concrete instruments: values definition, permissions wheel, wheel of balance, Plus/Minus/Next, year results and New Year reflection, learning how to learn.",
+     "also_areas": [
+      "Mind & Emotions",
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "self-reflection-tools",
+      "self-care",
+      "habit-formation",
+      "work-life-balance"
+     ],
+     "ids": [
+      117,
+      139,
+      166,
+      167,
+      168,
+      250,
+      366,
+      367,
+      368,
+      369,
+      478,
+      483,
+      501,
+      502,
+      503,
+      506
+     ],
+     "count": 16
+    },
+    {
+     "title": "Coaching practice and client stories",
+     "slug": "coaching",
+     "scope": "Katya's health-coaching work: career change story, client goals and cases, testimonials.",
+     "also_areas": [
+      "Rest & Burnout",
+      "Energy & Resource",
+      "Interviews & Community"
+     ],
+     "concepts": [
+      "health-coaching",
+      "burnout",
+      "energy-management",
+      "self-tracking"
+     ],
+     "ids": [
+      263,
+      313,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      593,
+      594,
+      735
+     ],
+     "count": 15
+    },
+    {
+     "title": "Dictionary of change: paired concepts (Словарь изменений)",
+     "slug": "dictionary-of-change",
+     "scope": "Katya's rubric contrasting look-alike concepts that decide whether change sticks: control vs choice, self-compassion vs pity, pleasant vs necessary, faith vs expectations, refusal vs moderation, each with self-tests to tell them apart.",
+     "themes": [
+      "control vs choice",
+      "self-compassion vs pity",
+      "pleasant vs necessary",
+      "faith vs expectations",
+      "restriction vs moderation"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Nutrition"
+     ],
+     "concepts": [
+      "habit-formation",
+      "self-compassion",
+      "motivation",
+      "intuitive-eating"
+     ],
+     "ids": [
+      673,
+      688,
+      707,
+      723,
+      738
+     ],
+     "count": 5
+    }
+   ],
+   "area": "Behavior Change & Coaching"
+  },
+  {
+   "domain": "Wellness Industry, Gadgets & Longevity",
+   "slug": "industry",
+   "topics": [
+    {
+     "title": "Supplements: benefits and harms",
+     "slug": "supplements",
+     "scope": "Evidence review and cautionary tales: NMN, vitamin D, collagen, omega-3 stroke story, C60 hype, the 3-part 'how to harm yourself with vitamins' series.",
+     "also_areas": [
+      "Nutrition",
+      "Sleep"
+     ],
+     "concepts": [
+      "supplements",
+      "self-tracking",
+      "wellness-industry-critique"
+     ],
+     "ids": [
+      31,
+      32,
+      33,
+      34,
+      99,
+      617,
+      635,
+      636,
+      637,
+      650
+     ],
+     "count": 10
+    },
+    {
+     "title": "Gadgets and trackers",
+     "slug": "gadgets",
+     "scope": "Wellness tech reviews and the nocebo effect: Lumen, Apple Watch, when trackers help vs harm, interoception, free health apps, wish-list products.",
+     "also_areas": [
+      "Attention & Digital Wellbeing",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "self-tracking",
+      "wellness-industry-critique",
+      "stress-and-anxiety",
+      "body-image"
+     ],
+     "ids": [
+      20,
+      21,
+      26,
+      100,
+      101,
+      587,
+      588,
+      596,
+      597,
+      652,
+      661,
+      670,
+      739
+     ],
+     "count": 13
+    },
+    {
+     "title": "Wellness independence and industry critique",
+     "slug": "wellness-independence",
+     "scope": "Skills over tools: gadget consumerism, who profits from our beliefs, wellness trends as a shop window.",
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "wellness-industry-critique",
+      "self-tracking",
+      "habit-formation"
+     ],
+     "ids": [
+      338,
+      419,
+      434,
+      655
+     ],
+     "count": 4
+    },
+    {
+     "title": "Longevity and aging",
+     "slug": "longevity",
+     "scope": "Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.",
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Sleep"
+     ],
+     "concepts": [
+      "longevity",
+      "wellness-industry-critique",
+      "stress-and-anxiety",
+      "impermanence-acceptance"
+     ],
+     "ids": [
+      108,
+      215,
+      261,
+      287,
+      288,
+      590,
+      619,
+      620,
+      622,
+      623,
+      675
+     ],
+     "count": 11
+    }
+   ],
+   "area": "Wellness Industry, Gadgets & Longevity"
+  },
+  {
+   "domain": "Women's Health",
+   "slug": "women",
+   "topics": [
+    {
+     "title": "Women's health: cycle, pregnancy, check-ups",
+     "slug": "womens-health",
+     "scope": "Menstrual cycle and energy, cycle biohacking, pregnancy and postpartum well-being (Marina's diary), lab tests and check-ups, cholesterol story, femtech.",
+     "also_areas": [
+      "Energy & Resource",
+      "Movement & Body"
+     ],
+     "concepts": [
+      "womens-health",
+      "energy-management",
+      "self-tracking",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      37,
+      80,
+      122,
+      162,
+      180,
+      213,
+      219,
+      346,
+      354,
+      578,
+      618,
+      711,
+      722
+     ],
+     "count": 13
+    }
+   ],
+   "area": "Women's Health"
+  },
+  {
+   "domain": "Interviews & Community",
+   "slug": "community",
+   "topics": [
+    {
+     "title": "«На балансе с…» interview series",
+     "slug": "interviews",
+     "scope": "30+ interviews with women about what balance means to them and how they balance careers, families, health and themselves; plus balance stories of Tim Ferriss guests etc.",
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "work-life-balance",
+      "burnout",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      38,
+      39,
+      40,
+      52,
+      53,
+      76,
+      77,
+      85,
+      86,
+      96,
+      97,
+      98,
+      104,
+      105,
+      114,
+      115,
+      118,
+      119,
+      128,
+      129,
+      130,
+      134,
+      142,
+      147,
+      155,
+      163,
+      169,
+      177,
+      182,
+      192,
+      194,
+      195,
+      196,
+      205,
+      208,
+      214,
+      218,
+      226,
+      231,
+      232,
+      244,
+      249,
+      256,
+      276,
+      298,
+      304,
+      320,
+      339,
+      374,
+      387,
+      417,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      453,
+      524,
+      527,
+      561,
+      595,
+      611,
+      624,
+      664,
+      681,
+      721,
+      746
+     ],
+     "count": 68
+    },
+    {
+     "title": "Recommendations: channels, podcasts, books, series",
+     "slug": "recommendations",
+     "scope": "The 'whom to follow' rubric and other curated recommendations: telegram channels, podcasts, courses, series for women.",
+     "also_areas": [
+      "Rest & Burnout",
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "burnout",
+      "balance-philosophy",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      107,
+      120,
+      156,
+      173,
+      174,
+      175,
+      181,
+      189,
+      206,
+      289,
+      530,
+      580,
+      625,
+      648
+     ],
+     "count": 14
+    },
+    {
+     "title": "Channel life and announcements",
+     "slug": "channel-life",
+     "scope": "Channel meta: intro, milestones, navigation, rubricators, polls about formats, events and streams, ads, team changes, monthly recaps.",
+     "also_areas": [
+      "Mind & Emotions",
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "shame",
+      "self-care",
+      "energy-management",
+      "relocation"
+     ],
+     "ids": [
+      9,
+      15,
+      41,
+      47,
+      48,
+      51,
+      102,
+      123,
+      172,
+      185,
+      186,
+      197,
+      217,
+      237,
+      254,
+      305,
+      375,
+      388,
+      389,
+      390,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      433,
+      438,
+      440,
+      443,
+      462,
+      504,
+      505,
+      519,
+      526,
+      589,
+      592,
+      627,
+      633,
+      634
+     ],
+     "count": 44
+    }
+   ],
+   "area": "Interviews & Community"
+  }
+ ],
+ "excluded": [
+  {
+   "id": 674,
+   "kind": "promo",
+   "gist": "Cross-promo of Katya's conversations in Alisa's channel (@ceoalisa) on whether you or your tracker knows better how you feel, and on sport, banya and raves."
+  },
+  {
+   "id": 679,
+   "kind": "personal-update",
+   "gist": "Introductory self-presentation post: Katya's background (eating disorder, burnout, addictions, emigrations, marketing career, training) and how her coaching approach grows from it."
+  },
+  {
+   "id": 682,
+   "kind": "promo",
+   "gist": "Recommendation of Zhenya Datsko's blogger research and her 'Неидеальный план' mentoring program (starts 5 September), with Katya considering joining."
+  },
+  {
+   "id": 686,
+   "kind": "personal-update",
+   "gist": "Katya's reaction to the forwarded feedback that her sleep workshop led a reader to sleep better and start going to the gym, with a pointer to the free recording."
+  },
+  {
+   "id": 690,
+   "kind": "personal-update",
+   "gist": "Forwarded from Kira: after the pity vs compassion post she chose a walk over lying in bed and felt more energetic"
+  },
+  {
+   "id": 691,
+   "kind": "promo",
+   "gist": "Katya replies to Kira's feedback and recommends the 'Осенняя аскеза' course by Olia Bastron and Radmila Khakova for procrastinated tasks"
+  },
+  {
+   "id": 694,
+   "kind": "announcement",
+   "gist": "Reminder of the 2 Sept stages-of-change workshop and a 3-minute stage diagnostic in the event bot"
+  },
+  {
+   "id": 697,
+   "kind": "logistics",
+   "gist": "Same-day reminder that the free workshop with Zhenya Datsko is at 19:00 Moscow time, with bot registration and recording"
+  },
+  {
+   "id": 698,
+   "kind": "announcement",
+   "gist": "Recap of the stages-of-change workshop (changes are a process, relapse is natural), recording available, wait-list for a seminar for helping professionals; includes participant feedback screenshot"
+  },
+  {
+   "id": 701,
+   "kind": "other",
+   "gist": "Screenshot of a participant thanking for the webinar and noting many reasons for reflection"
+  },
+  {
+   "id": 706,
+   "kind": "announcement",
+   "gist": "Announces joint guide with Anya Bichevskaya on which meta-skills (self-awareness, emotion regulation, learnability, antifragility) are needed at each stage of change"
+  },
+  {
+   "id": 710,
+   "kind": "promo",
+   "gist": "Katya's autumn reading picks: two clubs (Lana Chesnovitskaya, Annagleeskee) and two books (Архитектор эмоций, Быть в плюсе) with enrollment links"
+  },
+  {
+   "id": 714,
+   "kind": "announcement",
+   "gist": "Navigation post linking Katya's earlier posts on minimal wellness (micro-dosing mindfulness, 7,000 steps, 10-minute workouts, active lifestyle)"
+  },
+  {
+   "id": 715,
+   "kind": "personal-update",
+   "gist": "Katya shares the 'This Girl Can' video about women's bodies and sport and wishes for a Russian equivalent"
+  },
+  {
+   "id": 716,
+   "kind": "promo",
+   "gist": "Katya explains her blog pause by a move to a new country and recommends the Visual Practicum by Olia Bastron and Anya Mitus (21 Sept - 11 Oct) with payment links"
+  },
+  {
+   "id": 719,
+   "kind": "announcement",
+   "gist": "Announces the public YouTube recording of the webinar 'С третьей попытки. Почему так сложно менять жизнь к лучшему' with several speakers"
+  },
+  {
+   "id": 725,
+   "kind": "announcement",
+   "gist": "Index post collecting all six issues of the Словарь изменений column (Усилие/Насилие, Контроль/Выбор, Жалость/Сострадание, Приятное/Необходимое, Вера/Ожидания, Отказ/Воздержанность)"
+  },
+  {
+   "id": 736,
+   "kind": "personal-update",
+   "gist": "Forwarded comment from client Irina Kasatkina confirming the case post: life changed after health coaching with Katya, more zen"
+  },
+  {
+   "id": 743,
+   "kind": "promo",
+   "gist": "Recommendation and enrollment details for Nastya Grabovich's 7th 'Тело и движение' online practicum (Nov 14-Dec 21, from 5400 RUB) as a way to find light in the dark season"
+  },
+  {
+   "id": 699,
+   "kind": "other",
+   "gist": "Screenshot of a participant's thank-you comment after the change-practicum webinar"
+  },
+  {
+   "id": 700,
+   "kind": "other",
+   "gist": "Screenshot of a participant's thank-you comment after the change-practicum webinar"
+  },
+  {
+   "id": 702,
+   "kind": "other",
+   "gist": "Screenshot of a one-line participant reaction in the practicum chat ('this is exactly me')"
+  },
+  {
+   "id": 703,
+   "kind": "other",
+   "gist": "Screenshot of a participant's chat comment about waiting for the perfect moment; no teaching content of its own"
+  },
+  {
+   "id": 704,
+   "kind": "other",
+   "gist": "Screenshot of participant chat questions and short replies from the practicum; no teachable content"
+  },
+  {
+   "id": 705,
+   "kind": "other",
+   "gist": "Screenshot of participant chat comments about knowing one's values; no teachable content"
+  }
+ ]
+}

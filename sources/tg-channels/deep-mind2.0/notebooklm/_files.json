@@ -1,0 +1,778 @@
+{
+ "channel": "deep mind 2.0",
+ "slug": "deep-mind-2-0",
+ "files": [
+  {
+   "file": "meditation-contemplative-practice-1.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 1,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 1 of 6)",
+   "topics": [
+    {
+     "slug": "mindfulness-as-meta-skill",
+     "title": "Mindfulness as a core meta-skill"
+    }
+   ],
+   "words": 10015
+  },
+  {
+   "file": "meditation-contemplative-practice-2.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 2,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 2 of 6)",
+   "topics": [
+    {
+     "slug": "meditation-practice-fundamentals",
+     "title": "Meditation practice: how to start and keep going"
+    }
+   ],
+   "words": 8744
+  },
+  {
+   "file": "meditation-contemplative-practice-3.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 3,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 3 of 6)",
+   "topics": [
+    {
+     "slug": "metta-compassion-practices",
+     "title": "Metta, compassion and the four immeasurables"
+    }
+   ],
+   "words": 7413
+  },
+  {
+   "file": "meditation-contemplative-practice-4.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 4,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 4 of 6)",
+   "topics": [
+    {
+     "slug": "retreats-deeper-contemplative-path",
+     "title": "Retreats and the deeper contemplative path"
+    }
+   ],
+   "words": 13020
+  },
+  {
+   "file": "meditation-contemplative-practice-5.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 5,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 5 of 6)",
+   "topics": [
+    {
+     "slug": "impermanence-suffering-acceptance",
+     "title": "Impermanence, suffering and meeting experience"
+    }
+   ],
+   "words": 13773
+  },
+  {
+   "file": "meditation-contemplative-practice-6.md",
+   "domain": "Meditation & Contemplative Practice",
+   "domain_slug": "meditation-contemplative-practice",
+   "area": "Meditation & Contemplative Practice",
+   "part": 6,
+   "parts": 6,
+   "title": "Meditation & Contemplative Practice (part 6 of 6)",
+   "topics": [
+    {
+     "slug": "buddhist-teachers-lineages",
+     "title": "Buddhist teachers, lineages and contemplative centres"
+    }
+   ],
+   "words": 6698
+  },
+  {
+   "file": "trauma-nervous-system-1.md",
+   "domain": "Trauma, Nervous System & Self-Regulation",
+   "domain_slug": "trauma-nervous-system",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 3,
+   "title": "Trauma, Nervous System & Self-Regulation (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "trauma-nervous-system-foundations",
+     "title": "Trauma and the nervous system: foundations"
+    }
+   ],
+   "words": 9064
+  },
+  {
+   "file": "trauma-nervous-system-2.md",
+   "domain": "Trauma, Nervous System & Self-Regulation",
+   "domain_slug": "trauma-nervous-system",
+   "area": "Mind & Emotions",
+   "part": 2,
+   "parts": 3,
+   "title": "Trauma, Nervous System & Self-Regulation (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "self-regulation-techniques",
+     "title": "Self-regulation techniques for stress and anxiety"
+    }
+   ],
+   "words": 8234
+  },
+  {
+   "file": "trauma-nervous-system-3.md",
+   "domain": "Trauma, Nervous System & Self-Regulation",
+   "domain_slug": "trauma-nervous-system",
+   "area": "Mind & Emotions",
+   "part": 3,
+   "parts": 3,
+   "title": "Trauma, Nervous System & Self-Regulation (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "anxiety-depression-crisis-coping",
+     "title": "Coping with anxiety, panic, depression and personal crisis"
+    }
+   ],
+   "words": 9369
+  },
+  {
+   "file": "mindful-leadership-teams-1.md",
+   "domain": "Mindful Leadership & Teams",
+   "domain_slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "part": 1,
+   "parts": 5,
+   "title": "Mindful Leadership & Teams (part 1 of 5)",
+   "topics": [
+    {
+     "slug": "mindful-leadership-qualities",
+     "title": "Qualities of mindful and compassionate leaders"
+    }
+   ],
+   "words": 13614
+  },
+  {
+   "file": "mindful-leadership-teams-2.md",
+   "domain": "Mindful Leadership & Teams",
+   "domain_slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "part": 2,
+   "parts": 5,
+   "title": "Mindful Leadership & Teams (part 2 of 5)",
+   "topics": [
+    {
+     "slug": "toxic-leadership-power",
+     "title": "Toxic leadership, power and workplace ethics"
+    }
+   ],
+   "words": 11110
+  },
+  {
+   "file": "mindful-leadership-teams-3.md",
+   "domain": "Mindful Leadership & Teams",
+   "domain_slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "part": 3,
+   "parts": 5,
+   "title": "Mindful Leadership & Teams (part 3 of 5)",
+   "topics": [
+    {
+     "slug": "team-trust-feedback-conflict",
+     "title": "Team trust, feedback and conflict"
+    }
+   ],
+   "words": 6490
+  },
+  {
+   "file": "mindful-leadership-teams-4.md",
+   "domain": "Mindful Leadership & Teams",
+   "domain_slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "part": 4,
+   "parts": 5,
+   "title": "Mindful Leadership & Teams (part 4 of 5)",
+   "topics": [
+    {
+     "slug": "meetings-facilitation",
+     "title": "Meetings and group facilitation"
+    }
+   ],
+   "words": 6732
+  },
+  {
+   "file": "mindful-leadership-teams-5.md",
+   "domain": "Mindful Leadership & Teams",
+   "domain_slug": "mindful-leadership-teams",
+   "area": "Leadership & Organizations",
+   "part": 5,
+   "parts": 5,
+   "title": "Mindful Leadership & Teams (part 5 of 5)",
+   "topics": [
+    {
+     "slug": "motivation-talent-hiring",
+     "title": "Motivation, talent and hiring"
+    }
+   ],
+   "words": 6049
+  },
+  {
+   "file": "organizations-corporate-culture-1.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 1,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 1 of 6)",
+   "topics": [
+    {
+     "slug": "conscious-business-purpose",
+     "title": "Conscious business and company purpose"
+    }
+   ],
+   "words": 4512
+  },
+  {
+   "file": "organizations-corporate-culture-2.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 2,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 2 of 6)",
+   "topics": [
+    {
+     "slug": "corporate-culture-change",
+     "title": "Corporate culture change"
+    }
+   ],
+   "words": 14202
+  },
+  {
+   "file": "organizations-corporate-culture-3.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 3,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 3 of 6)",
+   "topics": [
+    {
+     "slug": "employee-wellbeing-mental-health",
+     "title": "Employee wellbeing and workplace mental health"
+    }
+   ],
+   "words": 15823
+  },
+  {
+   "file": "organizations-corporate-culture-4.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 4,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 4 of 6)",
+   "topics": [
+    {
+     "slug": "team-crisis-support",
+     "title": "Supporting teams through crisis"
+    }
+   ],
+   "words": 14337
+  },
+  {
+   "file": "organizations-corporate-culture-5.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 5,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 5 of 6)",
+   "topics": [
+    {
+     "slug": "self-management-org-models",
+     "title": "Self-management and new organization models"
+    }
+   ],
+   "words": 4027
+  },
+  {
+   "file": "organizations-corporate-culture-6.md",
+   "domain": "Organizations & Corporate Culture",
+   "domain_slug": "organizations-corporate-culture",
+   "area": "Leadership & Organizations",
+   "part": 6,
+   "parts": 6,
+   "title": "Organizations & Corporate Culture (part 6 of 6)",
+   "topics": [
+    {
+     "slug": "founder-lessons-meaning-driven-business",
+     "title": "Founder lessons from building a meaning-driven company"
+    }
+   ],
+   "words": 12855
+  },
+  {
+   "file": "theory-u.md",
+   "domain": "Theory U & Presencing",
+   "domain_slug": "theory-u",
+   "area": "Leadership & Organizations",
+   "part": 1,
+   "parts": 1,
+   "title": "Theory U & Presencing",
+   "topics": [
+    {
+     "slug": "theory-u-presencing",
+     "title": "Theory U, presencing and co-sensing"
+    }
+   ],
+   "words": 18720
+  },
+  {
+   "file": "stress-burnout-rest-1.md",
+   "domain": "Stress, Burnout & Rest",
+   "domain_slug": "stress-burnout-rest",
+   "area": "Rest & Burnout",
+   "part": 1,
+   "parts": 3,
+   "title": "Stress, Burnout & Rest (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "burnout-causes-prevention",
+     "title": "Burnout: causes, warning signs and prevention"
+    }
+   ],
+   "words": 6880
+  },
+  {
+   "file": "stress-burnout-rest-2.md",
+   "domain": "Stress, Burnout & Rest",
+   "domain_slug": "stress-burnout-rest",
+   "area": "Rest & Burnout",
+   "part": 2,
+   "parts": 3,
+   "title": "Stress, Burnout & Rest (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "rest-recovery",
+     "title": "Rest and recovery: vacations, year-end and weekends"
+    },
+    {
+     "slug": "stress-load-management",
+     "title": "Measuring and managing stress load"
+    }
+   ],
+   "words": 10510
+  },
+  {
+   "file": "stress-burnout-rest-3.md",
+   "domain": "Stress, Burnout & Rest",
+   "domain_slug": "stress-burnout-rest",
+   "area": "Rest & Burnout",
+   "part": 3,
+   "parts": 3,
+   "title": "Stress, Burnout & Rest (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "achievement-culture-critique",
+     "title": "Critique of achievement and productivity culture"
+    }
+   ],
+   "words": 11968
+  },
+  {
+   "file": "emotions-personal-growth-1.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 1 of 7)",
+   "topics": [
+    {
+     "slug": "emotional-skills",
+     "title": "Emotional skills: accepting, naming and working with emotions"
+    }
+   ],
+   "words": 12427
+  },
+  {
+   "file": "emotions-personal-growth-2.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 2,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 2 of 7)",
+   "topics": [
+    {
+     "slug": "ego-narcissism-authenticity",
+     "title": "Ego, narcissism and authenticity"
+    }
+   ],
+   "words": 10847
+  },
+  {
+   "file": "emotions-personal-growth-3.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 3,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 3 of 7)",
+   "topics": [
+    {
+     "slug": "meaning-purpose-direction",
+     "title": "Meaning, purpose and life direction"
+    }
+   ],
+   "words": 9795
+  },
+  {
+   "file": "emotions-personal-growth-4.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 4,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 4 of 7)",
+   "topics": [
+    {
+     "slug": "vertical-adult-development",
+     "title": "Vertical development and the integral approach"
+    }
+   ],
+   "words": 13095
+  },
+  {
+   "file": "emotions-personal-growth-5.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 5,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 5 of 7)",
+   "topics": [
+    {
+     "slug": "relationships-family-parenting",
+     "title": "Relationships, family systems and parenting"
+    }
+   ],
+   "words": 9341
+  },
+  {
+   "file": "emotions-personal-growth-6.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 6,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 6 of 7)",
+   "topics": [
+    {
+     "slug": "masculinity-gender",
+     "title": "Masculinity, gender and leadership"
+    },
+    {
+     "slug": "community-belonging",
+     "title": "Community, belonging and loneliness"
+    },
+    {
+     "slug": "willpower-self-control-habits",
+     "title": "Willpower, self-control and habits: what the evidence says"
+    }
+   ],
+   "words": 11059
+  },
+  {
+   "file": "emotions-personal-growth-7.md",
+   "domain": "Emotions, Ego & Personal Growth",
+   "domain_slug": "emotions-personal-growth",
+   "area": "Mind & Emotions",
+   "part": 7,
+   "parts": 7,
+   "title": "Emotions, Ego & Personal Growth (part 7 of 7)",
+   "topics": [
+    {
+     "slug": "future-images-future-self",
+     "title": "Relating to the future: images of the future, future self and mature progress"
+    }
+   ],
+   "words": 3467
+  },
+  {
+   "file": "inner-work-therapy-ethics-1.md",
+   "domain": "Inner Work: Therapy, Ethics & Pitfalls",
+   "domain_slug": "inner-work-therapy-ethics",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 3,
+   "title": "Inner Work: Therapy, Ethics & Pitfalls (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "psychotherapy-methods-results",
+     "title": "Psychotherapy: methods, choosing and getting results"
+    }
+   ],
+   "words": 16299
+  },
+  {
+   "file": "inner-work-therapy-ethics-2.md",
+   "domain": "Inner Work: Therapy, Ethics & Pitfalls",
+   "domain_slug": "inner-work-therapy-ethics",
+   "area": "Psychotherapy & Inner Work",
+   "part": 2,
+   "parts": 3,
+   "title": "Inner Work: Therapy, Ethics & Pitfalls (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "inner-work-ethics-safety",
+     "title": "Ethics and safety in inner work: choosing teachers and practitioners"
+    }
+   ],
+   "words": 15945
+  },
+  {
+   "file": "inner-work-therapy-ethics-3.md",
+   "domain": "Inner Work: Therapy, Ethics & Pitfalls",
+   "domain_slug": "inner-work-therapy-ethics",
+   "area": "Psychotherapy & Inner Work",
+   "part": 3,
+   "parts": 3,
+   "title": "Inner Work: Therapy, Ethics & Pitfalls (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "spiritual-materialism-bypassing",
+     "title": "Spiritual materialism and pitfalls on the inner path"
+    }
+   ],
+   "words": 9368
+  },
+  {
+   "file": "attention-digital-wellbeing-1.md",
+   "domain": "Attention & Digital Wellbeing",
+   "domain_slug": "attention-digital-wellbeing",
+   "area": "Attention & Digital Wellbeing",
+   "part": 1,
+   "parts": 2,
+   "title": "Attention & Digital Wellbeing (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "attention-focus-overload",
+     "title": "Attention, focus and information overload"
+    }
+   ],
+   "words": 6333
+  },
+  {
+   "file": "attention-digital-wellbeing-2.md",
+   "domain": "Attention & Digital Wellbeing",
+   "domain_slug": "attention-digital-wellbeing",
+   "area": "Attention & Digital Wellbeing",
+   "part": 2,
+   "parts": 2,
+   "title": "Attention & Digital Wellbeing (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "digital-detox-screens",
+     "title": "Digital detox and healthy screen habits"
+    },
+    {
+     "slug": "neurodiversity-adhd-autism",
+     "title": "Neurodiversity: ADHD, autism and masking"
+    }
+   ],
+   "words": 12036
+  },
+  {
+   "file": "work-technology-ai-1.md",
+   "domain": "Work, Technology & AI",
+   "domain_slug": "work-technology-ai",
+   "area": "Leadership & Organizations",
+   "part": 1,
+   "parts": 2,
+   "title": "Work, Technology & AI (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "remote-hybrid-future-of-work",
+     "title": "Remote, hybrid and the future of work"
+    }
+   ],
+   "words": 7247
+  },
+  {
+   "file": "work-technology-ai-2.md",
+   "domain": "Work, Technology & AI",
+   "domain_slug": "work-technology-ai",
+   "area": "Leadership & Organizations",
+   "part": 2,
+   "parts": 2,
+   "title": "Work, Technology & AI (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "ai-human-transition",
+     "title": "AI and the human transition"
+    }
+   ],
+   "words": 11731
+  },
+  {
+   "file": "society-war-collective-trauma-1.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 1,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 1 of 6)",
+   "topics": [
+    {
+     "slug": "collective-trauma-propaganda",
+     "title": "Collective trauma, propaganda and society"
+    }
+   ],
+   "words": 12567
+  },
+  {
+   "file": "society-war-collective-trauma-2.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 2,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 2 of 6)",
+   "topics": [
+    {
+     "slug": "inner-stance-war-repression",
+     "title": "Keeping an inner stance through war and repression"
+    }
+   ],
+   "words": 9788
+  },
+  {
+   "file": "society-war-collective-trauma-3.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 3,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 3 of 6)",
+   "topics": [
+    {
+     "slug": "politics-authoritarianism",
+     "title": "Politics, power and authoritarianism"
+    }
+   ],
+   "words": 16505
+  },
+  {
+   "file": "society-war-collective-trauma-4.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 4,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 4 of 6)",
+   "topics": [
+    {
+     "slug": "emigration-relocation",
+     "title": "Emigration and relocation psychology"
+    }
+   ],
+   "words": 4844
+  },
+  {
+   "file": "society-war-collective-trauma-5.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 5,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 5 of 6)",
+   "topics": [
+    {
+     "slug": "freedom-capitalism-culture",
+     "title": "Freedom, capitalism and contemporary culture"
+    }
+   ],
+   "words": 11845
+  },
+  {
+   "file": "society-war-collective-trauma-6.md",
+   "domain": "Society, War & Collective Trauma",
+   "domain_slug": "society-war-collective-trauma",
+   "area": "Society & Politics",
+   "part": 6,
+   "parts": 6,
+   "title": "Society, War & Collective Trauma (part 6 of 6)",
+   "topics": [
+    {
+     "slug": "public-ethics-media",
+     "title": "Public ethics, abuse scandals and media responsibility"
+    }
+   ],
+   "words": 9288
+  },
+  {
+   "file": "sleep.md",
+   "domain": "Sleep",
+   "domain_slug": "sleep",
+   "area": "Sleep",
+   "part": 1,
+   "parts": 1,
+   "title": "Sleep",
+   "topics": [
+    {
+     "slug": "sleep-caffeine",
+     "title": "Sleep, sleep debt and caffeine"
+    }
+   ],
+   "words": 4961
+  },
+  {
+   "file": "body-embodiment.md",
+   "domain": "Body & Embodiment",
+   "domain_slug": "body-embodiment",
+   "area": "Movement & Body",
+   "part": 1,
+   "parts": 1,
+   "title": "Body & Embodiment",
+   "topics": [
+    {
+     "slug": "embodiment-body-practices",
+     "title": "Embodiment and body practices"
+    }
+   ],
+   "words": 4746
+  },
+  {
+   "file": "biohacking-wellness-industry.md",
+   "domain": "Biohacking & Wellness Industry",
+   "domain_slug": "biohacking-wellness-industry",
+   "area": "Wellness Industry, Gadgets & Longevity",
+   "part": 1,
+   "parts": 1,
+   "title": "Biohacking & Wellness Industry",
+   "topics": [
+    {
+     "slug": "supplements-recovery-protocols",
+     "title": "Supplements and recovery protocols"
+    },
+    {
+     "slug": "wellness-industry-gadgets-trends",
+     "title": "Wellness industry, gadgets and trends"
+    }
+   ],
+   "words": 12000
+  }
+ ]
+}

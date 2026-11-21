@@ -1,0 +1,12 @@
+# Communication and social life — routing table ((нейро)разнообразная психология)
+
+Pick every topic whose *Answers* or *Frameworks* match the request, then read its reference file in full.
+
+## Autistic and ADHD communication styles, AAC and helper tools
+- File: `../references/communication-social-life--neurodivergent-communication-aac.md` · 22 msgs · 2023-04-02..2024-05-10
+- Light version (NotebookLM study text, whole domain part): `/Users/coreference/projects/tg insights/sources/tg-channels/neurodiv_psy/notebooklm/communication-social-life.md`
+- The eight autistic communication preferences the channel describes (direct communication, minimal eye contact, avoiding small talk, AAC and text, monologue exchange, asynchronous communication, more processing time, echolalia), infodumping, how ADHD shows up in conversation and in close relationships together with an 8-point list of what helps, the types of alternative and augmentative communication (AAC) with their pros and cons, and two Autentik tools for decoding idioms and judging how toxic a message is.
+- Answers: Why do autistic people often avoid eye contact or small talk, and what does it mean? · What is asynchronous communication and why do some autistic people prefer it? · What is echolalia, and is it meant to mock the speaker? · What is infodumping? · How does ADHD affect conversation and friendships or romantic relationships? · What can an adult with ADHD do to communicate better, interrupt less and keep friendships going? · What is alternative and augmentative communication (AAC), and which types exist? · What are the pros and cons of AAC apps, dedicated devices, picture cards, writing and sign languages? · Is there a tool that explains idioms or drafts a neutral reply to a message? · How can I check whether a message I received or sent comes across as aggressive or rude?
+- Frameworks: Autistic communication preferences (8 items) · Negative manifestations of ADHD in conversation (5 items) · Negative manifestations of ADHD in close relationships (5 items) · What can help with ADHD and communication (8 items) · Three categories of AAC by level of technology · Pros and cons of five AAC formats (app, dedicated gadget, cards, writing, sign language) · Using the Autentik Text Helper browser plugin (3 steps)
+- Concepts (cross-channel tags): neurodivergent-communication, relationships-family, self-advocacy-accommodations, special-interests-hyperfocus
+

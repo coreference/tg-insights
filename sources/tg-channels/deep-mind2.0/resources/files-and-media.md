@@ -1,0 +1,825 @@
+# Files & media index
+
+All media referenced in the export with message context and relative path.
+
+## audio_file  (5)
+- [msg #1097] 2024-06-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/files/Mental-clarity-podcast-deepmind.mp3`
+- [msg #1126] 2024-08-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/files/stress_reasons_deepmind_podcast.mp3`
+- [msg #1187] 2024-10-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/files/What is next.mp3`
+- [msg #1221] 2024-10-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/files/resonance.mp3`
+- [msg #1321] 2025-03-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/files/AUDIO-2024-10-06-12-26-38.mp3`
+
+## file  (5)
+- [msg #149] 2020-03-12 · Coping with anxiety, panic, depression and personal crisis · `raw-exports/ChatExport_2026-07-16/files/Коррекция_как_Strong_Buying_Opportunity_11_03_2020_pdf.pdf` · text transcribed
+- [msg #211] 2020-06-09 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/files/pwc-european-start-up-survey-rus.pdf` · text transcribed
+- [msg #287] 2020-09-29 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/files/Осознанное-Лидерство-Изменений.pdf` · text transcribed
+- [msg #541] 2021-12-11 · Employee wellbeing and workplace mental health · `raw-exports/ChatExport_2026-07-16/files/Deloitte-Millennial-Survey-2021-Russia-Report.pdf` · text transcribed
+- [msg #637] 2022-04-20 · Supporting teams through crisis · `raw-exports/ChatExport_2026-07-16/files/Под_давлением_Лидерство_в_новых_реалиях.pdf` · text transcribed
+
+## photo  (747)
+- [msg #8] 2019-11-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_1@11-11-2019_16-02-14.jpg` · text transcribed
+- [msg #15] 2019-11-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_2@17-11-2019_11-58-36.jpg` · text transcribed
+- [msg #29] 2019-11-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_3@25-11-2019_11-47-04.jpg` · text transcribed
+- [msg #37] 2019-12-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_4@03-12-2019_20-35-17.jpg` · text transcribed
+- [msg #38] 2019-12-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_5@03-12-2019_20-35-18.jpg` · text transcribed
+- [msg #46] 2019-12-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_6@09-12-2019_12-39-04.jpg` · text transcribed
+- [msg #49] 2019-12-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_7@11-12-2019_19-55-26.jpg`
+- [msg #53] 2019-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_8@14-12-2019_17-56-19.jpg` · text transcribed
+- [msg #55] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_9@15-12-2019_13-38-39.jpg`
+- [msg #56] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_10@15-12-2019_13-38-39.jpg`
+- [msg #57] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_11@15-12-2019_13-38-39.jpg`
+- [msg #58] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_12@15-12-2019_13-38-39.jpg`
+- [msg #59] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_13@15-12-2019_13-38-39.jpg`
+- [msg #60] 2019-12-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_14@15-12-2019_13-38-39.jpg` · text transcribed
+- [msg #63] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_15@16-12-2019_08-33-38.jpg`
+- [msg #64] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_16@16-12-2019_08-33-38.jpg`
+- [msg #65] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_17@16-12-2019_08-33-38.jpg`
+- [msg #66] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_18@16-12-2019_08-33-38.jpg`
+- [msg #67] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_19@16-12-2019_08-33-38.jpg`
+- [msg #68] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_20@16-12-2019_08-33-38.jpg`
+- [msg #71] 2019-12-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_21@16-12-2019_16-47-34.jpg`
+- [msg #80] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_22@29-12-2019_08-25-10.jpg`
+- [msg #81] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_23@29-12-2019_08-25-10.jpg`
+- [msg #82] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_24@29-12-2019_08-25-10.jpg`
+- [msg #83] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_25@29-12-2019_08-25-10.jpg`
+- [msg #84] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_26@29-12-2019_08-25-10.jpg` · text transcribed
+- [msg #85] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_27@29-12-2019_08-25-10.jpg`
+- [msg #86] 2019-12-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_28@29-12-2019_08-25-10.jpg` · text transcribed
+- [msg #88] 2019-12-30 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_29@30-12-2019_12-47-05.jpg` · text transcribed
+- [msg #145] 2020-03-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_30@08-03-2020_07-04-15.jpg` · text transcribed
+- [msg #178] 2020-04-21 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_31@21-04-2020_19-39-06.jpg` · text transcribed
+- [msg #179] 2020-04-21 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_32@21-04-2020_19-39-06.jpg` · text transcribed
+- [msg #180] 2020-04-21 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_33@21-04-2020_19-39-06.jpg` · text transcribed
+- [msg #181] 2020-04-21 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_34@21-04-2020_19-39-06.jpg` · text transcribed
+- [msg #304] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_35@17-10-2020_15-16-39.jpg`
+- [msg #305] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_36@17-10-2020_15-16-39.jpg`
+- [msg #306] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_37@17-10-2020_15-16-39.jpg` · text transcribed
+- [msg #307] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_38@17-10-2020_15-16-39.jpg`
+- [msg #308] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_39@17-10-2020_15-16-39.jpg` · text transcribed
+- [msg #309] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_40@17-10-2020_15-16-39.jpg` · text transcribed
+- [msg #310] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_41@17-10-2020_15-16-39.jpg`
+- [msg #311] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_42@17-10-2020_15-16-40.jpg`
+- [msg #312] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_43@17-10-2020_15-16-40.jpg`
+- [msg #313] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_44@17-10-2020_15-16-40.jpg`
+- [msg #314] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_45@17-10-2020_15-16-45.jpg` · text transcribed
+- [msg #315] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_46@17-10-2020_15-16-45.jpg` · text transcribed
+- [msg #316] 2020-10-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_47@17-10-2020_15-16-45.jpg`
+- [msg #333] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_48@14-12-2020_15-27-22.jpg`
+- [msg #334] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_49@14-12-2020_15-27-22.jpg`
+- [msg #335] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_50@14-12-2020_15-27-22.jpg`
+- [msg #336] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_51@14-12-2020_15-27-22.jpg` · text transcribed
+- [msg #337] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_52@14-12-2020_15-27-22.jpg`
+- [msg #338] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_53@14-12-2020_15-27-22.jpg`
+- [msg #339] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_54@14-12-2020_15-27-22.jpg`
+- [msg #340] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_55@14-12-2020_15-27-22.jpg`
+- [msg #341] 2020-12-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_56@14-12-2020_15-27-22.jpg` · text transcribed
+- [msg #346] 2020-12-17 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_57@17-12-2020_10-49-27.jpg` · text transcribed
+- [msg #347] 2020-12-17 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_58@17-12-2020_10-49-27.jpg` · text transcribed
+- [msg #354] 2020-12-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_59@31-12-2020_13-57-27.jpg`
+- [msg #355] 2020-12-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_60@31-12-2020_13-57-27.jpg` · text transcribed
+- [msg #363] 2021-01-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_61@05-01-2021_14-53-26.jpg`
+- [msg #370] 2021-01-18 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_62@18-01-2021_17-13-18.jpg` · text transcribed
+- [msg #374] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_63@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #375] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_64@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #376] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_65@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #377] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_66@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #378] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_67@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #379] 2021-01-22 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_68@22-01-2021_12-36-21.jpg` · text transcribed
+- [msg #381] 2021-01-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_69@25-01-2021_18-59-36.jpg` · text transcribed
+- [msg #402] 2021-03-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_70@07-03-2021_11-17-34.jpg` · text transcribed
+- [msg #406] 2021-03-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_71@16-03-2021_10-19-22.jpg` · text transcribed
+- [msg #416] 2021-04-09 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_72@09-04-2021_18-40-12.jpg` · text transcribed
+- [msg #444] 2021-07-02 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_73@02-07-2021_09-52-18.jpg` · text transcribed
+- [msg #447] 2021-07-10 · Qualities of mindful and compassionate leaders · `raw-exports/ChatExport_2026-07-16/photos/photo_74@10-07-2021_11-24-40.jpg` · text transcribed
+- [msg #451] 2021-07-19 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_75@19-07-2021_14-43-16.jpg` · text transcribed
+- [msg #459] 2021-08-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_76@10-08-2021_07-34-15.jpg` · text transcribed
+- [msg #486] 2021-10-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_77@20-10-2021_12-33-20.jpg` · text transcribed
+- [msg #490] 2021-10-29 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_78@29-10-2021_17-57-00.jpg`
+- [msg #491] 2021-10-31 · Coping with anxiety, panic, depression and personal crisis · `raw-exports/ChatExport_2026-07-16/photos/photo_79@31-10-2021_17-20-43.jpg` · text transcribed
+- [msg #514] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_80@18-11-2021_15-45-04.jpg`
+- [msg #515] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_81@18-11-2021_15-45-04.jpg`
+- [msg #516] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_82@18-11-2021_15-45-04.jpg`
+- [msg #517] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_83@18-11-2021_15-45-05.jpg`
+- [msg #519] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_84@18-11-2021_15-45-05.jpg`
+- [msg #520] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_85@18-11-2021_15-45-05.jpg`
+- [msg #521] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_86@18-11-2021_15-45-05.jpg`
+- [msg #522] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_87@18-11-2021_15-46-02.jpg` · text transcribed
+- [msg #523] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_88@18-11-2021_15-46-02.jpg`
+- [msg #524] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_89@18-11-2021_15-46-02.jpg` · text transcribed
+- [msg #526] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_90@18-11-2021_15-46-02.jpg`
+- [msg #527] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_91@18-11-2021_15-46-02.jpg`
+- [msg #528] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_92@18-11-2021_15-46-02.jpg`
+- [msg #529] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_93@18-11-2021_15-46-03.jpg`
+- [msg #530] 2021-11-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_94@18-11-2021_15-46-03.jpg`
+- [msg #535] 2021-12-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_95@03-12-2021_06-17-41.jpg` · text transcribed
+- [msg #544] 2021-12-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_96@12-12-2021_07-58-15.jpg`
+- [msg #545] 2021-12-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_97@12-12-2021_13-47-45.jpg` · text transcribed
+- [msg #564] 2022-01-23 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_98@23-01-2022_10-34-14.jpg`
+- [msg #565] 2022-01-27 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_99@27-01-2022_09-41-52.jpg` · text transcribed
+- [msg #575] 2022-02-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_100@19-02-2022_07-11-09.jpg`
+- [msg #577] 2022-02-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_101@21-02-2022_08-57-12.jpg` · text transcribed
+- [msg #592] 2022-03-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_102@01-03-2022_03-47-26.jpg`
+- [msg #597] 2022-03-04 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_103@04-03-2022_12-03-20.jpg` · text transcribed
+- [msg #609] 2022-03-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_104@17-03-2022_17-13-15.jpg` · text transcribed
+- [msg #617] 2022-03-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_105@24-03-2022_10-40-27.jpg`
+- [msg #619] 2022-03-29 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_106@29-03-2022_09-57-05.jpg` · text transcribed
+- [msg #620] 2022-03-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_107@31-03-2022_08-21-40.jpg` · text transcribed
+- [msg #621] 2022-03-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_108@31-03-2022_08-21-40.jpg` · text transcribed
+- [msg #622] 2022-03-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_109@31-03-2022_08-21-41.jpg` · text transcribed
+- [msg #623] 2022-03-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_110@31-03-2022_08-21-41.jpg` · text transcribed
+- [msg #630] 2022-04-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_111@05-04-2022_17-08-32.jpg` · text transcribed
+- [msg #631] 2022-04-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_112@07-04-2022_17-15-59.jpg` · text transcribed
+- [msg #633] 2022-04-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_113@11-04-2022_11-22-31.jpg` · text transcribed
+- [msg #635] 2022-04-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_114@16-04-2022_17-33-54.jpg`
+- [msg #636] 2022-04-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_115@17-04-2022_10-03-25.jpg`
+- [msg #638] 2022-04-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_116@21-04-2022_14-10-09.jpg` · text transcribed
+- [msg #641] 2022-04-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_117@26-04-2022_13-24-02.jpg` · text transcribed
+- [msg #642] 2022-04-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_118@27-04-2022_13-58-31.jpg`
+- [msg #645] 2022-04-29 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_119@29-04-2022_10-30-51.jpg` · text transcribed
+- [msg #650] 2022-05-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_120@03-05-2022_13-02-01.jpg` · text transcribed
+- [msg #654] 2022-05-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_121@11-05-2022_10-45-38.jpg` · text transcribed
+- [msg #660] 2022-05-19 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_122@19-05-2022_08-12-20.jpg` · text transcribed
+- [msg #661] 2022-05-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_123@20-05-2022_09-39-18.jpg`
+- [msg #666] 2022-06-02 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_124@02-06-2022_08-37-22.jpg` · text transcribed
+- [msg #667] 2022-06-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_125@04-06-2022_12-40-56.jpg` · text transcribed
+- [msg #668] 2022-06-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_126@04-06-2022_12-40-56.jpg` · text transcribed
+- [msg #675] 2022-06-14 · Vertical development and the integral approach · `raw-exports/ChatExport_2026-07-16/photos/photo_127@14-06-2022_09-30-14.jpg` · text transcribed
+- [msg #676] 2022-06-17 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_128@17-06-2022_16-13-34.jpg` · text transcribed
+- [msg #677] 2022-06-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_129@20-06-2022_05-55-48.jpg` · text transcribed
+- [msg #678] 2022-06-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_130@21-06-2022_06-30-52.jpg` · text transcribed
+- [msg #679] 2022-06-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_131@24-06-2022_08-01-33.jpg` · text transcribed
+- [msg #680] 2022-06-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_132@26-06-2022_08-09-11.jpg` · text transcribed
+- [msg #681] 2022-06-28 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_133@28-06-2022_08-05-25.jpg` · text transcribed
+- [msg #683] 2022-07-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_134@01-07-2022_10-09-24.jpg` · text transcribed
+- [msg #685] 2022-07-06 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_135@06-07-2022_07-15-26.jpg` · text transcribed
+- [msg #689] 2022-07-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_136@13-07-2022_08-13-41.jpg` · text transcribed
+- [msg #691] 2022-07-16 · Trauma and the nervous system: foundations · `raw-exports/ChatExport_2026-07-16/photos/photo_137@16-07-2022_08-12-06.jpg` · text transcribed
+- [msg #705] 2022-07-30 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_138@30-07-2022_08-00-06.jpg` · text transcribed
+- [msg #707] 2022-08-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_139@02-08-2022_10-47-06.jpg` · text transcribed
+- [msg #708] 2022-08-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_140@03-08-2022_09-40-12.jpg` · text transcribed
+- [msg #711] 2022-08-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_141@09-08-2022_09-23-50.jpg` · text transcribed
+- [msg #723] 2022-09-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_142@08-09-2022_10-39-28.jpg` · text transcribed
+- [msg #725] 2022-09-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_143@15-09-2022_19-11-28.jpg` · text transcribed
+- [msg #726] 2022-09-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_144@16-09-2022_20-43-53.jpg` · text transcribed
+- [msg #730] 2022-09-22 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_145@22-09-2022_08-58-00.jpg` · text transcribed
+- [msg #731] 2022-09-22 · Supporting teams through crisis · `raw-exports/ChatExport_2026-07-16/photos/photo_146@22-09-2022_17-17-43.jpg` · text transcribed
+- [msg #732] 2022-09-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_147@23-09-2022_20-01-01.jpg` · text transcribed
+- [msg #742] 2022-10-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_148@14-10-2022_09-17-50.jpg` · text transcribed
+- [msg #751] 2022-11-02 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_149@02-11-2022_06-21-19.jpg` · text transcribed
+- [msg #757] 2022-11-15 · Qualities of mindful and compassionate leaders · `raw-exports/ChatExport_2026-07-16/photos/photo_150@15-11-2022_10-08-11.jpg` · text transcribed
+- [msg #763] 2022-11-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_151@25-11-2022_14-13-48.jpg` · text transcribed
+- [msg #768] 2022-11-29 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_152@29-11-2022_06-11-24.jpg` · text transcribed
+- [msg #769] 2022-11-29 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_153@29-11-2022_06-11-24.jpg` · text transcribed
+- [msg #770] 2022-11-29 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_154@29-11-2022_06-11-24.jpg` · text transcribed
+- [msg #771] 2022-11-29 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_155@29-11-2022_06-11-24.jpg` · text transcribed
+- [msg #772] 2022-11-29 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_156@29-11-2022_06-11-24.jpg` · text transcribed
+- [msg #773] 2022-11-29 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_157@29-11-2022_06-11-25.jpg` · text transcribed
+- [msg #781] 2022-12-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_158@21-12-2022_07-31-57.jpg` · text transcribed
+- [msg #784] 2022-12-29 · Supporting teams through crisis · `raw-exports/ChatExport_2026-07-16/photos/photo_159@29-12-2022_08-56-28.jpg` · text transcribed
+- [msg #796] 2023-02-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_160@12-02-2023_05-38-27.jpg` · text transcribed
+- [msg #800] 2023-02-24 · Keeping an inner stance through war and repression · `raw-exports/ChatExport_2026-07-16/photos/photo_161@24-02-2023_14-50-18.jpg` · text transcribed
+- [msg #803] 2023-03-05 · Attention, focus and information overload · `raw-exports/ChatExport_2026-07-16/photos/photo_162@05-03-2023_13-11-53.jpg` · text transcribed
+- [msg #804] 2023-03-07 · Attention, focus and information overload · `raw-exports/ChatExport_2026-07-16/photos/photo_163@07-03-2023_10-36-57.jpg` · text transcribed
+- [msg #808] 2023-03-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_164@16-03-2023_09-22-13.jpg`
+- [msg #810] 2023-03-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_165@27-03-2023_13-33-28.jpg`
+- [msg #816] 2023-04-07 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_166@07-04-2023_05-25-45.jpg` · text transcribed
+- [msg #818] 2023-04-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_167@12-04-2023_07-29-20.jpg` · text transcribed
+- [msg #822] 2023-04-25 · Attention, focus and information overload · `raw-exports/ChatExport_2026-07-16/photos/photo_168@25-04-2023_09-43-51.jpg` · text transcribed
+- [msg #823] 2023-04-25 · Attention, focus and information overload · `raw-exports/ChatExport_2026-07-16/photos/photo_169@25-04-2023_09-43-51.jpg` · text transcribed
+- [msg #825] 2023-04-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_170@26-04-2023_13-03-56.jpg` · text transcribed
+- [msg #827] 2023-05-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_171@02-05-2023_15-06-30.jpg` · text transcribed
+- [msg #830] 2023-05-14 · Trauma and the nervous system: foundations · `raw-exports/ChatExport_2026-07-16/photos/photo_172@14-05-2023_09-44-59.jpg` · text transcribed
+- [msg #847] 2023-06-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_173@08-06-2023_09-20-43.jpg` · text transcribed
+- [msg #849] 2023-06-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_174@13-06-2023_10-54-43.jpg` · text transcribed
+- [msg #853] 2023-06-16 · Collective trauma, propaganda and society · `raw-exports/ChatExport_2026-07-16/photos/photo_175@16-06-2023_04-02-36.jpg` · text transcribed
+- [msg #861] 2023-07-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_176@02-07-2023_10-50-25.jpg` · text transcribed
+- [msg #868] 2023-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_177@26-07-2023_09-16-10.jpg` · text transcribed
+- [msg #871] 2023-08-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_178@03-08-2023_16-15-21.jpg` · text transcribed
+- [msg #872] 2023-08-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_179@07-08-2023_08-08-36.jpg`
+- [msg #875] 2023-08-11 · Self-management and new organization models · `raw-exports/ChatExport_2026-07-16/photos/photo_180@11-08-2023_16-12-25.jpg` · text transcribed
+- [msg #881] 2023-08-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_181@23-08-2023_09-40-31.jpg` · text transcribed
+- [msg #882] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_182@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #883] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_183@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #884] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_184@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #885] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_185@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #886] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_186@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #887] 2023-08-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_187@27-08-2023_06-35-06.jpg` · text transcribed
+- [msg #888] 2023-08-28 · Relationships, family systems and parenting · `raw-exports/ChatExport_2026-07-16/photos/photo_188@28-08-2023_09-07-17.jpg` · text transcribed
+- [msg #891] 2023-09-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_189@02-09-2023_13-49-47.jpg` · text transcribed
+- [msg #893] 2023-09-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_190@02-09-2023_20-32-30.jpg` · text transcribed
+- [msg #894] 2023-09-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_191@03-09-2023_16-16-51.jpg` · text transcribed
+- [msg #895] 2023-09-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_192@03-09-2023_16-16-51.jpg` · text transcribed
+- [msg #901] 2023-09-07 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_193@07-09-2023_10-46-31.jpg`
+- [msg #902] 2023-09-08 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_194@08-09-2023_10-41-22.jpg`
+- [msg #903] 2023-09-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_195@09-09-2023_07-59-42.jpg` · text transcribed
+- [msg #906] 2023-09-14 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_196@14-09-2023_10-12-42.jpg` · text transcribed
+- [msg #908] 2023-09-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_197@18-09-2023_15-25-45.jpg` · text transcribed
+- [msg #914] 2023-09-21 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_198@21-09-2023_16-35-58.jpg` · text transcribed
+- [msg #915] 2023-09-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_199@22-09-2023_11-01-49.jpg` · text transcribed
+- [msg #918] 2023-09-26 · Toxic leadership, power and workplace ethics · `raw-exports/ChatExport_2026-07-16/photos/photo_200@26-09-2023_17-44-43.jpg` · text transcribed
+- [msg #920] 2023-09-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_201@29-09-2023_13-49-01.jpg` · text transcribed
+- [msg #925] 2023-10-09 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_202@09-10-2023_15-20-48.jpg` · text transcribed
+- [msg #926] 2023-10-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_203@10-10-2023_16-11-03.jpg`
+- [msg #927] 2023-10-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_204@11-10-2023_11-15-16.jpg` · text transcribed
+- [msg #933] 2023-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_205@18-10-2023_12-14-14.jpg` · text transcribed
+- [msg #948] 2023-11-10 · Ego, narcissism and authenticity · `raw-exports/ChatExport_2026-07-16/photos/photo_206@10-11-2023_07-12-09.jpg` · text transcribed
+- [msg #950] 2023-11-15 · Supplements and recovery protocols · `raw-exports/ChatExport_2026-07-16/photos/photo_207@15-11-2023_18-04-56.jpg` · text transcribed
+- [msg #953] 2023-11-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_208@21-11-2023_14-59-26.jpg` · text transcribed
+- [msg #962] 2023-12-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_209@11-12-2023_09-55-03.jpg` · text transcribed
+- [msg #965] 2023-12-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_210@13-12-2023_14-02-52.jpg` · text transcribed
+- [msg #968] 2023-12-17 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_211@17-12-2023_06-03-11.jpg` · text transcribed
+- [msg #972] 2023-12-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_212@20-12-2023_07-29-09.jpg` · text transcribed
+- [msg #980] 2024-01-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_213@05-01-2024_10-11-51.jpg` · text transcribed
+- [msg #981] 2024-01-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_214@13-01-2024_16-21-33.jpg` · text transcribed
+- [msg #985] 2024-01-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_215@25-01-2024_07-29-46.jpg`
+- [msg #988] 2024-01-28 · Employee wellbeing and workplace mental health · `raw-exports/ChatExport_2026-07-16/photos/photo_216@28-01-2024_12-58-54.jpg` · text transcribed
+- [msg #989] 2024-01-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_217@29-01-2024_06-18-16.jpg` · text transcribed
+- [msg #994] 2024-02-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_218@03-02-2024_07-13-12.jpg` · text transcribed
+- [msg #997] 2024-02-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_219@05-02-2024_07-28-22.jpg` · text transcribed
+- [msg #999] 2024-02-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_220@07-02-2024_09-53-47.jpg` · text transcribed
+- [msg #1000] 2024-02-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_221@07-02-2024_09-53-48.jpg` · text transcribed
+- [msg #1001] 2024-02-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_222@10-02-2024_07-42-08.jpg`
+- [msg #1004] 2024-02-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_223@20-02-2024_06-46-50.jpg` · text transcribed
+- [msg #1006] 2024-02-23 · Keeping an inner stance through war and repression · `raw-exports/ChatExport_2026-07-16/photos/photo_224@23-02-2024_13-02-55.jpg`
+- [msg #1007] 2024-02-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_225@24-02-2024_16-22-21.jpg` · text transcribed
+- [msg #1009] 2024-02-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_226@29-02-2024_07-45-38.jpg` · text transcribed
+- [msg #1011] 2024-03-07 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_227@07-03-2024_06-50-39.jpg` · text transcribed
+- [msg #1014] 2024-03-14 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_228@14-03-2024_15-23-43.jpg` · text transcribed
+- [msg #1016] 2024-03-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_229@17-03-2024_08-54-02.jpg` · text transcribed
+- [msg #1022] 2024-03-26 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_230@26-03-2024_10-22-22.jpg` · text transcribed
+- [msg #1024] 2024-04-01 · Qualities of mindful and compassionate leaders · `raw-exports/ChatExport_2026-07-16/photos/photo_231@01-04-2024_12-13-40.jpg`
+- [msg #1026] 2024-04-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_232@04-04-2024_16-27-05.jpg` · text transcribed
+- [msg #1029] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_233@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1030] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_234@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1031] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_235@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1032] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_236@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1033] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_237@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1034] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_238@08-04-2024_17-28-27.jpg` · text transcribed
+- [msg #1035] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_239@08-04-2024_17-28-28.jpg` · text transcribed
+- [msg #1036] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_240@08-04-2024_17-28-28.jpg` · text transcribed
+- [msg #1037] 2024-04-08 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_241@08-04-2024_17-28-28.jpg` · text transcribed
+- [msg #1038] 2024-04-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_242@10-04-2024_14-57-44.jpg` · text transcribed
+- [msg #1045] 2024-04-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_243@22-04-2024_17-55-35.jpg` · text transcribed
+- [msg #1046] 2024-04-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_244@22-04-2024_17-55-35.jpg` · text transcribed
+- [msg #1047] 2024-04-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_245@22-04-2024_17-55-35.jpg` · text transcribed
+- [msg #1053] 2024-05-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_246@09-05-2024_11-06-47.jpg` · text transcribed
+- [msg #1055] 2024-05-11 · Toxic leadership, power and workplace ethics · `raw-exports/ChatExport_2026-07-16/photos/photo_247@11-05-2024_18-43-39.jpg` · text transcribed
+- [msg #1056] 2024-05-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_248@17-05-2024_08-45-03.jpg` · text transcribed
+- [msg #1063] 2024-05-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_249@23-05-2024_19-33-47.jpg` · text transcribed
+- [msg #1064] 2024-05-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_250@23-05-2024_19-33-47.jpg` · text transcribed
+- [msg #1065] 2024-05-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_251@23-05-2024_19-33-47.jpg` · text transcribed
+- [msg #1066] 2024-05-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_252@23-05-2024_19-33-47.jpg`
+- [msg #1067] 2024-05-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_253@23-05-2024_19-33-48.jpg` · text transcribed
+- [msg #1071] 2024-05-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_254@29-05-2024_18-47-13.jpg` · text transcribed
+- [msg #1078] 2024-06-06 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_255@06-06-2024_17-45-37.jpg` · text transcribed
+- [msg #1081] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_256@09-06-2024_18-04-08.jpg` · text transcribed
+- [msg #1082] 2024-06-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_257@11-06-2024_04-28-38.jpg`
+- [msg #1083] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_258@13-06-2024_16-01-01.jpg` · text transcribed
+- [msg #1087] 2024-06-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_259@17-06-2024_20-46-01.jpg` · text transcribed
+- [msg #1088] 2024-06-20 · Attention, focus and information overload · `raw-exports/ChatExport_2026-07-16/photos/photo_260@20-06-2024_10-57-39.jpg` · text transcribed
+- [msg #1092] 2024-06-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_261@25-06-2024_11-52-03.jpg` · text transcribed
+- [msg #1096] 2024-06-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_262@27-06-2024_19-38-42.jpg` · text transcribed
+- [msg #1104] 2024-07-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_263@09-07-2024_20-18-52.jpg` · text transcribed
+- [msg #1105] 2024-07-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_264@09-07-2024_20-18-52.jpg` · text transcribed
+- [msg #1107] 2024-07-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_265@11-07-2024_18-40-08.jpg` · text transcribed
+- [msg #1108] 2024-07-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_266@11-07-2024_18-40-08.jpg` · text transcribed
+- [msg #1110] 2024-07-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_267@15-07-2024_18-30-20.jpg` · text transcribed
+- [msg #1111] 2024-07-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_268@19-07-2024_19-36-18.jpg` · text transcribed
+- [msg #1112] 2024-07-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_269@19-07-2024_19-36-18.jpg`
+- [msg #1119] 2024-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_270@26-07-2024_18-48-22.jpg` · text transcribed
+- [msg #1124] 2024-07-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_271@31-07-2024_07-06-07.jpg` · text transcribed
+- [msg #1125] 2024-08-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_272@01-08-2024_16-05-10.jpg` · text transcribed
+- [msg #1129] 2024-08-11 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_273@11-08-2024_05-55-29.jpg` · text transcribed
+- [msg #1132] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_274@15-08-2024_04-47-32.jpg`
+- [msg #1133] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_275@15-08-2024_04-47-33.jpg`
+- [msg #1134] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_276@15-08-2024_04-47-33.jpg`
+- [msg #1135] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_277@15-08-2024_04-47-33.jpg`
+- [msg #1136] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_278@15-08-2024_04-47-33.jpg` · text transcribed
+- [msg #1137] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_279@15-08-2024_04-47-33.jpg` · text transcribed
+- [msg #1138] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_280@15-08-2024_04-47-33.jpg`
+- [msg #1139] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_281@15-08-2024_04-47-33.jpg` · text transcribed
+- [msg #1140] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_282@15-08-2024_04-47-33.jpg` · text transcribed
+- [msg #1141] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_283@15-08-2024_04-47-33.jpg`
+- [msg #1144] 2024-08-19 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_284@19-08-2024_03-57-43.jpg` · text transcribed
+- [msg #1150] 2024-09-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_285@04-09-2024_20-08-00.jpg` · text transcribed
+- [msg #1157] 2024-09-15 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_286@15-09-2024_22-02-56.jpg`
+- [msg #1161] 2024-09-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_287@18-09-2024_19-36-56.jpg` · text transcribed
+- [msg #1162] 2024-09-18 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_288@18-09-2024_19-36-57.jpg` · text transcribed
+- [msg #1163] 2024-09-18 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_289@18-09-2024_19-36-57.jpg` · text transcribed
+- [msg #1164] 2024-09-18 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_290@18-09-2024_19-36-57.jpg` · text transcribed
+- [msg #1165] 2024-09-18 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_291@18-09-2024_19-36-57.jpg` · text transcribed
+- [msg #1166] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_292@19-09-2024_23-18-52.jpg`
+- [msg #1167] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_293@19-09-2024_23-18-52.jpg`
+- [msg #1168] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_294@19-09-2024_23-18-52.jpg`
+- [msg #1170] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_295@19-09-2024_23-18-52.jpg`
+- [msg #1171] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_296@19-09-2024_23-18-52.jpg`
+- [msg #1172] 2024-09-19 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_297@19-09-2024_23-18-52.jpg`
+- [msg #1175] 2024-09-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_298@25-09-2024_11-05-15.jpg` · text transcribed
+- [msg #1176] 2024-09-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_299@25-09-2024_11-05-15.jpg` · text transcribed
+- [msg #1177] 2024-09-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_300@25-09-2024_11-05-15.jpg` · text transcribed
+- [msg #1179] 2024-09-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_301@25-09-2024_19-26-57.jpg`
+- [msg #1180] 2024-09-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_302@27-09-2024_06-04-45.jpg`
+- [msg #1181] 2024-09-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_303@27-09-2024_06-04-45.jpg`
+- [msg #1182] 2024-09-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_304@27-09-2024_06-04-46.jpg` · text transcribed
+- [msg #1183] 2024-09-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_305@27-09-2024_06-04-46.jpg`
+- [msg #1188] 2024-10-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_306@03-10-2024_19-27-12.jpg` · text transcribed
+- [msg #1194] 2024-10-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_307@10-10-2024_17-54-57.jpg` · text transcribed
+- [msg #1199] 2024-10-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_308@15-10-2024_17-53-28.jpg` · text transcribed
+- [msg #1200] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_309@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1201] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_310@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1202] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_311@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1203] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_312@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1204] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_313@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1205] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_314@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1206] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_315@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1207] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_316@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1208] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_317@16-10-2024_05-22-43.jpg` · text transcribed
+- [msg #1209] 2024-10-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_318@16-10-2024_05-22-43.jpg`
+- [msg #1215] 2024-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_319@18-10-2024_06-36-01.jpg` · text transcribed
+- [msg #1223] 2024-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_320@28-10-2024_20-27-50.jpg` · text transcribed
+- [msg #1226] 2024-10-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_321@31-10-2024_18-11-10.jpg` · text transcribed
+- [msg #1228] 2024-11-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_322@04-11-2024_17-13-29.jpg` · text transcribed
+- [msg #1229] 2024-11-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_323@04-11-2024_17-13-29.jpg`
+- [msg #1230] 2024-11-05 · Founder lessons from building a meaning-driven company · `raw-exports/ChatExport_2026-07-16/photos/photo_324@05-11-2024_18-54-24.jpg` · text transcribed
+- [msg #1231] 2024-11-06 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-07-16/photos/photo_325@06-11-2024_17-00-48.jpg` · text transcribed
+- [msg #1235] 2024-11-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_326@19-11-2024_18-18-07.jpg` · text transcribed
+- [msg #1237] 2024-11-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_327@22-11-2024_06-58-37.jpg`
+- [msg #1238] 2024-11-22 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_328@22-11-2024_06-58-37.jpg` · text transcribed
+- [msg #1242] 2024-12-01 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_329@01-12-2024_02-15-55.jpg`
+- [msg #1243] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_330@01-12-2024_02-15-56.jpg`
+- [msg #1244] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_331@01-12-2024_02-15-56.jpg`
+- [msg #1245] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_332@01-12-2024_02-15-56.jpg`
+- [msg #1246] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_333@01-12-2024_02-15-56.jpg`
+- [msg #1247] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_334@01-12-2024_02-15-56.jpg`
+- [msg #1248] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_335@01-12-2024_02-15-56.jpg`
+- [msg #1249] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_336@01-12-2024_02-15-56.jpg`
+- [msg #1250] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_337@01-12-2024_02-15-56.jpg`
+- [msg #1251] 2024-12-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_338@01-12-2024_02-15-56.jpg`
+- [msg #1256] 2024-12-09 · Sleep, sleep debt and caffeine · `raw-exports/ChatExport_2026-07-16/photos/photo_339@09-12-2024_05-57-49.jpg` · text transcribed
+- [msg #1257] 2024-12-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_340@11-12-2024_16-06-06.jpg` · text transcribed
+- [msg #1259] 2024-12-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_341@17-12-2024_04-07-40.jpg` · text transcribed
+- [msg #1262] 2024-12-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_342@18-12-2024_08-54-19.jpg` · text transcribed
+- [msg #1263] 2024-12-22 · Founder lessons from building a meaning-driven company · `raw-exports/ChatExport_2026-07-16/photos/photo_343@22-12-2024_08-03-37.jpg`
+- [msg #1264] 2024-12-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_344@24-12-2024_07-04-03.jpg` · text transcribed
+- [msg #1272] 2025-01-07 · Impermanence, suffering and meeting experience · `raw-exports/ChatExport_2026-07-16/photos/photo_345@07-01-2025_14-25-09.jpg` · text transcribed
+- [msg #1273] 2025-01-07 · Impermanence, suffering and meeting experience · `raw-exports/ChatExport_2026-07-16/photos/photo_346@07-01-2025_14-25-09.jpg` · text transcribed
+- [msg #1274] 2025-01-09 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_347@09-01-2025_10-18-37.jpg` · text transcribed
+- [msg #1276] 2025-01-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_348@17-01-2025_03-10-27.jpg`
+- [msg #1280] 2025-01-22 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_349@22-01-2025_09-27-49.jpg`
+- [msg #1283] 2025-01-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_350@31-01-2025_04-30-58.jpg` · text transcribed
+- [msg #1285] 2025-02-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_351@03-02-2025_04-45-15.jpg` · text transcribed
+- [msg #1287] 2025-02-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_352@07-02-2025_06-48-22.jpg`
+- [msg #1290] 2025-02-09 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_353@09-02-2025_06-12-01.jpg` · text transcribed
+- [msg #1293] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_354@14-02-2025_14-12-51.jpg`
+- [msg #1294] 2025-02-16 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_355@16-02-2025_07-51-11.jpg` · text transcribed
+- [msg #1295] 2025-02-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_356@17-02-2025_05-36-56.jpg`
+- [msg #1297] 2025-02-18 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_357@18-02-2025_06-58-01.jpg` · text transcribed
+- [msg #1298] 2025-02-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_358@19-02-2025_05-55-25.jpg`
+- [msg #1307] 2025-02-27 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_359@27-02-2025_06-11-51.jpg` · text transcribed
+- [msg #1308] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_360@28-02-2025_15-39-47.jpg`
+- [msg #1309] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_361@28-02-2025_15-39-47.jpg` · text transcribed
+- [msg #1310] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_362@28-02-2025_15-39-47.jpg` · text transcribed
+- [msg #1311] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_363@28-02-2025_15-39-47.jpg`
+- [msg #1312] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_364@28-02-2025_15-39-47.jpg` · text transcribed
+- [msg #1313] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_365@28-02-2025_15-39-47.jpg`
+- [msg #1314] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_366@28-02-2025_15-39-47.jpg`
+- [msg #1315] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_367@28-02-2025_15-39-47.jpg`
+- [msg #1316] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_368@28-02-2025_15-39-47.jpg`
+- [msg #1317] 2025-02-28 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_369@28-02-2025_15-39-47.jpg`
+- [msg #1318] 2025-03-01 · Conscious business and company purpose · `raw-exports/ChatExport_2026-07-16/photos/photo_370@01-03-2025_07-07-20.jpg` · text transcribed
+- [msg #1320] 2025-03-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_371@03-03-2025_09-56-00.jpg`
+- [msg #1324] 2025-03-06 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_372@06-03-2025_02-21-03.jpg` · text transcribed
+- [msg #1330] 2025-03-19 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-07-16/photos/photo_373@19-03-2025_08-22-59.jpg` · text transcribed
+- [msg #1332] 2025-03-21 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_374@21-03-2025_05-45-23.jpg` · text transcribed
+- [msg #1335] 2025-03-26 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_375@26-03-2025_07-02-39.jpg` · text transcribed
+- [msg #1337] 2025-03-29 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_376@29-03-2025_08-07-26.jpg` · text transcribed
+- [msg #1338] 2025-04-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_377@01-04-2025_07-45-57.jpg` · text transcribed
+- [msg #1340] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_378@04-04-2025_08-30-09.jpg` · text transcribed
+- [msg #1345] 2025-04-09 · Embodiment and body practices · `raw-exports/ChatExport_2026-07-16/photos/photo_379@09-04-2025_08-32-10.jpg` · text transcribed
+- [msg #1346] 2025-04-10 · Employee wellbeing and workplace mental health · `raw-exports/ChatExport_2026-07-16/photos/photo_380@10-04-2025_08-12-28.jpg` · text transcribed
+- [msg #1349] 2025-04-18 · Emigration and relocation psychology · `raw-exports/ChatExport_2026-07-16/photos/photo_381@18-04-2025_07-49-59.jpg`
+- [msg #1350] 2025-04-18 · Emigration and relocation psychology · `raw-exports/ChatExport_2026-07-16/photos/photo_382@18-04-2025_07-49-59.jpg`
+- [msg #1351] 2025-04-18 · Emigration and relocation psychology · `raw-exports/ChatExport_2026-07-16/photos/photo_383@18-04-2025_07-49-59.jpg`
+- [msg #1352] 2025-04-18 · Emigration and relocation psychology · `raw-exports/ChatExport_2026-07-16/photos/photo_384@18-04-2025_07-49-59.jpg`
+- [msg #1353] 2025-04-18 · Emigration and relocation psychology · `raw-exports/ChatExport_2026-07-16/photos/photo_385@18-04-2025_07-49-59.jpg`
+- [msg #1354] 2025-04-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_386@18-04-2025_07-50-00.jpg`
+- [msg #1355] 2025-04-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_387@18-04-2025_07-50-00.jpg`
+- [msg #1356] 2025-04-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_388@18-04-2025_07-50-00.jpg`
+- [msg #1357] 2025-04-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_389@18-04-2025_07-50-00.jpg` · text transcribed
+- [msg #1358] 2025-04-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_390@18-04-2025_07-50-00.jpg`
+- [msg #1366] 2025-04-30 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_391@30-04-2025_06-41-17.jpg` · text transcribed
+- [msg #1367] 2025-04-30 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_392@30-04-2025_06-41-17.jpg`
+- [msg #1368] 2025-04-30 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_393@30-04-2025_06-41-17.jpg`
+- [msg #1372] 2025-05-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_394@14-05-2025_09-52-50.jpg` · text transcribed
+- [msg #1373] 2025-05-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_395@15-05-2025_11-10-05.jpg` · text transcribed
+- [msg #1374] 2025-05-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_396@15-05-2025_11-10-05.jpg`
+- [msg #1375] 2025-05-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_397@15-05-2025_11-10-05.jpg`
+- [msg #1376] 2025-05-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_398@15-05-2025_11-10-06.jpg`
+- [msg #1377] 2025-05-15 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_399@15-05-2025_11-10-06.jpg` · text transcribed
+- [msg #1378] 2025-05-17 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_400@17-05-2025_12-17-27.jpg` · text transcribed
+- [msg #1383] 2025-05-24 · Measuring and managing stress load · `raw-exports/ChatExport_2026-07-16/photos/photo_401@24-05-2025_10-26-37.jpg` · text transcribed
+- [msg #1384] 2025-05-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_402@25-05-2025_16-27-45.jpg`
+- [msg #1390] 2025-06-09 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_403@09-06-2025_18-42-22.jpg`
+- [msg #1391] 2025-06-09 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_404@09-06-2025_18-42-22.jpg`
+- [msg #1392] 2025-06-09 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_405@09-06-2025_18-42-22.jpg`
+- [msg #1394] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_406@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1395] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_407@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1396] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_408@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1397] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_409@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1398] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_410@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1399] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_411@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1400] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_412@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1401] 2025-06-11 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_413@11-06-2025_08-00-00.jpg` · text transcribed
+- [msg #1405] 2025-06-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_414@17-06-2025_09-27-11.jpg` · text transcribed
+- [msg #1406] 2025-06-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_415@18-06-2025_10-52-18.jpg` · text transcribed
+- [msg #1412] 2025-06-20 · Corporate culture change · `raw-exports/ChatExport_2026-07-16/photos/photo_416@20-06-2025_09-24-42.jpg`
+- [msg #1415] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_417@26-06-2025_15-01-15.jpg` · text transcribed
+- [msg #1416] 2025-06-29 · Meditation practice: how to start and keep going · `raw-exports/ChatExport_2026-07-16/photos/photo_418@29-06-2025_12-36-20.jpg` · text transcribed
+- [msg #1418] 2025-07-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_419@02-07-2025_14-32-28.jpg` · text transcribed
+- [msg #1430] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_420@05-07-2025_09-40-13.jpg`
+- [msg #1431] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_421@05-07-2025_09-40-13.jpg` · text transcribed
+- [msg #1432] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_422@05-07-2025_09-40-13.jpg` · text transcribed
+- [msg #1433] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_423@05-07-2025_09-40-13.jpg` · text transcribed
+- [msg #1434] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_424@05-07-2025_09-40-13.jpg`
+- [msg #1435] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_425@05-07-2025_09-40-13.jpg`
+- [msg #1436] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_426@05-07-2025_09-40-13.jpg`
+- [msg #1437] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_427@05-07-2025_09-40-13.jpg`
+- [msg #1438] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_428@05-07-2025_09-40-14.jpg`
+- [msg #1439] 2025-07-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_429@05-07-2025_09-40-14.jpg`
+- [msg #1440] 2025-07-06 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_430@06-07-2025_17-22-38.jpg`
+- [msg #1441] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_431@10-07-2025_11-08-43.jpg`
+- [msg #1449] 2025-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_432@26-07-2025_17-56-26.jpg` · text transcribed
+- [msg #1450] 2025-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_433@26-07-2025_17-56-26.jpg` · text transcribed
+- [msg #1451] 2025-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_434@26-07-2025_17-56-26.jpg` · text transcribed
+- [msg #1452] 2025-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_435@26-07-2025_17-56-26.jpg` · text transcribed
+- [msg #1453] 2025-07-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_436@26-07-2025_17-56-27.jpg` · text transcribed
+- [msg #1454] 2025-07-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_437@27-07-2025_13-14-58.jpg` · text transcribed
+- [msg #1463] 2025-07-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_438@31-07-2025_07-34-47.jpg` · text transcribed
+- [msg #1468] 2025-08-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_439@05-08-2025_09-13-13.jpg` · text transcribed
+- [msg #1469] 2025-08-06 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_440@06-08-2025_07-40-51.jpg` · text transcribed
+- [msg #1471] 2025-08-08 · Masculinity, gender and leadership · `raw-exports/ChatExport_2026-07-16/photos/photo_441@08-08-2025_11-14-41.jpg`
+- [msg #1472] 2025-08-08 · Masculinity, gender and leadership · `raw-exports/ChatExport_2026-07-16/photos/photo_442@08-08-2025_11-14-41.jpg`
+- [msg #1473] 2025-08-12 · Embodiment and body practices · `raw-exports/ChatExport_2026-07-16/photos/photo_443@12-08-2025_20-19-34.jpg` · text transcribed
+- [msg #1474] 2025-08-12 · Embodiment and body practices · `raw-exports/ChatExport_2026-07-16/photos/photo_444@12-08-2025_20-19-34.jpg`
+- [msg #1475] 2025-08-12 · Embodiment and body practices · `raw-exports/ChatExport_2026-07-16/photos/photo_445@12-08-2025_20-19-34.jpg`
+- [msg #1476] 2025-08-12 · Embodiment and body practices · `raw-exports/ChatExport_2026-07-16/photos/photo_446@12-08-2025_20-19-34.jpg`
+- [msg #1477] 2025-08-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_447@12-08-2025_20-19-35.jpg`
+- [msg #1478] 2025-08-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_448@12-08-2025_20-19-35.jpg`
+- [msg #1479] 2025-08-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_449@12-08-2025_20-19-35.jpg`
+- [msg #1480] 2025-08-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_450@12-08-2025_20-19-35.jpg`
+- [msg #1485] 2025-08-21 · Psychotherapy: methods, choosing and getting results · `raw-exports/ChatExport_2026-07-16/photos/photo_451@21-08-2025_08-29-00.jpg` · text transcribed
+- [msg #1486] 2025-08-22 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_452@22-08-2025_08-30-21.jpg` · text transcribed
+- [msg #1487] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_453@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1488] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_454@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1489] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_455@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1490] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_456@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1491] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_457@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1492] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_458@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1493] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_459@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1494] 2025-08-25 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_460@25-08-2025_16-36-26.jpg` · text transcribed
+- [msg #1495] 2025-08-26 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_461@26-08-2025_11-51-02.jpg`
+- [msg #1496] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_462@29-08-2025_22-21-04.jpg`
+- [msg #1497] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_463@29-08-2025_22-21-05.jpg`
+- [msg #1498] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_464@29-08-2025_22-21-05.jpg`
+- [msg #1499] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_465@29-08-2025_22-21-05.jpg`
+- [msg #1500] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_466@29-08-2025_22-21-05.jpg`
+- [msg #1501] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_467@29-08-2025_22-21-05.jpg`
+- [msg #1502] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_468@29-08-2025_22-21-05.jpg`
+- [msg #1503] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_469@29-08-2025_22-21-05.jpg`
+- [msg #1504] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_470@29-08-2025_22-21-05.jpg` · text transcribed
+- [msg #1505] 2025-08-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_471@29-08-2025_22-21-05.jpg` · text transcribed
+- [msg #1506] 2025-09-01 · Ego, narcissism and authenticity · `raw-exports/ChatExport_2026-07-16/photos/photo_472@01-09-2025_09-26-49.jpg` · text transcribed
+- [msg #1507] 2025-09-03 · Relationships, family systems and parenting · `raw-exports/ChatExport_2026-07-16/photos/photo_473@03-09-2025_16-01-53.jpg` · text transcribed
+- [msg #1510] 2025-09-06 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_474@06-09-2025_07-03-54.jpg` · text transcribed
+- [msg #1512] 2025-09-09 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_475@09-09-2025_09-28-06.jpg` · text transcribed
+- [msg #1513] 2025-09-10 · Vertical development and the integral approach · `raw-exports/ChatExport_2026-07-16/photos/photo_476@10-09-2025_06-56-09.jpg`
+- [msg #1514] 2025-09-11 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_477@11-09-2025_08-54-01.jpg` · text transcribed
+- [msg #1519] 2025-09-14 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_478@14-09-2025_19-19-27.jpg` · text transcribed
+- [msg #1524] 2025-09-24 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_479@24-09-2025_16-15-17.jpg`
+- [msg #1525] 2025-09-24 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_480@24-09-2025_16-15-17.jpg`
+- [msg #1526] 2025-09-24 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_481@24-09-2025_16-15-17.jpg` · text transcribed
+- [msg #1527] 2025-09-24 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_482@24-09-2025_16-15-17.jpg`
+- [msg #1528] 2025-09-24 · Spiritual materialism and pitfalls on the inner path · `raw-exports/ChatExport_2026-07-16/photos/photo_483@24-09-2025_16-15-17.jpg`
+- [msg #1529] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_484@24-09-2025_16-15-18.jpg`
+- [msg #1530] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_485@24-09-2025_16-15-18.jpg`
+- [msg #1531] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_486@24-09-2025_16-15-18.jpg`
+- [msg #1532] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_487@24-09-2025_16-15-18.jpg`
+- [msg #1533] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_488@24-09-2025_16-15-18.jpg`
+- [msg #1534] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_489@29-09-2025_22-31-00.jpg`
+- [msg #1535] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_490@29-09-2025_22-31-00.jpg`
+- [msg #1536] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_491@29-09-2025_22-31-00.jpg`
+- [msg #1537] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_492@29-09-2025_22-31-00.jpg`
+- [msg #1538] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_493@29-09-2025_22-31-00.jpg`
+- [msg #1539] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_494@29-09-2025_22-31-00.jpg`
+- [msg #1540] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_495@29-09-2025_22-31-00.jpg`
+- [msg #1541] 2025-09-29 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_496@29-09-2025_22-31-00.jpg`
+- [msg #1543] 2025-10-02 · Team trust, feedback and conflict · `raw-exports/ChatExport_2026-07-16/photos/photo_497@02-10-2025_19-22-03.jpg` · text transcribed
+- [msg #1548] 2025-10-07 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_498@07-10-2025_21-12-28.jpg` · text transcribed
+- [msg #1550] 2025-10-09 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_499@09-10-2025_20-26-23.jpg` · text transcribed
+- [msg #1551] 2025-10-09 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_500@09-10-2025_20-26-23.jpg`
+- [msg #1552] 2025-10-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_501@09-10-2025_20-26-24.jpg` · text transcribed
+- [msg #1553] 2025-10-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_502@09-10-2025_20-26-24.jpg` · text transcribed
+- [msg #1555] 2025-10-13 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_503@13-10-2025_06-59-44.jpg`
+- [msg #1568] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_504@18-10-2025_05-24-47.jpg` · text transcribed
+- [msg #1569] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_505@18-10-2025_05-24-47.jpg`
+- [msg #1570] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_506@18-10-2025_05-24-47.jpg`
+- [msg #1571] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_507@18-10-2025_05-24-48.jpg`
+- [msg #1572] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_508@18-10-2025_05-24-48.jpg`
+- [msg #1573] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_509@18-10-2025_05-24-48.jpg`
+- [msg #1574] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_510@18-10-2025_05-24-48.jpg`
+- [msg #1575] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_511@18-10-2025_05-24-48.jpg`
+- [msg #1576] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_512@18-10-2025_05-24-48.jpg`
+- [msg #1577] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_513@18-10-2025_05-24-48.jpg`
+- [msg #1579] 2025-10-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_514@20-10-2025_23-58-02.jpg` · text transcribed
+- [msg #1580] 2025-10-21 · Metta, compassion and the four immeasurables · `raw-exports/ChatExport_2026-07-16/photos/photo_515@21-10-2025_18-42-14.jpg`
+- [msg #1581] 2025-10-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_516@21-10-2025_18-42-15.jpg`
+- [msg #1583] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_517@25-10-2025_18-50-35.jpg` · text transcribed
+- [msg #1584] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_518@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1585] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_519@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1586] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_520@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1587] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_521@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1588] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_522@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1589] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_523@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1590] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_524@25-10-2025_18-50-36.jpg` · text transcribed
+- [msg #1591] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_525@28-10-2025_17-12-13.jpg` · text transcribed
+- [msg #1592] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_526@28-10-2025_17-12-13.jpg`
+- [msg #1593] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_527@28-10-2025_17-12-13.jpg`
+- [msg #1594] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_528@28-10-2025_17-12-13.jpg`
+- [msg #1595] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_529@28-10-2025_17-12-13.jpg`
+- [msg #1596] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_530@28-10-2025_17-12-13.jpg`
+- [msg #1597] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_531@28-10-2025_17-12-13.jpg`
+- [msg #1598] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_532@28-10-2025_17-12-13.jpg`
+- [msg #1599] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_533@28-10-2025_17-12-13.jpg`
+- [msg #1600] 2025-10-28 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_534@28-10-2025_17-12-13.jpg`
+- [msg #1602] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_535@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1603] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_536@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1604] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_537@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1605] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_538@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1606] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_539@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1607] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_540@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1608] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_541@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1609] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_542@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1610] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_543@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1611] 2025-10-31 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_544@31-10-2025_11-22-10.jpg` · text transcribed
+- [msg #1619] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_545@12-11-2025_13-54-49.jpg` · text transcribed
+- [msg #1620] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_546@12-11-2025_13-54-49.jpg`
+- [msg #1621] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_547@12-11-2025_13-54-49.jpg`
+- [msg #1622] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_548@12-11-2025_13-54-49.jpg`
+- [msg #1623] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_549@12-11-2025_13-54-49.jpg` · text transcribed
+- [msg #1624] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_550@12-11-2025_13-54-49.jpg`
+- [msg #1625] 2025-11-12 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_551@12-11-2025_13-54-49.jpg`
+- [msg #1626] 2025-11-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_552@12-11-2025_13-54-50.jpg`
+- [msg #1627] 2025-11-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_553@12-11-2025_13-54-50.jpg`
+- [msg #1628] 2025-11-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_554@12-11-2025_13-54-50.jpg`
+- [msg #1629] 2025-11-15 · Public ethics, abuse scandals and media responsibility · `raw-exports/ChatExport_2026-07-16/photos/photo_555@15-11-2025_06-12-00.jpg`
+- [msg #1634] 2025-11-20 · Public ethics, abuse scandals and media responsibility · `raw-exports/ChatExport_2026-07-16/photos/photo_556@20-11-2025_10-19-20.jpg` · text transcribed
+- [msg #1637] 2025-11-26 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_557@26-11-2025_07-38-55.jpg` · text transcribed
+- [msg #1638] 2025-11-27 · Meetings and group facilitation · `raw-exports/ChatExport_2026-07-16/photos/photo_558@27-11-2025_12-23-17.jpg` · text transcribed
+- [msg #1640] 2025-12-02 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_559@02-12-2025_10-25-09.jpg` · text transcribed
+- [msg #1641] 2025-12-04 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_560@04-12-2025_11-34-49.jpg` · text transcribed
+- [msg #1642] 2025-12-04 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_561@04-12-2025_11-34-49.jpg` · text transcribed
+- [msg #1643] 2025-12-04 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_562@04-12-2025_11-34-49.jpg` · text transcribed
+- [msg #1644] 2025-12-04 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_563@04-12-2025_11-34-49.jpg` · text transcribed
+- [msg #1645] 2025-12-04 · Burnout: causes, warning signs and prevention · `raw-exports/ChatExport_2026-07-16/photos/photo_564@04-12-2025_11-34-49.jpg` · text transcribed
+- [msg #1648] 2025-12-11 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_565@11-12-2025_08-32-39.jpg` · text transcribed
+- [msg #1649] 2025-12-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_566@12-12-2025_08-06-41.jpg` · text transcribed
+- [msg #1650] 2025-12-17 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_567@17-12-2025_14-06-46.jpg` · text transcribed
+- [msg #1653] 2025-12-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_568@19-12-2025_08-26-27.jpg` · text transcribed
+- [msg #1654] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_569@21-12-2025_09-01-47.jpg` · text transcribed
+- [msg #1655] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_570@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1656] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_571@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1657] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_572@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1658] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_573@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1659] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_574@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1660] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_575@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1661] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_576@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1662] 2025-12-21 · Wellness industry, gadgets and trends · `raw-exports/ChatExport_2026-07-16/photos/photo_577@21-12-2025_09-01-48.jpg` · text transcribed
+- [msg #1667] 2025-12-26 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_578@26-12-2025_08-05-55.jpg` · text transcribed
+- [msg #1668] 2025-12-27 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_579@27-12-2025_09-01-02.jpg` · text transcribed
+- [msg #1671] 2025-12-30 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_580@30-12-2025_04-12-31.jpg`
+- [msg #1673] 2026-01-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_581@01-01-2026_06-40-31.jpg` · text transcribed
+- [msg #1675] 2026-01-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_582@05-01-2026_07-36-58.jpg` · text transcribed
+- [msg #1677] 2026-01-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_583@09-01-2026_05-12-48.jpg` · text transcribed
+- [msg #1680] 2026-01-12 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_584@12-01-2026_07-24-01.jpg` · text transcribed
+- [msg #1681] 2026-01-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_585@13-01-2026_14-48-56.jpg`
+- [msg #1682] 2026-01-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_586@13-01-2026_14-48-56.jpg`
+- [msg #1683] 2026-01-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_587@14-01-2026_08-49-07.jpg` · text transcribed
+- [msg #1691] 2026-01-23 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_588@23-01-2026_07-40-14.jpg` · text transcribed
+- [msg #1693] 2026-01-25 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_589@25-01-2026_06-01-03.jpg` · text transcribed
+- [msg #1694] 2026-01-26 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-07-16/photos/photo_590@26-01-2026_08-45-43.jpg` · text transcribed
+- [msg #1696] 2026-01-27 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_591@27-01-2026_09-25-53.jpg` · text transcribed
+- [msg #1698] 2026-01-29 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_592@29-01-2026_10-13-04.jpg` · text transcribed
+- [msg #1699] 2026-02-01 · Public ethics, abuse scandals and media responsibility · `raw-exports/ChatExport_2026-07-16/photos/photo_593@01-02-2026_09-10-29.jpg` · text transcribed
+- [msg #1700] 2026-02-02 · Sleep, sleep debt and caffeine · `raw-exports/ChatExport_2026-07-16/photos/photo_594@02-02-2026_02-02-31.jpg` · text transcribed
+- [msg #1702] 2026-02-04 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_595@04-02-2026_11-15-43.jpg` · text transcribed
+- [msg #1704] 2026-02-05 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_596@05-02-2026_07-13-01.jpg` · text transcribed
+- [msg #1705] 2026-02-06 · Relationships, family systems and parenting · `raw-exports/ChatExport_2026-07-16/photos/photo_597@06-02-2026_06-08-19.jpg` · text transcribed
+- [msg #1706] 2026-02-08 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_598@08-02-2026_08-10-44.jpg` · text transcribed
+- [msg #1707] 2026-02-10 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_599@10-02-2026_05-30-20.jpg` · text transcribed
+- [msg #1711] 2026-02-14 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_600@14-02-2026_06-36-25.jpg` · text transcribed
+- [msg #1712] 2026-02-15 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_601@15-02-2026_10-28-01.jpg` · text transcribed
+- [msg #1713] 2026-02-16 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_602@16-02-2026_08-22-39.jpg` · text transcribed
+- [msg #1714] 2026-02-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_603@18-02-2026_06-49-20.jpg` · text transcribed
+- [msg #1716] 2026-02-19 · Masculinity, gender and leadership · `raw-exports/ChatExport_2026-07-16/photos/photo_604@19-02-2026_07-39-19.jpg` · text transcribed
+- [msg #1718] 2026-02-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_605@20-02-2026_05-54-22.jpg` · text transcribed
+- [msg #1719] 2026-02-21 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_606@21-02-2026_05-03-03.jpg` · text transcribed
+- [msg #1722] 2026-02-24 · Keeping an inner stance through war and repression · `raw-exports/ChatExport_2026-07-16/photos/photo_607@24-02-2026_06-17-13.jpg` · text transcribed
+- [msg #1723] 2026-02-25 · Employee wellbeing and workplace mental health · `raw-exports/ChatExport_2026-07-16/photos/photo_608@25-02-2026_07-51-09.jpg` · text transcribed
+- [msg #1726] 2026-03-01 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_609@01-03-2026_08-32-14.jpg` · text transcribed
+- [msg #1727] 2026-03-02 · Public ethics, abuse scandals and media responsibility · `raw-exports/ChatExport_2026-07-16/photos/photo_610@02-03-2026_09-17-17.jpg` · text transcribed
+- [msg #1728] 2026-03-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_611@03-03-2026_07-59-05.jpg`
+- [msg #1729] 2026-03-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_612@03-03-2026_07-59-05.jpg` · text transcribed
+- [msg #1730] 2026-03-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_613@03-03-2026_07-59-05.jpg`
+- [msg #1731] 2026-03-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_614@03-03-2026_07-59-05.jpg` · text transcribed
+- [msg #1732] 2026-03-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_615@03-03-2026_07-59-05.jpg`
+- [msg #1734] 2026-03-06 · Remote, hybrid and the future of work · `raw-exports/ChatExport_2026-07-16/photos/photo_616@06-03-2026_07-27-12.jpg` · text transcribed
+- [msg #1735] 2026-03-07 · Keeping an inner stance through war and repression · `raw-exports/ChatExport_2026-07-16/photos/photo_617@07-03-2026_04-52-36.jpg` · text transcribed
+- [msg #1736] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_618@08-03-2026_05-50-23.jpg` · text transcribed
+- [msg #1740] 2026-03-15 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_619@15-03-2026_11-06-21.jpg` · text transcribed
+- [msg #1742] 2026-03-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_620@17-03-2026_05-24-23.jpg` · text transcribed
+- [msg #1743] 2026-03-18 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_621@18-03-2026_03-49-04.jpg` · text transcribed
+- [msg #1744] 2026-03-19 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_622@19-03-2026_05-10-03.jpg` · text transcribed
+- [msg #1745] 2026-03-20 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_623@20-03-2026_07-03-25.jpg` · text transcribed
+- [msg #1747] 2026-03-25 · Meaning, purpose and life direction · `raw-exports/ChatExport_2026-07-16/photos/photo_624@25-03-2026_06-37-42.jpg`
+- [msg #1749] 2026-03-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_625@27-03-2026_08-49-11.jpg` · text transcribed
+- [msg #1752] 2026-03-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_626@31-03-2026_10-59-10.jpg` · text transcribed
+- [msg #1753] 2026-04-01 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_627@01-04-2026_06-58-17.jpg` · text transcribed
+- [msg #1754] 2026-04-02 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_628@02-04-2026_09-44-56.jpg` · text transcribed
+- [msg #1755] 2026-04-05 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_629@05-04-2026_08-38-52.jpg` · text transcribed
+- [msg #1756] 2026-04-07 · Sleep, sleep debt and caffeine · `raw-exports/ChatExport_2026-07-16/photos/photo_630@07-04-2026_09-07-40.jpg` · text transcribed
+- [msg #1757] 2026-04-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_631@08-04-2026_13-03-04.jpg` · text transcribed
+- [msg #1759] 2026-04-12 · Ego, narcissism and authenticity · `raw-exports/ChatExport_2026-07-16/photos/photo_632@12-04-2026_10-32-11.jpg` · text transcribed
+- [msg #1760] 2026-04-13 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_633@13-04-2026_16-03-31.jpg` · text transcribed
+- [msg #1765] 2026-04-21 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-07-16/photos/photo_634@21-04-2026_08-57-47.jpg` · text transcribed
+- [msg #1767] 2026-04-23 · Self-regulation techniques for stress and anxiety · `raw-exports/ChatExport_2026-07-16/photos/photo_635@23-04-2026_05-46-59.jpg` · text transcribed
+- [msg #1768] 2026-04-24 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-07-16/photos/photo_636@24-04-2026_07-51-11.jpg` · text transcribed
+- [msg #1769] 2026-04-26 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_637@26-04-2026_08-35-48.jpg` · text transcribed
+- [msg #1775] 2026-04-27 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_638@27-04-2026_08-12-38.jpg` · text transcribed
+- [msg #1778] 2026-04-29 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_639@29-04-2026_05-34-06.jpg` · text transcribed
+- [msg #1779] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_640@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1780] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_641@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1781] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_642@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1782] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_643@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1783] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_644@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1784] 2026-04-29 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_645@29-04-2026_05-34-07.jpg` · text transcribed
+- [msg #1786] 2026-05-01 · Emotional skills: accepting, naming and working with emotions · `raw-exports/ChatExport_2026-07-16/photos/photo_646@01-05-2026_03-59-47.jpg` · text transcribed
+- [msg #1789] 2026-05-09 · Keeping an inner stance through war and repression · `raw-exports/ChatExport_2026-07-16/photos/photo_647@09-05-2026_07-22-52.jpg`
+- [msg #1794] 2026-05-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_648@18-05-2026_12-02-24.jpg`
+- [msg #1795] 2026-05-20 · Meditation practice: how to start and keep going · `raw-exports/ChatExport_2026-07-16/photos/photo_649@20-05-2026_10-54-54.jpg` · text transcribed
+- [msg #1796] 2026-05-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_650@21-05-2026_11-34-15.jpg` · text transcribed
+- [msg #1798] 2026-05-22 · Vertical development and the integral approach · `raw-exports/ChatExport_2026-07-16/photos/photo_651@22-05-2026_11-25-25.jpg` · text transcribed
+- [msg #1799] 2026-05-23 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-07-16/photos/photo_652@23-05-2026_10-57-03.jpg` · text transcribed
+- [msg #1800] 2026-05-24 · Mindfulness as a core meta-skill · `raw-exports/ChatExport_2026-07-16/photos/photo_653@24-05-2026_11-56-27.jpg` · text transcribed
+- [msg #1802] 2026-05-27 · AI and the human transition · `raw-exports/ChatExport_2026-07-16/photos/photo_654@27-05-2026_12-05-49.jpg` · text transcribed
+- [msg #1806] 2026-06-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_655@03-06-2026_12-33-54.jpg` · text transcribed
+- [msg #1809] 2026-06-07 · Qualities of mindful and compassionate leaders · `raw-exports/ChatExport_2026-07-16/photos/photo_656@07-06-2026_16-16-31.jpg` · text transcribed
+- [msg #1810] 2026-06-08 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_657@08-06-2026_13-48-06.jpg` · text transcribed
+- [msg #1813] 2026-06-12 · Measuring and managing stress load · `raw-exports/ChatExport_2026-07-16/photos/photo_658@12-06-2026_12-48-56.jpg` · text transcribed
+- [msg #1814] 2026-06-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_659@14-06-2026_09-47-59.jpg` · text transcribed
+- [msg #1816] 2026-06-17 · Buddhist teachers, lineages and contemplative centres · `raw-exports/ChatExport_2026-07-16/photos/photo_660@17-06-2026_09-54-31.jpg`
+- [msg #1822] 2026-06-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_661@25-06-2026_10-35-46.jpg` · text transcribed
+- [msg #1823] 2026-06-26 · Vertical development and the integral approach · `raw-exports/ChatExport_2026-07-16/photos/photo_662@26-06-2026_10-45-37.jpg` · text transcribed
+- [msg #1843] 2026-07-03 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_663@03-07-2026_16-03-58.jpg` · text transcribed
+- [msg #1844] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_664@06-07-2026_12-25-03.jpg` · text transcribed
+- [msg #1845] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_665@06-07-2026_12-25-03.jpg`
+- [msg #1846] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_666@06-07-2026_12-25-03.jpg` · text transcribed
+- [msg #1847] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_667@06-07-2026_12-25-03.jpg`
+- [msg #1848] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_668@06-07-2026_12-25-03.jpg` · text transcribed
+- [msg #1849] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_669@06-07-2026_12-25-03.jpg`
+- [msg #1850] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_670@06-07-2026_12-25-03.jpg`
+- [msg #1851] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_671@06-07-2026_12-25-03.jpg`
+- [msg #1852] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_672@06-07-2026_12-25-03.jpg` · text transcribed
+- [msg #1853] 2026-07-06 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-07-16/photos/photo_673@06-07-2026_12-25-03.jpg`
+- [msg #1854] 2026-07-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_674@07-07-2026_15-10-07.jpg` · text transcribed
+- [msg #1855] 2026-07-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_675@07-07-2026_15-10-07.jpg` · text transcribed
+- [msg #1856] 2026-07-08 · Collective trauma, propaganda and society · `raw-exports/ChatExport_2026-07-16/photos/photo_676@08-07-2026_12-49-04.jpg`
+- [msg #1857] 2026-07-08 · Collective trauma, propaganda and society · `raw-exports/ChatExport_2026-07-16/photos/photo_677@08-07-2026_12-49-04.jpg`
+- [msg #1858] 2026-07-09 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_678@09-07-2026_10-32-20.jpg` · text transcribed
+- [msg #1859] 2026-07-14 · Coping with anxiety, panic, depression and personal crisis · `raw-exports/ChatExport_2026-07-16/photos/photo_679@14-07-2026_16-45-21.jpg` · text transcribed
+- [msg #1861] 2026-07-18 · Trauma and the nervous system: foundations · `raw-exports/ChatExport_2026-11-17/photos/photo_1@18-07-2026_10-10-10.jpg` · text transcribed
+- [msg #1862] 2026-07-22 · Trauma and the nervous system: foundations · `raw-exports/ChatExport_2026-11-17/photos/photo_2@22-07-2026_10-54-42.jpg` · text transcribed
+- [msg #1863] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_3@25-07-2026_12-39-46.jpg`
+- [msg #1864] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_4@25-07-2026_12-39-46.jpg`
+- [msg #1865] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_5@25-07-2026_12-39-46.jpg`
+- [msg #1866] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_6@25-07-2026_12-39-46.jpg`
+- [msg #1867] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_7@25-07-2026_12-39-46.jpg` · text transcribed
+- [msg #1868] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_8@25-07-2026_12-39-46.jpg`
+- [msg #1869] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_9@25-07-2026_12-39-46.jpg` · text transcribed
+- [msg #1870] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_10@25-07-2026_12-39-46.jpg`
+- [msg #1871] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_11@25-07-2026_12-39-46.jpg`
+- [msg #1872] 2026-07-25 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_12@25-07-2026_12-39-46.jpg` · text transcribed
+- [msg #1874] 2026-07-31 · Neurodiversity: ADHD, autism and masking · `raw-exports/ChatExport_2026-11-17/photos/photo_13@31-07-2026_11-31-44.jpg` · text transcribed
+- [msg #1875] 2026-07-31 · Neurodiversity: ADHD, autism and masking · `raw-exports/ChatExport_2026-11-17/photos/photo_14@31-07-2026_11-31-44.jpg` · text transcribed
+- [msg #1877] 2026-08-03 · Supporting teams through crisis · `raw-exports/ChatExport_2026-11-17/photos/photo_15@03-08-2026_12-22-38.jpg` · text transcribed
+- [msg #1880] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_16@07-08-2026_11-42-39.jpg`
+- [msg #1881] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_17@07-08-2026_11-42-39.jpg`
+- [msg #1882] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_18@07-08-2026_11-42-39.jpg` · text transcribed
+- [msg #1883] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_19@07-08-2026_11-42-39.jpg`
+- [msg #1884] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_20@07-08-2026_11-42-39.jpg` · text transcribed
+- [msg #1885] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_21@07-08-2026_11-42-39.jpg`
+- [msg #1886] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_22@07-08-2026_11-42-39.jpg` · text transcribed
+- [msg #1887] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_23@07-08-2026_11-42-40.jpg`
+- [msg #1888] 2026-08-07 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_24@07-08-2026_11-42-40.jpg`
+- [msg #1889] 2026-08-08 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_25@08-08-2026_08-38-28.jpg` · text transcribed
+- [msg #1895] 2026-08-21 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-11-17/photos/photo_26@21-08-2026_08-36-41.jpg` · text transcribed
+- [msg #1896] 2026-08-23 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-11-17/photos/photo_27@23-08-2026_08-44-20.jpg`
+- [msg #1898] 2026-08-23 · Critique of achievement and productivity culture · `raw-exports/ChatExport_2026-11-17/photos/photo_28@23-08-2026_08-44-20.jpg`
+- [msg #1900] 2026-08-26 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-11-17/photos/photo_29@26-08-2026_11-02-21.jpg` · text transcribed
+- [msg #1901] 2026-08-27 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_30@27-08-2026_14-29-16.jpg`
+- [msg #1903] 2026-08-30 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_31@30-08-2026_11-17-20.jpg` · text transcribed
+- [msg #1904] 2026-08-30 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_32@30-08-2026_11-17-20.jpg` · text transcribed
+- [msg #1905] 2026-09-01 · Relating to the future: images of the future, future self and mature progress · `raw-exports/ChatExport_2026-11-17/photos/photo_33@01-09-2026_10-48-57.jpg` · text transcribed
+- [msg #1911] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_34@14-09-2026_16-31-20.jpg`
+- [msg #1912] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_35@14-09-2026_16-31-20.jpg`
+- [msg #1913] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_36@14-09-2026_16-31-20.jpg` · text transcribed
+- [msg #1914] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_37@14-09-2026_16-31-20.jpg`
+- [msg #1915] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_38@14-09-2026_16-31-21.jpg`
+- [msg #1916] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_39@14-09-2026_16-31-21.jpg`
+- [msg #1917] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_40@14-09-2026_16-31-21.jpg`
+- [msg #1918] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_41@14-09-2026_16-31-21.jpg`
+- [msg #1919] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_42@14-09-2026_16-31-21.jpg`
+- [msg #1920] 2026-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_43@14-09-2026_16-31-21.jpg`
+- [msg #1923] 2026-09-19 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_44@19-09-2026_09-30-50.jpg` · text transcribed
+- [msg #1924] 2026-09-19 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_45@19-09-2026_09-30-50.jpg` · text transcribed
+- [msg #1925] 2026-09-19 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_46@19-09-2026_09-30-50.jpg` · text transcribed
+- [msg #1926] 2026-09-19 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_47@19-09-2026_09-30-50.jpg` · text transcribed
+- [msg #1927] 2026-09-19 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_48@19-09-2026_09-30-50.jpg` · text transcribed
+- [msg #1928] 2026-09-21 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-11-17/photos/photo_49@21-09-2026_12-12-32.jpg` · text transcribed
+- [msg #1930] 2026-09-27 · Ethics and safety in inner work: choosing teachers and practitioners · `raw-exports/ChatExport_2026-11-17/photos/photo_50@27-09-2026_09-00-18.jpg` · text transcribed
+- [msg #1944] 2026-10-02 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_51@02-10-2026_05-06-12.jpg` · text transcribed
+- [msg #1946] 2026-10-05 · Theory U, presencing and co-sensing · `raw-exports/ChatExport_2026-11-17/photos/photo_52@05-10-2026_04-56-20.jpg` · text transcribed
+- [msg #1956] 2026-10-22 · Employee wellbeing and workplace mental health · `raw-exports/ChatExport_2026-11-17/photos/photo_53@22-10-2026_10-16-25.jpg` · text transcribed
+- [msg #1960] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_54@29-10-2026_04-57-54.jpg`
+- [msg #1961] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_55@29-10-2026_04-57-54.jpg`
+- [msg #1962] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_56@29-10-2026_04-57-54.jpg` · text transcribed
+- [msg #1963] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_57@29-10-2026_04-57-54.jpg`
+- [msg #1964] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_58@29-10-2026_04-57-54.jpg`
+- [msg #1965] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_59@29-10-2026_04-57-54.jpg`
+- [msg #1966] 2026-10-29 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_60@29-10-2026_04-57-54.jpg`
+- [msg #1968] 2026-10-31 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_61@31-10-2026_04-04-37.jpg` · text transcribed
+- [msg #1970] 2026-11-01 · Toxic leadership, power and workplace ethics · `raw-exports/ChatExport_2026-11-17/photos/photo_62@01-11-2026_09-40-52.jpg` · text transcribed
+- [msg #1971] 2026-11-04 · Politics, power and authoritarianism · `raw-exports/ChatExport_2026-11-17/photos/photo_63@04-11-2026_06-06-10.jpg` · text transcribed
+- [msg #1973] 2026-11-06 · Relating to the future: images of the future, future self and mature progress · `raw-exports/ChatExport_2026-11-17/photos/photo_64@06-11-2026_09-45-37.jpg` · text transcribed
+- [msg #1975] 2026-11-08 · Relating to the future: images of the future, future self and mature progress · `raw-exports/ChatExport_2026-11-17/photos/photo_65@08-11-2026_10-05-09.jpg` · text transcribed
+- [msg #1977] 2026-11-10 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_66@10-11-2026_05-01-09.jpg`
+- [msg #1978] 2026-11-11 · Metta, compassion and the four immeasurables · `raw-exports/ChatExport_2026-11-17/photos/photo_67@11-11-2026_15-53-09.jpg` · text transcribed
+- [msg #1982] 2026-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-17/photos/photo_68@17-11-2026_06-15-04.jpg` · text transcribed
+
+## video  (56)
+- [msg #16] 2019-11-17 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #61] 2019-12-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #234] 2020-07-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #248] 2020-07-30 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #249] 2020-07-30 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #265] 2020-08-10 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #460] 2021-08-11 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #463] 2021-08-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #570] 2022-02-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #580] 2022-02-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #588] 2022-02-25 · Self-regulation techniques for stress and anxiety · `(not exported)` · *(not included in export)*
+- [msg #604] 2022-03-08 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #646] 2022-04-30 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #702] 2022-07-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #739] 2022-10-07 · Impermanence, suffering and meeting experience · `(not exported)` · *(not included in export)*
+- [msg #756] 2022-11-10 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #765] 2022-11-26 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #789] 2023-01-10 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #793] 2023-02-05 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #807] 2023-03-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #831] 2023-05-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #832] 2023-05-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #856] 2023-06-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #863] 2023-07-05 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #864] 2023-07-12 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #940] 2023-10-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #943] 2023-10-31 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #946] 2023-11-04 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1050] 2024-05-01 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1060] 2024-05-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1073] 2024-05-31 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1085] 2024-06-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1089] 2024-06-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1146] 2024-08-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1149] 2024-09-02 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1153] 2024-09-07 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1169] 2024-09-19 · Retreats and the deeper contemplative path · `(not exported)` · *(not included in export)*
+- [msg #1212] 2024-10-17 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1220] 2024-10-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1302] 2025-02-22 · Wellness industry, gadgets and trends · `(not exported)` · *(not included in export)*
+- [msg #1522] 2025-09-23 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1546] 2025-10-05 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1549] 2025-10-08 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1613] 2025-11-01 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1646] 2025-12-04 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1670] 2025-12-29 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1672] 2025-12-30 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1686] 2026-01-19 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1720] 2026-02-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1758] 2026-04-09 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1812] 2026-06-10 · Theory U, presencing and co-sensing · `(not exported)` · *(not included in export)*
+- [msg #1834] 2026-06-28 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1890] 2026-08-09 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #1897] 2026-08-23 · Critique of achievement and productivity culture · `(not exported)` · *(not included in export)*
+- [msg #1929] 2026-09-26 · Freedom, capitalism and contemporary culture · `(not exported)` · *(not included in export)*
+- [msg #1972] 2026-11-05 · (unassigned) · `(not exported)` · *(not included in export)*
+

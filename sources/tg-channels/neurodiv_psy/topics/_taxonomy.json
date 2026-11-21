@@ -1,0 +1,1110 @@
+{
+ "domains": [
+  {
+   "domain": "Understanding neurodivergence",
+   "slug": "understanding-neurodivergence",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "The neurodiversity paradigm, terminology and myths about autism",
+     "slug": "neurodiversity-paradigm-terminology",
+     "scope": "What neurodiversity, neurodivergent and neurotypical mean, the paradigm and its critics, awareness vs acceptance, and myths and functioning-level comparisons that invalidate autistic and ADHD people.",
+     "themes": [
+      "neurodiversity",
+      "terminology",
+      "stigma",
+      "acceptance"
+     ],
+     "also_areas": [
+      "Society & Politics"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "stigma-and-acceptance",
+      "ableism"
+     ],
+     "ids": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      38,
+      195,
+      304
+     ],
+     "count": 11
+    },
+    {
+     "title": "AuDHD: how ADHD and autism overlap and conflict",
+     "slug": "audhd-adhd-autism-overlap",
+     "scope": "Comorbidity statistics and shared traits of ADHD and autism, contradictory needs (routine vs novelty), special interests vs hyperfixation vs hyperfocus, and why rest is hard with AuDHD.",
+     "themes": [
+      "audhd",
+      "comorbidity",
+      "special interests",
+      "hyperfocus"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "neurodiversity",
+      "special-interests-hyperfocus",
+      "psychiatric-diagnosis",
+      "executive-function",
+      "sensory-processing",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      25,
+      26,
+      33,
+      34,
+      35,
+      36,
+      37,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      361
+     ],
+     "count": 14
+    },
+    {
+     "title": "Lesser-known autistic traits and co-occurring conditions",
+     "slug": "autistic-traits-co-occurring-conditions",
+     "scope": "Autism heterogeneity and coexisting opposites, PDA (demand avoidance), 'injustice sensitivity' as cognitive inflexibility, asexuality, dyspraxia and motor difficulties, PMDD prevalence, and growing up autistic.",
+     "themes": [
+      "autism traits",
+      "pda",
+      "dyspraxia",
+      "asexuality",
+      "pmdd"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "neurodiversity",
+      "demand-avoidance-pda",
+      "dyspraxia",
+      "psychiatric-diagnosis",
+      "womens-health"
+     ],
+     "ids": [
+      63,
+      64,
+      196,
+      228,
+      264,
+      299,
+      311,
+      312,
+      313,
+      314,
+      315,
+      318,
+      319,
+      386,
+      387
+     ],
+     "count": 15
+    }
+   ]
+  },
+  {
+   "domain": "Diagnosis and neurodivergent identity",
+   "slug": "diagnosis-and-identity",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Screening and diagnosis of adult ADHD and autism",
+     "slug": "screening-diagnosis-adhd-autism",
+     "scope": "Self-screening tools (ASRS, RAADS-R, Craft's female autism checklist) and where to find informed specialists, the UK ADHD Foundation adult ADHD guide (diagnosis route, DSM-5 criteria, executive functions, lifestyle), late and missed diagnosis in women, and research on why diagnosis rates rise.",
+     "themes": [
+      "screening",
+      "diagnosis",
+      "women",
+      "prevalence"
+     ],
+     "also_areas": [
+      "Science & Research"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "neurodiversity",
+      "executive-function",
+      "masking-camouflaging",
+      "gender-expectations"
+     ],
+     "ids": [
+      10,
+      73,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      209,
+      233,
+      255,
+      337
+     ],
+     "count": 18
+    },
+    {
+     "title": "Self-diagnosis, impostor syndrome and accepting a neurodivergent identity",
+     "slug": "self-diagnosis-identity-acceptance",
+     "scope": "Why people self-diagnose, fears of following a trend and 'fashionable diagnoses', impostor syndrome and internalized ableism, finding community after discovery, and what changes after a diagnosis.",
+     "themes": [
+      "self-diagnosis",
+      "impostor syndrome",
+      "internalized ableism",
+      "acceptance"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "impostor-syndrome",
+      "ableism",
+      "stigma-and-acceptance",
+      "community-belonging"
+     ],
+     "ids": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      224,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      299,
+      327,
+      328,
+      336,
+      365,
+      366
+     ],
+     "count": 22
+    }
+   ]
+  },
+  {
+   "domain": "Masking, overload and burnout",
+   "slug": "masking-overload-burnout",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Masking, the CAT-Q questionnaire and unmasking",
+     "slug": "masking-cat-q-unmasking",
+     "scope": "What autistic masking/camouflaging costs, the Russian CAT-Q questionnaire with scoring and factors, and practical unmasking including letting go of being liked.",
+     "themes": [
+      "masking",
+      "camouflaging",
+      "unmasking"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "masking-camouflaging",
+      "rejection-sensitivity",
+      "psychiatric-diagnosis",
+      "sensory-processing"
+     ],
+     "ids": [
+      52,
+      189,
+      191,
+      192,
+      257,
+      258,
+      259,
+      260,
+      261
+     ],
+     "count": 9
+    },
+    {
+     "title": "Meltdowns, shutdowns and autistic social hangover",
+     "slug": "meltdowns-shutdowns-social-hangover",
+     "scope": "Meltdowns vs shutdowns and their early warning signs, and social hangover after group interaction: causes (sensory load, masking) and tips for preparing and recovering.",
+     "themes": [
+      "meltdown",
+      "shutdown",
+      "social hangover",
+      "overload"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "meltdowns-shutdowns",
+      "sensory-processing",
+      "masking-camouflaging",
+      "rest-and-recovery",
+      "boundaries"
+     ],
+     "ids": [
+      128,
+      129,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167
+     ],
+     "count": 8
+    },
+    {
+     "title": "Neurodivergent burnout and chronic fatigue",
+     "slug": "neurodivergent-burnout-fatigue",
+     "scope": "Causes, signs and remedies of neurodivergent burnout, why autistic people are often tired (chronic illness, sensory load, less REM sleep, masking), and what helps with energy management.",
+     "themes": [
+      "burnout",
+      "fatigue",
+      "energy"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Energy & Resource",
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "fatigue",
+      "energy-management",
+      "masking-camouflaging",
+      "sensory-processing",
+      "chronic-illness"
+     ],
+     "ids": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      234,
+      235,
+      236,
+      237,
+      238,
+      293,
+      294,
+      295,
+      296,
+      297
+     ],
+     "count": 16
+    }
+   ]
+  },
+  {
+   "domain": "Communication and social life",
+   "slug": "communication-social-life",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Autistic and ADHD communication styles, AAC and helper tools",
+     "slug": "neurodivergent-communication-aac",
+     "scope": "Autistic communication preferences (directness, small talk, asynchrony, echolalia, infodumping), ADHD speech traits and relationship strain, AAC types, and tools for idioms and toxic messages.",
+     "themes": [
+      "communication",
+      "aac",
+      "infodumping",
+      "relationships"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "neurodivergent-communication",
+      "relationships-family",
+      "self-advocacy-accommodations",
+      "special-interests-hyperfocus"
+     ],
+     "ids": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      74,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      199,
+      249
+     ],
+     "count": 23
+    }
+   ]
+  },
+  {
+   "domain": "Executive function and daily life",
+   "slug": "executive-function-daily-life",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Executive dysfunction, ADHD skills training and daily-life strategies",
+     "slug": "executive-function-adhd-strategies",
+     "scope": "CBT skills training for adult ADHD (Safren protocol), the UK ADHD Foundation adult ADHD guide's executive-function strategies, task initiation and motivation, time blindness aids, ADHD money management and impulsive spending, and cleaning hacks like body doubling.",
+     "themes": [
+      "executive function",
+      "skills training",
+      "time blindness",
+      "money",
+      "chores"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "executive-function",
+      "cognitive-behavioral-therapy",
+      "money-management",
+      "motivation",
+      "calendar-planning"
+     ],
+     "ids": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      209,
+      302,
+      323,
+      324,
+      340,
+      341
+     ],
+     "count": 18
+    }
+   ]
+  },
+  {
+   "domain": "Work, study and relocation",
+   "slug": "work-study-relocation",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Neurodivergent people at work and university: job fit and accommodations",
+     "slug": "work-study-accommodations",
+     "scope": "Employment research, jobs that suit ADHD/autistic people, autistic women's workplace needs pyramid, values as motivation, accommodations without disclosure, and university adaptations.",
+     "themes": [
+      "employment",
+      "accommodations",
+      "university",
+      "job fit"
+     ],
+     "also_areas": [
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "workplace-inclusion",
+      "self-advocacy-accommodations",
+      "special-interests-hyperfocus",
+      "sensory-processing",
+      "autistic-burnout",
+      "meaning-purpose"
+     ],
+     "ids": [
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      306,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      406,
+      413
+     ],
+     "count": 18
+    },
+    {
+     "title": "Autism and emigration",
+     "slug": "autism-emigration",
+     "scope": "Why moving countries is hard for autistic people (sensory, routines, bureaucracy, discriminatory laws), what autistic immigrants recommend, and choosing a place by one's own needs.",
+     "themes": [
+      "emigration",
+      "relocation",
+      "needs"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "relocation",
+      "sensory-processing",
+      "self-advocacy-accommodations",
+      "community-belonging",
+      "ableism"
+     ],
+     "ids": [
+      390,
+      391,
+      392,
+      399,
+      400
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Emotional self-support",
+   "slug": "emotional-self-support",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Self-compassion, comparison, shame and emotional literacy",
+     "slug": "self-compassion-shame-emotions",
+     "scope": "Coping with comparing yourself to others, things not to be ashamed of, a self-compassion technique for holiday blues, and Brene Brown's emotion wheel for naming feelings.",
+     "themes": [
+      "self-compassion",
+      "comparison",
+      "shame",
+      "emotions"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "self-compassion",
+      "shame",
+      "emotional-intelligence",
+      "alexithymia",
+      "boundaries"
+     ],
+     "ids": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      61,
+      253,
+      356,
+      357,
+      358
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Getting good therapy",
+   "slug": "getting-good-therapy",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "Making therapy work and spotting therapist red flags",
+     "slug": "therapy-tips-red-flags",
+     "scope": "How clients can help therapy work (goals, openness, discussing setbacks) and red flags that a therapist is not a fit, including judging diagnoses or identity.",
+     "themes": [
+      "therapy",
+      "therapeutic relationship",
+      "red flags"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "psychotherapy",
+      "ethics-in-inner-work"
+     ],
+     "ids": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      161
+     ],
+     "count": 10
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 7,
+   "kind": "personal-update",
+   "gist": "Author intro part 1: path from school interest in psychology to cognitive-neuroscience research (EEG, attention, memory, language)"
+  },
+  {
+   "id": 8,
+   "kind": "personal-update",
+   "gist": "Author intro part 2: left research master's after depression, was diagnosed with ADHD and autism, became CBT/ACT-oriented counselor working on identity and relationships"
+  },
+  {
+   "id": 9,
+   "kind": "personal-update",
+   "gist": "Image card with informal facts about the author (neurodivergent: autism + ADHD, likes travel, cartoons, games, drawing)"
+  },
+  {
+   "id": 20,
+   "kind": "announcement",
+   "gist": "Pinned channel intro: who the author is, what the channel posts, counseling approaches (CBT, ACT), topics, links to key posts and ADHD skills training"
+  },
+  {
+   "id": 22,
+   "kind": "other",
+   "gist": "ADHD meme (#сдвгмемы): parents, teachers and doctors treat boys, girls and adults with ADHD differently"
+  },
+  {
+   "id": 27,
+   "kind": "other",
+   "gist": "ADHD meme: random idea that must be googled right now while just trying to get things done"
+  },
+  {
+   "id": 28,
+   "kind": "other",
+   "gist": "Meme answering 'autism and ADHD didn't exist before': people just couldn't get diagnosed or helped"
+  },
+  {
+   "id": 45,
+   "kind": "other",
+   "gist": "Autism meme about dismissive comments ('you don't look autistic', 'but you have friends')"
+  },
+  {
+   "id": 59,
+   "kind": "other",
+   "gist": "Autism meme: so focused on how many seconds of eye contact to hold that you miss what was said"
+  },
+  {
+   "id": 60,
+   "kind": "promo",
+   "gist": "Forward from Нейросеть: link to a telegra.ph article on stimming, its types and functions (credits only)"
+  },
+  {
+   "id": 62,
+   "kind": "other",
+   "gist": "Meme (No BS Therapist): endless self-improvement tasks list that becomes work itself"
+  },
+  {
+   "id": 71,
+   "kind": "other",
+   "gist": "AuDHD meme: need for external control and clear instructions vs hatred of meaningless demands and rules"
+  },
+  {
+   "id": 72,
+   "kind": "other",
+   "gist": "AuDHD 'two wolves' meme: autism cries if anything changes, ADHD cries unless furniture is rearranged right now"
+  },
+  {
+   "id": 75,
+   "kind": "other",
+   "gist": "Autism meme: neurotypicals call you weird, then say you are too normal when you say you are autistic"
+  },
+  {
+   "id": 88,
+   "kind": "other",
+   "gist": "Meme: for neurodivergent people 'I forgot' is true, the brain blocked it while they kept thinking about the task"
+  },
+  {
+   "id": 105,
+   "kind": "other",
+   "gist": "Meme: autistic adults searching for autism info find mostly results for parents of autistic kids"
+  },
+  {
+   "id": 106,
+   "kind": "other",
+   "gist": "Autism meme: sorting M&M's by colour into gradients as real fun"
+  },
+  {
+   "id": 113,
+   "kind": "other",
+   "gist": "ADHD meme: researching submarine design instead of working after resolving to fight ADHD (Titan sub news)"
+  },
+  {
+   "id": 130,
+   "kind": "other",
+   "gist": "Forward from AutSight: meme about compromise between work and rest that results in neither working nor resting"
+  },
+  {
+   "id": 131,
+   "kind": "other",
+   "gist": "ADHD meme: parents dismiss ADHD as normal even when children explain impact, while heritability is news to them"
+  },
+  {
+   "id": 138,
+   "kind": "other",
+   "gist": "Translated tweet-meme: healthy eating and exercise helping mental health is annoying; walks and sleep work"
+  },
+  {
+   "id": 148,
+   "kind": "promo",
+   "gist": "Brief recommendation of a translated autistic-traits checklist for AFAB people (points to the next forward)"
+  },
+  {
+   "id": 168,
+   "kind": "other",
+   "gist": "Autism meme (#аутичныемемы) with an acronym joke, little readable text"
+  },
+  {
+   "id": 170,
+   "kind": "other",
+   "gist": "ADHD meme (translated from Caroline Kee / BuzzFeed): how people imagine ADHD versus the dopamine-needed procrastination and anxiety loop it really is"
+  },
+  {
+   "id": 171,
+   "kind": "other",
+   "gist": "Forwarded from AutSight: meme about forgetting something, building a system to remember, then forgetting to use the system"
+  },
+  {
+   "id": 179,
+   "kind": "promo",
+   "gist": "Forwarded from Nerdivergent: reminder of their website listing neurodivergent professionals, with a form to get listed"
+  },
+  {
+   "id": 181,
+   "kind": "other",
+   "gist": "Autism meme (Haley Moss): autism in media as a supercomputer versus real life of rehearsing a support phone call and then needing silence"
+  },
+  {
+   "id": 185,
+   "kind": "other",
+   "gist": "ADHD meme (@adhd_memetherapy): hyperfixation ending mid-project when dopamine runs out"
+  },
+  {
+   "id": 188,
+   "kind": "other",
+   "gist": "Support quote image: 'I'm not strong, I'm just surviving a situation I didn't choose' versus 'you are so strong'"
+  },
+  {
+   "id": 193,
+   "kind": "promo",
+   "gist": "Forwarded from Нейросеть: link to Lisa Nosova's illustrated article on employment of autistic people (difficulties and improvements), no content in the post itself"
+  },
+  {
+   "id": 194,
+   "kind": "other",
+   "gist": "Autism meme (@lifeinanautismworld): eating the same food the 999th time"
+  },
+  {
+   "id": 197,
+   "kind": "other",
+   "gist": "Joke meme 'how to help neurotypicals' (gluten, deep dives, eye contact is rude), satire of how neurodivergent people get advised"
+  },
+  {
+   "id": 211,
+   "kind": "personal-update",
+   "gist": "New Year greeting with a joke about overeating and fireworks"
+  },
+  {
+   "id": 221,
+   "kind": "other",
+   "gist": "Meme post (autism/ADHD memes): disclosing being autistic or not disclosing are both judged, so there is no free choice"
+  },
+  {
+   "id": 227,
+   "kind": "announcement",
+   "gist": "Forwarded from Nerdivergent: announcement of a Telegram live stream on neurodivergent counselling with two neurodivergent psychologists, Tue 20 Feb 17:00-19:00 Moscow time"
+  },
+  {
+   "id": 229,
+   "kind": "logistics",
+   "gist": "Russian CAT-Q autism camouflaging questionnaire (translated with colleagues) can now be taken in the Autentik Telegram bot without leaving an e-mail; asks for feedback on the format"
+  },
+  {
+   "id": 240,
+   "kind": "personal-update",
+   "gist": "Forwarded from Nerdivergent: greeting for Autism Awareness Day, saying autistic subscribers' difficulties are valid"
+  },
+  {
+   "id": 244,
+   "kind": "promo",
+   "gist": "Screenshot album demoing Autentik's toximeter bot, which flags a manipulative message about weight as an insulting nickname, pressure and comparison with others"
+  },
+  {
+   "id": 254,
+   "kind": "announcement",
+   "gist": "Audience question asking about job experiences and which work suits autistic, ADHD and AuDHD people"
+  },
+  {
+   "id": 262,
+   "kind": "promo",
+   "gist": "Promo for Autentik's personalized unmasking guide based on sensory profile (by Yuliana Yakubbo and Fiu-fiu), plus a masking-level test and bot"
+  },
+  {
+   "id": 265,
+   "kind": "other",
+   "gist": "Author's comic about an ADHD dog and an autistic cat (planning paella at the supermarket vs. buying chips)"
+  },
+  {
+   "id": 266,
+   "kind": "announcement",
+   "gist": "Channel navigation post: author's intro as CBT/ACT psychologist for neurodivergent adults, skills training for adult ADHD, tags, and a categorized index of key posts"
+  },
+  {
+   "id": 268,
+   "kind": "other",
+   "gist": "Translated autistic meme about wanting a medieval court advisor to whisper how to react in social situations"
+  },
+  {
+   "id": 269,
+   "kind": "announcement",
+   "gist": "Short note pointing St. Petersburg readers to an in-person support group"
+  },
+  {
+   "id": 270,
+   "kind": "logistics",
+   "gist": "Forward: free in-person support group for autistic adults without intellectual disability in St. Petersburg (Chesme Palace, Thursdays 19:00, registration via channel, led by an autistic psychologist)"
+  },
+  {
+   "id": 274,
+   "kind": "announcement",
+   "gist": "Short invitation to fill in a survey for research run with Nerdivergent"
+  },
+  {
+   "id": 275,
+   "kind": "announcement",
+   "gist": "Forward from Nerdivergent: survey on perception of ABA therapy in the Russian-speaking space, with a form link and optional interview sign-up"
+  },
+  {
+   "id": 277,
+   "kind": "other",
+   "gist": "Second comic about the ADHD dog and autistic cat, on daily schedules"
+  },
+  {
+   "id": 278,
+   "kind": "logistics",
+   "gist": "Enrollment for the 7th ADHD skills training for adults (8 Thursday sessions from Oct 31, 19:00 MSK, price and payment schedule, topics list)"
+  },
+  {
+   "id": 289,
+   "kind": "other",
+   "gist": "Translated meme: bingo of dismissive neurotypical phrases ('everyone is a bit autistic', 'stop being lazy', 'it's all in your head')"
+  },
+  {
+   "id": 290,
+   "kind": "announcement",
+   "gist": "Author mentions she is speaking at a neurodivergence conference in an hour"
+  },
+  {
+   "id": 291,
+   "kind": "announcement",
+   "gist": "Forward: invitation to the second free Lived Experience conference 'Нейроотличники' on Dec 6 at 12:00 MSK, held as a Telegram live stream"
+  },
+  {
+   "id": 298,
+   "kind": "other",
+   "gist": "Title image for the post 'Autistic traits I do not have'"
+  },
+  {
+   "id": 300,
+   "kind": "other",
+   "gist": "Autistic meme ('nobody will ever guess I'm autistic') as a video that is not available in the export"
+  },
+  {
+   "id": 301,
+   "kind": "other",
+   "gist": "Title image for the cleaning tips post for ADHD and autism (translated from cindyrobinsonllc)"
+  },
+  {
+   "id": 303,
+   "kind": "announcement",
+   "gist": "Reminder to fill in the Nerdivergent survey on ABA therapy perception among neurodivergent people, parents and specialists; researchers are unaffiliated with ABA"
+  },
+  {
+   "id": 305,
+   "kind": "other",
+   "gist": "Translated meme about autism acceptance month threatening those who fail to accept autistic people"
+  },
+  {
+   "id": 307,
+   "kind": "promo",
+   "gist": "Promo for Synergizer, a free app combining body doubling and pomodoro in online rooms for people with ADHD, with community links"
+  },
+  {
+   "id": 308,
+   "kind": "promo",
+   "gist": "Screenshots of Synergizer app: online coworking rooms with synchronized work/rest timers, no mics during work"
+  },
+  {
+   "id": 316,
+   "kind": "other",
+   "gist": "Translated autistic meme about autism in me recognizing autism in you, with awkward kittens"
+  },
+  {
+   "id": 317,
+   "kind": "announcement",
+   "gist": "Forward: program of the 5th 'Доку-mental' mental health film biennale (June 17-22, Moscow and St. Petersburg) with neurodivergent-themed films and ticket link"
+  },
+  {
+   "id": 320,
+   "kind": "promo",
+   "gist": "Author shares a DOXA YouTube video about autism featuring her, with a note about DOXA's undesirable-organization status in Russia"
+  },
+  {
+   "id": 321,
+   "kind": "logistics",
+   "gist": "Offer of online therapy slots for adults (CBT/ACT, neurodivergence, queer clients), with schedule, 4500 RUB price and a reminder that therapy is one support among many"
+  },
+  {
+   "id": 329,
+   "kind": "personal-update",
+   "gist": "Author notes she has some problem with the channel comments"
+  },
+  {
+   "id": 330,
+   "kind": "promo",
+   "gist": "Note that neurodivergent people are more exposed to trauma (bullying, isolation, sensory overload) so cPTSD often accompanies autism, plus an invitation to a trauma training by two named colleagues"
+  },
+  {
+   "id": 332,
+   "kind": "personal-update",
+   "gist": "Sleepy seal artwork by akashiarai as post illustration, author mentions her seal fixation"
+  },
+  {
+   "id": 335,
+   "kind": "promo",
+   "gist": "Promo of a Telegram folder of channels about autism and ADHD by neurodivergent authors"
+  },
+  {
+   "id": 339,
+   "kind": "announcement",
+   "gist": "Invitation to the author's 8th skills training group for adults with ADHD, AuADHD or ADHD symptoms without diagnosis"
+  },
+  {
+   "id": 342,
+   "kind": "announcement",
+   "gist": "Forwarded from Радость неизбежна: author Marina Zvyagina announces her book 'Аутизм: взгляд изнутри' (Весь) based on interviews with autistic people, with chapter overview and purchase options"
+  },
+  {
+   "id": 347,
+   "kind": "personal-update",
+   "gist": "Author asks who the neurodivergent readers are, with a meme image (newcomer vs already a Smeshariki)"
+  },
+  {
+   "id": 348,
+   "kind": "announcement",
+   "gist": "Audience poll on which diagnosis readers have: ADHD, autism, AuADHD, other, none"
+  },
+  {
+   "id": 349,
+   "kind": "personal-update",
+   "gist": "Author jokes that she accidentally put the AuADHD marker on the poll"
+  },
+  {
+   "id": 350,
+   "kind": "promo",
+   "gist": "Forwarded from Лена Мовшина: workbook '2025 -> 2026: soft transition' for gentle year reflection for neurodivergent/burnt-out people, with body-doubling sessions and prices"
+  },
+  {
+   "id": 359,
+   "kind": "announcement",
+   "gist": "New Year roundup of guides, checklists and recipes by neurodivergent bloggers (mental overload wheel, sensory overload guide, holiday joy questions, easy menu, self-compassion questions)"
+  },
+  {
+   "id": 362,
+   "kind": "announcement",
+   "gist": "Poll asking which topic the next post should cover (autism and migration, fashionable diagnoses, unmasking, work accommodations, small talk, HSP)"
+  },
+  {
+   "id": 363,
+   "kind": "announcement",
+   "gist": "Author asks readers to pick which post idea to cover first"
+  },
+  {
+   "id": 364,
+   "kind": "announcement",
+   "gist": "Announces a series on fashionable diagnoses, impostor syndrome and doubts about one's diagnosis, starting with trendy diagnoses"
+  },
+  {
+   "id": 367,
+   "kind": "announcement",
+   "gist": "Poll on how readers would prefer to read the channel given talk of Telegram blocking (Telegram only, Instagram, e-mail newsletter)"
+  },
+  {
+   "id": 368,
+   "kind": "announcement",
+   "gist": "Poll on readers' employment status split by ADHD and autism"
+  },
+  {
+   "id": 369,
+   "kind": "announcement",
+   "gist": "Author says the new survey is for planning posts about work"
+  },
+  {
+   "id": 370,
+   "kind": "logistics",
+   "gist": "Instagram account and e-mail contact for consultations in case of Telegram blocking"
+  },
+  {
+   "id": 388,
+   "kind": "other",
+   "gist": "Translated meme: I love routine until overloaded, then I love stimulation and novelty"
+  },
+  {
+   "id": 393,
+   "kind": "promo",
+   "gist": "Recommendation of the channel and book 'Психология эмиграции' by neurodivergent psychologist Evgenia Petrova"
+  },
+  {
+   "id": 395,
+   "kind": "promo",
+   "gist": "Recommendation of Karina Arushtova's channel on ауСДВГ careers, with three suggested posts (portfolio careers, acceptance as burnout vaccine, why people resent many questions)"
+  },
+  {
+   "id": 396,
+   "kind": "announcement",
+   "gist": "Short teaser for St. Petersburg readers pointing to a forwarded local event"
+  },
+  {
+   "id": 397,
+   "kind": "announcement",
+   "gist": "Forwarded from Нейробей: peer-support meeting for neurodivergent people in St. Petersburg on 26 April, 8 places, 200 RUB, one free social place"
+  },
+  {
+   "id": 398,
+   "kind": "announcement",
+   "gist": "Enrollment for 12-session CBT-based adult ADHD skills training (Solanto, Safren protocols; also for autism+ADHD) with Юля Ан and Мария Устюжанинова, 16 May-1 Aug, 30000 RUB"
+  },
+  {
+   "id": 401,
+   "kind": "announcement",
+   "gist": "Subscriber asks for experiences of getting an ASD diagnosis from a psychiatrist in the EU, especially Germany"
+  },
+  {
+   "id": 402,
+   "kind": "announcement",
+   "gist": "Forwarded from Лена Мовшина: first report of the 'Трудовая устойчивость АуСДВГ-людей' study (1027 respondents), six topics, with tips for reading the long report accessibly"
+  },
+  {
+   "id": 403,
+   "kind": "logistics",
+   "gist": "Subscriber (clinical psychologist Маргарита) seeks about 20 more respondents for a masking study in ADHD and other neurodivergence"
+  },
+  {
+   "id": 404,
+   "kind": "announcement",
+   "gist": "Subscriber asks autistic people in long-term relationships where they met partners, especially autistic woman + neurotypical man pairs; comment rules stated"
+  },
+  {
+   "id": 405,
+   "kind": "other",
+   "gist": "Cover image for the series post '(Не)трудоспособные: нейроотличия и работа'"
+  },
+  {
+   "id": 407,
+   "kind": "announcement",
+   "gist": "Forwarded: a psychologist gathering interest via a form for communication groups for women with ASD"
+  },
+  {
+   "id": 408,
+   "kind": "announcement",
+   "gist": "Forwarded from солнечный психолог: course on therapy with autistic adults for practitioners, 8 Tuesday sessions from 1 September"
+  },
+  {
+   "id": 410,
+   "kind": "announcement",
+   "gist": "Forwarded podcast episode 3 (11 min) on what makes therapy good and autism-informed therapy, plus course promo with early price until 20 August"
+  },
+  {
+   "id": 412,
+   "kind": "promo",
+   "gist": "Short invitation to learn autistic-adult therapy from Миша and Марина"
+  },
+  {
+   "id": 414,
+   "kind": "announcement",
+   "gist": "Announcement of free 23 September webinar on adapting job search to neurodivergence with Karina Arushtova and Юля Ан (resume achievements, disclosure, masking in interviews)"
+  },
+  {
+   "id": 415,
+   "kind": "announcement",
+   "gist": "Forwarded: new cohort of adapted DBT emotion-regulation skills training for autistic adults, starts 14 October, 12 sessions, 3500 RUB each"
+  },
+  {
+   "id": 416,
+   "kind": "logistics",
+   "gist": "Reminder about Wednesday's webinar"
+  },
+  {
+   "id": 417,
+   "kind": "logistics",
+   "gist": "Forwarded YouTube link from the ауСДВГ карьера channel (webinar stream)"
+  },
+  {
+   "id": 418,
+   "kind": "logistics",
+   "gist": "Notice that Zoom is full and attendees should join on YouTube"
+  },
+  {
+   "id": 419,
+   "kind": "logistics",
+   "gist": "Forwarded: webinar recording available for 5 euro, plus free Notion materials from Karina and Юля"
+  },
+  {
+   "id": 420,
+   "kind": "announcement",
+   "gist": "Announcement of 5-week course on job search for autistic and ADHD people with Karina Arushtova and Юля Ан, with deliverables and learning outcomes, first meeting 14 October"
+  },
+  {
+   "id": 421,
+   "kind": "other",
+   "gist": "Translated comic about autism and seals, depicting struggles with eye contact and wanting to listen without seeming rude"
+  },
+  {
+   "id": 423,
+   "kind": "announcement",
+   "gist": "Announcement of 21 October online conference 'Жизнь в спектре' on adult autism, with international speakers, 700 RUB for the broadcast"
+  },
+  {
+   "id": 424,
+   "kind": "announcement",
+   "gist": "Forwarded: Karina Arushtova launches monthly free public career consultation for ауСДВГ people, first on 13 November, with registration and application links"
+  }
+ ]
+}

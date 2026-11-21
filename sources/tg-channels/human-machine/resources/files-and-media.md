@@ -1,0 +1,304 @@
+# Files & media index
+
+All media referenced in the export with message context and relative path.
+
+## file  (2)
+- [msg #8] 2022-03-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #15] 2022-03-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/files/Мои опоры_Рабочая тетрадь.doc`
+
+## photo  (278)
+- [msg #13] 2022-03-31 · The self, consciousness and free will · `raw-exports/ChatExport_18-11-2026/photos/photo_1@31-03-2022_16-04-58.jpg`
+- [msg #19] 2022-04-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_2@08-04-2022_15-48-56.jpg`
+- [msg #25] 2022-04-12 · Music and the brain · `raw-exports/ChatExport_18-11-2026/photos/photo_3@12-04-2022_14-00-05.jpg`
+- [msg #28] 2022-04-13 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_4@13-04-2022_16-59-19.jpg`
+- [msg #29] 2022-04-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_5@13-04-2022_21-45-37.jpg` · text transcribed
+- [msg #30] 2022-04-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_6@13-04-2022_21-45-37.jpg` · text transcribed
+- [msg #31] 2022-04-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_7@13-04-2022_21-45-37.jpg` · text transcribed
+- [msg #35] 2022-04-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_8@23-04-2022_16-23-01.jpg` · text transcribed
+- [msg #36] 2022-04-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_9@24-04-2022_11-43-35.jpg`
+- [msg #43] 2022-06-03 · Evidence-based therapy approaches and choosing help · `raw-exports/ChatExport_18-11-2026/photos/photo_10@03-06-2022_12-20-42.jpg` · text transcribed
+- [msg #47] 2022-06-26 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_11@26-06-2022_11-21-51.jpg` · text transcribed
+- [msg #51] 2022-06-28 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_12@28-06-2022_16-23-06.jpg` · text transcribed
+- [msg #52] 2022-08-13 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_13@13-08-2022_13-46-45.jpg` · text transcribed
+- [msg #55] 2022-08-13 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_14@13-08-2022_13-52-05.jpg`
+- [msg #56] 2022-08-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_15@13-08-2022_17-10-27.jpg`
+- [msg #58] 2022-08-26 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_16@26-08-2022_13-01-50.jpg`
+- [msg #62] 2022-09-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_18@04-09-2022_15-01-42.jpg` · text transcribed
+- [msg #68] 2022-09-21 · Evidence-based therapy approaches and choosing help · `raw-exports/ChatExport_18-11-2026/photos/photo_19@21-09-2022_18-07-59.jpg`
+- [msg #80] 2022-09-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_20@25-09-2022_12-10-19.jpg` · text transcribed
+- [msg #81] 2022-09-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_21@25-09-2022_12-10-19.jpg` · text transcribed
+- [msg #85] 2022-10-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_22@20-10-2022_13-16-50.jpg` · text transcribed
+- [msg #90] 2022-11-07 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_23@07-11-2022_16-51-20.jpg` · text transcribed
+- [msg #97] 2022-11-08 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_24@08-11-2022_12-20-41.jpg` · text transcribed
+- [msg #98] 2022-11-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_25@08-11-2022_12-20-42.jpg` · text transcribed
+- [msg #99] 2022-11-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_26@08-11-2022_12-20-42.jpg`
+- [msg #100] 2022-11-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_27@08-11-2022_12-20-42.jpg` · text transcribed
+- [msg #108] 2022-11-10 · Living under authoritarian regimes: compliance, denunciation and resistance · `raw-exports/ChatExport_18-11-2026/photos/photo_28@10-11-2022_14-01-47.jpg` · text transcribed
+- [msg #110] 2022-11-11 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_29@11-11-2022_17-08-09.jpg` · text transcribed
+- [msg #115] 2022-11-14 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_30@14-11-2022_17-48-46.jpg` · text transcribed
+- [msg #117] 2022-11-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_31@15-11-2022_12-03-06.jpg` · text transcribed
+- [msg #123] 2022-11-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_32@22-11-2022_16-47-06.jpg`
+- [msg #125] 2022-11-27 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_33@27-11-2022_12-35-08.jpg` · text transcribed
+- [msg #126] 2022-11-27 · Hobbies, play and switching off · `raw-exports/ChatExport_18-11-2026/photos/photo_34@27-11-2022_12-35-09.jpg` · text transcribed
+- [msg #127] 2022-11-28 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_35@28-11-2022_23-21-23.jpg` · text transcribed
+- [msg #129] 2022-11-30 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_36@30-11-2022_15-31-49.jpg` · text transcribed
+- [msg #133] 2022-12-03 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_37@03-12-2022_22-22-01.jpg` · text transcribed
+- [msg #135] 2022-12-05 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_38@05-12-2022_15-02-53.jpg` · text transcribed
+- [msg #137] 2022-12-05 · Happiness, meaning and the good life · `raw-exports/ChatExport_18-11-2026/photos/photo_39@05-12-2022_21-18-07.jpg` · text transcribed
+- [msg #138] 2022-12-05 · Happiness, meaning and the good life · `raw-exports/ChatExport_18-11-2026/photos/photo_40@05-12-2022_21-18-07.jpg` · text transcribed
+- [msg #150] 2022-12-27 · Emotion circuits: fear extinction, anger and aggression · `raw-exports/ChatExport_18-11-2026/photos/photo_41@27-12-2022_08-35-22.jpg` · text transcribed
+- [msg #154] 2023-01-06 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_42@06-01-2023_11-16-36.jpg` · text transcribed
+- [msg #159] 2023-02-04 · Large language models: capabilities, limits and risks · `raw-exports/ChatExport_18-11-2026/photos/photo_43@04-02-2023_15-13-36.jpg` · text transcribed
+- [msg #161] 2023-02-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_44@18-02-2023_16-14-42.jpg` · text transcribed
+- [msg #163] 2023-02-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_45@19-02-2023_11-08-13.jpg` · text transcribed
+- [msg #166] 2023-02-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_46@25-02-2023_09-35-29.jpg` · text transcribed
+- [msg #168] 2023-03-28 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_47@28-03-2023_06-04-55.jpg` · text transcribed
+- [msg #171] 2023-04-11 · Large language models: capabilities, limits and risks · `raw-exports/ChatExport_18-11-2026/photos/photo_48@11-04-2023_08-40-20.jpg`
+- [msg #172] 2023-04-22 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_49@22-04-2023_14-18-13.jpg`
+- [msg #174] 2023-04-23 · Biomedical research news: aging, epigenetics and medicine · `raw-exports/ChatExport_18-11-2026/photos/photo_50@23-04-2023_09-02-01.jpg`
+- [msg #175] 2023-04-26 · How the brain changes across the lifespan · `raw-exports/ChatExport_18-11-2026/photos/photo_51@26-04-2023_15-58-42.jpg` · text transcribed
+- [msg #181] 2023-05-10 · How the brain changes across the lifespan · `raw-exports/ChatExport_18-11-2026/photos/photo_52@10-05-2023_17-40-05.jpg` · text transcribed
+- [msg #182] 2023-05-30 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_53@30-05-2023_18-56-33.jpg` · text transcribed
+- [msg #185] 2023-06-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_54@11-06-2023_10-55-24.jpg` · text transcribed
+- [msg #186] 2023-06-23 · Biomedical research news: aging, epigenetics and medicine · `raw-exports/ChatExport_18-11-2026/photos/photo_55@23-06-2023_13-17-48.jpg`
+- [msg #202] 2023-08-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_56@09-08-2023_11-02-18.jpg` · text transcribed
+- [msg #204] 2023-08-10 · Large language models: capabilities, limits and risks · `raw-exports/ChatExport_18-11-2026/photos/photo_57@10-08-2023_12-01-21.jpg` · text transcribed
+- [msg #206] 2023-08-14 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_58@14-08-2023_16-51-29.jpg` · text transcribed
+- [msg #211] 2023-08-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_59@25-08-2023_17-41-00.jpg` · text transcribed
+- [msg #213] 2023-09-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_60@04-09-2023_22-23-45.jpg` · text transcribed
+- [msg #215] 2023-09-06 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_61@06-09-2023_14-09-19.jpg` · text transcribed
+- [msg #220] 2023-09-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_62@15-09-2023_22-18-28.jpg` · text transcribed
+- [msg #221] 2023-09-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_63@15-09-2023_22-18-28.jpg` · text transcribed
+- [msg #222] 2023-09-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_64@15-09-2023_22-18-29.jpg`
+- [msg #223] 2023-09-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_65@15-09-2023_22-18-29.jpg` · text transcribed
+- [msg #225] 2023-09-17 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_66@17-09-2023_14-17-37.jpg` · text transcribed
+- [msg #226] 2023-09-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_67@21-09-2023_10-02-52.jpg` · text transcribed
+- [msg #241] 2023-10-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_68@19-10-2023_11-23-47.jpg`
+- [msg #242] 2023-10-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_69@19-10-2023_11-23-47.jpg`
+- [msg #249] 2023-11-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_70@01-11-2023_14-05-48.jpg` · text transcribed
+- [msg #251] 2023-11-16 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_71@16-11-2023_21-50-55.jpg`
+- [msg #252] 2023-11-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_72@23-11-2023_17-29-33.jpg` · text transcribed
+- [msg #254] 2023-11-28 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_73@28-11-2023_15-01-18.jpg` · text transcribed
+- [msg #260] 2024-01-17 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_74@17-01-2024_12-51-11.jpg`
+- [msg #261] 2024-01-17 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_75@17-01-2024_12-51-11.jpg`
+- [msg #262] 2024-01-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_76@18-01-2024_12-51-00.jpg` · text transcribed
+- [msg #264] 2024-01-19 · Emotion circuits: fear extinction, anger and aggression · `raw-exports/ChatExport_18-11-2026/photos/photo_77@19-01-2024_09-32-06.jpg`
+- [msg #265] 2024-01-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_78@20-01-2024_17-28-56.jpg` · text transcribed
+- [msg #267] 2024-02-29 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_79@29-02-2024_11-08-28.jpg` · text transcribed
+- [msg #269] 2024-03-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_80@18-03-2024_08-33-58.jpg` · text transcribed
+- [msg #271] 2024-03-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_81@18-03-2024_14-07-47.jpg`
+- [msg #272] 2024-03-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_82@18-03-2024_18-12-52.jpg`
+- [msg #274] 2024-03-19 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_83@19-03-2024_15-37-37.jpg`
+- [msg #275] 2024-03-19 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_84@19-03-2024_15-37-37.jpg`
+- [msg #278] 2024-03-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_85@20-03-2024_09-32-11.jpg`
+- [msg #279] 2024-03-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_86@20-03-2024_09-32-11.jpg` · text transcribed
+- [msg #281] 2024-03-22 · Relationships, communication and repairing connection · `raw-exports/ChatExport_18-11-2026/photos/photo_87@22-03-2024_16-03-59.jpg`
+- [msg #285] 2024-03-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_88@23-03-2024_11-32-00.jpg`
+- [msg #287] 2024-03-23 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_89@23-03-2024_17-10-26.jpg` · text transcribed
+- [msg #294] 2024-03-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_90@25-03-2024_18-02-05.jpg` · text transcribed
+- [msg #295] 2024-03-26 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_91@26-03-2024_15-30-49.jpg` · text transcribed
+- [msg #297] 2024-03-26 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_92@26-03-2024_15-33-52.jpg` · text transcribed
+- [msg #299] 2024-03-29 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_93@29-03-2024_13-54-06.jpg` · text transcribed
+- [msg #300] 2024-03-29 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_94@29-03-2024_13-54-06.jpg` · text transcribed
+- [msg #301] 2024-03-29 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_95@29-03-2024_13-54-06.jpg` · text transcribed
+- [msg #302] 2024-03-29 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_96@29-03-2024_13-54-07.jpg` · text transcribed
+- [msg #303] 2024-03-30 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_97@30-03-2024_15-39-12.jpg`
+- [msg #304] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_98@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #305] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_99@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #306] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_100@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #307] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_101@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #308] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_102@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #309] 2024-04-01 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_103@01-04-2024_19-02-37.jpg` · text transcribed
+- [msg #310] 2024-04-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_104@01-04-2024_19-02-38.jpg` · text transcribed
+- [msg #311] 2024-04-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_105@01-04-2024_19-02-38.jpg` · text transcribed
+- [msg #312] 2024-04-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_106@01-04-2024_19-02-38.jpg` · text transcribed
+- [msg #313] 2024-04-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_107@01-04-2024_19-02-38.jpg` · text transcribed
+- [msg #316] 2024-04-02 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_108@02-04-2024_15-27-46.jpg`
+- [msg #317] 2024-04-04 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_109@04-04-2024_15-41-20.jpg` · text transcribed
+- [msg #324] 2024-04-13 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_110@13-04-2024_15-14-26.jpg`
+- [msg #329] 2024-04-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_111@15-04-2024_12-50-06.jpg` · text transcribed
+- [msg #331] 2024-04-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_112@15-04-2024_21-07-18.jpg`
+- [msg #333] 2024-04-16 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_113@16-04-2024_09-21-11.jpg` · text transcribed
+- [msg #334] 2024-04-16 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_114@16-04-2024_15-32-05.jpg` · text transcribed
+- [msg #335] 2024-04-16 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_115@16-04-2024_15-32-05.jpg` · text transcribed
+- [msg #336] 2024-04-16 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_116@16-04-2024_15-32-05.jpg` · text transcribed
+- [msg #338] 2024-04-19 · Evidence-based therapy approaches and choosing help · `raw-exports/ChatExport_18-11-2026/photos/photo_117@19-04-2024_09-33-06.jpg` · text transcribed
+- [msg #339] 2024-04-19 · Evidence-based therapy approaches and choosing help · `raw-exports/ChatExport_18-11-2026/photos/photo_118@19-04-2024_09-33-06.jpg` · text transcribed
+- [msg #340] 2024-04-19 · Evidence-based therapy approaches and choosing help · `raw-exports/ChatExport_18-11-2026/photos/photo_119@19-04-2024_09-33-06.jpg` · text transcribed
+- [msg #345] 2024-04-20 · Cooperation, game theory and the origins of morality · `raw-exports/ChatExport_18-11-2026/photos/photo_120@20-04-2024_10-47-01.jpg` · text transcribed
+- [msg #352] 2024-04-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_121@22-04-2024_12-47-39.jpg`
+- [msg #353] 2024-04-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_122@22-04-2024_12-47-40.jpg` · text transcribed
+- [msg #363] 2024-05-12 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_123@12-05-2024_23-01-44.jpg`
+- [msg #364] 2024-05-12 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_124@12-05-2024_23-06-27.jpg`
+- [msg #367] 2024-05-14 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_125@14-05-2024_21-25-26.jpg` · text transcribed
+- [msg #380] 2024-05-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_126@19-05-2024_10-12-24.jpg`
+- [msg #381] 2024-05-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_127@19-05-2024_10-12-24.jpg`
+- [msg #382] 2024-05-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_128@19-05-2024_10-12-24.jpg` · text transcribed
+- [msg #384] 2024-05-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_129@22-05-2024_15-27-43.jpg` · text transcribed
+- [msg #385] 2024-05-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_130@22-05-2024_18-13-28.jpg` · text transcribed
+- [msg #388] 2024-05-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_131@31-05-2024_23-25-27.jpg` · text transcribed
+- [msg #389] 2024-05-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_132@31-05-2024_23-25-27.jpg` · text transcribed
+- [msg #390] 2024-05-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_133@31-05-2024_23-25-27.jpg` · text transcribed
+- [msg #391] 2024-05-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_134@31-05-2024_23-25-27.jpg` · text transcribed
+- [msg #392] 2024-05-31 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_135@31-05-2024_23-25-27.jpg` · text transcribed
+- [msg #396] 2024-06-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_136@08-06-2024_16-08-23.jpg` · text transcribed
+- [msg #397] 2024-06-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_137@08-06-2024_16-08-23.jpg` · text transcribed
+- [msg #398] 2024-06-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_138@08-06-2024_16-08-24.jpg` · text transcribed
+- [msg #403] 2024-06-08 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_139@08-06-2024_20-27-25.jpg` · text transcribed
+- [msg #406] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_140@09-06-2024_21-18-38.jpg` · text transcribed
+- [msg #407] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_141@09-06-2024_21-18-38.jpg` · text transcribed
+- [msg #408] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_142@09-06-2024_21-18-38.jpg` · text transcribed
+- [msg #409] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_143@09-06-2024_21-18-38.jpg` · text transcribed
+- [msg #410] 2024-06-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_144@09-06-2024_21-18-38.jpg` · text transcribed
+- [msg #412] 2024-06-16 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_145@16-06-2024_15-36-07.jpg`
+- [msg #416] 2024-06-29 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_146@29-06-2024_18-29-31.jpg` · text transcribed
+- [msg #417] 2024-06-29 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_147@29-06-2024_18-29-31.jpg` · text transcribed
+- [msg #418] 2024-06-30 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_148@30-06-2024_15-25-53.jpg`
+- [msg #419] 2024-07-05 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_149@05-07-2024_14-03-26.jpg` · text transcribed
+- [msg #424] 2024-07-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_150@09-07-2024_22-06-25.jpg` · text transcribed
+- [msg #428] 2024-07-10 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_151@10-07-2024_20-17-23.jpg` · text transcribed
+- [msg #432] 2024-07-15 · The double empathy problem: mutual misunderstanding between autistic and neurotypical people · `raw-exports/ChatExport_18-11-2026/photos/photo_152@15-07-2024_13-58-48.jpg` · text transcribed
+- [msg #435] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_153@18-07-2024_15-21-50.jpg` · text transcribed
+- [msg #436] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_154@18-07-2024_15-21-50.jpg` · text transcribed
+- [msg #437] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_155@18-07-2024_15-21-50.jpg` · text transcribed
+- [msg #438] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_156@18-07-2024_15-21-51.jpg` · text transcribed
+- [msg #439] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_157@18-07-2024_15-21-51.jpg` · text transcribed
+- [msg #440] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_158@18-07-2024_15-21-51.jpg` · text transcribed
+- [msg #441] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_159@18-07-2024_15-21-51.jpg` · text transcribed
+- [msg #442] 2024-07-19 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_160@19-07-2024_17-40-21.jpg` · text transcribed
+- [msg #444] 2024-08-01 · The double empathy problem: mutual misunderstanding between autistic and neurotypical people · `raw-exports/ChatExport_18-11-2026/photos/photo_161@01-08-2024_16-54-23.jpg` · text transcribed
+- [msg #451] 2024-08-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_162@08-08-2024_17-18-49.jpg` · text transcribed
+- [msg #455] 2024-08-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_163@13-08-2024_02-34-13.jpg`
+- [msg #459] 2024-08-13 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_163@13-08-2024_02-34-13.jpg`
+- [msg #463] 2024-08-16 · Brain connectivity and subtypes in autism · `raw-exports/ChatExport_18-11-2026/photos/photo_165@16-08-2024_15-13-24.jpg`
+- [msg #465] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_166@16-08-2024_19-27-19.jpg` · text transcribed
+- [msg #466] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_167@21-08-2024_14-27-24.jpg`
+- [msg #467] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_168@21-08-2024_14-27-24.jpg`
+- [msg #468] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_169@21-08-2024_14-27-24.jpg` · text transcribed
+- [msg #469] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_170@21-08-2024_14-27-24.jpg` · text transcribed
+- [msg #470] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_171@21-08-2024_14-27-24.jpg`
+- [msg #471] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_172@21-08-2024_14-27-24.jpg`
+- [msg #472] 2024-08-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_173@21-08-2024_14-27-24.jpg`
+- [msg #473] 2024-08-28 · Self-blame, overcontrol and the inner critic · `raw-exports/ChatExport_18-11-2026/photos/photo_174@28-08-2024_18-00-13.jpg` · text transcribed
+- [msg #478] 2024-09-08 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_175@08-09-2024_13-24-29.jpg` · text transcribed
+- [msg #479] 2024-09-15 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_176@15-09-2024_14-18-56.jpg` · text transcribed
+- [msg #481] 2024-09-22 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_177@22-09-2024_21-08-27.jpg` · text transcribed
+- [msg #482] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_178@23-09-2024_08-24-16.jpg` · text transcribed
+- [msg #483] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_179@23-09-2024_08-25-06.jpg` · text transcribed
+- [msg #484] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_180@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #485] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_181@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #486] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_182@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #487] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_183@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #488] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_184@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #489] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_185@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #490] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_186@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #491] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_187@23-09-2024_08-25-07.jpg` · text transcribed
+- [msg #492] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_188@23-09-2024_08-25-08.jpg` · text transcribed
+- [msg #494] 2024-09-25 · Scientific thinking, philosophy and reading lists · `raw-exports/ChatExport_18-11-2026/photos/photo_189@25-09-2024_15-21-32.jpg` · text transcribed
+- [msg #495] 2024-09-28 · Careers in psychology and science: from clinic to research · `raw-exports/ChatExport_18-11-2026/photos/photo_190@28-09-2024_15-30-39.jpg` · text transcribed
+- [msg #496] 2024-10-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_191@11-10-2024_10-54-27.jpg`
+- [msg #497] 2024-10-19 · Self-blame, overcontrol and the inner critic · `raw-exports/ChatExport_18-11-2026/photos/photo_192@19-10-2024_13-46-26.jpg` · text transcribed
+- [msg #498] 2024-10-19 · Relationships, communication and repairing connection · `raw-exports/ChatExport_18-11-2026/photos/photo_193@19-10-2024_20-06-41.jpg` · text transcribed
+- [msg #503] 2024-10-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_194@24-10-2024_11-19-44.jpg` · text transcribed
+- [msg #504] 2024-10-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_195@24-10-2024_17-59-13.jpg` · text transcribed
+- [msg #517] 2024-11-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_196@11-11-2024_08-05-16.jpg` · text transcribed
+- [msg #518] 2024-11-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_197@11-11-2024_08-05-17.jpg` · text transcribed
+- [msg #519] 2024-11-19 · Brain connectivity and subtypes in autism · `raw-exports/ChatExport_18-11-2026/photos/photo_198@19-11-2024_12-35-31.jpg` · text transcribed
+- [msg #523] 2024-11-26 · Large language models: capabilities, limits and risks · `raw-exports/ChatExport_18-11-2026/photos/photo_199@26-11-2024_22-19-46.jpg`
+- [msg #524] 2024-11-26 · Large language models: capabilities, limits and risks · `raw-exports/ChatExport_18-11-2026/photos/photo_200@26-11-2024_22-19-46.jpg` · text transcribed
+- [msg #529] 2024-12-09 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_201@09-12-2024_17-17-22.jpg` · text transcribed
+- [msg #531] 2025-01-30 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_202@30-01-2025_11-52-56.jpg`
+- [msg #539] 2025-04-07 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_203@07-04-2025_18-26-32.jpg` · text transcribed
+- [msg #540] 2025-04-10 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_204@10-04-2025_19-27-57.jpg`
+- [msg #542] 2025-04-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_205@24-04-2025_20-57-17.jpg`
+- [msg #548] 2025-05-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_206@04-05-2025_16-04-05.jpg` · text transcribed
+- [msg #558] 2025-05-14 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_207@14-05-2025_15-45-14.jpg`
+- [msg #565] 2025-05-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_208@24-05-2025_20-28-13.jpg`
+- [msg #566] 2025-05-30 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_209@30-05-2025_12-19-50.jpg` · text transcribed
+- [msg #567] 2025-05-30 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_210@30-05-2025_12-19-50.jpg` · text transcribed
+- [msg #568] 2025-05-30 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_211@30-05-2025_12-19-50.jpg` · text transcribed
+- [msg #569] 2025-05-30 · Human-machine interfaces and AI in science · `raw-exports/ChatExport_18-11-2026/photos/photo_212@30-05-2025_12-19-50.jpg` · text transcribed
+- [msg #582] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_213@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #583] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_214@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #584] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_215@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #585] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_216@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #586] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_217@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #587] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_218@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #588] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_219@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #589] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_220@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #590] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_221@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #591] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_222@01-06-2025_11-07-04.jpg` · text transcribed
+- [msg #593] 2025-06-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_223@04-06-2025_13-00-14.jpg` · text transcribed
+- [msg #594] 2025-06-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_224@04-06-2025_13-00-14.jpg` · text transcribed
+- [msg #595] 2025-06-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_225@04-06-2025_13-00-14.jpg` · text transcribed
+- [msg #596] 2025-06-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_226@04-06-2025_13-00-14.jpg` · text transcribed
+- [msg #597] 2025-06-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_227@04-06-2025_13-00-14.jpg` · text transcribed
+- [msg #606] 2025-06-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_228@11-06-2025_11-57-37.jpg` · text transcribed
+- [msg #607] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_229@11-06-2025_15-28-13.jpg`
+- [msg #608] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_230@11-06-2025_15-28-13.jpg`
+- [msg #609] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_231@11-06-2025_15-28-13.jpg`
+- [msg #610] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_232@11-06-2025_15-28-13.jpg`
+- [msg #611] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_233@11-06-2025_15-28-13.jpg` · text transcribed
+- [msg #612] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_234@11-06-2025_15-28-13.jpg` · text transcribed
+- [msg #613] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_235@11-06-2025_15-28-13.jpg`
+- [msg #614] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_236@11-06-2025_15-28-13.jpg` · text transcribed
+- [msg #615] 2025-06-11 · Group polarization, conformity and social norms · `raw-exports/ChatExport_18-11-2026/photos/photo_237@11-06-2025_15-28-13.jpg` · text transcribed
+- [msg #623] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_238@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #624] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_239@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #625] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_240@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #626] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_241@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #627] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_242@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #628] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_243@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #629] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_244@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #630] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_245@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #631] 2025-06-14 · Understanding autism: myths, stereotypes and the spectrum · `raw-exports/ChatExport_18-11-2026/photos/photo_246@14-06-2025_21-01-21.jpg` · text transcribed
+- [msg #633] 2025-06-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_247@18-06-2025_13-25-58.jpg` · text transcribed
+- [msg #640] 2025-06-21 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_248@21-06-2025_10-20-09.jpg` · text transcribed
+- [msg #643] 2025-06-29 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_249@29-06-2025_13-05-22.jpg` · text transcribed
+- [msg #644] 2025-06-29 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_250@29-06-2025_13-05-23.jpg` · text transcribed
+- [msg #650] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_251@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #651] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_252@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #652] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_253@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #653] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_254@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #654] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_255@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #655] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_256@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #656] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_257@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #657] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_258@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #658] 2025-06-30 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_259@30-06-2025_13-58-45.jpg` · text transcribed
+- [msg #674] 2025-10-12 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_260@12-10-2025_00-10-54.jpg`
+- [msg #677] 2025-11-18 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_261@18-11-2025_10-32-01.jpg` · text transcribed
+- [msg #678] 2025-11-26 · How the brain changes across the lifespan · `raw-exports/ChatExport_18-11-2026/photos/photo_262@26-11-2025_17-18-06.jpg` · text transcribed
+- [msg #682] 2025-11-28 · How the brain changes across the lifespan · `raw-exports/ChatExport_18-11-2026/photos/photo_263@28-11-2025_15-33-11.jpg`
+- [msg #684] 2025-12-15 · Music and the brain · `raw-exports/ChatExport_18-11-2026/photos/photo_264@15-12-2025_19-20-59.jpg` · text transcribed
+- [msg #685] 2025-12-15 · Music and the brain · `raw-exports/ChatExport_18-11-2026/photos/photo_265@15-12-2025_19-20-59.jpg` · text transcribed
+- [msg #694] 2026-05-12 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_266@12-05-2026_17-00-44.jpg` · text transcribed
+- [msg #697] 2026-05-25 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_267@25-05-2026_10-51-01.jpg` · text transcribed
+- [msg #701] 2026-07-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_268@24-07-2026_02-55-38.jpg` · text transcribed
+- [msg #703] 2026-08-03 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_269@03-08-2026_15-43-43.jpg` · text transcribed
+- [msg #704] 2026-08-11 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_270@11-08-2026_22-12-19.jpg`
+- [msg #707] 2026-09-03 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_271@03-09-2026_20-45-20.jpg`
+- [msg #710] 2026-09-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_272@20-09-2026_00-07-37.jpg` · text transcribed
+- [msg #711] 2026-09-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_273@20-09-2026_00-07-37.jpg` · text transcribed
+- [msg #712] 2026-09-20 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_274@20-09-2026_00-07-38.jpg` · text transcribed
+- [msg #717] 2026-10-03 · Self-blame, overcontrol and the inner critic · `raw-exports/ChatExport_18-11-2026/photos/photo_275@03-10-2026_22-05-28.jpg`
+- [msg #718] 2026-10-07 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_276@07-10-2026_22-41-44.jpg`
+- [msg #729] 2026-11-03 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_277@03-11-2026_20-18-02.jpg` · text transcribed
+- [msg #731] 2026-11-04 · (unassigned) · `raw-exports/ChatExport_18-11-2026/photos/photo_278@04-11-2026_15-45-48.jpg` · text transcribed
+- [msg #732] 2026-11-08 · Sensory regulation, emotions and recovery for neurodivergent people · `raw-exports/ChatExport_18-11-2026/photos/photo_279@08-11-2026_21-12-37.jpg`
+
+## video  (5)
+- [msg #561] 2025-05-24 · (unassigned) · `raw-exports/ChatExport_18-11-2026/video_files/c8747d8e-669e-4418-a3b0-9123a5335539_converted.mp4`
+- [msg #621] 2025-06-13 · Understanding autism: myths, stereotypes and the spectrum · `(not exported)` · *(not included in export)*
+- [msg #639] 2025-06-20 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #665] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_18-11-2026/video_files/51be9d6c-c117-474f-8f07-2bd316a18ffe_converted.mp4`
+- [msg #683] 2025-12-15 · Music and the brain · `raw-exports/ChatExport_18-11-2026/video_files/5d955c95-72e0-495b-bcf8-508186d25785.mp4`
+
+## voice_message  (7)
+- [msg #69] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #70] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #71] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #72] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #73] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #74] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #75] 2022-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+

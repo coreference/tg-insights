@@ -1,0 +1,2400 @@
+{
+ "domains": [
+  {
+   "domain": "Autistic and Neurodivergent Burnout",
+   "slug": "neurodivergent-burnout",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Autistic burnout: definition, causes and warning signs",
+     "slug": "autistic-burnout-signs",
+     "scope": "What autistic/neurodivergent burnout is (Raymaker, Higgins criteria), its causes (masking, sensory and social load, chronic stress), symptoms such as skill regression and exhaustion, and checklists and scales for self-assessment.",
+     "themes": [
+      "autistic"
+     ],
+     "also_areas": [
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "burnout",
+      "masking-camouflaging",
+      "self-tracking",
+      "sensory-processing",
+      "neurodiversity"
+     ],
+     "ids": [
+      28,
+      31,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      203,
+      372,
+      386,
+      388,
+      392,
+      398,
+      432,
+      433,
+      446,
+      707,
+      726,
+      822
+     ],
+     "count": 22
+    },
+    {
+     "title": "Autistic burnout versus depression",
+     "slug": "burnout-vs-depression",
+     "scope": "How to tell autistic burnout from depression: shared symptoms, key differences (cause, motivation, skill loss, social withdrawal) and why behavioral activation can help depression but worsen burnout.",
+     "themes": [
+      "burnout"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "depression",
+      "psychiatric-diagnosis",
+      "burnout",
+      "masking-camouflaging"
+     ],
+     "ids": [
+      28,
+      193,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      589,
+      790
+     ],
+     "count": 11
+    },
+    {
+     "title": "Recovering from neurodivergent burnout",
+     "slug": "burnout-recovery",
+     "scope": "Recovery from autistic/neurodivergent burnout: the two tasks of recovery, why plain rest fails, nervous-system tools (breathing, PMR, completing the stress cycle, sleep), sensory inventories and soothing kits, relearning boundaries after masking, and self-advocacy scripts and accommodation requests.",
+     "themes": [
+      "burnout"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "rest-and-recovery",
+      "sensory-processing",
+      "somatic-regulation",
+      "self-advocacy-accommodations",
+      "boundaries"
+     ],
+     "ids": [
+      40,
+      167,
+      434,
+      495,
+      503,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      532,
+      613
+     ],
+     "count": 13
+    },
+    {
+     "title": "Pacing and energy accounting",
+     "slug": "pacing-energy-accounting",
+     "scope": "Managing limited energy with pacing: energy accounting, the boom-bust cycle, traffic-light calendars, activity-or-rest flowcharts, health and pain trackers, and why exercise can make things worse.",
+     "themes": [
+      "pacing"
+     ],
+     "also_areas": [
+      "Energy & Resource",
+      "Rest & Burnout",
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "pacing",
+      "energy-management",
+      "autistic-burnout",
+      "self-tracking",
+      "chronic-pain",
+      "fatigue"
+     ],
+     "ids": [
+      30,
+      52,
+      69,
+      123,
+      132,
+      289,
+      425,
+      563
+     ],
+     "count": 8
+    },
+    {
+     "title": "Internalized capitalism, ableism and self-worth",
+     "slug": "internalized-capitalism-ableism",
+     "scope": "How internalized capitalism and internalized ableism tie self-worth to productivity and fuel masking and burnout; signs, the inner critic, toxic positivity and self-compassionate alternatives.",
+     "themes": [
+      "internalized"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Society & Politics"
+     ],
+     "concepts": [
+      "ableism",
+      "productivity-culture-critique",
+      "masking-camouflaging",
+      "autistic-burnout",
+      "self-compassion"
+     ],
+     "ids": [
+      23,
+      33,
+      442,
+      448,
+      449,
+      602,
+      615,
+      687
+     ],
+     "count": 8
+    }
+   ]
+  },
+  {
+   "domain": "Masking, Identity and the Neurodiversity Paradigm",
+   "slug": "masking-identity",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Masking, camouflaging and unmasking",
+     "slug": "masking-unmasking",
+     "scope": "What masking/camouflaging is (compensation, masking, assimilation), its cost in exhaustion and burnout, workbooks for spotting it, and how values-based, safe unmasking works.",
+     "themes": [
+      "masking"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "masking-camouflaging",
+      "autistic-burnout",
+      "self-reflection-tools",
+      "psychiatric-diagnosis",
+      "neurodiversity"
+     ],
+     "ids": [
+      24,
+      73,
+      156,
+      403,
+      404,
+      405,
+      406,
+      407,
+      496,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      660,
+      696
+     ],
+     "count": 19
+    },
+    {
+     "title": "What autism is: the neurodiversity paradigm",
+     "slug": "neurodiversity-paradigm",
+     "scope": "Definitions of autism and neurodiversity (Nick Walker), key terms, spectrum models of autism and ADHD, the double empathy problem, and perspective-taking on neurotypical versus autistic norms.",
+     "themes": [
+      "neurodiversity"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "double-empathy",
+      "stigma-and-acceptance",
+      "psychiatric-diagnosis"
+     ],
+     "ids": [
+      65,
+      66,
+      75,
+      76,
+      333,
+      396,
+      397,
+      467,
+      526,
+      616
+     ],
+     "count": 10
+    },
+    {
+     "title": "Autistic identity, community and disability pride",
+     "slug": "autistic-identity-community",
+     "scope": "Autistic identity and acceptance: why 'don't let autism define you' is problematic, community norms (identity-first language, self-diagnosis, rejecting functioning labels), disability pride and the hexagon of autistic needs.",
+     "themes": [
+      "autistic"
+     ],
+     "also_areas": [
+      "Society & Politics",
+      "Interviews & Community"
+     ],
+     "concepts": [
+      "stigma-and-acceptance",
+      "ableism",
+      "neurodiversity",
+      "community-belonging",
+      "masking-camouflaging"
+     ],
+     "ids": [
+      71,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      667,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778
+     ],
+     "count": 24
+    }
+   ]
+  },
+  {
+   "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
+   "slug": "diagnosis-research",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
+     "slug": "autism-recognition-adults",
+     "scope": "DSM-5-TR autism criteria in plain language, lesser-known adult traits (including first-person accounts of traits one thought one lacked), the broader autism phenotype, PDA, why autism is recognized late, meltdown vs panic attack, and whether a formal diagnosis matters.",
+     "themes": [
+      "autism"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "neurodiversity",
+      "masking-camouflaging",
+      "sensory-processing",
+      "meltdowns-shutdowns"
+     ],
+     "ids": [
+      29,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      304,
+      310,
+      311,
+      312,
+      313,
+      314,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      354,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      394,
+      400,
+      401,
+      402,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      444,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      575,
+      805
+     ],
+     "count": 57
+    },
+    {
+     "title": "Differential diagnosis: autism, ADHD and look-alike conditions",
+     "slug": "differential-diagnosis",
+     "scope": "How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar disorder, schizophrenia, OCD, panic attacks and selective mutism, with comparison charts and checklists.",
+     "themes": [
+      "differential"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "complex-ptsd",
+      "neurodiversity",
+      "autistic-burnout",
+      "depression"
+     ],
+     "ids": [
+      43,
+      44,
+      50,
+      58,
+      297,
+      298,
+      299,
+      300,
+      387,
+      482,
+      544,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      626,
+      663,
+      734,
+      736
+     ],
+     "count": 25
+    },
+    {
+     "title": "Reading autism and ADHD research critically",
+     "slug": "autism-research-critique",
+     "scope": "Brain connectivity and genetics of autism, fMRI subtypes, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable narcissism, paracetamol, Ozempic for ADHD).",
+     "themes": [
+      "autism"
+     ],
+     "also_areas": [
+      "Science & Research",
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "scientific-thinking",
+      "brain-connectivity",
+      "biomedical-research",
+      "neurodiversity"
+     ],
+     "ids": [
+      57,
+      130,
+      317,
+      658,
+      718,
+      725,
+      755
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Nervous System, Senses and Emotions",
+   "slug": "nervous-system-senses",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Regulating the neurodivergent nervous system",
+     "slug": "nervous-system-regulation",
+     "scope": "The neurodivergent nervous system, the window of tolerance, hyper- and hypoarousal, dorsal vagal shutdown, vagal tone, up- and down-regulating practices (breathing, movement, grounding, bilateral stimulation) and calming the nervous system for sleep.",
+     "themes": [
+      "nervous"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Rest & Burnout",
+      "Sleep"
+     ],
+     "concepts": [
+      "trauma-and-nervous-system",
+      "emotional-regulation",
+      "somatic-regulation",
+      "neurodiversity",
+      "sleep-hygiene"
+     ],
+     "ids": [
+      34,
+      35,
+      56,
+      60,
+      103,
+      159,
+      351,
+      373,
+      445,
+      499,
+      500,
+      505,
+      527,
+      529,
+      578,
+      729
+     ],
+     "count": 16
+    },
+    {
+     "title": "Sensory processing, overload and sensory regulation",
+     "slug": "sensory-processing-overload",
+     "scope": "Sensory overload in autism and ADHD, sensory regulation as the base for emotion and executive function, sensory safety plans and sensory-friendly activities, stimming, and overload mistaken for panic.",
+     "themes": [
+      "sensory"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "emotional-regulation",
+      "executive-function",
+      "stress-and-anxiety",
+      "neurodiversity"
+     ],
+     "ids": [
+      25,
+      41,
+      46,
+      54,
+      137,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      450,
+      638,
+      733
+     ],
+     "count": 26
+    },
+    {
+     "title": "Interoception, alexithymia and naming emotions",
+     "slug": "interoception-alexithymia",
+     "scope": "Interoception and homeostasis in autism and ADHD, alexithymia, emotional dysregulation, misattribution of arousal, and tools for recognizing emotions (feelings wheel, intensity scales, own-terms descriptions).",
+     "themes": [
+      "interoception"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "alexithymia",
+      "sensory-processing",
+      "emotional-intelligence",
+      "emotional-regulation",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      20,
+      37,
+      38,
+      47,
+      49,
+      186,
+      284,
+      379,
+      380,
+      381,
+      383,
+      384,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      799
+     ],
+     "count": 30
+    },
+    {
+     "title": "Meltdowns and shutdowns",
+     "slug": "meltdowns-shutdowns",
+     "scope": "What autistic meltdowns and shutdowns are, how they differ from panic attacks, aggression and selective mutism, how to co-regulate, and how people recover afterwards.",
+     "themes": [
+      "meltdowns"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "meltdowns-shutdowns",
+      "sensory-processing",
+      "emotional-regulation",
+      "stress-and-anxiety",
+      "rest-and-recovery"
+     ],
+     "ids": [
+      262,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      482,
+      534,
+      638,
+      736,
+      771
+     ],
+     "count": 13
+    }
+   ]
+  },
+  {
+   "domain": "Daily Life, Communication and Self-Advocacy",
+   "slug": "daily-life-communication",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Accommodations, self-checks and daily supports",
+     "slug": "accommodations-daily-supports",
+     "scope": "Adapting daily life for autistic and ADHD people: self-check of needs, examples of accommodations, compensating weaknesses through collaboration, food and safe foods, suitable jobs, and AI support tools.",
+     "themes": [
+      "accommodations"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "self-advocacy-accommodations",
+      "self-care",
+      "sensory-processing",
+      "energy-management",
+      "workplace-inclusion",
+      "neurodiversity"
+     ],
+     "ids": [
+      266,
+      315,
+      316,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706
+     ],
+     "count": 25
+    },
+    {
+     "title": "Autistic social communication and processing",
+     "slug": "autistic-social-communication",
+     "scope": "How autistic people communicate and process social interaction: delayed processing, auditory processing, tone and volume, empathy myths, self-advocacy scripts, direct but kind honesty, and healthy versus limerent attachment.",
+     "themes": [
+      "autistic"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "empathy",
+      "self-advocacy-accommodations",
+      "nonviolent-communication",
+      "double-empathy",
+      "relationships-family",
+      "sensory-processing"
+     ],
+     "ids": [
+      260,
+      261,
+      285,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      723,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      802
+     ],
+     "count": 35
+    },
+    {
+     "title": "ADHD traits: rejection sensitivity, daydreaming and body doubling",
+     "slug": "adhd-traits-tools",
+     "scope": "ADHD-specific experiences and tools: rejection sensitive dysphoria, maladaptive daydreaming and hyperphantasia, conflict and emotion overload, body doubling for task initiation, and AuDHD focus quirks.",
+     "themes": [
+      "adhd"
+     ],
+     "also_areas": [
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "rejection-sensitivity",
+      "executive-function",
+      "focus-attention",
+      "emotional-regulation"
+     ],
+     "ids": [
+      42,
+      155,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      431,
+      818,
+      830
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Trauma, Anxiety and Medical Gaslighting",
+   "slug": "trauma-anxiety",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Complex trauma (C-PTSD) in neurodivergent lives",
+     "slug": "complex-trauma-neurodivergent",
+     "scope": "C-PTSD versus PTSD, emotional flashbacks, people-pleasing and hypervigilance, trauma from a misunderstood neurodivergent childhood or late diagnosis, trauma-related memory loss, gaslighting in relationships and therapy goals.",
+     "themes": [
+      "complex"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "complex-ptsd",
+      "trauma-and-nervous-system",
+      "relationships-family",
+      "masking-camouflaging",
+      "shame",
+      "psychotherapy"
+     ],
+     "ids": [
+      301,
+      305,
+      466,
+      528,
+      648,
+      650,
+      785,
+      787
+     ],
+     "count": 8
+    },
+    {
+     "title": "Medical gaslighting and medical trauma",
+     "slug": "medical-gaslighting-trauma",
+     "scope": "How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, erodes trust in body signals, and how autism traits collide with chronic illness demands.",
+     "themes": [
+      "medical"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "medical-gaslighting",
+      "trauma-and-nervous-system",
+      "chronic-illness",
+      "ehlers-danlos-hypermobility",
+      "neurodiversity"
+     ],
+     "ids": [
+      106,
+      378,
+      508,
+      666,
+      766,
+      780
+     ],
+     "count": 6
+    },
+    {
+     "title": "Anxiety and panic: CBT and body-based coping",
+     "slug": "anxiety-panic-coping",
+     "scope": "Understanding and coping with panic attacks (Oxford CBT booklet) and anxiety, discharging activation before calming, EFT tapping and reducing body tension.",
+     "themes": [
+      "anxiety"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "stress-and-anxiety",
+      "psychotherapy",
+      "somatic-regulation",
+      "emotional-regulation"
+     ],
+     "ids": [
+      295,
+      502,
+      533,
+      728
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "domain": "Comorbid Chronic Conditions",
+   "slug": "comorbid-chronic-conditions",
+   "area": "Chronic Illness & Disability",
+   "topics": [
+    {
+     "title": "The neurodivergent comorbidity cluster and self-help map",
+     "slug": "comorbidity-cluster",
+     "scope": "Physical conditions that co-occur with autism and ADHD (hEDS/MCAS/POTS triad, sleep, GI, binocular vision dysfunction, MTHFR), a self-help map for neurocomplexity, and body warning signs such as stroke in women.",
+     "themes": [
+      "comorbidity"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Women's Health"
+     ],
+     "concepts": [
+      "chronic-illness",
+      "neurodiversity",
+      "ehlers-danlos-hypermobility",
+      "mast-cell-activation",
+      "dysautonomia-pots",
+      "womens-health"
+     ],
+     "ids": [
+      36,
+      64,
+      349,
+      509,
+      767,
+      768,
+      769,
+      770,
+      779
+     ],
+     "count": 9
+    },
+    {
+     "title": "Ehlers-Danlos syndrome and hypermobility",
+     "slug": "ehlers-danlos-hypermobility",
+     "scope": "Ehlers-Danlos subtypes and hypermobility spectrum disorder, hEDS diagnostic criteria and Beighton score, symptom questionnaires, comorbidities (GI, venous outflow, dislocations), biomarker research and the situation in Russia.",
+     "themes": [
+      "ehlers"
+     ],
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "concepts": [
+      "ehlers-danlos-hypermobility",
+      "chronic-illness",
+      "chronic-pain",
+      "dysautonomia-pots"
+     ],
+     "ids": [
+      74,
+      79,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      134,
+      135,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      219,
+      221,
+      222,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      375,
+      376,
+      603
+     ],
+     "count": 35
+    },
+    {
+     "title": "Mast cell activation syndrome (MCAS)",
+     "slug": "mast-cell-activation",
+     "scope": "What mast cells do, MCAS symptoms across body systems, risk factors (stress, trauma, infection), links to PMDD and Alzheimer's, treatments such as antihistamines and low-dose naltrexone.",
+     "themes": [
+      "mast"
+     ],
+     "also_areas": [
+      "Women's Health"
+     ],
+     "concepts": [
+      "mast-cell-activation",
+      "chronic-illness",
+      "trauma-and-nervous-system",
+      "womens-health",
+      "brain-health",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      39,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      291,
+      318,
+      353,
+      689,
+      690,
+      695,
+      826,
+      827
+     ],
+     "count": 17
+    },
+    {
+     "title": "POTS, dysautonomia, ME/CFS and post-COVID",
+     "slug": "pots-mecfs-postcovid",
+     "scope": "POTS and dysautonomia symptoms, heat intolerance and cooling strategies, small fiber neuropathy, ME/CFS and post-COVID with post-exertional malaise, and functional neurological disorder fatigue signs.",
+     "themes": [
+      "pots"
+     ],
+     "also_areas": [
+      "Energy & Resource"
+     ],
+     "concepts": [
+      "dysautonomia-pots",
+      "me-cfs-long-covid",
+      "fatigue",
+      "chronic-illness",
+      "pacing"
+     ],
+     "ids": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      203,
+      287,
+      309,
+      385,
+      620,
+      682,
+      683,
+      826,
+      834
+     ],
+     "count": 15
+    },
+    {
+     "title": "Talking to doctors and patient self-advocacy",
+     "slug": "patient-self-advocacy",
+     "scope": "How to get heard by doctors (symptom logs, scripts, second opinions, complaints), the right to refuse advice, who may prescribe psychiatric drugs, peer support versus expertise, and staying resilient with chronic illness.",
+     "themes": [
+      "patient"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "patient-advocacy",
+      "medical-gaslighting",
+      "chronic-illness",
+      "boundaries"
+     ],
+     "ids": [
+      257,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      564,
+      565,
+      659,
+      803
+     ],
+     "count": 11
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 18,
+   "kind": "announcement",
+   "gist": "Channel author's self-introduction (ADHD, depression, ASD diagnoses; translates English neurodivergence articles) and invitation to her Discord community"
+  },
+  {
+   "id": 45,
+   "kind": "announcement",
+   "gist": "Announcement of the Discord server: weekly support calls, cat cafe, body-doubling partner search, events, and article discussions"
+  },
+  {
+   "id": 51,
+   "kind": "logistics",
+   "gist": "Invitation to a Discord burnout support call on 2 April, 12:00 MSK, with ground rules and comfort tips"
+  },
+  {
+   "id": 63,
+   "kind": "other",
+   "gist": "Short note that a picture was re-uploaded because of an error"
+  },
+  {
+   "id": 67,
+   "kind": "logistics",
+   "gist": "Forwarded reminder (polina.neurodivergent) of a Friday 12:00 MSK call and how to suggest topics"
+  },
+  {
+   "id": 68,
+   "kind": "announcement",
+   "gist": "Poll asking whether readers want a burnout-recovery and nervous-system support group (39 yes, 5 no)"
+  },
+  {
+   "id": 77,
+   "kind": "announcement",
+   "gist": "Author plans to relaunch a burnout and nervous-system support group, likely on Discord, and asks readers what format they prefer"
+  },
+  {
+   "id": 96,
+   "kind": "announcement",
+   "gist": "Announcement of first trial Discord presentation on burnout, recovery strategies and neurodivergent nervous system on 24 July 18:00 MSK, with format rules"
+  },
+  {
+   "id": 98,
+   "kind": "logistics",
+   "gist": "Reminder and agenda for the 24 July Discord presentation on neurodivergent nervous system, burnout and recovery; weekly Wednesdays 18:00 MSK"
+  },
+  {
+   "id": 101,
+   "kind": "announcement",
+   "gist": "Navigation post listing links to key channel posts on burnout, interoception, sensory, nervous system, MCAS, pacing"
+  },
+  {
+   "id": 102,
+   "kind": "announcement",
+   "gist": "Recording of Nastya's webinar on neurodivergent burnout, nervous system, mast cells and recovery strategies (2h09 cut)"
+  },
+  {
+   "id": 104,
+   "kind": "logistics",
+   "gist": "Reminder of 31 July Discord meeting on burnout recovery, pacing and window of tolerance, with time and format rules"
+  },
+  {
+   "id": 107,
+   "kind": "announcement",
+   "gist": "Nastya re-recorded the burnout talk and proposes a pacing meeting with homework: list all activities and energy drains (incl. masking) and end-of-day energy"
+  },
+  {
+   "id": 108,
+   "kind": "announcement",
+   "gist": "Poll on whether a pacing online meeting is relevant (56 yes, 7 no)"
+  },
+  {
+   "id": 109,
+   "kind": "announcement",
+   "gist": "Part 2 recording of burnout talk on recovery strategies, shame, pacing and window of tolerance, with tracker, nervous-system mapping PDFs and switching cards on Patreon"
+  },
+  {
+   "id": 110,
+   "kind": "logistics",
+   "gist": "Reminder of 7 August pacing meeting; prep: log physical and cognitive activity including hidden drains like masking"
+  },
+  {
+   "id": 111,
+   "kind": "promo",
+   "gist": "Forwarded from Я БОЛЬШЕ!: podcast episode on autism with psychiatrist Lena Urdina, who is herself autistic"
+  },
+  {
+   "id": 119,
+   "kind": "announcement",
+   "gist": "Recording of the pacing talk: pacing as a resource-allocation system for neurodivergent people in burnout"
+  },
+  {
+   "id": 120,
+   "kind": "logistics",
+   "gist": "Invitation and format for 14 August voice/chat meeting on neurodivergent burnout; health tracker coming soon"
+  },
+  {
+   "id": 121,
+   "kind": "announcement",
+   "gist": "Poll on attending the 14 August burnout meeting (52 votes)"
+  },
+  {
+   "id": 122,
+   "kind": "logistics",
+   "gist": "Reminder that the online meeting is starting, with Discord link"
+  },
+  {
+   "id": 136,
+   "kind": "logistics",
+   "gist": "Reminder that the next online meeting is 28 August and a nudge to use the tracker and pacing"
+  },
+  {
+   "id": 144,
+   "kind": "announcement",
+   "gist": "Poll on daytime (13:00) versus evening (17:00) for the 28 August meeting"
+  },
+  {
+   "id": 145,
+   "kind": "logistics",
+   "gist": "Meeting set for 17:00 MSK on Discord; topic is window of tolerance and sensory overload in burnout; extra daytime meeting possible"
+  },
+  {
+   "id": 154,
+   "kind": "promo",
+   "gist": "Forwarded podcast promo from Я БОЛЬШЕ! on children with ARFID and a biologist mother's experience"
+  },
+  {
+   "id": 157,
+   "kind": "announcement",
+   "gist": "Poll for 1 September meeting topic: interoception (44 votes) versus sensory overload and inner resources (40 votes)"
+  },
+  {
+   "id": 158,
+   "kind": "personal-update",
+   "gist": "Forwarded post from a psychologist defending Nastya against bullying and warning against paid neurodivergent counselling without psychological training"
+  },
+  {
+   "id": 160,
+   "kind": "logistics",
+   "gist": "Reminder that the Discord online meeting has started, with link"
+  },
+  {
+   "id": 162,
+   "kind": "logistics",
+   "gist": "Forwarded list of free Russian support groups and organisations for neurodivergent people (bipolar, ADHD, ASD, eating disorders and others)"
+  },
+  {
+   "id": 163,
+   "kind": "logistics",
+   "gist": "Reminder of 4 September 17:00 MSK meeting on interoception and how to improve it, with plan and rules"
+  },
+  {
+   "id": 164,
+   "kind": "announcement",
+   "gist": "Links to Nastya's other platforms (TikTok, YouTube, Patreon, Discord) and what each offers"
+  },
+  {
+   "id": 165,
+   "kind": "announcement",
+   "gist": "Request for community suggestions of useful books on neurodivergence for a list"
+  },
+  {
+   "id": 166,
+   "kind": "promo",
+   "gist": "Share of Megan Anna Neff's autistic burnout resource translated into Russian, linked from another channel"
+  },
+  {
+   "id": 187,
+   "kind": "announcement",
+   "gist": "Forwarded from Нейр∞тлично: joint TikTok live with Nastya today at 17:00 MSK to test the format and chat"
+  },
+  {
+   "id": 188,
+   "kind": "logistics",
+   "gist": "Forwarded from Нейр∞тлично: link to the TikTok live stream"
+  },
+  {
+   "id": 189,
+   "kind": "announcement",
+   "gist": "Forwarded from Лена Мовшина: invite to her talk on making her work AuDHD-friendly at the free Нейроотличники Zoom conference, 12 Sept 13:00-16:00 MSK"
+  },
+  {
+   "id": 190,
+   "kind": "announcement",
+   "gist": "Discord presentation cancelled this week; proposes a casual voice/chat online meeting on Wednesday 18:00, topics from comments"
+  },
+  {
+   "id": 191,
+   "kind": "announcement",
+   "gist": "Poll on attending the Wednesday 11 Sept 18:00 MSK online meeting"
+  },
+  {
+   "id": 192,
+   "kind": "promo",
+   "gist": "Forwarded from На спектре: link to a telegra.ph article on why brain scans (MRI, CT) are still not used to diagnose mental disorders"
+  },
+  {
+   "id": 194,
+   "kind": "logistics",
+   "gist": "Forwarded programme with timetable of talks for the Нейроотличники conference (masking, hyperfocus, anxiety in ASD, friendships, noise sensitivity, sensory diet) and Zoom link"
+  },
+  {
+   "id": 195,
+   "kind": "announcement",
+   "gist": "Author reports first podcast guest appearance on 'Я больше!' about autistic burnout and coping strategies"
+  },
+  {
+   "id": 196,
+   "kind": "promo",
+   "gist": "Forwarded from Я БОЛЬШЕ!: podcast episode 'ABC of self-care: how to prevent burnout' with the channel author, link to listen"
+  },
+  {
+   "id": 197,
+   "kind": "logistics",
+   "gist": "Forwarded from Тихий свет: autistic peer support group now open, meets Saturdays 12:00-14:00 MSK on Google Meet, max 8 people, sign-up via closed group"
+  },
+  {
+   "id": 198,
+   "kind": "announcement",
+   "gist": "Forwarded from Нейр∞тлично: TikTok live today at 17:00 MSK building an 'autistic bingo' of common traits (image attached)"
+  },
+  {
+   "id": 199,
+   "kind": "promo",
+   "gist": "Forwarded from Лена Мовшина: recording of the Нейроотличники conference on YouTube, her talk at 21:22"
+  },
+  {
+   "id": 200,
+   "kind": "logistics",
+   "gist": "Invitation and link to a TikTok live stream"
+  },
+  {
+   "id": 201,
+   "kind": "announcement",
+   "gist": "Cannot hold a meeting this week because of an upcoming move; asks via poll about a weekend meeting and topic wishes"
+  },
+  {
+   "id": 202,
+   "kind": "announcement",
+   "gist": "Poll on holding an online meeting on 21/22 Sept"
+  },
+  {
+   "id": 213,
+   "kind": "logistics",
+   "gist": "Link to a TikTok live stream today"
+  },
+  {
+   "id": 215,
+   "kind": "announcement",
+   "gist": "Poll on topics for the 22 Sept 14:00 MSK online meeting (burnout and accommodations, sensory overload, interoception training, neurodivergence and physical health)"
+  },
+  {
+   "id": 217,
+   "kind": "promo",
+   "gist": "Forwarded from На спектре: link to a telegra.ph article on autism and traumatic experience"
+  },
+  {
+   "id": 218,
+   "kind": "announcement",
+   "gist": "Forwarded report on the St Petersburg '[НЕ]Конференция' session on post-COVID and ME/CFS, with a listener quote that anyone suffering deserves support regardless of psychosomatic vs biological cause"
+  },
+  {
+   "id": 220,
+   "kind": "promo",
+   "gist": "Forwarded from Нейр∞тлично: recommends Yana's video that helps with impostor feelings, YouTube link"
+  },
+  {
+   "id": 223,
+   "kind": "announcement",
+   "gist": "Author announces a TikTok live on neurodivergence and physical health, link"
+  },
+  {
+   "id": 255,
+   "kind": "promo",
+   "gist": "Forwarded from Autentik AI: Toximeter message-toxicity bot now on WhatsApp with experimental text-from-image recognition"
+  },
+  {
+   "id": 256,
+   "kind": "personal-update",
+   "gist": "Forwarded from ФНР channel: links to the five-part personal story of falling ill with functional neurological disorder"
+  },
+  {
+   "id": 258,
+   "kind": "announcement",
+   "gist": "Explains the previous reposts are Nastya's FND story, introduces her channels and asks readers to support her"
+  },
+  {
+   "id": 259,
+   "kind": "promo",
+   "gist": "Forwarded from Невидимые зебры: introduces the Astra charity foundation for people with chronic pain (fibromyalgia, EDS, Marfan), its aid areas and contacts"
+  },
+  {
+   "id": 264,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live with katya_knyag on 4 Oct 19:00 MSK on neurodivergent friendship, listing discussion points"
+  },
+  {
+   "id": 265,
+   "kind": "promo",
+   "gist": "Forwarded from Астра: charity foundation for people with chronic pain, its history, goals, stats (8% of adults) and how to help"
+  },
+  {
+   "id": 273,
+   "kind": "personal-update",
+   "gist": "Channel author says the move is nearly done, needs time to recover before new translations, and asks for boosts"
+  },
+  {
+   "id": 275,
+   "kind": "announcement",
+   "gist": "InvaGirls (forwarded) launches up to three free individual psychologist consultations for women with disabilities, chronic illness or neurodivergence; sign-up via form, not urgent help"
+  },
+  {
+   "id": 276,
+   "kind": "announcement",
+   "gist": "Preorder announced for Evgenia Dashkova's book 'У меня СДВГ: что это значит' (forwarded from Депрессивная гедонистка), via Planeta crowdfunding until 6 Nov; chapters 1-3 outlined"
+  },
+  {
+   "id": 277,
+   "kind": "announcement",
+   "gist": "Chapter list (4-6) of the Dashkova ADHD book: common problems, ADHD look-alikes, disorder vs neurodifference views (forwarded book announcement images)"
+  },
+  {
+   "id": 278,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #276 (excluded: Preorder announced for Evgenia Dashkova's book 'У меня СДВГ: что это значит' (forwarded from Депрессивная гедо)"
+  },
+  {
+   "id": 279,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #276 (excluded: Preorder announced for Evgenia Dashkova's book 'У меня СДВГ: что это значит' (forwarded from Депрессивная гедо)"
+  },
+  {
+   "id": 280,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #276 (excluded: Preorder announced for Evgenia Dashkova's book 'У меня СДВГ: что это значит' (forwarded from Депрессивная гедо)"
+  },
+  {
+   "id": 281,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #276 (excluded: Preorder announced for Evgenia Dashkova's book 'У меня СДВГ: что это значит' (forwarded from Депрессивная гедо)"
+  },
+  {
+   "id": 282,
+   "kind": "logistics",
+   "gist": "InvaGirls (forwarded) asks applicants for free consultations to message the service head with name, age, city and contacts, or resubmit the form"
+  },
+  {
+   "id": 283,
+   "kind": "announcement",
+   "gist": "Announcement (forwarded from АНО «Не просто усталость») of a November online discussion between neurobiologist Vladimir Alipov and Varvara Ryabkova with ME/CFS/post-covid patients; questions accepted until 05.11.24"
+  },
+  {
+   "id": 286,
+   "kind": "logistics",
+   "gist": "Call for participants in an anonymous 30-minute international survey on traumatic experience in people over 13 with autism spectrum disorder, with or without diagnosis"
+  },
+  {
+   "id": 288,
+   "kind": "announcement",
+   "gist": "Announcement (forwarded from Я не советую) of a 3 Nov 15:00 MSK livestream on autism symptoms per DSM-5 and ICD-11, with lived experience and coping tips"
+  },
+  {
+   "id": 290,
+   "kind": "announcement",
+   "gist": "Intro post: author wrote a mast cell post for the charity fund Астра, which helps chronically ill people find doctors; next post follows"
+  },
+  {
+   "id": 292,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok livestream on 6 Nov at 19:00 MSK about deep emotional immersion in fiction (films, anime, books, fanfics, games) with Katya"
+  },
+  {
+   "id": 293,
+   "kind": "logistics",
+   "gist": "Link to the TikTok livestream announced in the previous post"
+  },
+  {
+   "id": 296,
+   "kind": "announcement",
+   "gist": "Poll asking whether meetings/presentations stay on Discord or move to another platform (maybe Zoom)"
+  },
+  {
+   "id": 302,
+   "kind": "promo",
+   "gist": "Tip-jar link: readers can buy the author a cup of tea to support her content"
+  },
+  {
+   "id": 306,
+   "kind": "announcement",
+   "gist": "Poll: would readers like TikTok recordings (autism, ADHD, C-PTSD, autistic burnout) reposted in the channel; 97 yes, 5 no"
+  },
+  {
+   "id": 307,
+   "kind": "other",
+   "gist": "Video (not available) on how sensory overload differs in autism versus ADHD and how the author feels it with both"
+  },
+  {
+   "id": 308,
+   "kind": "promo",
+   "gist": "Share of a translated excerpt on meltdowns from Fern Brady's autobiography Strong Female Character (translated by Лиза, Аутичная русалка), with content warning"
+  },
+  {
+   "id": 319,
+   "kind": "other",
+   "gist": "Short video (not available) explaining the mechanism behind mast cell activation syndrome, mast cells and histamine, linking to the author's article"
+  },
+  {
+   "id": 320,
+   "kind": "other",
+   "gist": "Video (not available) on echolalia vs palilalia and how they differ; the author realizes she learned at school by replaying the teacher's words internally"
+  },
+  {
+   "id": 329,
+   "kind": "announcement",
+   "gist": "Channel navigation post: description of the channel and categorized links to posts on autistic burnout, pacing, interoception, nervous system, comorbidities, differential comparisons and presentations"
+  },
+  {
+   "id": 330,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live Q&A on autism, ADHD and C-PTSD on 23 November at 20:30 Moscow time with Katya"
+  },
+  {
+   "id": 341,
+   "kind": "personal-update",
+   "gist": "Forwarded autistic meme from НЕЙРОТРОЕЧНИЦА: socializing, working and having fun for 3 days in a row leads to autistic burnout shutdown"
+  },
+  {
+   "id": 345,
+   "kind": "other",
+   "gist": "Forwarded from Нейр∞тлично: stereogram-style fantasy 3D images from a TikTok creator, also a check of binocular vision"
+  },
+  {
+   "id": 350,
+   "kind": "other",
+   "gist": "Video (not available) on camouflaging/masking and autistic burnout, replying to an earlier comment and linking to the burnout navigation"
+  },
+  {
+   "id": 352,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live Q&A on autism, ADHD and C-PTSD on 29 November at 20:30 Moscow time with Katya"
+  },
+  {
+   "id": 355,
+   "kind": "personal-update",
+   "gist": "Personal note: the author cannot finish a long text on medical gaslighting because it triggers emotional flashbacks; invites readers to share their stories"
+  },
+  {
+   "id": 362,
+   "kind": "other",
+   "gist": "Video (not available) of the author's experience communicating with a neurotypical person and how a barrier of mutual misunderstanding arose"
+  },
+  {
+   "id": 363,
+   "kind": "personal-update",
+   "gist": "Author's self-introduction: age 32, raised in Norway, self-taught photographer, ADHD, autism and C-PTSD diagnoses, burnout mistaken for depression, comorbidities (hEDS, MCAS, POTS), special interest in MCAS, and how the channel began"
+  },
+  {
+   "id": 371,
+   "kind": "announcement",
+   "gist": "Video on self-help approaches for neurodivergent people with comorbidities using a visual self-help map; asks whether readers want a downloadable prioritized list or map"
+  },
+  {
+   "id": 374,
+   "kind": "personal-update",
+   "gist": "Personal story of 17 years of medical gaslighting and misdiagnosis (psychosomatic, anxiety) before a rare comorbid condition was found at 32; link to a full article"
+  },
+  {
+   "id": 377,
+   "kind": "other",
+   "gist": "Video walkthrough (Part 1) of the hEDS diagnostic criteria; video not available in export"
+  },
+  {
+   "id": 382,
+   "kind": "logistics",
+   "gist": "Printable PDFs of the Russian feelings wheel, feelings list and 1-10 feelings intensity indicator"
+  },
+  {
+   "id": 390,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live Q&A on 18 Dec at 20:00 MSK about autism, ADHD and c-PTSD"
+  },
+  {
+   "id": 391,
+   "kind": "announcement",
+   "gist": "Idea of an end-of-year online community meeting (2 hours) to share discoveries and coping strategies; asks for feedback on format"
+  },
+  {
+   "id": 393,
+   "kind": "other",
+   "gist": "Short video on skill loss in autistic burnout, with a theory linking it to masking; video not available in export"
+  },
+  {
+   "id": 399,
+   "kind": "announcement",
+   "gist": "Poll on attendance at the online meeting on 25 Dec at 19:00 MSK (97 votes)"
+  },
+  {
+   "id": 408,
+   "kind": "promo",
+   "gist": "Video explaining neurodivergence and the triad hEDS/MCAS (САТК)/POTS (СПОТ), with TikTok subscribe link; video not available in export"
+  },
+  {
+   "id": 409,
+   "kind": "other",
+   "gist": "Chronic illness meme about joking about one's problems to make them seem less serious"
+  },
+  {
+   "id": 417,
+   "kind": "logistics",
+   "gist": "Reply to poll: asks who actually wants the 25 Dec online meeting, since most voted no or unsure; requests comments"
+  },
+  {
+   "id": 419,
+   "kind": "logistics",
+   "gist": "Reminder of the online meeting today at 19:00 MSK, 1.5 hours, topics and ground rules (listening, validation, no unsolicited advice)"
+  },
+  {
+   "id": 422,
+   "kind": "announcement",
+   "gist": "Celebrating 2,000 subscribers and thanks to the community; channel nearly a year old"
+  },
+  {
+   "id": 426,
+   "kind": "personal-update",
+   "gist": "New Year greeting for 2025"
+  },
+  {
+   "id": 427,
+   "kind": "other",
+   "gist": "Album of decorative photos posted on New Year with no text"
+  },
+  {
+   "id": 443,
+   "kind": "announcement",
+   "gist": "Thanks for votes in a channel boost; author can unlock one more reaction"
+  },
+  {
+   "id": 447,
+   "kind": "personal-update",
+   "gist": "Author's 33rd birthday note with a photo of how she spends the day"
+  },
+  {
+   "id": 458,
+   "kind": "announcement",
+   "gist": "Channel's first anniversary: started as a Discord server a year ago, moved to Telegram, 2k TikTok followers; thanks and ways to support (tea donation, channel boost)"
+  },
+  {
+   "id": 491,
+   "kind": "announcement",
+   "gist": "Forwarded note from Лена Мовшина: recorded a podcast with the channel author about her career path, neurodivergent burnout and internalized capitalism; editing and publishing still pending"
+  },
+  {
+   "id": 492,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #491 (excluded: Forwarded note from Лена Мовшина: recorded a podcast with the channel author about her career path, neurodiver)"
+  },
+  {
+   "id": 493,
+   "kind": "personal-update",
+   "gist": "Author's comment 'this is a diagnostic criterion of autism' was flagged by TikTok as bullying; she is shocked the word 'autism' is treated as abusive"
+  },
+  {
+   "id": 494,
+   "kind": "personal-update",
+   "gist": "Author reports being shadowbanned on TikTok after the warning (views dropped), asks followers to share her videos"
+  },
+  {
+   "id": 497,
+   "kind": "logistics",
+   "gist": "Subscriber question: are there good psychiatrists in Almaty for ASD/ADHD diagnosis, or online options to recommend"
+  },
+  {
+   "id": 501,
+   "kind": "personal-update",
+   "gist": "Author jokes in response to TikTok commenters saying 'I'm neurotypical and I'm the same'; no teachable content"
+  },
+  {
+   "id": 504,
+   "kind": "announcement",
+   "gist": "Format poll about starting YouTube videos: show face or presentation only (375 votes)"
+  },
+  {
+   "id": 506,
+   "kind": "personal-update",
+   "gist": "Author says people in her channel devalued her work and neurodivergence; video response (not available); tells critics to do better themselves"
+  },
+  {
+   "id": 507,
+   "kind": "personal-update",
+   "gist": "Thanks for support after a conflict; reflects she is neutral about praise and shares information because she likes helping people in her earlier situation"
+  },
+  {
+   "id": 517,
+   "kind": "announcement",
+   "gist": "Announcement of a new chat for subscribers who want to talk"
+  },
+  {
+   "id": 531,
+   "kind": "announcement",
+   "gist": "Poll: how would you feel if an autistic conversation partner used ChatGPT to communicate healthily during a disagreement, and would you want to know (279 fine, 25 offended, 190 want to know)"
+  },
+  {
+   "id": 535,
+   "kind": "announcement",
+   "gist": "Forwarded from 'Не просто усталость': part 3 of neurobiologist Vladimir Alipov's talk with the community on immune disorders, small fiber neuropathy in post-COVID and ME/CFS, neurodivergence, EDS and mast cell activation (video link)"
+  },
+  {
+   "id": 542,
+   "kind": "announcement",
+   "gist": "Pointer to Anna's channel for screenshots and more information on the Alexey Ivlev situation"
+  },
+  {
+   "id": 543,
+   "kind": "announcement",
+   "gist": "Forwarded from Anna Kostareva: fuller context on the Ivlev case, with correspondence showing dosage decisions made by a non-psychiatrist, noting the situation is ambiguous and the aim is to inform about risks, not to attack"
+  },
+  {
+   "id": 546,
+   "kind": "other",
+   "gist": "Video titled 'OCD or autism?' (video not available, no text)"
+  },
+  {
+   "id": 547,
+   "kind": "other",
+   "gist": "Video on pacing and neurodivergent burnout (video not available, only title and hashtags)"
+  },
+  {
+   "id": 549,
+   "kind": "announcement",
+   "gist": "Announces Anna's video about the Ivlev situation (framed as information on where his activity exceeds his competence), with links to screenshots, a specialist list for ASD/ADHD and a TikTok support request"
+  },
+  {
+   "id": 552,
+   "kind": "announcement",
+   "gist": "Forwarded from 'Не просто усталость': announcement of a May online discussion with clinical immunologist Zulfiya Afridonova on post-viral complications, PEM, immunity in ASD/ADHD, MCAS and hEDS; questions accepted until 20.04.25"
+  },
+  {
+   "id": 553,
+   "kind": "announcement",
+   "gist": "Forwarded from Аутичные переводы: link roundup of about 22 posts for Autism Acceptance Month (DSM-5, camouflage, stimming, meltdowns and shutdowns, inertia, burnout guide, self-diagnosis, communication)"
+  },
+  {
+   "id": 554,
+   "kind": "personal-update",
+   "gist": "Nastya responds to Ivlev's reply video, declines a joint livestream citing autistic burnout, C-PTSD, dissociation and delayed processing, says she informed people so they can choose consciously, and points to specialist lists"
+  },
+  {
+   "id": 566,
+   "kind": "other",
+   "gist": "Intro to a set of relatable memes compiled by Katya (forwarded from Нейр∞тлично)."
+  },
+  {
+   "id": 567,
+   "kind": "other",
+   "gist": "Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-introductions, 17 browser tabs mind, late-diagnosed realization, 1200 clues."
+  },
+  {
+   "id": 568,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 569,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 570,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 571,
+   "kind": "other",
+   "gist": "Forwarded meme: late-diagnosed autistic person awake at night wondering where the years went."
+  },
+  {
+   "id": 572,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 573,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 574,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #567 (excluded: Forwarded meme batch on autistic/ADHD life: undiagnosed-ADHD parent dismissing symptoms, unprepared self-intro)"
+  },
+  {
+   "id": 577,
+   "kind": "announcement",
+   "gist": "Forwarded from ТОПЬ: peer support group meeting on neurodivergence on 14.04 at 18:30 in Moscow, donation from 300 rub, registration required."
+  },
+  {
+   "id": 586,
+   "kind": "other",
+   "gist": "Meme: feeling good today, one hour later everything hurts (chronic illness humor)."
+  },
+  {
+   "id": 587,
+   "kind": "other",
+   "gist": "Author recorded a video to counter periodic misinformation about autistic burnout (video not available in export)."
+  },
+  {
+   "id": 588,
+   "kind": "logistics",
+   "gist": "Request to support the channel by casting a free boost vote via link."
+  },
+  {
+   "id": 590,
+   "kind": "other",
+   "gist": "Meme: finally getting an ADHD diagnosis and medication, then signs of undiagnosed autism emerge."
+  },
+  {
+   "id": 591,
+   "kind": "announcement",
+   "gist": "Forwarded from Женщины. Инвалидность. Феминизм: announcement of a closed 5-session support group on relationship with disability starting 28.04, 18+, Zoom, donation from 100 rub."
+  },
+  {
+   "id": 614,
+   "kind": "other",
+   "gist": "Video reposted from TikTok with only a source link (video not available in export)."
+  },
+  {
+   "id": 617,
+   "kind": "announcement",
+   "gist": "Forwarded from ауСДВГ карьера: new podcast episode 'Нейроотличные коллеги' where the channel author discusses neurodivergent burnout and capitalism, seven signs of internalized capitalism and the traffic-light method for energy planning."
+  },
+  {
+   "id": 618,
+   "kind": "announcement",
+   "gist": "Author's note that the podcast episode with Lena on capitalism and neurodivergent values is out."
+  },
+  {
+   "id": 619,
+   "kind": "logistics",
+   "gist": "Forwarded from Лена Мовшина: call to fill a 15-25 minute survey on work experience of autistic and ADHD people, target 500+ responses, public report for advocacy."
+  },
+  {
+   "id": 621,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live Q&A with Katya on 24 May at 20:00 Moscow time, questions welcome in advance."
+  },
+  {
+   "id": 622,
+   "kind": "announcement",
+   "gist": "Channel reached boost level 5 thanks to votes; author added more reactions."
+  },
+  {
+   "id": 625,
+   "kind": "personal-update",
+   "gist": "Author asks readers about their feeling of being alien or special as a child and when they found the neurotype explanation, sharing own experience of masking and her mother's 'indigo child' view."
+  },
+  {
+   "id": 637,
+   "kind": "logistics",
+   "gist": "Forwarded from Невидимые зебры: crowd-sourced list of doctors who understand connective tissue dysplasia / EDS; survey link to contribute."
+  },
+  {
+   "id": 649,
+   "kind": "personal-update",
+   "gist": "Reaction to a video claiming you must quit coffee and alcohol to cure MCAS; author has avoided both for years and says it is not so simple."
+  },
+  {
+   "id": 651,
+   "kind": "announcement",
+   "gist": "Forwarded video, part 1 of a conversation with an immunologist about immune abnormalities in post-COVID and ME/CFS and clinical trials of immune drugs"
+  },
+  {
+   "id": 652,
+   "kind": "personal-update",
+   "gist": "Author asks whether followers learned social cues and emotions from TV shows (rewatched Friends and Lie to Me many times) and realized only after ASD/ADHD diagnosis why"
+  },
+  {
+   "id": 653,
+   "kind": "promo",
+   "gist": "Promo for a Telegram channel by a biological-psychiatry researcher on genetics of schizophrenia, bipolar and ASD, therapy and ML in psychiatry"
+  },
+  {
+   "id": 654,
+   "kind": "promo",
+   "gist": "Slide/file in the album led by #653 (excluded: Promo for a Telegram channel by a biological-psychiatry researcher on genetics of schizophrenia, bipolar and A)"
+  },
+  {
+   "id": 656,
+   "kind": "promo",
+   "gist": "Slide/file in the album led by #653 (excluded: Promo for a Telegram channel by a biological-psychiatry researcher on genetics of schizophrenia, bipolar and A)"
+  },
+  {
+   "id": 657,
+   "kind": "promo",
+   "gist": "Slide/file in the album led by #653 (excluded: Promo for a Telegram channel by a biological-psychiatry researcher on genetics of schizophrenia, bipolar and A)"
+  },
+  {
+   "id": 665,
+   "kind": "logistics",
+   "gist": "Forwarded link to a teletype article 'Autism and psychoses' from Autistic Translations"
+  },
+  {
+   "id": 668,
+   "kind": "announcement",
+   "gist": "Forwarded announcement: from 7 July a Moscow clinic starts non-commercial appointments for ME/CFS, post-COVID and orthostatic intolerance, with address and signup form"
+  },
+  {
+   "id": 669,
+   "kind": "personal-update",
+   "gist": "Short personal joke about the author after a beach walk, with a photo"
+  },
+  {
+   "id": 670,
+   "kind": "announcement",
+   "gist": "Reminder to sign a Russian public initiative (ROI) for federal comprehensive support for people with ASD; under a month left; from the 'Ya osobenny' foundation"
+  },
+  {
+   "id": 671,
+   "kind": "logistics",
+   "gist": "Forwarded share of a 16-page Google Doc guide on surviving university with neurodivergence and heavy symptoms, with clickable table of contents"
+  },
+  {
+   "id": 672,
+   "kind": "promo",
+   "gist": "Promo for the SDVGid ADHD channel (CBT psychologists) listing sample posts on overwhelm, reward systems, split technique and demand avoidance"
+  },
+  {
+   "id": 674,
+   "kind": "other",
+   "gist": "Forwarded meme from Neir-otlichno about regretting opening up"
+  },
+  {
+   "id": 675,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 676,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 677,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 678,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 679,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 680,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 681,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #674 (excluded: Forwarded meme from Neir-otlichno about regretting opening up)"
+  },
+  {
+   "id": 684,
+   "kind": "announcement",
+   "gist": "Announcement of a TikTok live on 16 July at 20:00 MSK with Neir-otlichno about differences between autism and NPD, Q&A format"
+  },
+  {
+   "id": 686,
+   "kind": "personal-update",
+   "gist": "Author shows off a new 682-page book on hEDS and comorbidities (Disjointed by Diana Jovin)"
+  },
+  {
+   "id": 688,
+   "kind": "promo",
+   "gist": "Promo for the 'Berezhnaya psikhologiya' psychology space with a list of post links on identity, trauma, narcissists, BAR types and BPD"
+  },
+  {
+   "id": 691,
+   "kind": "promo",
+   "gist": "Promo for Olya Kim's CBT psychologist channel with list of articles and techniques (decatastrophizing, behavioral activation, DBT STOP)"
+  },
+  {
+   "id": 692,
+   "kind": "personal-update",
+   "gist": "Personal post about collecting stones at the Latvian coast and inviting followers to share their own stones"
+  },
+  {
+   "id": 693,
+   "kind": "other",
+   "gist": "Post sharing a visual explanation of what POTS is, with no text"
+  },
+  {
+   "id": 694,
+   "kind": "other",
+   "gist": "Meme about telling a doctor heat intolerance is a witch thing when it is POTS"
+  },
+  {
+   "id": 697,
+   "kind": "other",
+   "gist": "Meme on AuDHD routine vs novelty cycle: love routine, get bored, want novelty, get overwhelmed, back to routine"
+  },
+  {
+   "id": 698,
+   "kind": "promo",
+   "gist": "Promo for the MentalBuro team of therapists and psychiatrists with a list of sample posts on ADHD eating, rest, hyperactivity and PMDD"
+  },
+  {
+   "id": 708,
+   "kind": "announcement",
+   "gist": "Reminder that the channel has a navigation post for quickly finding important posts and translations"
+  },
+  {
+   "id": 709,
+   "kind": "other",
+   "gist": "Image comparing how a highly masked autistic adult looks to the untrained eye versus to those who get it"
+  },
+  {
+   "id": 710,
+   "kind": "other",
+   "gist": "Forwarded meme about autistic unmasking and impostor syndrome"
+  },
+  {
+   "id": 711,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 712,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 713,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 714,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 715,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 716,
+   "kind": "other",
+   "gist": "Forwarded meme about spotting overstimulated neurodivergent friends outside a party"
+  },
+  {
+   "id": 717,
+   "kind": "other",
+   "gist": "Slide/file in the album led by #710 (excluded: Forwarded meme about autistic unmasking and impostor syndrome)"
+  },
+  {
+   "id": 719,
+   "kind": "other",
+   "gist": "ADHD meme about the urge to use parentheses in every sentence"
+  },
+  {
+   "id": 720,
+   "kind": "announcement",
+   "gist": "Author asks whether research breakdown posts are still wanted after low reaction to the Z944 post, planning to review the ASD and vulnerable narcissism study; poll follows"
+  },
+  {
+   "id": 721,
+   "kind": "announcement",
+   "gist": "Poll: are research breakdowns needed (Yes/No, 308 votes)"
+  },
+  {
+   "id": 722,
+   "kind": "promo",
+   "gist": "Promo for Neurovecherinka psychology groups for neurodivergent women (autumn groups on body and mom burnout) with signup links"
+  },
+  {
+   "id": 724,
+   "kind": "promo",
+   "gist": "Request to subscribe to Alena Vochkovskaya's channel (book on autistic women) to reach 5000 subscribers for publishers"
+  },
+  {
+   "id": 727,
+   "kind": "other",
+   "gist": "Executive dysfunction meme: things seem impossible until you do them"
+  },
+  {
+   "id": 730,
+   "kind": "logistics",
+   "gist": "Forwarded notice of a Moscow theatre with actors with Down syndrome and neurodivergence, performance on 14 September at 19:00"
+  },
+  {
+   "id": 731,
+   "kind": "promo",
+   "gist": "Notice of a free art lab for neurodivergent people in St Petersburg and a free online art therapy group for depression"
+  },
+  {
+   "id": 732,
+   "kind": "promo",
+   "gist": "Promo for the Neurodivergent Work Lab course for autistic and ADHD people: 5 Saturday sessions starting 20 September, 15% subscriber discount"
+  },
+  {
+   "id": 735,
+   "kind": "announcement",
+   "gist": "Reminder that translated posts and articles are archived on the channel's Teletype blog"
+  },
+  {
+   "id": 745,
+   "kind": "announcement",
+   "gist": "Intro to solution-focused brief therapy (ОРКТ) and strengths-based thinking, leading into a supervision group enrollment"
+  },
+  {
+   "id": 746,
+   "kind": "announcement",
+   "gist": "Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led by Mushnikova and Kevats"
+  },
+  {
+   "id": 747,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 748,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 749,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 750,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 751,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 752,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 753,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 754,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #746 (excluded: Enrollment post for a closed ОРКТ supervision group starting Oct 6: 12 meetings over 6 months, 12 seats, led b)"
+  },
+  {
+   "id": 756,
+   "kind": "logistics",
+   "gist": "Request for help finding a Dungeon Master to run online D&D for beginners"
+  },
+  {
+   "id": 757,
+   "kind": "personal-update",
+   "gist": "Translated quote: 'sitting still feels like holding my breath' (ADHD), with admin's car-passenger example and a question to readers"
+  },
+  {
+   "id": 758,
+   "kind": "personal-update",
+   "gist": "Meme: how I feel waking up with fewer symptoms"
+  },
+  {
+   "id": 759,
+   "kind": "personal-update",
+   "gist": "Meme: how I feel after overestimating my resources and doing too much"
+  },
+  {
+   "id": 760,
+   "kind": "personal-update",
+   "gist": "Admin shares old memes about comorbidity and MCAS from TikTok"
+  },
+  {
+   "id": 761,
+   "kind": "announcement",
+   "gist": "Forwarded announcement of a biweekly online support group for women and queer people with chronic illness or disability, led by psychologist Darya Krayukhina"
+  },
+  {
+   "id": 762,
+   "kind": "personal-update",
+   "gist": "Translated meme on the ambivalence of showering: hating getting in, loving being in, loving feeling clean"
+  },
+  {
+   "id": 763,
+   "kind": "promo",
+   "gist": "Forwarded ad for Театр Простодушных play 'Prost-o-любви' on Oct 18, 19:00, with ticket link"
+  },
+  {
+   "id": 764,
+   "kind": "personal-update",
+   "gist": "Meme: 'pain doesn't last forever' vs chronic pain patients"
+  },
+  {
+   "id": 765,
+   "kind": "personal-update",
+   "gist": "Meme with a comeback to 'you don't look sick' / 'you don't look autistic'"
+  },
+  {
+   "id": 781,
+   "kind": "announcement",
+   "gist": "Forwarded invitation to a peer support group on neurodivergence in ТОПЬ on Nov 26, 19:00, with pricing and sign-up contact"
+  },
+  {
+   "id": 782,
+   "kind": "personal-update",
+   "gist": "Satirical headline meme: child's autism 'cured' by family telling them to stop"
+  },
+  {
+   "id": 783,
+   "kind": "announcement",
+   "gist": "Forwarded news that ME/CFS was presented for the first time at the All-Russian Patients Congress, with recording of the session"
+  },
+  {
+   "id": 784,
+   "kind": "personal-update",
+   "gist": "Meme about mast cells just wanting to be chill"
+  },
+  {
+   "id": 786,
+   "kind": "personal-update",
+   "gist": "Joke: happy about baking sourdough bread while the brain demands every drop of dopamine from the new hobby"
+  },
+  {
+   "id": 788,
+   "kind": "personal-update",
+   "gist": "New Year greeting wishing a slightly easier next year"
+  },
+  {
+   "id": 789,
+   "kind": "personal-update",
+   "gist": "Meme with admin note: explaining why simple things are hard, pointing at a messy autonomic nervous system in neurodivergence and comorbidities"
+  },
+  {
+   "id": 791,
+   "kind": "promo",
+   "gist": "Forwarded ad for Театр Простодушных performances on Jan 18, 19:00 with ticket link"
+  },
+  {
+   "id": 792,
+   "kind": "logistics",
+   "gist": "Forwarded fundraising appeal for Sonya, a girl with Phelan-McDermid syndrome who needs dental treatment, vouched for by the poster"
+  },
+  {
+   "id": 793,
+   "kind": "logistics",
+   "gist": "Forwarded emergency fundraiser for Sonya's dental restoration, cost 255,160 rubles"
+  },
+  {
+   "id": 794,
+   "kind": "logistics",
+   "gist": "Slide/file in the album led by #793 (excluded: Forwarded emergency fundraiser for Sonya's dental restoration, cost 255,160 rubles)"
+  },
+  {
+   "id": 795,
+   "kind": "logistics",
+   "gist": "Slide/file in the album led by #793 (excluded: Forwarded emergency fundraiser for Sonya's dental restoration, cost 255,160 rubles)"
+  },
+  {
+   "id": 796,
+   "kind": "announcement",
+   "gist": "Forwarded update: Sonya's dental operation succeeded, donations covered almost 80% of the 184,000 ruble cost, thanks to donors and channels"
+  },
+  {
+   "id": 797,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #796 (excluded: Forwarded update: Sonya's dental operation succeeded, donations covered almost 80% of the 184,000 ruble cost, )"
+  },
+  {
+   "id": 798,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #796 (excluded: Forwarded update: Sonya's dental operation succeeded, donations covered almost 80% of the 184,000 ruble cost, )"
+  },
+  {
+   "id": 800,
+   "kind": "announcement",
+   "gist": "Forward from InvaGirls: a few free spots for individual psychologist consultations in February (up to three free sessions)"
+  },
+  {
+   "id": 801,
+   "kind": "announcement",
+   "gist": "Free legal diagnostic project for autism and ADHD in women 18+ run by a psychologist in Poland; sign-up until 13.02"
+  },
+  {
+   "id": 804,
+   "kind": "logistics",
+   "gist": "Forward from NO STIGMA: updated spreadsheet of psychologists with new specialists added"
+  },
+  {
+   "id": 806,
+   "kind": "personal-update",
+   "gist": "Author asks readers for help with EU copyright and protecting intellectual property for her self-help guide on neurodivergent burnout and comorbid conditions, still in progress"
+  },
+  {
+   "id": 807,
+   "kind": "personal-update",
+   "gist": "Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibility, choice and inclusive sisterhood"
+  },
+  {
+   "id": 808,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 809,
+   "kind": "other",
+   "gist": "Forward from InvaGirls: March 8 image card 'your choice, your boundaries, your right to decide for yourself'"
+  },
+  {
+   "id": 810,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 811,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 812,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 813,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 814,
+   "kind": "personal-update",
+   "gist": "Slide/file in the album led by #807 (excluded: Forward from InvaGirls: March 8 greeting to women with disabilities, wishing rest as a basic need, accessibili)"
+  },
+  {
+   "id": 815,
+   "kind": "promo",
+   "gist": "Forward from Аутичные переводы: Toximeter bot update with tone softening, reply suggestion and dialogue analysis; 5 free analyses a month, then subscription 299 rub/3 EUR"
+  },
+  {
+   "id": 816,
+   "kind": "promo",
+   "gist": "Author personally recommends the Toximeter bot for analyzing both others' and her own messages and asks readers for their experience"
+  },
+  {
+   "id": 819,
+   "kind": "announcement",
+   "gist": "Forward from Про ПНИ: announcement of verbatim play 'Только не я' about childhood bullying with discussion on 18 March at the Museum of Moscow"
+  },
+  {
+   "id": 820,
+   "kind": "announcement",
+   "gist": "Slide/file in the album led by #819 (excluded: Forward from Про ПНИ: announcement of verbatim play 'Только не я' about childhood bullying with discussion on )"
+  },
+  {
+   "id": 821,
+   "kind": "personal-update",
+   "gist": "Author asks readers whether to create a Boosty and move content there given worries about blocking and keeping contact"
+  },
+  {
+   "id": 823,
+   "kind": "announcement",
+   "gist": "Forward from 'Не просто усталость': ME/CFS and post-covid covered on Channel One news on 15 March with a patient and a neurologist; progress comes brick by brick"
+  },
+  {
+   "id": 824,
+   "kind": "other",
+   "gist": "Forward from 'Не просто усталость': screenshot of neurologist Varvara Ryabkova in the Channel One ME/CFS segment"
+  },
+  {
+   "id": 825,
+   "kind": "announcement",
+   "gist": "Forward from Аутичные переводы: curated list of about 24 links to posts for autism awareness month (camouflage, stimming, meltdowns, burnout, communication, DSM)"
+  },
+  {
+   "id": 828,
+   "kind": "announcement",
+   "gist": "Forward from Театр Простодушных: invitation to physical theatre play 'Окно из наружу' on 19 April at KC ZIL"
+  },
+  {
+   "id": 829,
+   "kind": "announcement",
+   "gist": "Forward from Ельцин Центр: meeting 'Аутичные переводы: как создать сообщество взаимопомощи' on 29 April at 19:00, peer-to-peer principle"
+  },
+  {
+   "id": 831,
+   "kind": "logistics",
+   "gist": "Forward: law student seeks anonymous survey respondents who were treated in psychiatric hospitals for her thesis on rights of people with mental disorders"
+  },
+  {
+   "id": 832,
+   "kind": "announcement",
+   "gist": "Forward from Лена Мовшина: first report of research on work sustainability of AuSDHD people (1027 respondents), listing six topics and tips for reading the long report"
+  },
+  {
+   "id": 833,
+   "kind": "announcement",
+   "gist": "Forward: invitation to first Neurodivergent Colleagues Day in Moscow on 23 August with research presentation, writing practice and discussion"
+  },
+  {
+   "id": 835,
+   "kind": "announcement",
+   "gist": "Forward from 'Не просто усталость': new video on personalized-medicine approach to ME/CFS and post-covid, looking for individual mechanisms rather than one cause"
+  },
+  {
+   "id": 836,
+   "kind": "announcement",
+   "gist": "Forward from Outsiderville: free online webinar on loneliness, creativity and art on 10 October with psychologists and resident artists"
+  }
+ ]
+}

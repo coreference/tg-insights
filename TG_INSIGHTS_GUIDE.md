@@ -1,0 +1,242 @@
+# TG Insights — guide to the whole setup
+
+*Generated 2026-11-21 17:07 from `tg-archivist/docs/guide_template.md` plus the live state of the library. Do not edit `TG_INSIGHTS_GUIDE.md` or `guide.html` by hand — edit the template and run `python3 tg-archivist/archivist.py sync`.*
+
+## 1. What this is
+
+TG Insights turns Telegram channel exports into **knowledge bases** and keeps them in one **library**. Each channel becomes a set of self-sufficient knowledge files (the channel's full insights, with every framework and step-by-step method written out and cited to the original messages). On top of the channels sits one cross-channel index, so a person or an AI agent can take a subject and read what *all* channels say about it.
+
+Library root: `/Users/coreference/projects/tg insights`
+
+Three things you can do with it: **add knowledge** (new channels, or newer exports of channels you already have), **ask an agent** that answers from the library, and **study or browse** it yourself or with a learning tool such as NotebookLM.
+
+## 2. The screens
+
+| Screen | What it is for | Open |
+|---|---|---|
+| **Knowledge Hub** | Front door to all channels: search and browse any subject across every knowledge base | [hub.html](hub.html) |
+| **Channel library** (one per channel) | Read one channel's topics; every citation unfolds the original message | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) · [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) · [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) · [Нейропряность](sources/tg-channels/neurospicy/library.html) · [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) |
+| **Archivist** | Add a new Telegram export or append a newer one; watch progress | start it (see 4A), then [http://127.0.0.1:8765](http://127.0.0.1:8765) |
+| **This guide** | How everything works | [guide.html](guide.html) · for agents: `TG_INSIGHTS_GUIDE.md` |
+
+Every screen has the same three controls in the top-right corner: **How to use this page** (toggle with instructions for that screen), **＋ Add / append knowledge base** (opens the Archivist) and **?** (this guide). In a published copy of the library — one without the `tg-archivist/` toolkit, such as the GitHub repository — the middle button reads **＋ Request a channel** and opens a short form for suggesting a new channel or other source (the pages tell the two apart by whether `tg-archivist/app/local.js` loads).
+
+## 3. What is where
+
+| Path | Contents | Edit by hand? |
+|---|---|---|
+| `hub.html`, `KNOWLEDGE_INDEX.md`, `knowledge_index.json`, `index/` | Cross-channel hub and index: areas, per-area topic lists (with *also relevant* topics from other areas), the **concept index** `index/concepts.md` + `index/concepts.json` (each concept → every topic of every channel tagged with it, with channel, area and one-line scope), frameworks A–Z | No — generated |
+| `TG_INSIGHTS_GUIDE.md`, `guide.html` | This guide | No — generated from the template |
+| `CLAUDE.md` | Standing instructions for any agent working in this folder | Yes |
+| `areas.json` | Cross-channel areas (the shared top-level subjects) | Yes (titles/descriptions) |
+| `concepts.json` | Shared cross-channel concept vocabulary — the source of truth for the concept index: slug, label, definition, English and Russian synonyms, aliases (merged slugs). Grows when a taxonomy or `tag` run defines a new concept; taxonomy and tagging work orders read it | Yes (labels, definitions, synonyms); merge duplicates with `archivist.py concepts merge` |
+| `theme_aliases.json` *(optional)* | Maps equivalent theme tags to one (`{"sleep-hygiene": "sleep"}`) | Yes |
+| `kb_registry.json` | List of knowledge bases in the library (each folder stored relative to the library root, so the library can be moved) | Via the Archivist |
+| `.claude/skills/` | `tg-archivist` (build/append), `tg-kb-navigator` (answer from the library) | Yes |
+| `.claude/agents/` | Worker agents the archivist dispatches | Yes |
+| `.claude/settings.json` | Session-start hook that refreshes anything stale | Yes |
+| `tg-archivist/` | The toolkit: `archivist.py`, `lib/`, `prompts/` (incl. the extraction standard), `app/` (Archivist panel), `docs/` | Yes (it is the code) |
+| `Start Archivist.command` | Double-click launcher for the Archivist panel (on a Mac its first start also installs `~/Applications/TG Archivist.app`, which lets the **＋ Add / append** button start the panel; `tg-archivist/app/launcher.py install / status / uninstall`) | — |
+| `index/notebooklm/<area>/` | Ready-made NotebookLM sets: every channel's study files on one area, to upload together | No — generated |
+| `sources/` | All source material, one folder per **source type**: `sources/tg-channels/` holds the Telegram channels; a new type of source (e.g. books) gets its own folder next to it (`sources/books/`) | see below |
+| `sources/<source type>/<source>/` | One knowledge base per source, e.g. `sources/tg-channels/na-balanse/`, `sources/tg-channels/deep-mind2.0/`. Its raw material is in `raw-exports/`, everything derived from it sits next to that | see below |
+
+Inside a source folder (here a channel folder, `sources/tg-channels/<channel>/`):
+
+| Path | Contents | Source of truth? |
+|---|---|---|
+| `raw-exports/<export>/` — e.g. `raw-exports/ChatExport_2026-07-16/` (`messages*.html`, `photos/`, `files/` …), one folder per export, the oldest is the original, later ones are appended | The Telegram exports themselves — the canonical place for the raw material is always `sources/<source type>/<source>/raw-exports/<export>/` | Yes — never modified |
+| `parsed/messages.jsonl`, `parsed/media_text.jsonl` | Verbatim messages; text transcribed from images and PDFs | Derived by code from the exports |
+| `parsed/index.jsonl`, `topics/_taxonomy.json` | Per-post cards; the topic tree — each topic with its scope, posts, and cross-channel tags (`also_areas`, `concepts`) | Written by workers, validated by code |
+| `work/tagging/` | `archivist.py tag` work order, input and the tag proposal to review (`tags.proposal.md`) | Working files |
+| `work/resources/_resources.json` | How every link and attached file shared in the posts is classified — resource / external link / skip, type, title, note, ★ recommended — written by the `resources` stage from validated work orders | Source of truth (written by code; edit a title, note or class here and `sync` if one is wrong) |
+| `work/extract/*.md` | Extracted knowledge, one file per topic part | **Yes — the knowledge itself** |
+| `_profile.md` | Channel profile: persona and constraints for agents | Yes |
+| `topics/<domain>/<topic>.md` | The knowledge files people and agents read (merged from the parts) | Generated |
+| `library.html` (+ `library-messages.js`: the original posts its citations open; left out of published copies), `README.md`, `SUMMARY.md`, `glossary.md`, `people.md`, `resources/` (`resources.md` = usable resources, `links.md` = external links, plus files & media and excluded messages), `notebooklm/`, `agent-kb/`, `99_qa_report.md` | Everything else | Generated |
+| `_kb.json`, `_state.json`, `_archivist.log` | Configuration, pipeline state, log | Managed by the Archivist |
+
+## 4. Step by step
+
+### A. Add a new channel
+
+1. In Telegram Desktop open the channel → ⋮ → **Export chat history** → format **HTML**, include photos and files. You get a folder containing `messages.html`.
+2. Leave the export wherever it is (e.g. Downloads) — the path is all the Archivist needs. Building creates the channel's own folder `sources/tg-channels/<slug>/` (the folder name is the slug you choose; `--name` on the command line) and **copies** the export into its `raw-exports/` (`sources/tg-channels/<slug>/raw-exports/ChatExport_2026-07-16/`), so you can delete the download afterwards. An export that already lies inside the library is **moved** there instead. You may also prepare the folder yourself: `sources/tg-channels/my-channel/raw-exports/ChatExport_2026-07-16/` — then give the path of `sources/tg-channels/my-channel/`.
+3. Start the Archivist: press **＋ Add / append knowledge base** on any screen — if the panel is not running, the button starts it and opens it (on a Mac; the browser may ask once whether to open *TG Archivist*). The very first time, start it by hand: double-click `Start Archivist.command` in the library root (or run `python3 tg-archivist/app/server.py`); that start installs the small launcher app the button uses. The panel lives at [http://127.0.0.1:8765](http://127.0.0.1:8765).
+4. Paste the folder path — the export folder or a channel folder holding export folders — press **Inspect** (it shows the folder the knowledge base will be created in), adjust title and options, press **Build knowledge base**. With several exports, the oldest becomes the original and the others are appended automatically. Parsing, text recognition of image cards and PDFs, and batching run immediately.
+5. The reading-and-writing stages need Claude. **With the standalone Claude CLI** (`claude`, installed with Claude Code) **logged in**, they run from the panel: the badge at the top says *Claude CLI logged in*, and a card waiting for Claude has a **Run with Claude** button (builds and appends start it by themselves). If the badge says *installed but not logged in*, press **Log in to Claude CLI** — it opens Terminal with `claude auth login`; sign in in the browser window that opens. (Signing in to the Claude desktop app does not log in the CLI.) **Without the CLI**, the panel shows a one-line command; paste it into Claude Code opened in the library root:
+
+```
+/tg-archivist "sources/tg-channels/<slug>"
+```
+
+6. When it finishes, the channel appears in the hub, the cross-channel index and the guide automatically.
+
+What the build does, in order: recon → parse → media text → cards (each post classified; announcements, logistics and promotion are excluded) → taxonomy (topics, the cross-channel area of each domain, and for every topic its *also-relevant areas* and *concepts* — see 4H) → extract (full-insight knowledge files, checked mechanically for depth) → retag (each topic's tags and scope re-checked against its extracted knowledge — see 4H) → resources (every link and attached file of the posts classified as resource or external link — see 4I) → profile (channel persona and constraints) → assemble → QA → index.
+
+### B. Append a newer export of a channel you already have
+
+Export the channel again from Telegram (the whole history or only from the last date — both work; overlapping messages are merged by id). Then either:
+
+- **Archivist panel, by path**: paste the new export folder (wherever it is) and press **Inspect**. The panel recognises the channel and offers **Append to “…”**. Press it.
+- **Archivist panel, by dropping it into the channel folder**: put the new `ChatExport_…/` folder into the channel's `raw-exports/` folder (`sources/tg-channels/<channel>/raw-exports/ChatExport_2026-11-17/`). The channel's card in the panel then shows **New export folder found** with an **Append** button (pasting the channel folder path and pressing **Inspect** offers the same).
+- **Command line**: `python3 tg-archivist/archivist.py append "sources/tg-channels/<channel>" "<new export folder>"` — or, for export folders already inside the channel folder, just `python3 tg-archivist/archivist.py append "sources/tg-channels/<channel>"` — then `/tg-archivist "sources/tg-channels/<channel>"` in Claude Code. `archivist.py status "<channel folder>"` lists the exports; `doctor` flags any export folder that has not been appended.
+
+Only new material is processed: new posts are carded, placed into existing topics (new topics are created only when needed, each tagged with also-relevant areas and concepts; topics that receive new posts may gain concepts), and extracted as an additional *part* of each affected topic; the topic's knowledge file is re-merged (its summary gains the new part's summary; its questions and frameworks lists gain the new ones). Then the retag stage re-checks the tags and scope of every topic that received new posts (4H). If a message that was already extracted has been edited in the newer export, the affected part is re-opened. An export that lives outside the channel folder is copied into its `raw-exports/<export folder name>/`, so you can delete the download afterwards. If you have already placed the export folder in `raw-exports/` (for example `raw-exports/ChatExport_2026-11-17/` next to the original `raw-exports/ChatExport_2026-07-16/`), it is registered in place and not copied; one dropped anywhere else inside the channel folder is moved into `raw-exports/` first. All media links are resolved from the channel folder (`raw-exports/<export>/photos/…`). Newer Telegram exports format long posts as “rich blocks” (headings, paragraphs, embedded photos, slideshows); the parser reads these, keeping paragraph breaks and every attached photo.
+
+### C. Use the library as the knowledge base of a conversational agent
+
+**In Claude Code, opened in the library root** — nothing to install. Ask your question; the skill `tg-kb-navigator` routes through `KNOWLEDGE_INDEX.md`, consults **every** channel that covers the subject, adopts each channel's profile for that channel's material, and answers with per-channel attribution. Useful phrasings: “what do my channels say about …”, “how do I … according to …”, “compare what … and … say about …”, “give me the full method for …”.
+
+**In Claude Code elsewhere** — symlink the skills so they stay current:
+
+```
+mkdir -p ~/.claude/skills
+ln -s "/Users/coreference/projects/tg insights/.claude/skills/tg-kb-navigator" ~/.claude/skills/tg-kb-navigator
+```
+
+   and give the session access to the library root. A single channel can be installed alone by symlinking its `agent-kb/` folder (instructions in its `agent-kb/README.md`).
+
+**In claude.ai or another assistant** — give it `KNOWLEDGE_INDEX.md`, the `index/` folder and the channels' `topics/` folders (or one channel's zipped `agent-kb/`). Tell it to follow the protocol at the top of `KNOWLEDGE_INDEX.md`.
+
+How an agent is expected to behave (the protocol in `KNOWLEDGE_INDEX.md`): start from the **concept index** `index/concepts.md` — pick the concept(s) matching the question and take every topic listed under them, from every channel and every area → as a safety net, one `find` with the concept's synonyms and the user's own words in Russian and English (`find --concept <slug> "<words>"`), because channels file the same subject under different areas and not every phrasing is tagged → open the area index of the obvious area and of its neighbours (each also lists, under *Also relevant*, topics filed under another area that teach the subject too) → for each relevant channel read its `agent-kb/SKILL.md` and adopt that persona and those constraints → read the matching knowledge files in full → synthesize across channels with attribution and caveats, and **surface the resources**: each topic file ends with *Resources and links*, and the agent gives the user the relevant files, guides, articles, studies, tools and websites (★ recommended first) with their links or file paths, plus products, books and courses labelled as external links; `index/resources.md` lists them all across channels. For lighter processing (an overview, a whole area at once, a tight context budget) agents read the NotebookLM study files instead — listed at the top of each area index and in each channel's routing tables — and return to the topic files when exact provenance or precise quotes matter. To locate material, any agent can run `python3 tg-archivist/archivist.py find "<query>" "<synonym>" "<term in the other language>" …`: it searches all knowledge bases at once, takes several queries in one call and merges the ranking (a topic found by several synonyms rises), matches Russian and English word forms (эмоции ~ эмоциональная, regulate ~ regulation), and shows each hit's area and which queries it matched. `--concept <slug>` adds every synonym of that vocabulary concept as a query and lifts the topics tagged with it; a query that names a concept (e.g. “саморегуляция”) also lifts that concept's topics.
+
+### D. Use it as study material (NotebookLM or any AI tutor)
+
+1. Each channel has a `notebooklm/` folder: one document per domain (long domains are split into parts) with the same full knowledge as the knowledge files, in lighter markup. Its `README.md` lists which file covers what.
+2. **NotebookLM button** — on every topic in the hub and in each channel library (in the topic's header), and next to every area heading in the hub. It shows the file that holds this topic and the NotebookLM files of *every* channel on the same area, with links, **Copy folder path** and **Copy all file paths**.
+3. For one subject across channels: upload everything in the ready-made folder `index/notebooklm/<area>/` (copies of every channel's files on that area, prefixed with the channel) into one notebook. In NotebookLM: *New notebook → Add source → Upload*; in the macOS file dialog press ⌘⇧G and paste the copied folder path.
+4. For a whole channel: upload all files of its `notebooklm/` folder.
+5. Ask the tool for an audio overview, a study guide, flashcards or a quiz. Citations look like `[#123]`; look any of them up in the channel library.
+
+### E. Browse a subject yourself, across channels
+
+1. Open [hub.html](hub.html).
+2. Type the subject, pick **area** chips, or pick **concepts** — from the **Concept index** in the left bar (type in its search box, English or Russian; click its heading to fold it away), from the *Concepts* row above the results (the concepts with the most topics — its label says “top N of all”, and the *Area* label says how many areas there are), or from the concept tags on any topic card. To narrow to channels, click their **channel cards** in the right-hand panel. Areas, concepts and channels are multi-select: several can be on at once (topics in any of them). For concepts, the **ANY | ALL** switch under the concept search (repeated in the banner above the results) decides whether a topic needs any or all of the selected concepts — e.g. three concepts on ALL plus two areas shows the topics in those two areas tagged with all three; in ALL mode each concept in the index says how many topics carry it together with the ones already selected, and `#concept=a,b&match=all` links to such a view. Click an active one again to switch it off, or use *deselect all* at the end of the row once two or more are on. Topics from all channels appear in the centre grouped by area, each titled first and then labelled with its channel. Each area heading folds its section away (click it again to unfold; *fold areas* does all). A topic card starts compact — title, channel, place and concept tags; click it to see it in full (summary, questions it answers, a *Frameworks (N)* toggle, resources, path of the knowledge file), and click its top again to fold it; *expand cards* / *collapse cards* do all. An area also shows, marked *also relevant*, topics filed under another area that teach the same subject; a concept shows every topic tagged with it, whatever its area, with the concept's definition and synonyms. `hub.html#concept=<slug>` (or `#concept=a,b`) opens concepts directly, and each channel library links its topics' concepts there. The channel cards (progress, library, README, NotebookLM pack, agent skill) sit in the right-hand panel under *Add / append knowledge base*; clicking a card outside its links switches that channel's filter on or off.
+3. Click a topic to read it in the channel library; click any `#id` chip there to unfold the original message, and click the same chip again (or the × on the message) to fold it away — the page returns to where you were. **NotebookLM** on a topic or area lists the matching study files from all channels.
+
+### F. Check something against the original
+
+In a channel library, click the citation chip. For text search across originals use the library's search box. Files: `parsed/messages.jsonl` (message text), `parsed/media_text.jsonl` (text from images and PDFs).
+
+### G. Keep it healthy
+
+- `python3 tg-archivist/archivist.py doctor` — lists anything stale, missing, unfinished, untagged (topics without concepts) or inconsistent (tags not in `concepts.json`, `also_areas` not in `areas.json`), with the command that fixes each.
+- `python3 tg-archivist/archivist.py tag "<channel folder>" | --all [--apply]` — propose / apply cross-channel tags for existing topics (see 4H).
+- `python3 tg-archivist/archivist.py concepts list` — every concept with its number of topics and channels; `concepts merge FROM INTO [--apply]` folds a duplicate concept into another; `concepts rename FROM TO [--label "…"] [--apply]` renames one (see 4H).
+- `python3 tg-archivist/archivist.py sync` — regenerates every derived document that is out of date (hub, indexes, guide, libraries, study packs, skill packs, QA reports).
+- `python3 tg-archivist/archivist.py list` / `status "sources/tg-channels/<channel>"` — progress.
+- **Moved or renamed a folder?** Keep every knowledge base in `sources/<source type>/<source>/` and its exports in `raw-exports/`, then run `python3 tg-archivist/archivist.py relocate --all` (a dry run that shows what will change) and `relocate --all --apply`. It finds each knowledge base by its slug, re-points the registry, the configuration, every stored media path (parsed messages, text from images, the resource classifications) and the work orders, then regenerates the documents. `doctor` reports a knowledge base that needs it, and any export folder lying outside `raw-exports/`. Moving the whole library folder needs nothing: all stored paths are relative.
+- Each channel's `99_qa_report.md` shows coverage, depth and any open issue. Depth QA judges the extracted knowledge only: the generated *Resources and links* section of a topic file is not counted, and a `<!-- depth-ok #id: reason -->` exception written anywhere in an extract part is kept in the assembled file and honoured.
+
+### H. Cross-channel tags: also-relevant areas and concepts
+
+Channels file the same subject under different areas — emotional regulation is *Mind & Emotions* in one channel and *Rest & Burnout* or *Meditation* in another. So besides its primary area (from its domain), every topic carries two tags in `topics/_taxonomy.json`:
+
+- **`also_areas`** — up to 3 other areas where the topic is substantially relevant. Each area index lists such topics under **Also relevant — topics filed under another area**, and `KNOWLEDGE_INDEX.md` counts them per area.
+- **`concepts`** — 2–6 cross-channel concept slugs from the shared vocabulary `concepts.json` (e.g. `emotional-regulation`, `burnout`, `sleep-hygiene`). Topics of different channels that share a concept can be read together, whatever their areas. A new concept is defined once (label, definition, English and Russian synonyms) and added to `concepts.json`.
+
+**New channels and appends are tagged automatically**: the taxonomy work order fills both tags for every topic (and for every new topic after an append), reusing vocabulary concepts and defining new ones; the checker rejects missing or invalid tags with feedback. The taxonomy stage — and so the channel — is never complete while any topic lacks concepts: the runner issues a tagging work order for the untagged ones instead, and re-opens the stage of an already finished channel that has untagged topics.
+
+**Re-tagging after extraction (automatic).** Tags chosen at the taxonomy stage are judged from short post cards, and a topic's tags do not follow its growth after an append. So once extraction finishes, the **retag** stage gives every topic whose extracted knowledge is new or has gained a part since its tags were last judged to the `tg-taxonomist` agent: it re-checks the tags against the full knowledge (summary, questions answered, frameworks, and the knowledge file itself), adds a concept for every subject the topic substantially teaches (posts usually cover more than one), drops ones it barely touches, revises `also_areas`, and rewrites the topic's scope line when it no longer describes what the topic contains. The result is applied automatically; `<channel>/work/retag/retag-NN.changes.md` lists every topic it changed. After an append only the topics that received new posts are re-checked.
+
+**Tagging existing topics by hand** — `archivist.py tag`:
+
+1. `python3 tg-archivist/archivist.py tag "<channel folder>"` (or `--all` for every channel) — a dry run. It writes a work order in `<channel>/work/tagging/` and prints it; give it to the `tg-taxonomist` agent (`Execute the work order at <prompt_file> exactly. Read it first.`; at most 2 at a time). Concepts proposed by other channels' pending proposals are offered to the worker, so channels converge on one vocabulary; whichever proposal is applied first adds the shared concept to `concepts.json`, and the others then simply reuse it.
+2. Run the same command again: it validates the worker's proposal and renders `<channel>/work/tagging/tags.proposal.md` — a table per domain (topic → also-relevant areas → concepts, new concepts marked ★). Review it; edit `tags.proposal.json` if you want changes.
+3. `python3 tg-archivist/archivist.py tag "<channel folder>" --apply` — writes only `also_areas` and `concepts` into `topics/_taxonomy.json`, adds new concepts to `concepts.json`, and syncs. Topics, post assignments and extracted knowledge are never touched; applying the same proposal twice changes nothing.
+
+By default only untagged topics are proposed; `--retag` proposes tags for all topics again. `--run` lets a logged-in `claude` CLI do step 1's work order itself. `doctor` lists untagged topics, tags missing from `concepts.json`, invalid `also_areas`, topics still carrying a merged slug and incomplete vocabulary entries, each with the command that fixes it.
+
+**The concept index.** Every `sync` joins `concepts.json` with every channel's tags into `index/concepts.md` (and `index/concepts.json`): an at-a-glance table (concept, channels, number of topics and areas, synonyms), then one section per concept listing every topic of every channel tagged with it — channel, topic, the area it is filed under, file path and one-line scope. `KNOWLEDGE_INDEX.md` links it (§3) and makes it step 1 of the agent protocol; the hub shows it as the *Concept* filter and the **Concept index** panel.
+
+**Merging duplicate concepts.** When two concepts mean the same thing (for example `sleep-deprivation` and `sleep-hygiene`), run `python3 tg-archivist/archivist.py concepts merge sleep-deprivation sleep-hygiene` (several pairs at once are fine). The dry run lists the topics affected; add `--apply` to merge: the target concept gains the other's label and synonyms, the merged slug is kept as an *alias* (so workers and tags that still use it resolve to the target), every channel's taxonomy is re-tagged, and the library is synced. Running it again changes nothing. `concepts rename FROM TO [--label "New label"]` renames a concept the same way (dry run first, then `--apply`; the old slug stays as an alias). To reword a label, definition or synonyms, edit `concepts.json` directly and `sync`.
+
+### I. Resources and links: nothing a post shares is lost
+
+Posts often share something beyond their text: a PDF guide, a study or medical article, the website of a project, a free tool, a podcast — or a book, a product, a paid course, the author's own site. The `resources` stage (after extraction) collects **every link and every attached file** of every topic's posts — including posts excluded from the knowledge as announcements — and classifies each one once:
+
+- **Resource** — usable directly: attached files (PDF guides, checklists, audio), articles and research papers, free guides and templates, free tools and apps, websites of projects and organisations, free videos, talks and podcasts.
+- **External link** — products and shop pages (including book stores), courses and programmes (paid or not), services, personal and author websites, profiles and channels.
+- **Skip** — only registration/payment/event logistics, cross-references to channel posts and broken links (still listed on the channel's *External links* page under *Skipped links*).
+
+Each item gets a title (the real name of the book, article, project or person), a note (what it is, why the post shares it, the author's verdict) and ★ when the author recommends it. Clear-cut links are classified by code (links to the channel's own posts, social profiles); the rest go to the `tg-resource-curator` agent in work orders of 50 (at most 2 at a time). After an append only links not seen before are sent.
+
+Where they show up: the end of every topic's knowledge file (*Resources and links*), the channel library's **Resources** and **External Links** pages, each topic card in the hub (*Resources & links*), the library-wide list `index/resources.md` (+ `.json`, by area), the area indexes (counts and ★ items per topic), and `find` (titles and notes are searchable). Answering agents are told to give the user the relevant items with their links or file paths. A wrong classification is fixed in `<channel>/work/resources/_resources.json`, then `sync`.
+
+## 5. Why nothing goes stale
+
+There is one source of truth per channel (the exports, the extracted parts in `work/extract/`, the taxonomy and the profile). **Everything else is generated** and carries a fingerprint of what it was built from. The generator runs:
+
+- after every Archivist step (`next`, `check`, `run`), so partial progress is visible immediately;
+- at the start of every Claude Code session in the library root (hook in `.claude/settings.json`);
+- when the Archivist panel starts and while it is open;
+- on demand with `archivist.py sync`.
+
+Skills installed by symlink always read the current files. Copies uploaded elsewhere (claude.ai, NotebookLM) are snapshots — re-upload after an update.
+
+## 6. Rules for agents working in this folder
+
+1. **Answering questions**: use the skill `tg-kb-navigator` and follow the protocol in `KNOWLEDGE_INDEX.md`. Start from the concept index `index/concepts.md`, then search with the concept's synonyms and several Russian and English terms (`find --concept <slug> …`) and scan neighbouring areas, not only the obvious one. Consult every relevant channel; adopt each channel's `agent-kb/SKILL.md` profile for its material; cite `<channel> · <topic> [msg #id]`.
+2. **Adding or updating knowledge**: use the skill `tg-archivist`. Never write knowledge files freehand outside a work order; the extraction standard `tg-archivist/prompts/EXTRACTION_STANDARD.md` is binding.
+3. **Never edit generated files** (section 3 marks them). Change the source of truth or the generator, then run `sync`.
+4. **When you change the structure, a screen, a command, a skill or a user action**, update `tg-archivist/docs/guide_template.md` in the same change and run `sync`. `doctor` warns when the template is older than the code it describes.
+5. Fidelity: source only, quotes verbatim, uncertainty marked `(!)`, announcements and logistics excluded.
+
+## 7. Live inventory
+
+### Knowledge bases
+
+| Channel | Folder | Messages | Dates | Topics extracted | Knowledge words | Exports | Status |
+|---|---|---|---|---|---|---|---|
+| [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) | `sources/tg-channels/na-balanse/` | 686 | 2023-12-04 → 2026-11-15 | 42/42 | ~283,692 | 2 | complete |
+| [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) | `sources/tg-channels/deep-mind2.0/` | 1597 | 2019-11-10 → 2026-11-17 | 52/52 | ~486,928 | 2 | complete |
+| [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) | `sources/tg-channels/human-machine/` | 560 | 2022-03-21 → 2026-11-12 | 25/25 | ~114,137 | 1 | complete |
+| [Нейропряность](sources/tg-channels/neurospicy/library.html) | `sources/tg-channels/neurospicy/` | 731 | 2024-02-10 → 2026-10-04 | 26/26 | ~132,214 | 1 | complete |
+| [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) | `sources/tg-channels/neurodiv_psy/` | 326 | 2023-03-15 → 2026-11-07 | 14/14 | ~64,134 | 1 | complete |
+
+### Cross-channel areas
+
+Energy & Resource (6 topics, 1 channel(s)), Rest & Burnout (8 topics, 2 channel(s)), Sleep (3 topics, 2 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement & Body (5 topics, 2 channel(s)), Balance & Life Philosophy (6 topics, 2 channel(s)), Mind & Emotions (21 topics, 4 channel(s)), Behavior Change & Coaching (4 topics, 1 channel(s)), Wellness Industry, Gadgets & Longevity (6 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Interviews & Community (3 topics, 1 channel(s)), Meditation & Contemplative Practice (6 topics, 1 channel(s)), Leadership & Organizations (14 topics, 1 channel(s)), Psychotherapy & Inner Work (7 topics, 3 channel(s)), Attention & Digital Wellbeing (3 topics, 1 channel(s)), Society & Politics (10 topics, 2 channel(s)), Neurodiversity (34 topics, 3 channel(s)), Neuroscience & Cognitive Science (7 topics, 1 channel(s)), Technology & AI (2 topics, 1 channel(s)), Science & Research (3 topics, 1 channel(s)), Chronic Illness & Disability (5 topics, 1 channel(s))
+
+### Skills
+
+- `/tg-archivist` — Build or update a channel knowledge base from a local Telegram HTML export folder — a new channel, or APPEND a newer export to a channel that already has a knowledge base. Produces full-insight knowledge files, the offline library
+- `/tg-kb-navigator` — Answer from the library of Telegram-channel knowledge bases, drawing on EVERY channel that covers the subject. Use when the user asks what a channel/author says or teaches, asks a subject question the channels may cover (health, e
+
+### Worker agents
+
+- `tg-card-mapper` — Produces compact per-post cards (gist, keywords, kind, themes) for a batch of Telegram posts from a tg-archivist work order. Use for work orders whose agent field is tg-card-mapper.
+- `tg-insight-extractor` — Writes one full-depth knowledge file for a topic of a Telegram-channel knowledge base from a tg-archivist work order. Use for every work order whose agent field is tg-insight-extractor.
+- `tg-media-transcriber` — Transcribes text from images and PDFs of a Telegram export verbatim when local OCR is unavailable. Use for work orders whose agent field is tg-media-transcriber.
+- `tg-qa-verifier` — Independent fidelity spot-check of a finished Telegram-channel knowledge base — samples insights from knowledge files and verifies that the cited messages actually support them. Use after tg-archivist
+- `tg-resource-curator` — Classifies the links and files shared in a Telegram channel's posts from a tg-archivist work order — resource (usable directly — files, articles, studies, free tools, project websites), external link 
+- `tg-taxonomist` — Builds or updates the topic tree of a Telegram-channel knowledge base from a tg-archivist work order — the bottom-up Domains → Topics taxonomy (with cross-channel areas, also-relevant areas and concep
+
+### Commands (`python3 tg-archivist/archivist.py …`)
+
+- `archivist.py init` — FOLDER [--title T] [--slug S] [--name N] [--set k=v ...]  new knowledge base in sources/tg-channels/<name>/
+- `archivist.py append KB_DIR [NEW_EXPORT_DIR] [--force]` — add later export(s) of the SAME channel: a folder
+- `archivist.py relocate KB_DIR | --all [--apply]` — after a knowledge base or its export folders were moved/renamed:
+- `archivist.py next` — KB_DIR [--limit N]   run deterministic stages; print open work orders (JSON)
+- `archivist.py check` — KB_DIR [--unit ID] [--final]    validate finished work orders
+- `archivist.py status KB_DIR` — stage table
+- `archivist.py run` — KB_DIR [--parallel N] unattended loop (needs a logged-in `claude` CLI)
+- `archivist.py sync` — [--if-stale] [--quiet] regenerate every derived document that is out of date
+- `archivist.py find` — "query" ["synonym" "other language" ...] [--concept SLUG] [--limit N] [--kb SLUG] [--json]
+- `archivist.py tag` — KB_DIR | --all [--apply] [--retag] [--run]  cross-channel tags (also_areas + concepts) for
+- `archivist.py concepts list | merge FROM INTO [FROM INTO ...] | rename FROM TO [--label L]` — [--apply]  the shared
+- `archivist.py doctor` — report anything stale, missing, untagged or inconsistent
+- `archivist.py list` — 
+
+Pipeline stages: recon → parse → media → cards → taxonomy → extract → retag → resources → profile → assemble → qa → index.
+
+## 8. Troubleshooting
+
+- **“＋ Add / append” says it could not start the Archivist** — double-click `Start Archivist.command` once (it installs the launcher the button uses; `python3 tg-archivist/app/launcher.py status` shows whether it is installed and for which library), then press the button again. If the browser asked whether to open *TG Archivist* and you declined, press the button again and allow it.
+- **The panel still shows a command to copy although Claude Code is installed** — the panel runs Claude through the standalone `claude` CLI, which has its own sign-in. Press **Log in to Claude CLI** on the panel (or run `claude auth login` in a terminal); the badge turns green and cards get **Run with Claude**.
+- **The panel shows “needs Claude”** — paste the shown `/tg-archivist …` command into Claude Code opened in the library root.
+- **A stage is stuck** — `archivist.py status "<channel folder>"`, then read the unit's issues in `_state.json`; re-running `/tg-archivist` retries with the checker's feedback.
+- **A page looks out of date** — `archivist.py sync`, then reload. `archivist.py doctor` explains what was stale.
+- **A channel disappeared from the hub, or its photos and files no longer open, after a folder was moved or renamed** — make sure it sits in `sources/<source type>/<source>/` with its exports in `raw-exports/`, then `archivist.py relocate --all --apply` (see 4G).
+- **Text from an image is wrong** — recognition is automatic; image-derived content is cited as `[img #id]` so it can be checked against the picture in the library.

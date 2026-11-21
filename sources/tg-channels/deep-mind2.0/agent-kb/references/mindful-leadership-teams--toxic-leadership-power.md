@@ -1,0 +1,450 @@
+---
+kb: deep-mind-2-0
+domain: Mindful Leadership & Teams
+topic: Toxic leadership, power and workplace ethics
+slug: toxic-leadership-power
+messages: 15
+date_range: 2020-07-18..2026-11-01
+summary: How the deep mind channel explains abusive and toxic leadership (its roots in trauma, rank, directive culture and immature handling of vulnerability), what it costs teams and companies (McKinsey and group-affect data), and what the ethical alternatives are — from rank awareness and humane management practices to company-level anti-toxicity systems and avoiding the stigmatizing "toxic" label. Why power is a taboo, unexamined blind spot in post-Soviet organizations, how unseen power turns into quiet structural violence, where the channel author traces its historical roots (collectivization), what data show about silence toward bosses, and why learning to see and discuss power is presented as a large untapped lever for companies.
+answers:
+  - Which leader behaviors harm employees the most and how can each be fixed?
+  - Why do bosses yell at and humiliate employees, and why do victims of abuse often become abusers?
+  - What is rank in process work (Arnold Mindell) and how should a leader use positional, social and psychological rank?
+  - Why is Russian business so directive and how can a company become more humane?
+  - Does pressure and pain work as motivation (the Viner case)?
+  - How big is the effect of workplace toxicity on team results, according to McKinsey?
+  - What can companies do to reduce toxicity among employees and bosses?
+  - Is it helpful to call a colleague "toxic"?
+  - How does devaluation become a tool for seizing and holding power, and what do mature forms of power look like?
+  - What does ethical business mean beyond charity and ecology?
+  - Why is it so hard to talk about power in organizations?
+  - What did Rosabeth Kanter say about talking about power?
+  - What are the three kinds of rank everyone has according to Arnold Mindell, and why are unnoticed ranks dangerous?
+  - How does non-transparent power turn into violence at work if nobody shouts?
+  - What did Hannah Arendt say about violence and power, and what does that mean for leadership?
+  - What are the delayed costs of managing by pressure?
+  - Where does the post-Soviet culture of pressure in management come from, according to deep mind?
+  - How many employees in Russia openly argue with their boss or hide their mistakes from them?
+  - What do companies gain by learning to see and discuss power?
+frameworks:
+  - Seven leader behaviors that damage employees most (with solution areas)
+  - Process-work model of rank (Mindell) — four theses and three types of rank
+  - Five ways to bring more humanity and less senseless directiveness into a company (Firsov)
+  - Seven-point critique of "motivation through pain" (Viner case)
+  - Three company practices against workplace toxicity plus the systemic (individual / collective / systemic) approach
+  - Four mature forms of power
+  - Escalation pattern of devaluation as a power tool
+  - Three unwritten rules of post-Soviet power culture
+  - Delayed costs of pressure-based management (four consequences)
+  - Three forms of quiet structural violence
+themes:
+  - toxic-leadership
+  - power
+  - workplace-ethics
+  - trauma
+  - corporate-culture
+  - rank
+  - workplace-violence
+  - organizational-culture
+  - post-soviet-history
+terms:
+  - ранг (rank) | synonym of power that implies the mobility and changeability of one's status depending on context | 371
+  - позиционная власть (positional power) | the formal role a person holds in a group or organization | 371
+  - социальный ранг (social rank) | rank determined by social and cultural features such as nationality, gender, age, wealth, religion, orientation, attractiveness, education, health, language | 371
+  - психологический ранг (psychological rank) | a person's inner sense of safety and care that lets them stay stable and hold their own pain and that of other people | 371
+  - эмоциональный контейнер (emotional container) | the inner capacity to hold emotions, difference, complexity and boundaries; when overfull, the leader loses control of behavior | 283, 1447
+  - мета-навыки (meta-skills) | a solution area named alongside soft and hard skills for fixing harmful leader behavior | 283
+  - групповой аффект (group affect) | shared emotions characteristic of a group that form as moods spread among members | 918
+  - cultural check тестирование (cultural check testing) | interview-stage filter using cases on interaction, feedback and communication to keep disruptive people out | 919
+  - self-disrupt | a leader's ability to rethink and rebuild themselves, discarding habitual and comfortable ideas about self and reality | 1057
+  - директора старой формации (old-school directors) | toxic, cold bosses with a personality cult who can force and pressure but cannot engage people | 1057
+  - токсичность токсичности (toxicity of toxicity) | the harm done by labeling people "toxic": stigma that triggers defense instead of growth | 1365
+  - обесценивание (devaluation) | belittling others' worth and work, used as a tool to seize and keep power | 1447
+  - власть (power) | in organizations usually thought of only as a position and the ability to make decisions, while how it is arranged in the system and how everyone participates in it stays a blind spot | 1970
+  - ранг (rank) | per Mindell, each person holds a set of ranks — social, role and psychological; dangerous when unnoticed | 1970
+  - неосознаваемые ранги (unacknowledged ranks) | ranks a person does not notice; called the main source of problems with power | 1970
+  - тихое структурное давление (quiet structural pressure) | the usual form power-produced violence takes: excluding affected people from decisions, processes convenient for the more powerful, toxic top-down communication | 1970
+  - коллективизация (collectivization) | 20th-century Soviet collectivization, named by the author as the root collective experience of pressure and violence never reflected on or healed | 1970
+people:
+  - Channel author (deep mind founder) | writes most posts; former bar owner, worked in government structures and corporations, personally experienced workplace emotional abuse | 230, 246, 283, 461, 710, 918, 919, 1054, 1055, 1365, 1447
+  - Arnold Mindell | psychologist, conflict facilitator, founder of the process-oriented approach whose rank model is presented | 371
+  - Inna Laletina | deep mind author, process facilitator (Process Work Center of Portland); wrote the rank post | 371
+  - Ivan Firsov | Russian IT manager and customer-service expert; guest author on why Russian business is directive | 457
+  - Irina Viner | gymnastics coach whose video speech is analyzed as abuse rather than motivation | 461
+  - Margarita | gymnast addressed in the Viner video | 461
+  - Valentin Preobrazhensky | CEO of crypto-startup Latoken, shown in a leaked video abusing employees | 710
+  - Maxim Batyrev | author of the book "Сложные подчиненные", criticized for its title and cover | 1055
+  - Ekaterina Irtikeeva | professional manager, former official and top manager, author of "Органичное лидерство", interviewed on old-school directors | 1057
+  - Michel Foucault | philosopher cited on power growing through networks of relations | 1447
+  - Channel author (deep mind founder) | wrote the post on power in organizations; met Arnold Mindell around 2019 | 1970
+  - Rosabeth Kanter | Harvard researcher of power in organizations; wrote in 1979 that power is harder to talk about than money or sex | 1970
+  - Arnold Mindell | spoke about the importance of reflecting on one's ranks (social, role, psychological) | 1970
+  - Hannah Arendt | author of "On Violence"; violence is a sign of a lack of power, not its strength | 1970
+  - Oleg Khlevniuk | author of the book Stalin: The Life of One Leader the channel author recommends | 1970
+---
+# Toxic leadership, power and workplace ethics
+
+## What this covers
+
+This file collects everything the deep mind channel taught about abusive and toxic behavior by leaders: what it looks like (yelling, micromanagement, humiliation, discrimination, devaluation), where it comes from (psychological trauma, overfull emotional containers, unconscious use of rank, a centuries-old directive culture, immature handling of vulnerability), what it costs people and organizations, and what ethical alternatives look like at the level of the leader, the team and the whole company. It also covers the channel's later self-correction: the warning that the label "toxic" itself can become stigmatizing and harmful [msg #230, #246, #283, #371, #457, #461, #710, #918, #919, #1054, #1055, #1057, #1365, #1447].
+
+According to the source this matters because workplace violence is a mass, normalized phenomenon ("millions of analogous cases"), because it destroys health, talent and productivity, because toxic behavior is the strongest predictor of bad team outcomes in McKinsey data, and because changing this culture is, in the author's words, where "billions are buried" [msg #230, #246, #918].
+
+This part adds one long post by the channel author on power in organizations: why it is a taboo topic, how unnoticed rank and non-transparent power turn into quiet, structural violence, the historical roots the author sees in Soviet collectivization, survey data on silence toward bosses in Russia, and the author's thesis that working on power is a large, untapped source of management quality [msg #1970].
+
+Why it matters according to the source: power is fought over constantly but almost never discussed, so its costs (lost truth, hidden sabotage, departing talent) stay invisible, and there are almost no specialists or even a shared language in the Russian-speaking space to address it [msg #1970].
+
+Relation to the existing file: the existing knowledge already contains Inna Laletina's process-work model of rank (Mindell) [msg #371], Ivan Firsov's roots of directiveness (serfdom, Soviet era, politics) [msg #457] and the author's thesis that violence works short-term but has hidden costs [msg #461]. This post **extends** them: it attributes the rank model directly to Mindell from the author's own contact with him, names a "role" rank where #371 named "positional power", adds Kanter's and Arendt's views, names collectivization as the specific root trauma (Firsov had named serfdom), adds new survey numbers, and adds the framing of power as a competitive lever comparable to AI [msg #1970].
+
+## Core ideas
+
+- **A new ethical norm is forming, and everyday workplace aggression belongs inside it.** Public attention moved to discrimination and harassment; the author argues ordinary bosses screaming obscenities at subordinates is violence too and should be discussed just as openly (see *The new ethical norm*) [msg #230, #246].
+- **Toxic leaders are usually traumatized people and hostages of a system.** Abuse is rooted in psychological trauma, stress and an overfull emotional container, reinforced by hierarchy, power relations and a "military ideology" (see *Roots of abusive behavior*) [msg #246, #283, #461, #919].
+- **Power and rank are not bad in themselves; unconscious use is.** Both abuse and avoidance of rank provoke aggression in return; the prevention is conscious use (see *Process-work model of rank*) [msg #371].
+- **Directiveness in Russian business is learned from childhood and politics.** It is "managerial ignorance" that loses talent and competitiveness; the alternative is a coach-leader who listens, allows mistakes and delegates decisions (see *Five ways to bring more humanity*) [msg #457].
+- **Pain-based motivation is not motivation but ill health.** It works short-term and costs years of damage (see *Seven-point critique of motivation through pain*) [msg #461].
+- **Toxicity is the single strongest predictor of negative workplace outcomes** — 35x the impact of access to resources in McKinsey's survey; one toxic person can disrupt a whole team (see *Workplace toxicity data*) [msg #918].
+- **Companies should work on toxicity systemically**: hiring filters, communication coaching, therapy access and culture norms, and above all mindfulness and self-regulation training (see *Three company practices against toxicity*) [msg #919].
+- **Unethical bosses lose too.** Employees "get even" by lowering motivation, working badly and leaking information; real business ethics starts with relationships in the team [msg #1054].
+- **Labeling people "toxic" can perpetuate the cycle of pain.** Name the behavior, set the boundary, but do not confuse the person with the pattern (see *The toxicity of "toxicity"*) [msg #1365].
+- **Devaluation can be a deliberate power tool**, rooted in fear of vulnerability; mature power looks different (see *Four mature forms of power*) [msg #1447].
+
+- **Power in organizations is a blind spot.** People fight for and divide power actively, but think of it only as a position and decision rights; how power is arranged in the system and how everyone takes part in it stays unexamined, even though systems thinking, the social sciences and the modern helping field study it deeply [msg #1970].
+- **Unnoticed rank is the danger, not rank itself.** The higher the rank, the less we are aware of it and the more likely we are to abuse it [msg #1970].
+- **Non-transparent power produces violence — mostly quietly.** Without transparency and a space to reflect on it together with everyone it affects, power starts producing violence, usually in structural rather than loud form (see *Three forms of quiet structural violence*) [msg #1970].
+- **Violence signals weak leadership.** Following Arendt, pressure appears when people fail to agree and act together; it is a sign of bad leadership and management, not strong and skilled leadership [msg #1970].
+- **Post-Soviet power culture has an unhealed historical root.** The author traces it to collectivization and the repressions that followed, which left unwritten rules now present in open-plan offices in a softer form [msg #1970].
+- **Working on power is a large untapped lever.** Making power healthier, transparent and modern could, in the author's belief, open the next level of company resilience and effectiveness [msg #1970].
+
+## Frameworks, models and step-by-step methods
+
+### Seven leader behaviors that damage employees most (with solution areas)
+Purpose: a diagnostic list of the leader behaviors that most harm employees' state. The channel compiled it from a small survey of Russian employees and immediately added, for each problem, the areas where its solution may lie [msg #283].
+
+1. **Distrust of the team or employees (+ micromanagement and unwillingness to delegate).** The leader over-controls employees and, verbally or non-verbally, shows distrust in the quality of their work or their personal qualities. Often the leader does not understand where their own responsibility for a task ends and where the employee's begins, and regularly intrudes into the employee's zone of responsibility. Effect: employees feel stupid and incompetent; engagement and willingness to invest in work drop. Solution areas: leader therapy, communication coaching for the leader, corporate culture, development of meta-skills, soft skills and hard skills [msg #283].
+2. **Lack of empathy.** Example: a person or team is tired and burned out, but the manager keeps pushing without looking around; or the manager picks inappropriate words for a specific situation. Effect: employees become irritated and angry with the manager; absenteeism and burnout rise, engagement falls. Solution areas: leader therapy, meta-skills, soft skills, corporate culture [msg #283].
+3. **Inability to listen.** The leader cannot hear a speaker out without interrupting, or listens from the state of "жду своей очереди сказать" (*waiting for my turn to speak*). Effect: employees feel there is no dialogue or quality interaction; engagement falls. Solution areas: meta-skills, soft skills [msg #283].
+4. **One-way communication (+ inability to give feedback).** The manager asks no questions and does not clarify their position or the situation from their own perspective. Effect: employees lose motivation to raise issues themselves and feel like mere executors; engagement and team cohesion drop. Solution areas: communication coaching for the leader, meta-skills, soft skills, corporate culture [msg #283].
+5. **Not recognizing or understanding human diversity (+ one-sided, crude thinking).** The manager finds it hard to take the "second-person position" (to understand another person's reality) and to be flexible, choosing individual approaches and communication methods for different employees. Effect: employees struggle to reveal their talents and adapt to the group; engagement falls, absenteeism and burnout rise. Solution areas: leader therapy, meta-skills, soft skills, mental development, corporate culture [msg #283].
+6. **Sexism, other discrimination and non-verbal violence (+ disregard of personal boundaries, + treating employees as expendable material).** The manager emphasizes national, gender or other non-objective differences between people; discriminates in distributing tasks, profit or attention; and demonstrates a difference between themselves (managers as a class) and everyone else. Solution areas: leader therapy, conscious vertical development, mental development, corporate culture, meta-skills, soft skills [msg #283].
+7. **Emotional outbursts at employees.** Because their own emotional container is overfull, the manager cannot control their behavior and may openly and aggressively show anger at employees with shouting, gestures or physical actions. The source calls this a form of violence that in some developed countries is already punishable by law. Solution areas: leader therapy, communication coaching for the leader, corporate culture, meta-skills, soft skills [msg #283].
+
+General pattern the channel draws: the more stress and overload of the body (including the attention system), the more these unconstructive behaviors show up. They are mostly linked to the absence of certain soft and meta-skills and to the leader's own psychological difficulties and immaturity; at a deep level the channel sees their cause in psychological trauma, which it calls incredibly widespread in "our culture" [msg #283].
+
+### Process-work model of rank (Arnold Mindell) — four theses and three types of rank
+Purpose: to look at rank and power in companies and society through the process-oriented approach formulated by Arnold Mindell (described as a doctor of psychology, contemporary thinker and practitioner-facilitator of conflicts at state level). Written by Inna Laletina, a process facilitator from the Process Work Center of Portland, for deep mind [msg #371].
+
+1. **We influence others, especially in a leadership position.** A person cannot not influence: everyone constantly sends signals even when outwardly doing nothing. Noticing and understanding exactly what influence we have is not easy; attentive noticing of how others perceive us requires a well-trained mindfulness skill and the ability to get quality feedback [msg #371].
+2. **Each of us has different ranks relative to others, and ranks amplify or weaken our influence.** "Ранг -- синоним власти" (*rank is a synonym of power*), but the word implies that status is mobile and changes with context. Three examples of rank:
+   - **Positional power** — the formal role a person holds in a group or organization (e.g. CEO, President, junior employee).
+   - **Social rank** — often unfair and context-dependent, determined by social and cultural features: nationality, gender, age, economic status, religion, sexual orientation and attractiveness, education, health and language.
+   - **Psychological rank** — the feeling of safety and care a person has. It lets them stay stable in difficult situations, bear their own pain and that of other people, and guide people through psychological difficulty or healing. It can result from therapy, hard experiences or deep self-knowledge. Such people have strong awareness, self-knowledge or self-respect and can often speak freely and express their opinion in a group and in society [msg #371].
+3. **Abusing one's capacity to influence leads to aggression in return.** There is nothing wrong with rank, influence or power; problems start when we do not know how to use them consciously. Then we either abuse rank for our own benefit or fall into the opposite pole and avoid it. "Избегание ранга имеет такие же последствия, как и злоупотребление." (*Avoiding rank has the same consequences as abusing it*) — namely aggression in return. Abuse produces aggression even if people express it in latent or passive form. People do not want to follow a leader who abuses power, because employees or citizens do not feel communication happens on a humanly equal level. Most leaders can realize they abused their influence only through feedback from others. The higher our ranks, the more likely an egocentric or narcissistic distortion of perception and a blind spot; holders of such blind spots do not notice how they hurt or even violate others in communication, which makes those others more wounded and less committed and loyal to the team, organization or state [msg #371].
+4. **Rank and power can serve the common good if we learn to be aware of them.** "Профилактикой злоупотребления власти является осозанное ее использование." (*The prevention of abuse of power is its conscious use*.) Steps: (a) acknowledge that ranks exist — different people have different capacities to influence others in different contexts; this acknowledgement is necessary for humanly equal, healthy communication; (b) do a self-inquiry and draw a "map of the terrain": which ranks do I hold right now and in which contexts. Without it we take our differences from others for granted and use rank unconsciously, hurting people and provoking aggression in return — which we then perceive as aggression from stupid or unfair people [msg #371].
+
+Bottom line from the post: for mastery in leadership one needs to know that different ranks exist and to make their use as conscious as possible [msg #371].
+
+### Five ways to bring more humanity and less senseless directiveness into a company (Ivan Firsov)
+Purpose: guest author Ivan Firsov's answer to how a company can become more humane once one understands where directiveness comes from (see *Roots of directiveness in Russian business*) [msg #457].
+
+1. **Update the manager's role** — the manager should become an inspirer, mentor and coach [msg #457].
+2. **Learn to listen and hear** — this should replace "telling people what to do". A manager who asks questions and believes in the employee's potential creates an atmosphere of trust and is quite likely to achieve growth in effectiveness [msg #457].
+3. **Give the right to make mistakes** — lowering the significance of individual miscalculations and a culture of tolerance for human weaknesses ("mistakes are part of nature") create the atmosphere of acceptance in which people want to create, be creative and develop EQ [msg #457].
+4. **Give the right to make decisions** — when a person makes a decision themselves, discussing it thoroughly with stakeholders, they implement it more willingly and take responsibility for the end result [msg #457].
+5. **Give feedback regularly** — "there are no failures, only feedback": feedback that is developmental, open, regular and separated from the person's personality [msg #457].
+
+Firsov's verdict: "Сложно, дорого и долго. Но зато фундаментально и с билетом в будущее." (*Hard, expensive and slow. But fundamental, and with a ticket to the future.*) [msg #457].
+
+### Seven-point critique of "motivation through pain" (Viner case)
+Context: a large discussion arose in the community around a video of gymnastics coach Irina Viner berating gymnast Margarita. The author comments point by point on why "motivation à la Viner" is not motivation at all but simply ill health [msg #461].
+
+1. **The pain-and-pressure myth comes from trauma.** The idea that good results can be achieved through pain and pressure is extremely popular and unhealthy. It is based on a person's own traumatic experience that at some moment made their whole personality contract and throw their own feelings aside. Without proper support in such moments we get traumatized and pay dearly for it in life. Later we adapt and rationalize the experience with the illusory idea that it "сделал нас человеком" (*made a person out of us*), as people like to say in a poor organizational culture — that we became adult, cynical, understood how the world works and achieved much through this contraction and self-overcoming. The author: this is not so — we were simply traumatized and adapted to it [msg #461].
+2. **Trauma causes abusive relationships.** The author says research shows a very high correlation between all cases of violence and the presence of such psychological trauma; in effect trauma becomes the cause of abusive relationships — relationships where verbal or non-verbal violence happens regularly [msg #461].
+3. **Abuse unfolds most easily in relationships of inequality, power and dependence** — in the family and at work — because there is no relevant response possible and no one to protect the victim. Nothing will happen to Viner for such a speech, but had Margarita said the same back, her career would quickly be over [msg #461].
+4. **Abusive relationships are non-linear**, which is why people often cannot leave them for years: "абьюзер и бьет и ласкает" (*the abuser both beats and caresses*). Commenters pointed out that Viner comforts the same gymnast in another video and helps the girls a lot in life. Two reasons given: first, the traumatized person has adapted to their own circumstances of violence and truly considers it normal; the insults are justified by the good idea of doing good — such coaches and managers usually believe they do good by "ставят мозги на место" (*putting brains in place*). Second, they often still feel guilt for their behavior ("we all know it is violence, right?") and unconsciously try to make up for it through other behavior [msg #461].
+5. **Violence does not act positively on personality, abilities or quality of life.** The author states bluntly that anyone who thinks violence moves humanity forward should urgently start their own therapy, trauma therapy first of all [msg #461].
+6. **Violence works short-term, but the costs are hidden.** Otherwise people would not use it — it is effective. But we usually do not see the consequences of such "motivation": the person cannot pull themselves together for years, cannot feel joy, calm and satisfaction with life, and very often suffers depression, painful addictions and commits suicide [msg #461].
+7. **Adult motivation must rest on respect and belief in potential.** Motivating adults should be based on treating them as separate, respected individuals and on belief in their potential and talents. Everything else is professional incompetence that cannot be justified by "big sport, management, politics / there is a result" or anything else. The sooner a manager understands this, the sooner people start really growing and performing above average with them — "Проверено" (*Tested*), says the author [msg #461].
+
+### Three company practices against workplace toxicity and the systemic approach
+Purpose: what strategically minded companies do to reduce toxicity among employees and bosses. In the digital era they engage with employee wellbeing more actively because they get increasing amounts of data on its effect on performance, talent retention and the company's sustainability [msg #919].
+
+1. **Filter at hiring: cultural check testing.** It is logical to limit entry into the team for people who will later disrupt the atmosphere. Special filters are created, such as **cultural check testing** in interviews with cases on interaction, feedback and communication. Afterwards teams carefully monitor adherence to cultural principles and take measures when they are violated. The author calls this an excellent tool that by itself has strongly changed many companies [msg #919].
+2. **Communication-skills coaching for toxic people already inside.** Unethical leaders or employees are sent to coaching to develop constructive feedback, non-violent communication, inclusivity and ethics. It can improve the situation, but specialists in a corporate context very rarely touch the level of the *cause* of toxicity, so the situation often improves only a little [msg #919].
+   - **The cause level.** "Почему люди ведут себя как мудаки?" (*Why do people behave like jerks?*) The cause lies deeper than communication skills or the culture of violence we live in (though both matter). Toxic behavior arises from distorted emotional patterns, traumas and one's own stress that make us act out emotions and violence on others in adulthood; we hurt others because of our own pain, which is higher the stronger our uncomfortable basic emotions and stress are [msg #919].
+   - **Therapy and supportive processes.** The cause should be worked on primarily through therapy, but therapy is individual, not corporate, responsibility: a company cannot force anyone into therapy and to get results there. It can help by providing access to a therapist and by creating cultural principles that make inner growth necessary for a successful career — i.e. processes that channel away unethical communication and support ethical communication. Examples: clear communication norms and conflict-resolution principles; including empathy, attentiveness and ethics skills in reviews and feedback with consequences [msg #919].
+3. **Developing employees' mindfulness and self-regulation skills** — described as one of the most effective ways to work with the cause of toxicity at the workplace itself. Mechanism: under stress pain intensifies and "мы перестаем видеть других людей как живых" (*we stop seeing other people as alive*), which is the basis of unethical communication. Teaching people to recognize their own pain, traumatic reactions and stress helps them treat themselves a little better and radically reduces harmful reactions aimed at others; the author calls it "literally a magical way" to raise the ethics of communication in a group. The author presents this as deep mind's know-how, claiming they were the first in Russian to work with self-regulation skills in teams to build a foundation for healthy communication and quickly fix the atmosphere (and that in four years he had not heard of anyone applying a similar approach) [msg #919].
+
+**The systemic approach.** To get results one has to work with the cause, but — as with burnout or stress — a systemic approach is what really works: the company makes changes at all levels of the problem: individual, collective and systemic. It does not have to be done at once given always-limited resources, but it is useful to have a strategic vision and plan; the post's three practices are meant to cover all these levels [msg #919].
+
+### Escalation pattern of devaluation as a power tool
+Purpose: to recognize when a leader's toxicity is not just a character trait or emotional reaction but a method of management — devaluation used to seize and hold power [msg #1447].
+
+- **Function.** Devaluing others becomes a tool not only for narcissistic self-elevation but for control: if employees do not feel the value of themselves and their work, it is easier not to raise their salaries, to ignore their ideas and not to share power [msg #1447].
+- **How it grows (after Foucault).** Following Michel Foucault, power is rarely taken head-on; it grows through a network of relations and gradually becomes the norm. So such manipulations of perception are usually tested carefully and gain momentum over time; the more power is captured, the better the tool works and the more toxic the atmosphere becomes [msg #1447].
+- **The partner example, step by step.** (1) At first a pair of partners relate through productive difference — one initiates, the other structures. (2) Over time one starts to neglect the other: cancels a meeting at the last moment here, devalues a point of view there. (3) At first it seems not worth a conflict — "зачем делать из мухи слона?" (*why make a mountain out of a molehill?*). (4) Gradually the second partner's voice shrinks — first in conversations, then in decisions. (5) Eventually the second is no longer in a partnership but in a rigid hierarchy, placed lower [msg #1447].
+- **Psychological basis.** Such behavior is often rooted in an immature way of handling vulnerability: the person cannot bear open dialogues where they might be vulnerable, so they build systems of control and suppression instead. Those who devalue may not recognize it as violence; they will most fiercely call "our new ethics" nonsense and people idiots and "snowflakes". Beneath it often lies a simple fear of being weak and insignificant — displaced, devalued, losing authority. The author stresses these are not necessarily bad people, but their inner structure is not very stable: a mature emotional container that can hold difference, complexity and boundaries is not fully formed [msg #1447].
+- **What happens to the organization.** An organization where power is held through devaluation and blurring of boundaries loses its entrepreneurial spirit — liveliness, creativity and flexibility. Strong employees either leave (their fundamental values of doing things well and creating real results, which require respect and collaboration, are violated) or "die" inside — stay formally but switch off emotionally and in initiative. Turnover grows, feedback channels break, fear stops initiative. On the surface things may look decent, but the system becomes fragile, and in a crisis such organizations collapse fastest because they lack inner strength [msg #1447].
+
+### Four mature forms of power
+Purpose: the alternative to devaluation. Many people get used to such quirks and consider them normal "because everyone tolerates it", but the author insists it is not normal: "Власть можно занимать и по-другому." (*Power can be held differently.*) More mature forms include [msg #1447]:
+
+1. **Recognizing other people's merits** [msg #1447].
+2. **Allowing the possibility of being challenged** [msg #1447].
+3. **Delegating without losing influence** [msg #1447].
+4. **Respecting boundaries and otherness** [msg #1447].
+
+This is not about softness or compliance. The author worked with three deputy ministers, one of whom showed exactly this adult, wise way of leading a team even in a harsh environment; what the author remembered was the feeling of his inner strength rather than constant weakening of others. Such maturity does not come with the role; it forms through inner work and personal growing up. These leaders create a space where agency (субъектность) is not seen as a threat, and the people around them are not afraid to show up and take responsibility [msg #1447].
+
+Why discuss it: power is a charged topic because of a history of abuse, when people use it not maturely but purely in their own interests; and, as Foucault said, it is easiest to abuse it seemingly by accident. Therefore it should be brought into conscious attention: examined, reflected upon, and its micro-movements recognized — in words, glances and intonations [msg #1447].
+
+### Three forms of quiet structural violence
+Purpose: to recognize the violence that non-transparent power produces even when nobody shouts. The author's condition: when power has no transparency and no space where it can be reflected on among all whom it affects, it begins to produce violence. "Чаще всего это не крики и угрозы, а тихое структурное давление" (*Most often it is not shouting and threats but quiet structural pressure*). Its three forms [msg #1970]:
+1. **Decisions that did not take into account those they affect** — the people impacted are left out of the decision [msg #1970].
+2. **Processes convenient for whoever has more power** — the system is designed around the comfort of the more powerful side [msg #1970].
+3. **Toxic communication from the top down** [msg #1970].
+This extends the existing file, whose catalog of harmful behaviors centers on visible acts (yelling, humiliation, outbursts) [msg #1970].
+
+### Delayed costs of pressure-based management (four consequences)
+Purpose: to show why pressure only looks effective. "У насилия высокая цена, которая почти никогда не видна в моменте" (*Violence has a high price that is almost never visible in the moment*). Pressure gives results quickly, but the consequences come later [msg #1970]:
+1. **The smart leave the country** ("умные уезжают") [msg #1970].
+2. **The strong quit** ("сильные уходят") [msg #1970].
+3. **Resistance goes into the shadow** — it does not disappear, it becomes hidden [msg #1970].
+4. **Pretty reports go upward instead of the truth** [msg #1970].
+This is consistent with and extends the existing thesis that violence "is effective" short-term while its costs are hidden [msg #1970].
+
+### Three unwritten rules of post-Soviet power culture
+Purpose: to name what the author says was carried out of the collectivization and repression experience. These rules passed through families, schools and factories and, without the much-needed reflection and public sense-making, arrived in today's open-plan offices "просто в более мягкой форме" (*just in a softer form*) [msg #1970]:
+1. **Pressing is a normal way to manage** ("давить — нормальный способ управлять") [msg #1970].
+2. **Telling the truth upward is dangerous** ("говорить правду наверх опасно") [msg #1970].
+3. **Power is better not discussed** ("власть лучше не обсуждать") [msg #1970].
+
+## Detailed insights
+
+### The new ethical norm and making workplace violence visible
+The author recalls owning a bar on Mendeleevskaya five years earlier (in 2020 terms): no employee would have thought of writing an article about harassment there — at most a police report, and even that unlikely. There were probably no truly unpleasant incidents, but gender jokes likely slipped through; sex happened in the bar, clients and staff behaved in various ways. Five years later the information field and the norm have changed substantially — The Village was attacking owners of drinking establishments over sexual harassment — and this in Russia, where discrimination was always ignored. LGBT rallies on Pushkin Square, BLM shaking America, and the claim that we are behind if we don't use feminitives — "and that is so", the author agrees [msg #230].
+
+In the author's information bubble, discrimination, oppression and minorities had moved to first place, ahead of covid and the constitutional "zeroing". "Этика более не является лишь эфемерностью" (*Ethics is no longer just something ephemeral*), and leaders of any organization must reckon with these changes. He frames it as a natural evolutionary process — a new turn of the development of complexity of consciousness and the accompanying rights movements. Getting access to a more complex picture of the world, we start seeing places of violence in the system better; many heterosexuals (the author included) become uncomfortable living where non-heterosexuals are subjected to violence, and the same with other groups of people and even animals. There is enough discrimination and violence in society for decades of work ahead [msg #230].
+
+Caveat he adds: in the US there is obvious absurdization and overreach of this discourse — "throwing the baby out with the bathwater"; developmental theory says such overreaches are normal and over time things roll back to an averaged norm [msg #230].
+
+His question: why does nobody write that in a conventional Gazprom the boss systematically screams obscenities at employees? "Почему никто не пишет, что в условном Газпроме начальник системно орет матом на сотрудников?" (*Why does nobody write that in a conventional Gazprom the boss systematically yells obscenities at employees?*) Isn't that violence, spread over millions of similar cases across the country? He asks readers what other relationships and situations should be made visible the way LGBT and gender discrimination are [msg #230].
+
+### Traumatic corporate culture: a case and its lessons
+The author describes a "cosmic gap" between the corporate culture we describe as modern and effective and the reality in most companies. The gap exists but can be narrowed by talking out loud about one's negative work experience. With the new ethical norm forming, the task is to voice problems that previously were not considered problems — not only of discriminated women, transgender people and animals, but also of employees who find themselves in an environment of aggression and violence. A public dialogue should be held about what is and isn't normal at work [msg #246].
+
+As an example of a "norm that is no longer a norm", he shares the account of a friend who ended a career at a big bank and is building a startup. After 8 years in corporations the friend remembers the experience very painfully: the corporate environment created many psychological traumas. In all companies the attitude was "подчиненный = инструмент" (*subordinate = tool*); "Human2Human не было даже в зародыше" (*Human2Human didn't exist even in embryo*). At three jobs bosses yelled at subordinates so hysterically that spittle flew; sometimes it was simply frightening. In one place micromanagement went so far that he had to write an hourly plan a week ahead and explain almost every hour of his time — or why a task needs two hours, not one. As a result fear paralyzed him so much that it was hard to start doing anything: he immediately imagined having to justify the effectiveness of each hour at week's end, fearing accusations and dismissal. Beyond that were extreme cases: political power struggles between divisions and managers, deliberately ultra-competitive environments between employees, and top-management corruption, with threats to fire "under an article" and even attach a criminal case [msg #246].
+
+The friend's conclusions: such systems generate pain and suffering in the psyche of employees, whole companies and even states; the scale of toxicity and losses for health and productivity is frightening; it is no surprise that millions develop difficult mental states and even illnesses from being in an environment of violence and aggression. In such organizations the question of meaning does not even arise — the primary question is how to avoid harassment and injustice from people you see every day, and how to stay healthy in an environment where you spend five days a week with nowhere to run [msg #246].
+
+The author's commentary: there is somewhere to run, but from inside it is often not obvious. Bosses who create pain convince people that it is like this everywhere and simply accepted. "они всегда сами изнасилованные травматики" (*they themselves are always violated, traumatized people*) and largely hostages of the established system — hierarchy, power relations and military ideology — components that foster and even reward harmful culture. Changing this culture, he claims, could send us to space faster than Rogozin and create a state of prosperity — "billions are buried there" [msg #246].
+
+What change requires, per the author: an adulthood unavailable to most current "woe-managers" without social pressure, therapy and active self-development. This adulthood consists of responsibility and courage: "Ответственности прекратить транслировать страдание вниз." (*Responsibility to stop transmitting suffering downward.*) And courage to challenge the usual order of things and start looking for other ways to manage. How others can encourage it: publicly naming companies and people who cause pain, refusing to consider such a work environment normal, and "Голосовать ногами и постами." (*Voting with our feet and with posts.*) [msg #246].
+
+### Roots of directiveness in Russian business (Ivan Firsov)
+Guest author Ivan Firsov observes that the average Russian business has a lot of directiveness and unfreedom and little joy and pleasure, and suggests this attitude to organizations forms already in childhood, so we do not even know alternatives [msg #457]:
+
+- **Childhood and education.** Parents mostly cannot raise children in an atmosphere of support — acceptance, freedom, non-judgment, safety; in a word, love. Nor can love and unconditional joy be expected from the organizations met while growing up: kindergarten, school and university. School is not about joy; we are constantly evaluated and prepared for some unclear standard. We get used to perceiving a collective as a place of threat and punishment rather than freedom and creativity [msg #457].
+- **Entering business with a directive mindset.** After this preparation we enter business already set on directiveness: either we accept the authoritarianism of authorities or become authorities ourselves and dictate to others. Firsov calls this vision "управленческим невежеством" (*managerial ignorance*), extremely widespread even in the highest and most public positions. An employee raised in the format "делай, что говорят, твоё дело маленькое" (*do as you're told, your business is small*) will not crave independence, responsibility and decision-making. In traditional large companies this is still considered normal, though it looks wild both from the standpoint of an adequate attitude to the human personality and from the standpoint of using even an average level of the team's potential [msg #457].
+- **Politics.** The directive mentality is supported by politics, which influences the whole system of state organizations and large companies: a cult of strength, "решательстве" (deal-fixing culture), public flogging of the guilty. Politics supports state companies and dependent public-sector workers, while small and medium business, capable of initiative and creating something new, is called dishonest and not favored [msg #457].
+- **Historical explanation.** A thousand years of serfdom firmly instilled an attitude to labor as penal servitude and to a person as a resource; it carried into the industrial era and was reinforced in the Soviet one [msg #457].
+- **Why it must change.** In a post-industrial and information world, the approach to labor and people must change. Without shifting to a less directive paradigm, companies lose qualified staff who don't want to work in an unfriendly, unfree atmosphere even for good money, and start openly losing to modern, flexible, technological companies with a product approach. Additional factors: generational change, which creates demand for meaning and mindfulness at work, and the pandemic, which gives that demand even more weight [msg #457].
+
+The remedies are written out under *Five ways to bring more humanity*.
+
+### Personal experience of workplace abuse and the Latoken case
+The author reports that over many years in very different organizations he went through many situations of emotional violence, especially in government structures; once his boss pounded the front car seat with his fists while the author was in the car. Recovery from such violence and bullying still requires psychotherapy and cost lost days of his life when he could have been building deep mind, helping people or simply feeling joy; his inner sense of dignity is in some ways still growing back [msg #710].
+
+Mechanism: in power relationships — with parents in childhood or later at work — it is easy to acquire psychological trauma and subsequent PTSD because we are in biological, financial, reputational and other dependence. Therefore, ethically, managers must watch their behavior twice as carefully as their employees do. Knowing firsthand the damage that workplace violence does to talents, health and the ability to benefit society, the author considers it important to speak about such cases in a personalized way, naming names and pointing fingers [msg #710].
+
+The case: a former employee of crypto-startup Latoken posted a video he recorded while working there, showing many examples of what the author calls pure, unambiguous abuse of employees — violence impermissible in work relationships — by CEO Valentin Preobrazhensky (the author says he could not watch more than a few minutes). Lessons drawn: "Унижение личности никогда не должно происходить со взрослыми людьми на работе!" (*Humiliation of a person must never happen to adults at work!*). Violence cannot be justified by any goals, or, as in this case, by a "culture of athletes", remote work or competition. We must not be afraid to write about violence, to sue managers who have lost boundaries, and to send those who cripple young people's psyches to compulsory treatment — though the author adds that this works poorly in Russia, because the population of Russia and neighboring countries has been repeatedly violated "from the very top" and still is [msg #710].
+
+Typical abuser marker: "Что типично для абьюзера — он никогда не принимает ответственность за свои действия." (*What is typical of an abuser is that he never takes responsibility for his actions.*) Instead of apologizing, stepping away from working with people, getting psychotherapy and making fast, radical changes to the culture, the CEO referred to distortion of facts and the employee's resentment, and to the "culture of effectiveness" he is building this way. The deep mind team stated it was ready to support Latoken employees who felt harmed, offering them access to its trauma-recovery program "Эмоциональный баланс" (Emotional balance) for the nervous system [msg #710].
+
+### Workplace toxicity data and group affect
+The author dislikes the word "toxicity" because of the stigma it carries, which only worsens the problem, but the phenomenon — unethical and even violent communication — badly spoils people's lives. Many victims of a culture of violence become aggressive toward others themselves, believing that is how outstanding results are achieved, or simply reproducing harmful patterns without reflection. In the medium and long term toxicity does not lead to good results; destructive communication and colleagues' negative emotions strongly affect both performance and health in the team [msg #918].
+
+**One person is enough.** "Достаточно всего одного человека" (*Just one person is enough*) communicating in a toxic (unethical) way to seriously disrupt the whole team. Research in Pennsylvania cited by the author showed that emotions in a group spread as if through the air: if one person in a good or bad mood joins, the group picks up the emotion; moreover, groups end up creating shared emotions characteristic of them, which can be called group affect [msg #918].
+
+Modern work culture is changing toward more ethics, but it still acts as a magnet for criticism-for-its-own-sake, cynicism, negativity, passive and active aggression — all the phenomena that make up toxicity. Despite the issue's prevalence and importance, companies are still bad at solving it, like many issues related to employees' psychology and physiology: corporate environments lack modern psychological expertise because the industrial workplace did not need it; the post-industrial one needs it "like air" [msg #918].
+
+### Ethics in business as unethical bosses' own loss
+The author recalls that Personnel Management at Moscow State University was one of his best courses, taught by a psychologist with solid corporate experience. He forgot almost everything within a couple of years, but one idea stayed forever: "руководителю не надо пытаться нагнуть сотрудников" (*a manager should not try to bend employees over / crush them*) — it simply doesn't work, because they will find a way to get even, and in total you end up the loser. He absorbed this as ethical management and later saw many real examples of it being true [msg #1054].
+
+His definition of ethics: ethical business is usually understood as companies that donate to charity or reduce environmental harm, but ethics is deeper — in life and at work it is attention to and a healthy relationship with our actions toward others, and to their systemic consequences. By this logic ethics permeates everything in business and certainly starts with relationships in the team and toward employees [msg #1054].
+
+He asserts there is now enough data to know that unethical companies and bosses who squeeze employees dry and sustain toxic corporate culture suffer from it themselves: they fail to hire the best people on the market, and later employees start getting even — lowering motivation, working badly, leaking information. Yet only a few can understand ethics comprehensively and build organizations saturated with an ethical attitude: care for people, honesty and generosity along the whole value chain, and a focus on long-term benefit. "Я вижу этику в бизнесе как супер силу." (*I see ethics in business as a superpower*) — the wisdom and skills of the most developed leaders, who can create incredible companies with it; if such powers were more widely accessible, companies and society would win. He wants to examine business ethics through the lens of skills and mindset that can be studied and developed [msg #1054].
+
+### Language that dehumanizes: the "Difficult Subordinates" critique
+In a forwarded post, the author criticizes the title and cover of Maxim Batyrev's new book "Сложные подчиненные" (*Difficult Subordinates*), explicitly without having read the book. First, for management experts to write "subordinates" in a title is, in his view, a serious faux pas: "Подчиненные, как и рабы существуют в бдсм-отелях и на плантациях." (*Subordinates, like slaves, exist in BDSM hotels and on plantations.*) In 2024, colleagues lower in a formal work hierarchy should be called employees (сотрудники) [msg #1055].
+
+Second, the cover presents millennials, the burned-out and other categories in a way that signals something is wrong with them, and puts them in one row. The cover image lists these categories: millennials, latecomers, thieves, the uninitiative, the over-initiative, aggressive, narcissists, burned-out, the well-connected (блатные), friends, relatives, negativists, "disagreeing but doing", "disagreeing and not doing", and drinkers (one further item is illegible in the transcription, "Мисо") [img #1055]. The author objects that a person burned out because they were "toxed" at work, or someone born in the early 1990s, is placed on a par with a person with alcohol dependence. One could say the author meant nothing of the kind and this is the critic's own woundedness, but the cover says in black and white: "«менеджеры, с этими ребятами у вас будут проблемы»" (*"managers, you will have problems with these guys"*). Perhaps the author didn't see the cover and the inside shows correct adult communication, but he doubts it [msg #1055].
+
+Lesson he draws about "difficulty": he admits he is acting like the stereotypical millennial the book calls a difficult audience, but argues that "difficulty" arises not because millennials are problematic; it is a response to an unhealthy environment that does not take differences and different perspectives into account — or, worse, equates them with some deviation, as the cover does [msg #1055].
+
+### The end of old-school directors (Ekaterina Irtikeeva)
+The channel frames management as a genuinely hard role (which leaders themselves often forget) in which self-disrupt is crucial — the ability to rethink and rebuild oneself, discarding habitual and comfortable ideas about oneself and reality. Asked what the most important self-rethinking for leaders of this decade is, Ekaterina Irtikeeva — professional manager, author of "Органичное лидерство" (*Organic Leadership*), who rebuilt herself from official and top manager into a leadership consultant — answered [msg #1057]:
+
+- **The Luddite analogy.** "Luddite revolt" is now a general term for any fight against progress — machines, calculators, computers, the internet; US miners and taxi drivers against Uber. She understands those who suffer from progress because they believed the world was unshakable, as if born with a guarantee letter: "this trade fed several generations before you and will feed several more; this process worked this way and is unchanging." But it is not so [msg #1057].
+- **The same conservative trend in management.** She sees a similar trend in management, but "время директоров старой формации [токсичных, холодных, с культом личности] уходит" (*the time of old-school directors [toxic, cold, with a personality cult] is passing*). Nobody ever liked bosses who create a bottleneck, who "умеют заставлять и давить, но не умеют заинтересовывать" (*can force and pressure but cannot engage*). Today, with alternatives to classic employment and access to information, a growing number of employees will resist such management [msg #1057].
+- **Optimism from leaders.** Many leaders around her light up when she talks about new leadership models and corporate-culture change; work as we know it will surprise us in 5/10/15 years [msg #1057].
+- **The narrowing window and self-questions.** For those who cannot or will not rebuild, the window of opportunity will narrow very quickly — history has many such lessons. She suggests managers ask: does my management style need development? Does my way of managing the team help achieve the maximum in the long term and under today's conditions? [msg #1057]
+- **Practical recommendation.** Try new steps in managing and communicating with colleagues. If you can't do it yourself, hire a person who already has a "built-in" people-loving function and delegate employee development to them [msg #1057].
+- **Closing hope.** Leadership is changing for the better; be part of the change rather than fight it. She dreams her book on ecological leadership will move from the fantasy section to business literature — and then to history, as no longer relevant [msg #1057].
+
+The post also states the three things deep mind's corporate programs aim to help with: applying an ecological management style that improves team productivity, forming a healthy and supportive culture, and managing one's own state [msg #1057].
+
+### The toxicity of "toxicity": label the behavior, not the person
+Thesis (the post's italic lead): labeling a person as toxic, to their face or behind their back, creates a subtle form of stigmatization that triggers not awareness and a wish to grow but a defensive reaction — withdrawal, resentment, protest; this is exactly how the cycle of pain continues, and nobody gets a chance to exit it [msg #1365].
+
+Context: thanks to growing psychological literacy and a psychologized culture, the word "toxicity" has come to be used often and in many contexts — sometimes projecting one's own frustration into it, sometimes pointing at truly destructive behavior. In the space of post-Soviet liberation and the development of psychology, people learned to talk about boundaries, understand violence and abuse, and name subtle, non-obvious things — important cultural achievements still to be worked on, but which can be refined along the way [msg #1365].
+
+Mechanism of harm: "toxicity" has become something like a verdict. Applying it to a colleague, partner or parent may protect us and aim at healthier relationships, but it also "packages" the other person, denying them the chance to be seen more deeply and to change. "Обидный ярлык не приглашает в разговор, а исключает из пространства контакта." (*A hurtful label does not invite conversation but excludes from the space of contact.*) From the standpoint of modern ethics grounded in a scientific understanding of psychology, the stigma may help us personally fence ourselves off from harmful relationships, but often aggravates the core problem. A person told they are toxic will probably feel fear, anger and shame. Shame is a very complex emotion that may temporarily suppress behavior, but in the long term it increases isolation, reduces motivation to grow (the author cites a Psychology Today piece) and worsens mental health [msg #1365].
+
+What helps instead: as researchers at McLean Hospital write (cited by the author), overcoming difficult behavior requires an open, compassionate environment, not pressure or public condemnation. Change happens not when a person is shamed and forced to stop, but when they feel they can be with something difficult in themselves — in contact, in safety, with acceptance. The author calls this the basis of trauma work, which underlies psychological growth [msg #1365].
+
+Limits and nuance: of course there are situations where one must abruptly put a stop and truly exit a destructive contact. But if our habitual reaction is to call any difficult character toxic, we impoverish reality and learn to talk less and less. Toxicity itself became toxic not only because we learn — sometimes crudely — to protect ourselves and defend boundaries, but because we confuse the **Person** with their destructive patterns. A person is not equal to their limited worldview or behavioral habits, which can hurt and destroy their own wellbeing too [msg #1365].
+
+The author's stance: he feels great compassion seeing people themselves destroy relationships with children, partners and colleagues through rude words, complaints and constant devaluation. He tries to remember that a person is much bigger than any, even the most mistaken and repulsive, behavior; even the most rotten murderer and warmonger is deep down a sincere child, and somewhere there lives a good nature whose essence is kindness, love and compassion. Seeing that nature means helping the person step beyond the limitations and pain that led them to the sad state we now call toxicity. The text was written under the supervision of a clinical psychologist [msg #1365].
+
+His explicit summary, to avoid distortion and polarization: he does not propose ignoring harmful behavior or not setting boundaries — boundaries matter and toxicity exists. His focus is not confusing a person with their behavior, not turning a label into a brand, and remembering that under a destructive pattern there often lives pain that people do not know how to handle. "Поведение можно назвать. Границы — поставить. Но важно не переставать видеть в другом живого человека." (*Behavior can be named. Boundaries can be set. But it is important not to stop seeing a living person in the other.*) [msg #1365].
+
+### Why power is not talked about
+From many years of working in and with different organizations, the author sees power as an extremely sensitive topic. It is fought for and divided very actively — behind the scenes, in bargaining over departments, in the opportunity to be in contact with top executives. Yet the knowledge about how power works in a system is, in the author's words, mostly fully ignored in the modern corporate world of the post-Soviet space [msg #1970].
+
+Rosabeth Kanter, a Harvard researcher of power in organizations, wrote back in 1979 that power is harder to talk about than money and even sex. The author says little has changed in half a century, and even less in the post-Soviet context, given "глубокой историей непрекращающихся государственных злоупотреблений властью" (*a deep history of unceasing state abuses of power*) [msg #1970].
+
+### Ranks (Mindell) — the author's version
+The author says he met Arnold Mindell in person around 2019, and that Mindell paid much attention to power and spoke about the importance of reflecting on one's ranks. Everyone has a set of different ranks: social, role (ролевой) and psychological. Rank itself is not bad; it is dangerous when unnoticed. "Чем ранг выше, тем меньше мы его осозна*е*м и тем больше вероятность им злоупотребить" (*The higher the rank, the less we are aware of it and the more likely we are to abuse it*). "Именно неосознаваемые ранги — главный источник проблем с властью" (*It is precisely unacknowledged ranks that are the main source of problems with power*) [msg #1970].
+Update vs the existing file: the earlier post by Inna Laletina named the three rank types as positional power, social rank and psychological rank, and already linked high rank to blind spots [msg #371]; this post names the second type "role" rank and adds no new definitions of the types [msg #1970].
+
+### Arendt: violence as a lack of power
+Hannah Arendt in "On Violence" wrote that violence is a sign not of the strength of power but of its lack: people press when they fail to agree and act together. The author adds that violence has long passed itself off as the norm in our environment, but by its nature it is a sign of poor leadership and management, not strong and skilled [msg #1970].
+
+### Historical root: collectivization
+The author is listening to Oleg Khlevniuk's book "Жизнь одного вождя" (*The Life of One Leader*; the full title is Stalin: The Life of One Leader) about where this all started, and thinks every resident of the post-Soviet space should read it. In his opinion the root collective experience that was never reflected on or healed was 20th-century collectivization. From that unhealthy logic of pressure and violence without attention to consequences grew the equally taboo repressions and a whole painful culture of power "в которой мы до сих пор живем" (*in which we still live*) [msg #1970].
+He describes his own reaction: learning about these events is hard and makes him very angry — millions of lives were broken over the knee; innocent, often smart and talented people lost their land and homes, many died. Resistance was not listened to but suppressed, and the village, then the whole country, has been clearing up the consequences for decades [msg #1970].
+This extends Firsov's historical explanation in the existing file (serfdom reinforced in the Soviet era) with a specific event; the author frames it as his opinion ("на мой взгляд") [msg #1970].
+The author concludes that the historical context and its modern continuation cannot fail to influence the principles on which families, communities and companies are built today [msg #1970].
+
+### The gap: no specialists, no language
+In the Russian-speaking environment there are almost no specialists who work with rank and power in organizations, and not even an established language to talk about it. There are leadership and teamwork trainings, but they usually leave no room for discussing how power is arranged in a specific company and whether that arrangement can be improved [msg #1970].
+The author sees a huge gap or potential here and sincerely believes that work with power — making it healthier, transparent and modern — will open the next level of company resilience and effectiveness. "Возможно, запаса хода там не меньше, чем у AI" (*Perhaps there is no less headroom there than in AI*). Companies and leaders who learn to see and discuss power, he says, will immediately get a strong boost in management quality: truth flowing upward, less hidden sabotage, and winning the competition for top talent [msg #1970].
+
+## Evidence and numbers
+
+- **McKinsey Health Institute Employee Mental Health and Wellbeing Survey 2022** (n = 14,509, 15 countries), chart titled "Toxic behavior is by far the greatest predictor of negative workplace outcomes." Impact of workplace factors in predicting negative outcomes, relative to the impact of "access to resources" (= 1x): toxic workplace behavior 35x; inclusivity and sustainable work 5x and 4x (the transcription lists the two labels and the two values without unambiguous pairing) [img #918]. The author summarizes: McKinsey research put toxicity first in correlation with poor team results [msg #918].
+- **Pennsylvania research on emotional contagion** (cited by the author): a single person's good or bad mood entering a group is picked up by the group; groups develop shared group affect [msg #918].
+- **Prevalence:** 4 out of 5 employees have worked with colleagues who regularly showed criticism, cynicism, negativity or passive/active aggression (figure cited by the author from a Fortune article) [msg #918].
+- **Trauma and violence:** the author states research shows a very high correlation between all cases of violence and psychological trauma (no specific study named) [msg #461].
+- **The friend's corporate case:** 8 years in corporations; yelling bosses at three jobs; hourly plans a week ahead in one job [msg #246].
+
+- A study by the Russian School of Management (Русская школа управления) the author cites: only 23% of employees freely argue with their boss, and 52% hide their mistakes from the boss. The author adds that behind these numbers lie the final results companies get, and often the careers of specific people [msg #1970].
+- Rosabeth Kanter (Harvard), 1979: power is harder to talk about than money or sex [msg #1970].
+
+## Tools and resources mentioned
+
+- **Process-oriented approach (Arnold Mindell)** — the framework behind the rank model; presented positively as a lens for power in companies and society [msg #371].
+- **Cultural check testing** — interview-stage culture filter; the author calls it an excellent tool that changed many companies [msg #919].
+- **Communication coaching (constructive feedback, non-violent communication, inclusivity, ethics)** — useful but usually only slightly improves things because it rarely reaches the cause [msg #919].
+- **Therapy / trauma therapy** — named as the primary way to work with the cause of toxic behavior and as a solution area for most harmful leader behaviors; the author recommends trauma therapy to anyone who thinks violence moves humanity forward [msg #283, #461, #919].
+- **Mindfulness and self-regulation training for teams** — presented as deep mind's own know-how and one of the most effective workplace methods (the author is the provider, a conflict of interest) [msg #919].
+- **"Эмоциональный баланс" (Emotional balance)** — deep mind's program for restoring the nervous system after psychological trauma, offered free to affected Latoken employees [msg #710].
+- **"Сложные подчиненные" by Maxim Batyrev** — criticized for its title and cover (unread by the critic) [msg #1055].
+- **"Органичное лидерство" by Ekaterina Irtikeeva** — a book about ecological leadership, mentioned by its author [msg #1057].
+- **Michel Foucault's view of power** — used to explain how devaluation spreads gradually through relations [msg #1447].
+
+- **Hannah Arendt, "On Violence" («О насилии»)** — source of the thesis that violence signals a lack of power; cited approvingly [msg #1970].
+- **Oleg Khlevniuk, "Жизнь одного вождя" (Stalin: The Life of One Leader)** — book on the origins of the Soviet culture of power; the author says every resident of the post-Soviet space should read it [msg #1970].
+- **Rosabeth Kanter's 1979 article on power failure in management circuits** — cited for the taboo on discussing power [msg #1970].
+
+## Notable quotes
+
+> "Этика более не является лишь эфемерностью" (*Ethics is no longer just something ephemeral*) — channel author [msg #230]
+
+> "они всегда сами изнасилованные травматики" (*they themselves are always violated, traumatized people*) — channel author on pain-causing bosses [msg #246]
+
+> "Ответственности прекратить транслировать страдание вниз." (*Responsibility to stop transmitting suffering downward.*) — channel author [msg #246]
+
+> "Избегание ранга имеет такие же последствия, как и злоупотребление." (*Avoiding rank has the same consequences as abusing it.*) — Inna Laletina [msg #371]
+
+> "делай, что говорят, твоё дело маленькое" (*do as you're told, your business is small*) — Ivan Firsov describing the directive upbringing [msg #457]
+
+> "абьюзер и бьет и ласкает" (*the abuser both beats and caresses*) — channel author [msg #461]
+
+> "Унижение личности никогда не должно происходить со взрослыми людьми на работе!" (*Humiliation of a person must never happen to adults at work!*) — channel author [msg #710]
+
+> "Почему люди ведут себя как мудаки?" (*Why do people behave like jerks?*) — channel author [msg #919]
+
+> "Я вижу этику в бизнесе как супер силу." (*I see ethics in business as a superpower.*) — channel author [msg #1054]
+
+> "умеют заставлять и давить, но не умеют заинтересовывать" (*can force and pressure but cannot engage*) — Ekaterina Irtikeeva [msg #1057]
+
+> "Поведение можно назвать. Границы — поставить. Но важно не переставать видеть в другом живого человека." (*Behavior can be named. Boundaries can be set. But it is important not to stop seeing a living person in the other.*) — channel author [msg #1365]
+
+> "Власть можно занимать и по-другому." (*Power can be held differently.*) — channel author [msg #1447]
+
+> "Сам по себе ранг не плох, опасно, когда его не замечают." (*Rank itself is not bad; it is dangerous when it goes unnoticed.*) — channel author, after Mindell [msg #1970]
+
+> "Давят тогда, когда не получается договориться и действовать вместе." (*People press when they fail to agree and act together.*) — channel author, paraphrasing Arendt [msg #1970]
+
+> "наверх идут красивые отчеты вместо правды" (*pretty reports go upward instead of the truth*) — channel author [msg #1970]
+
+## Caveats, disagreements and open questions
+
+- (!) CONTRADICTION: in 2022 the author advocates speaking about abuse "naming names and pointing fingers" and publicly naming companies and people who cause pain (2020), and he uses the word "toxicity" freely in earlier posts; by 2023 he says he dislikes the word for its stigma, and in 2025 he argues the "toxic" label perpetuates the cycle of pain. He reconciles this partly by saying behavior can be named and boundaries set while the person should not be branded [msg #246, #710, #918, #1365].
+- (!) UNCLEAR: the claim that pain-causing bosses are "always" traumatized and the claim of a "very high correlation" between violence and trauma are stated without a named study [msg #246, #461].
+- (!) UNCLEAR: in the McKinsey chart transcription the values 5x and 4x are listed separately from the labels "Inclusivity" and "Sustainable work", so their exact pairing cannot be confirmed from the source [img #918].
+- (!) INCOMPLETE: one item on the Batyrev book cover is illegible in the transcription ("Мисо") [img #1055].
+- The author's critique of the Batyrev book is explicitly based only on the title and cover; he concedes the inside might show correct adult communication [msg #1055].
+- Conflict of interest: the claim that mindfulness and self-regulation training is one of the most effective anti-toxicity methods, and that deep mind was first to apply it in Russian, comes from deep mind, which sells such programs; likewise the corporate-program description in the Irtikeeva post [msg #919, #1057].
+- The author's own hedges: US anti-discrimination discourse shows overreach that developmental theory expects to roll back [msg #230]; the system-level fixes need not be done at once under limited resources [msg #919]; sometimes one must abruptly exit a destructive contact [msg #1365]; people who devalue are "not necessarily bad people" [msg #1447]; violence "is effective" short-term [msg #461].
+- The author notes legal and social remedies (suing, compulsory treatment) work poorly in Russia [msg #710].
+
+- The collectivization-as-root claim and the AI comparison are explicitly the author's opinion and belief ("на мой взгляд", "искренне верю", "Возможно") [msg #1970].
+- (!) UNCLEAR: the Russian School of Management study's sample, year and method are not given in the post [msg #1970].
+- (!) CONTRADICTION (minor, terminological): #371 lists the rank types as positional, social, psychological; #1970 lists social, role, psychological — likely the same concept under different names, but the source does not reconcile them [msg #1970].
+- The post's image only repeats the title "Власть в организациях: почему о ней не принято говорить" [img #1970].
+
+## Resources and links
+
+Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
+
+### Resources
+
+- ★ **HBR 1979: Power Failure in Management Circuits (Rosabeth Moss Kanter)** (article) — Classic article saying that power is harder to discuss than money or sex. [msg #1970] → <https://hbr.org/1979/07/power-failure-in-management-circuits>
+- ★ **HBR Russia: pandemic and more humanity in leadership** (article) — Article on bringing more humanity and less directive control to work. [msg #457] → <https://www.google.com/amp/s/amp.hbr-russia.ru/liderstvo/psikhologiya/856198>
+- ★ **McLean Hospital: Stigma** (article) — Material saying overcoming problem behaviour needs a compassionate environment, not public condemnation. [msg #1365] → <https://www.mcleanhospital.org/essential/stigma>
+- ★ **Psychology Today: Shame is a powerful tool for behaviour change, but at what cost** (article) — Article saying shame suppresses behaviour but lowers motivation to grow. [msg #1365] → <https://www.psychologytoday.com/us/blog/diagnosis-human/202501/shame-is-a-powerful-tool-for-behavior-change-but-at-what-cost>
+- ★ **deep mind programmes for teams (Notion page)** (guide) — The authors' Notion overview of their practice-based programmes for team development, built on small repeated exercises. [msg #919] → <https://dmcom.notion.site/Deep-Mind-049547592013465487a9fbab21e8f55d>
+- ★ **deep mind programmes overview (Craft page)** (guide) — Craft document describing deep mind programmes built on developing subtle skills; the author offers it as an overview. [msg #1057] → <https://coins-wait-tgb.craft.me/KmJv1NtbZe5ody>
+- ★ **Welcome to Deep mind Mindfulness Community (Notion page)** (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [msg #919] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
+- ★ **Barsade (Administrative Science Quarterly): The Ripple Effect, emotional contagion in groups** (study) — Study showing emotions spread through a group like an airborne infection. [msg #918] → <https://journals.sagepub.com/doi/abs/10.2307/3094912>
+- ★ **Conference video on organisational psychology about emotional contagion** (video) — Video about the phenomenon of group emotion spread. [msg #918] → <https://www.youtube.com/watch?v=CmVlaEz6UoQ>
+- ★ **deep mind world (web app/site)** (website) — The authors' own site, linked as the signature of many posts, gathering their materials. [msg #1970] → <https://deepmindworld.vercel.app/>
+- **Fortune: toxic coworkers (2015)** (article) — Article reporting that 4 of 5 employees worked with toxic colleagues. [msg #918] → <https://fortune.com/2015/07/16/toxic-coworkers/>
+- **The Village: article on workplace harassment** (article) — Article behind the post on the new ethical norm of harassment in workplaces. [msg #230] → <https://www.the-village.ru/village/city/situation/385497-harass>
+- **Theory & Practice: From baby boomers to Black boomers, generation theory in Russia** (article) — Article on whether generation theory applies in Russia. [msg #457] → <https://theoryandpractice.ru/posts/17730-ot-bebi-bumerov-do-chernykh-bumerov-primenima-li-teoriya-pokoleniy-v-rossii>
+- **Wikipedia (RU): Arnold Mindell** (article) — Entry on the process-work founder and conflict facilitator whose principles are summarised in the post. [msg #371, #1970] → <https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B5%D0%BB%D0%BB,_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4>
+- **Retail.ru press release: managers do not know about company problems because employees prefer to stay silent** (study) — Survey cited about how silence shapes organisations. [msg #1970] → <https://www.retail.ru/rbc/pressreleases/rukovoditeli-ne-znayut-o-problemakh-v-svoikh-kompaniyakh-potomu-chto-sotrudniki-predpochitayut-molch/>
+- **YouTube video of a public humiliation (watched partly)** (video) — Video the author could not finish, cited as an example of humiliation that should never happen with adults at work. [msg #710] → <https://www.youtube.com/watch?v=C3bKjgspTFk>
+
+### External links
+
+- ★ **Hannah Arendt — On Violence (Goodreads)** (book) — Book in which violence is a sign of lack of power. [msg #1970] → <https://www.goodreads.com/book/show/93027614>
+- ★ **Oleg Khlevniuk — Stalin: The Life of One Leader (Zhizn odnogo vozhdya), Litres** (book) — Biography the author is listening to about the origin of fear-based reporting. [msg #1970] → <https://www.litres.ru/book/oleg-vitalevich-hlevnuk/stalin-zhizn-odnogo-vozhdya-8891103/>
+- ★ **Organic Leadership (Telegram, Ekaterina Irtikeeva)** (channel) — Channel of the author of Organic Leadership, a manager turned leadership consultant. [msg #1057] → <https://t.me/organic_leadership>
+- **deep mind (private Telegram invite)** (channel) — Invite to the authors' channel in the footer. [msg #1057] → <https://t.me/+0s6mrhlb_-liZTYy>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #457, #918, #1447] → <https://t.me/mindfulleadersrussia>
+- **Ivan Firsov (Telegram channel servizio_amatore)** (channel) — Channel of a Russian IT manager mentioned in the post. [msg #457] → <https://t.me/servizio_amatore>
+- **deep mind asynchronous programme (emotion regulation)** (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [msg #710] → <https://bit.ly/3aqOYlI>
+- **deep mind manager Nastya (Telegram)** (profile) — Contact for discussing corporate programmes. [msg #1057] → <https://t.me/nastyaroman>
+- **культурой "спортсменов", удаленкой или конкуренцией** (profile) [msg #710] → <https://www.facebook.com/valentin.preobrazhenskiy/posts/pfbid02ZhrwK5TJS4nPzd11j5hSASxRMFoJtdetjnwbvV1EpPLL1gYCq34Jp8DLMSGYGVKEl>
+- **на искажение фактов и обиду** (profile) [msg #710] → <https://www.facebook.com/valentin.preobrazhenskiy/posts/pfbid02fTVsnEAnbvadq1GjUrcKhQKbgqzP8Ds4Di3uHeuFP1RQYH1sFUsfxmtjKqmHUf9Kl>
+- **deep mind consulting (b2b site)** (website) — Company website for corporate offers, footer link. [msg #919] → <http://deepmindconsulting.ru/>
+- **Masterheart (Max Rodin's project website)** (website) — Project site with offers for teams and a community, linked from the author's footer. [msg #919] → <http://masterheart.space/>
+- **Max Rodin (personal site)** (website) — Personal site of Maxim Rodin, footer of the deep mind ecosystem links. [msg #1970] → <https://maxrodin.vercel.app/>
+
+## Source messages
+
+#230, #246, #283, #371, #457, #461, #710, #918, #919, #1054, #1055, #1057, #1365, #1447, #1970

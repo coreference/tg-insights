@@ -1,0 +1,554 @@
+# Files & media index
+
+All media referenced in the export with message context and relative path.
+
+## file  (17)
+- [msg #159] 2024-08-31 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/files/Окно_толерантности_презентация.pdf` · text transcribed
+- [msg #167] 2024-09-06 · Recovering from neurodivergent burnout · `raw-exports/ChatExport_2026-11-18/files/Инструменты_для_работы_с_аутичным_выгоранием.pdf` · text transcribed
+- [msg #186] 2024-09-07 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/files/Интероцепция_и_как_можно_ее_улучшить.pdf` · text transcribed
+- [msg #295] 2024-11-07 · Anxiety and panic: CBT and body-based coping · `raw-exports/ChatExport_2026-11-18/files/Панические атаки.pdf` · text transcribed
+- [msg #375] 2024-12-09 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/files/Диагностические_критерии_гСЭД.pdf` · text transcribed
+- [msg #376] 2024-12-09 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/files/hEDS-Dx-Criteria-checklist-1.pdf` · text transcribed
+- [msg #382] 2024-12-12 · (unassigned) · `raw-exports/ChatExport_2026-11-18/files/Shkala_chuvstv.pdf` · text transcribed
+- [msg #383] 2024-12-12 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/files/Spisok_chuvstv.pdf` · text transcribed
+- [msg #384] 2024-12-12 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/files/Koleso_chuvstv.pdf` · text transcribed
+- [msg #386] 2024-12-15 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/files/Чек-лист аутичного выгорания.pdf` · text transcribed
+- [msg #387] 2024-12-15 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/files/Чек-лист Аутизм или кПТСР.pdf` · text transcribed
+- [msg #446] 2025-01-09 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/files/Есть_ошибочное_мнение,_что_стресс_укрепляет_нас,_способствует_адаптации.pdf` · text transcribed
+- [msg #448] 2025-01-12 · Internalized capitalism, ableism and self-worth · `raw-exports/ChatExport_2026-11-18/files/Интернализированный капитализм.pdf` · text transcribed
+- [msg #496] 2025-02-24 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/files/Стратегии маскинга.pdf` · text transcribed
+- [msg #532] 2025-03-09 · Recovering from neurodivergent burnout · `raw-exports/ChatExport_2026-11-18/files/Рабочая_тетрадь_для_поиска_восстанавливающих_занятий_1.pdf` · text transcribed
+- [msg #578] 2025-04-16 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/files/Смена состояния нервной системы.pdf` · text transcribed
+- [msg #785] 2025-12-07 · Complex trauma (C-PTSD) in neurodivergent lives · `raw-exports/ChatExport_2026-11-18/files/Газлайтинг_как_распознать_и_противостоять_ГМВ.pdf` · text transcribed
+
+## photo  (491)
+- [msg #18] 2024-02-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_2@10-02-2024_14-05-44.jpg`
+- [msg #20] 2024-02-10 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_3@10-02-2024_14-07-31.jpg` · text transcribed
+- [msg #23] 2024-02-10 · Internalized capitalism, ableism and self-worth · `raw-exports/ChatExport_2026-11-18/photos/photo_4@10-02-2024_14-36-49.jpg` · text transcribed
+- [msg #24] 2024-02-10 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_5@10-02-2024_23-41-44.jpg` · text transcribed
+- [msg #25] 2024-02-11 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_6@11-02-2024_12-45-37.jpg` · text transcribed
+- [msg #28] 2024-02-11 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_7@11-02-2024_15-45-15.jpg` · text transcribed
+- [msg #29] 2024-02-11 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_8@11-02-2024_16-12-08.jpg` · text transcribed
+- [msg #30] 2024-02-11 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_9@11-02-2024_19-33-03.jpg` · text transcribed
+- [msg #31] 2024-02-11 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_10@11-02-2024_20-56-41.jpg` · text transcribed
+- [msg #33] 2024-02-12 · Internalized capitalism, ableism and self-worth · `raw-exports/ChatExport_2026-11-18/photos/photo_11@12-02-2024_10-34-12.jpg` · text transcribed
+- [msg #34] 2024-02-12 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_12@12-02-2024_13-33-43.jpg` · text transcribed
+- [msg #35] 2024-02-14 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_13@14-02-2024_15-32-07.jpg` · text transcribed
+- [msg #36] 2024-02-16 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_14@16-02-2024_15-22-01.jpg` · text transcribed
+- [msg #37] 2024-02-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_15@17-02-2024_14-13-39.jpg` · text transcribed
+- [msg #38] 2024-02-18 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_16@18-02-2024_12-48-09.jpg` · text transcribed
+- [msg #39] 2024-02-22 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_17@22-02-2024_15-52-30.jpg` · text transcribed
+- [msg #40] 2024-02-26 · Recovering from neurodivergent burnout · `raw-exports/ChatExport_2026-11-18/photos/photo_18@26-02-2024_20-21-43.jpg` · text transcribed
+- [msg #41] 2024-02-29 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_19@29-02-2024_16-01-57.jpg` · text transcribed
+- [msg #42] 2024-03-03 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_20@03-03-2024_19-40-42.jpg` · text transcribed
+- [msg #43] 2024-03-07 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_21@07-03-2024_16-34-26.jpg` · text transcribed
+- [msg #44] 2024-03-11 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_22@11-03-2024_17-25-10.jpg` · text transcribed
+- [msg #46] 2024-03-15 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_23@15-03-2024_21-10-30.jpg` · text transcribed
+- [msg #47] 2024-03-22 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_24@22-03-2024_19-18-28.jpg` · text transcribed
+- [msg #49] 2024-03-25 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_25@25-03-2024_18-20-26.jpg` · text transcribed
+- [msg #50] 2024-04-01 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_26@01-04-2024_13-08-41.jpg` · text transcribed
+- [msg #51] 2024-04-01 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_27@01-04-2024_18-16-29.jpg`
+- [msg #52] 2024-04-06 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_28@06-04-2024_20-51-50.jpg` · text transcribed
+- [msg #54] 2024-04-14 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_29@14-04-2024_17-30-09.jpg` · text transcribed
+- [msg #56] 2024-04-18 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_30@18-04-2024_11-30-17.jpg` · text transcribed
+- [msg #57] 2024-04-20 · Reading autism and ADHD research critically · `raw-exports/ChatExport_2026-11-18/photos/photo_31@20-04-2024_14-21-58.jpg` · text transcribed
+- [msg #58] 2024-04-25 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_32@25-04-2024_18-40-39.jpg` · text transcribed
+- [msg #60] 2024-06-27 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_33@27-06-2024_15-13-24.jpg` · text transcribed
+- [msg #64] 2024-06-30 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_34@30-06-2024_20-57-17.jpg` · text transcribed
+- [msg #65] 2024-07-04 · What autism is: the neurodiversity paradigm · `raw-exports/ChatExport_2026-11-18/photos/photo_35@04-07-2024_11-14-08.jpg` · text transcribed
+- [msg #69] 2024-07-04 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_36@04-07-2024_17-29-17.jpg` · text transcribed
+- [msg #71] 2024-07-05 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_37@05-07-2024_14-53-50.jpg`
+- [msg #73] 2024-07-06 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_38@06-07-2024_21-38-43.jpg` · text transcribed
+- [msg #74] 2024-07-07 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_39@07-07-2024_17-10-21.jpg` · text transcribed
+- [msg #76] 2024-07-09 · What autism is: the neurodiversity paradigm · `raw-exports/ChatExport_2026-11-18/photos/photo_40@09-07-2024_15-06-55.jpg` · text transcribed
+- [msg #79] 2024-07-12 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_41@12-07-2024_17-00-39.jpg` · text transcribed
+- [msg #88] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_42@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #89] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_43@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #90] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_44@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #91] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_45@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #92] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_46@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #93] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_47@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #94] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_48@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #95] 2024-07-14 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_49@14-07-2024_20-09-53.jpg` · text transcribed
+- [msg #96] 2024-07-17 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_50@17-07-2024_18-41-55.jpg` · text transcribed
+- [msg #98] 2024-07-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_51@23-07-2024_17-25-18.jpg` · text transcribed
+- [msg #103] 2024-07-28 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_52@28-07-2024_14-29-35.jpg` · text transcribed
+- [msg #113] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_53@09-08-2024_15-03-11.jpg` · text transcribed
+- [msg #114] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_54@09-08-2024_15-03-11.jpg` · text transcribed
+- [msg #115] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_55@09-08-2024_15-03-11.jpg` · text transcribed
+- [msg #116] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_56@09-08-2024_15-03-12.jpg` · text transcribed
+- [msg #117] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_57@09-08-2024_15-03-12.jpg` · text transcribed
+- [msg #118] 2024-08-09 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_58@09-08-2024_15-03-12.jpg` · text transcribed
+- [msg #123] 2024-08-14 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_59@14-08-2024_20-25-03.jpg` · text transcribed
+- [msg #124] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_60@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #125] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_61@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #126] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_62@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #127] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_63@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #128] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_64@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #129] 2024-08-16 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_65@16-08-2024_11-02-46.jpg` · text transcribed
+- [msg #130] 2024-08-16 · Reading autism and ADHD research critically · `raw-exports/ChatExport_2026-11-18/photos/photo_66@16-08-2024_19-38-14.jpg`
+- [msg #132] 2024-08-19 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_67@19-08-2024_10-38-31.jpg` · text transcribed
+- [msg #134] 2024-08-20 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_68@20-08-2024_13-12-24.jpg` · text transcribed
+- [msg #138] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_69@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #139] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_70@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #140] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_71@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #141] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_72@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #142] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_73@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #143] 2024-08-23 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_74@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #146] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_75@28-08-2024_19-58-42.jpg` · text transcribed
+- [msg #147] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_76@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #148] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_77@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #149] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_78@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #150] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_79@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #151] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_80@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #152] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_81@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #153] 2024-08-28 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_82@28-08-2024_19-58-43.jpg` · text transcribed
+- [msg #155] 2024-08-30 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_83@30-08-2024_16-34-03.jpg` · text transcribed
+- [msg #156] 2024-08-30 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_84@30-08-2024_20-29-17.jpg` · text transcribed
+- [msg #168] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_85@06-09-2024_20-40-24.jpg` · text transcribed
+- [msg #169] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_86@06-09-2024_20-40-24.jpg` · text transcribed
+- [msg #170] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_87@06-09-2024_20-40-24.jpg` · text transcribed
+- [msg #171] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_88@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #172] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_89@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #173] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_90@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #174] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_91@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #175] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_92@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #176] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_93@06-09-2024_20-40-25.jpg` · text transcribed
+- [msg #177] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_94@06-09-2024_21-23-42.jpg` · text transcribed
+- [msg #178] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_95@06-09-2024_21-23-42.jpg` · text transcribed
+- [msg #179] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_96@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #180] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_97@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #181] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_98@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #182] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_99@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #183] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_100@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #184] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_101@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #185] 2024-09-06 · Sensory processing, overload and sensory regulation · `raw-exports/ChatExport_2026-11-18/photos/photo_102@06-09-2024_21-23-43.jpg` · text transcribed
+- [msg #189] 2024-09-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_103@08-09-2024_18-52-18.jpg` · text transcribed
+- [msg #190] 2024-09-09 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_104@09-09-2024_15-16-35.jpg` · text transcribed
+- [msg #193] 2024-09-10 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_105@10-09-2024_10-29-40.jpg` · text transcribed
+- [msg #198] 2024-09-14 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_106@14-09-2024_11-19-13.jpg` · text transcribed
+- [msg #204] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_107@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #205] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_108@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #206] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_109@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #207] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_110@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #208] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_111@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #209] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_112@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #210] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_113@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #211] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_114@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #212] 2024-09-21 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_115@21-09-2024_13-33-42.jpg` · text transcribed
+- [msg #218] 2024-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_116@22-09-2024_16-57-28.jpg` · text transcribed
+- [msg #219] 2024-09-22 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_117@22-09-2024_18-42-27.jpg` · text transcribed
+- [msg #221] 2024-09-23 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_118@23-09-2024_17-32-49.jpg` · text transcribed
+- [msg #222] 2024-09-24 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_119@24-09-2024_14-44-25.jpg` · text transcribed
+- [msg #245] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_120@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #246] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_121@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #247] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_122@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #248] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_123@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #249] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_124@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #250] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_125@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #251] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_126@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #252] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_127@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #253] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_128@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #254] 2024-09-25 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_129@25-09-2024_19-33-42.jpg` · text transcribed
+- [msg #260] 2024-09-29 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_130@29-09-2024_14-54-46.jpg` · text transcribed
+- [msg #261] 2024-09-29 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_131@29-09-2024_14-54-46.jpg` · text transcribed
+- [msg #265] 2024-10-07 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_132@07-10-2024_16-37-57.jpg` · text transcribed
+- [msg #267] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_133@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #268] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_134@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #269] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_135@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #270] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_136@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #271] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_137@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #272] 2024-10-20 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_138@20-10-2024_17-40-37.jpg` · text transcribed
+- [msg #275] 2024-10-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_139@22-10-2024_19-35-54.jpg` · text transcribed
+- [msg #276] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_140@23-10-2024_16-00-49.jpg` · text transcribed
+- [msg #277] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_141@23-10-2024_16-00-50.jpg` · text transcribed
+- [msg #278] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_142@23-10-2024_16-00-50.jpg` · text transcribed
+- [msg #279] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_143@23-10-2024_16-00-50.jpg` · text transcribed
+- [msg #280] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_144@23-10-2024_16-00-50.jpg` · text transcribed
+- [msg #281] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_145@23-10-2024_16-00-50.jpg` · text transcribed
+- [msg #282] 2024-10-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_146@23-10-2024_16-31-05.jpg` · text transcribed
+- [msg #283] 2024-10-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_147@26-10-2024_15-58-46.jpg` · text transcribed
+- [msg #285] 2024-10-27 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_148@27-10-2024_15-53-49.jpg`
+- [msg #287] 2024-11-01 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_149@01-11-2024_16-07-52.jpg` · text transcribed
+- [msg #288] 2024-11-03 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_150@03-11-2024_11-33-01.jpg` · text transcribed
+- [msg #289] 2024-11-04 · Pacing and energy accounting · `raw-exports/ChatExport_2026-11-18/photos/photo_151@04-11-2024_18-55-25.jpg` · text transcribed
+- [msg #291] 2024-11-05 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_152@05-11-2024_11-40-01.jpg` · text transcribed
+- [msg #297] 2024-11-08 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_153@08-11-2024_21-55-56.jpg` · text transcribed
+- [msg #298] 2024-11-08 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_154@08-11-2024_21-55-57.jpg` · text transcribed
+- [msg #299] 2024-11-08 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_155@08-11-2024_21-55-57.jpg` · text transcribed
+- [msg #300] 2024-11-08 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_156@08-11-2024_21-55-57.jpg` · text transcribed
+- [msg #309] 2024-11-15 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_157@15-11-2024_21-05-52.jpg` · text transcribed
+- [msg #310] 2024-11-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_158@16-11-2024_20-12-54.jpg` · text transcribed
+- [msg #311] 2024-11-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_159@16-11-2024_20-12-54.jpg` · text transcribed
+- [msg #312] 2024-11-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_160@16-11-2024_20-12-54.jpg` · text transcribed
+- [msg #313] 2024-11-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_161@16-11-2024_20-12-54.jpg` · text transcribed
+- [msg #314] 2024-11-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_162@16-11-2024_20-12-54.jpg` · text transcribed
+- [msg #315] 2024-11-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_163@16-11-2024_20-12-55.jpg` · text transcribed
+- [msg #316] 2024-11-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_164@17-11-2024_15-03-41.jpg` · text transcribed
+- [msg #318] 2024-11-21 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_165@21-11-2024_15-21-16.jpg` · text transcribed
+- [msg #321] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_166@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #322] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_167@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #323] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_168@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #324] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_169@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #325] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_170@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #326] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_171@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #327] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_172@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #328] 2024-11-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_173@22-11-2024_17-15-01.jpg` · text transcribed
+- [msg #333] 2024-11-24 · What autism is: the neurodiversity paradigm · `raw-exports/ChatExport_2026-11-18/photos/photo_174@24-11-2024_19-39-20.jpg` · text transcribed
+- [msg #334] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_175@25-11-2024_12-37-49.jpg` · text transcribed
+- [msg #335] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_176@25-11-2024_12-37-49.jpg` · text transcribed
+- [msg #336] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_177@25-11-2024_12-37-49.jpg` · text transcribed
+- [msg #337] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_178@25-11-2024_12-37-49.jpg` · text transcribed
+- [msg #338] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_179@25-11-2024_12-37-49.jpg` · text transcribed
+- [msg #339] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_180@25-11-2024_12-37-50.jpg` · text transcribed
+- [msg #340] 2024-11-25 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_181@25-11-2024_12-37-50.jpg` · text transcribed
+- [msg #341] 2024-11-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_182@26-11-2024_20-08-55.jpg` · text transcribed
+- [msg #349] 2024-11-27 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_183@27-11-2024_10-58-20.jpg` · text transcribed
+- [msg #351] 2024-11-28 · Regulating the neurodivergent nervous system · `raw-exports/ChatExport_2026-11-18/photos/photo_184@28-11-2024_14-14-02.jpg` · text transcribed
+- [msg #353] 2024-11-30 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_185@30-11-2024_21-07-24.jpg` · text transcribed
+- [msg #356] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_69@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #357] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_70@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #358] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_71@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #359] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_72@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #360] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_73@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #361] 2024-12-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_74@23-08-2024_17-16-31.jpg` · text transcribed
+- [msg #363] 2024-12-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_192@04-12-2024_20-04-28.jpg`
+- [msg #364] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_193@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #365] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_194@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #366] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_195@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #367] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_196@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #368] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_197@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #369] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_198@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #370] 2024-12-05 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_199@05-12-2024_19-54-12.jpg` · text transcribed
+- [msg #372] 2024-12-09 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_200@09-12-2024_09-15-38.jpg` · text transcribed
+- [msg #374] 2024-12-09 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_201@09-12-2024_10-19-54.jpg` · text transcribed
+- [msg #379] 2024-12-12 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_202@12-12-2024_10-25-58.jpg` · text transcribed
+- [msg #380] 2024-12-12 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_203@12-12-2024_10-25-58.jpg` · text transcribed
+- [msg #381] 2024-12-12 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_204@12-12-2024_10-25-58.jpg` · text transcribed
+- [msg #385] 2024-12-14 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_205@14-12-2024_12-45-04.jpg` · text transcribed
+- [msg #388] 2024-12-16 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_206@16-12-2024_16-02-32.jpg` · text transcribed
+- [msg #390] 2024-12-17 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_207@17-12-2024_15-09-33.jpg` · text transcribed
+- [msg #392] 2024-12-17 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_208@17-12-2024_16-32-01.jpg` · text transcribed
+- [msg #394] 2024-12-18 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_209@18-12-2024_14-00-47.jpg` · text transcribed
+- [msg #398] 2024-12-20 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_210@20-12-2024_14-14-19.jpg` · text transcribed
+- [msg #400] 2024-12-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_211@22-12-2024_19-26-01.jpg` · text transcribed
+- [msg #401] 2024-12-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_212@22-12-2024_19-26-01.jpg` · text transcribed
+- [msg #402] 2024-12-22 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_213@22-12-2024_19-26-01.jpg` · text transcribed
+- [msg #403] 2024-12-22 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_214@22-12-2024_19-26-02.jpg` · text transcribed
+- [msg #404] 2024-12-22 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_215@22-12-2024_19-26-02.jpg` · text transcribed
+- [msg #405] 2024-12-22 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_216@22-12-2024_19-26-02.jpg` · text transcribed
+- [msg #406] 2024-12-22 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_217@22-12-2024_19-26-02.jpg` · text transcribed
+- [msg #407] 2024-12-22 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_218@22-12-2024_19-26-02.jpg` · text transcribed
+- [msg #409] 2024-12-24 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_219@24-12-2024_14-17-31.jpg` · text transcribed
+- [msg #410] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_220@25-12-2024_11-10-56.jpg` · text transcribed
+- [msg #411] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_221@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #412] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_222@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #413] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_223@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #414] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_224@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #415] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_225@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #416] 2024-12-25 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_226@25-12-2024_11-10-57.jpg` · text transcribed
+- [msg #419] 2024-12-25 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_227@25-12-2024_16-23-16.jpg` · text transcribed
+- [msg #427] 2025-01-01 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_228@01-01-2025_00-43-23.jpg`
+- [msg #428] 2025-01-01 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_229@01-01-2025_00-43-23.jpg`
+- [msg #429] 2025-01-01 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_230@01-01-2025_00-43-23.jpg`
+- [msg #430] 2025-01-01 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_231@01-01-2025_00-43-23.jpg`
+- [msg #431] 2025-01-02 · ADHD traits: rejection sensitivity, daydreaming and body doubling · `raw-exports/ChatExport_2026-11-18/photos/photo_232@02-01-2025_18-20-48.jpg` · text transcribed
+- [msg #432] 2025-01-03 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_233@03-01-2025_16-55-27.jpg` · text transcribed
+- [msg #435] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_234@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #436] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_235@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #437] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_236@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #438] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_237@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #439] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_238@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #440] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_239@03-01-2025_18-00-27.jpg` · text transcribed
+- [msg #441] 2025-01-03 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_240@03-01-2025_18-00-28.jpg` · text transcribed
+- [msg #442] 2025-01-04 · Internalized capitalism, ableism and self-worth · `raw-exports/ChatExport_2026-11-18/photos/photo_241@04-01-2025_18-36-55.jpg` · text transcribed
+- [msg #447] 2025-01-11 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_242@11-01-2025_17-38-40.jpg`
+- [msg #449] 2025-01-12 · Internalized capitalism, ableism and self-worth · `raw-exports/ChatExport_2026-11-18/photos/photo_243@12-01-2025_16-53-36.jpg` · text transcribed
+- [msg #451] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_244@16-01-2025_06-23-30.jpg` · text transcribed
+- [msg #452] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_245@16-01-2025_06-23-30.jpg` · text transcribed
+- [msg #453] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_246@16-01-2025_06-23-31.jpg` · text transcribed
+- [msg #454] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_247@16-01-2025_06-23-31.jpg` · text transcribed
+- [msg #455] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_248@16-01-2025_06-23-31.jpg` · text transcribed
+- [msg #456] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_249@16-01-2025_06-23-31.jpg` · text transcribed
+- [msg #457] 2025-01-16 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_250@16-01-2025_06-23-31.jpg` · text transcribed
+- [msg #459] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_251@16-01-2025_19-38-07.jpg` · text transcribed
+- [msg #460] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_252@16-01-2025_19-38-07.jpg` · text transcribed
+- [msg #461] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_253@16-01-2025_19-38-07.jpg` · text transcribed
+- [msg #462] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_254@16-01-2025_19-38-08.jpg` · text transcribed
+- [msg #463] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_255@16-01-2025_19-38-08.jpg` · text transcribed
+- [msg #464] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_256@16-01-2025_19-38-08.jpg` · text transcribed
+- [msg #465] 2025-01-16 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_257@16-01-2025_19-38-08.jpg` · text transcribed
+- [msg #468] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_258@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #469] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_259@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #470] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_260@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #471] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_261@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #472] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_262@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #473] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_263@11-02-2025_21-32-25.jpg` · text transcribed
+- [msg #474] 2025-02-11 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_264@11-02-2025_21-32-26.jpg` · text transcribed
+- [msg #475] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_265@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #476] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_266@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #477] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_267@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #478] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_268@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #479] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_269@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #480] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_270@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #481] 2025-02-16 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_271@16-02-2025_20-40-22.jpg` · text transcribed
+- [msg #482] 2025-02-19 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_272@19-02-2025_18-26-16.jpg` · text transcribed
+- [msg #483] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_273@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #484] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_274@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #485] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_275@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #486] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_276@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #487] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_277@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #488] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_278@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #489] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_279@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #490] 2025-02-19 · Recognizing autism in adults: criteria, hidden traits and late diagnosis · `raw-exports/ChatExport_2026-11-18/photos/photo_280@19-02-2025_18-26-17.jpg` · text transcribed
+- [msg #491] 2025-02-20 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_281@20-02-2025_14-49-38.jpg` · text transcribed
+- [msg #492] 2025-02-20 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_282@20-02-2025_14-49-38.jpg` · text transcribed
+- [msg #493] 2025-02-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_283@22-02-2025_20-36-45.jpg` · text transcribed
+- [msg #494] 2025-02-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_284@23-02-2025_12-17-20.jpg` · text transcribed
+- [msg #509] 2025-03-02 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_285@02-03-2025_15-47-37.jpg` · text transcribed
+- [msg #518] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_286@03-03-2025_20-25-48.jpg` · text transcribed
+- [msg #519] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_287@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #520] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_288@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #521] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_289@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #522] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_290@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #523] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_291@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #524] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_292@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #525] 2025-03-03 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_293@03-03-2025_20-26-12.jpg` · text transcribed
+- [msg #526] 2025-03-04 · What autism is: the neurodiversity paradigm · `raw-exports/ChatExport_2026-11-18/photos/photo_40@09-07-2024_15-06-55.jpg` · text transcribed
+- [msg #535] 2025-03-13 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_295@13-03-2025_15-09-24.jpg` · text transcribed
+- [msg #536] 2025-03-14 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_296@14-03-2025_12-12-28.jpg` · text transcribed
+- [msg #537] 2025-03-14 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_297@14-03-2025_12-12-28.jpg` · text transcribed
+- [msg #538] 2025-03-14 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_298@14-03-2025_12-12-28.jpg` · text transcribed
+- [msg #539] 2025-03-14 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_299@14-03-2025_12-12-28.jpg` · text transcribed
+- [msg #540] 2025-03-14 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_300@14-03-2025_14-03-43.jpg`
+- [msg #544] 2025-03-18 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_301@18-03-2025_19-05-17.jpg` · text transcribed
+- [msg #552] 2025-03-25 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_302@25-03-2025_16-14-25.jpg` · text transcribed
+- [msg #555] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_303@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #556] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_304@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #557] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_305@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #558] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_306@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #559] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_307@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #560] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_308@02-04-2025_15-31-50.jpg` · text transcribed
+- [msg #561] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_309@02-04-2025_15-31-51.jpg` · text transcribed
+- [msg #562] 2025-04-02 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_310@02-04-2025_15-31-51.jpg` · text transcribed
+- [msg #564] 2025-04-04 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_311@04-04-2025_18-26-51.jpg` · text transcribed
+- [msg #565] 2025-04-04 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_312@04-04-2025_18-26-51.jpg` · text transcribed
+- [msg #567] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_313@04-04-2025_19-27-28.jpg` · text transcribed
+- [msg #568] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_314@04-04-2025_19-27-28.jpg` · text transcribed
+- [msg #569] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_315@04-04-2025_19-27-28.jpg` · text transcribed
+- [msg #570] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_316@04-04-2025_19-27-28.jpg` · text transcribed
+- [msg #571] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_317@04-04-2025_19-27-29.jpg` · text transcribed
+- [msg #572] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_318@04-04-2025_19-27-29.jpg` · text transcribed
+- [msg #573] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_319@04-04-2025_19-27-29.jpg` · text transcribed
+- [msg #574] 2025-04-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_320@04-04-2025_19-27-29.jpg` · text transcribed
+- [msg #577] 2025-04-13 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_321@13-04-2025_15-26-24.jpg` · text transcribed
+- [msg #579] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_322@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #580] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_323@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #581] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_324@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #582] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_325@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #583] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_326@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #584] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_327@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #585] 2025-04-17 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_328@17-04-2025_21-23-53.jpg` · text transcribed
+- [msg #586] 2025-04-21 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_329@21-04-2025_08-06-05.jpg` · text transcribed
+- [msg #589] 2025-04-22 · Autistic burnout versus depression · `raw-exports/ChatExport_2026-11-18/photos/photo_330@22-04-2025_17-06-10.jpg` · text transcribed
+- [msg #590] 2025-04-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_331@22-04-2025_20-12-22.jpg` · text transcribed
+- [msg #592] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_332@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #593] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_333@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #594] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_334@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #595] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_335@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #596] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_336@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #597] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_337@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #598] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_338@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #599] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_339@27-04-2025_18-22-40.jpg` · text transcribed
+- [msg #600] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_340@27-04-2025_18-22-41.jpg` · text transcribed
+- [msg #601] 2025-04-27 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_341@27-04-2025_18-22-41.jpg` · text transcribed
+- [msg #603] 2025-04-28 · Ehlers-Danlos syndrome and hypermobility · `raw-exports/ChatExport_2026-11-18/photos/photo_342@28-04-2025_10-12-16.jpg` · text transcribed
+- [msg #604] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_343@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #605] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_344@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #606] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_345@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #607] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_346@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #608] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_347@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #609] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_348@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #610] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_349@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #611] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_350@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #612] 2025-04-28 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_351@28-04-2025_13-13-04.jpg` · text transcribed
+- [msg #619] 2025-05-16 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_352@16-05-2025_13-15-37.jpg` · text transcribed
+- [msg #620] 2025-05-20 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_353@20-05-2025_16-38-08.jpg` · text transcribed
+- [msg #621] 2025-05-23 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_354@23-05-2025_12-19-49.jpg` · text transcribed
+- [msg #626] 2025-05-26 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_355@26-05-2025_08-57-12.jpg`
+- [msg #627] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_356@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #628] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_357@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #629] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_358@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #630] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_359@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #631] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_360@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #632] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_361@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #633] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_362@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #634] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_363@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #635] 2025-06-04 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_364@04-06-2025_10-13-24.jpg` · text transcribed
+- [msg #640] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_365@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #641] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_366@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #642] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_367@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #643] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_368@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #644] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_369@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #645] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_370@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #646] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_371@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #647] 2025-06-17 · Interoception, alexithymia and naming emotions · `raw-exports/ChatExport_2026-11-18/photos/photo_372@17-06-2025_18-47-55.jpg` · text transcribed
+- [msg #653] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_373@26-06-2025_09-58-34.jpg`
+- [msg #654] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_374@26-06-2025_09-58-34.jpg` · text transcribed
+- [msg #655] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_375@26-06-2025_09-58-34.jpg`
+- [msg #656] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_376@26-06-2025_09-58-34.jpg` · text transcribed
+- [msg #657] 2025-06-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_377@26-06-2025_09-58-34.jpg` · text transcribed
+- [msg #659] 2025-06-27 · Talking to doctors and patient self-advocacy · `raw-exports/ChatExport_2026-11-18/photos/photo_378@27-06-2025_20-44-49.jpg` · text transcribed
+- [msg #663] 2025-07-01 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_379@01-07-2025_15-23-45.jpg`
+- [msg #666] 2025-07-02 · Medical gaslighting and medical trauma · `raw-exports/ChatExport_2026-11-18/photos/photo_380@02-07-2025_13-07-23.jpg` · text transcribed
+- [msg #667] 2025-07-03 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_37@05-07-2024_14-53-50.jpg`
+- [msg #669] 2025-07-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_382@04-07-2025_16-50-36.jpg` · text transcribed
+- [msg #670] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_383@07-07-2025_19-13-23.jpg`
+- [msg #674] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_384@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #675] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_385@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #676] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_386@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #677] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_387@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #678] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_388@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #679] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_389@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #680] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_390@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #681] 2025-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_391@10-07-2025_21-22-10.jpg` · text transcribed
+- [msg #684] 2025-07-15 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_392@15-07-2025_11-34-33.jpg` · text transcribed
+- [msg #686] 2025-07-18 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_393@18-07-2025_11-24-36.jpg` · text transcribed
+- [msg #688] 2025-07-28 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_394@28-07-2025_15-16-10.jpg`
+- [msg #691] 2025-08-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_395@08-08-2025_11-33-01.jpg` · text transcribed
+- [msg #694] 2025-08-09 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_396@09-08-2025_18-50-59.jpg` · text transcribed
+- [msg #696] 2025-08-11 · Masking, camouflaging and unmasking · `raw-exports/ChatExport_2026-11-18/photos/photo_397@11-08-2025_11-42-15.jpg` · text transcribed
+- [msg #697] 2025-08-14 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_398@14-08-2025_15-29-48.jpg` · text transcribed
+- [msg #699] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_399@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #700] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_400@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #701] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_401@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #702] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_402@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #703] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_403@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #704] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_404@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #705] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_405@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #706] 2025-08-16 · Accommodations, self-checks and daily supports · `raw-exports/ChatExport_2026-11-18/photos/photo_406@16-08-2025_09-48-13.jpg` · text transcribed
+- [msg #709] 2025-08-18 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_407@18-08-2025_19-32-27.jpg` · text transcribed
+- [msg #710] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_408@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #711] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_409@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #712] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_410@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #713] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_411@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #714] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_412@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #715] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_413@22-08-2025_19-09-16.jpg` · text transcribed
+- [msg #716] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_414@22-08-2025_19-09-17.jpg` · text transcribed
+- [msg #717] 2025-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_415@22-08-2025_19-09-17.jpg` · text transcribed
+- [msg #719] 2025-08-25 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_416@25-08-2025_10-15-24.jpg` · text transcribed
+- [msg #723] 2025-08-26 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_417@26-08-2025_11-11-58.jpg` · text transcribed
+- [msg #726] 2025-09-04 · Autistic burnout: definition, causes and warning signs · `raw-exports/ChatExport_2026-11-18/photos/photo_418@04-09-2025_10-15-15.jpg` · text transcribed
+- [msg #727] 2025-09-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_419@04-09-2025_18-08-26.jpg` · text transcribed
+- [msg #732] 2025-09-13 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_420@13-09-2025_13-22-34.jpg` · text transcribed
+- [msg #734] 2025-09-14 · Differential diagnosis: autism, ADHD and look-alike conditions · `raw-exports/ChatExport_2026-11-18/photos/photo_421@14-09-2025_17-30-35.jpg`
+- [msg #738] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_422@20-09-2025_18-19-40.jpg` · text transcribed
+- [msg #739] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_423@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #740] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_424@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #741] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_425@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #742] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_426@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #743] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_427@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #744] 2025-09-20 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_428@20-09-2025_18-19-41.jpg` · text transcribed
+- [msg #746] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_429@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #747] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_430@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #748] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_431@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #749] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_432@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #750] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_433@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #751] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_434@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #752] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_435@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #753] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_436@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #754] 2025-09-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_437@22-09-2025_14-10-15.jpg` · text transcribed
+- [msg #755] 2025-09-23 · Reading autism and ADHD research critically · `raw-exports/ChatExport_2026-11-18/photos/photo_438@23-09-2025_17-21-04.jpg` · text transcribed
+- [msg #757] 2025-09-28 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_439@28-09-2025_12-48-26.jpg` · text transcribed
+- [msg #758] 2025-09-29 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_440@29-09-2025_15-37-27.jpg` · text transcribed
+- [msg #759] 2025-09-29 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_441@29-09-2025_15-37-28.jpg` · text transcribed
+- [msg #761] 2025-09-30 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_442@30-09-2025_14-54-22.jpg` · text transcribed
+- [msg #762] 2025-10-02 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_443@02-10-2025_12-45-17.jpg` · text transcribed
+- [msg #763] 2025-10-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_444@04-10-2025_14-41-35.jpg` · text transcribed
+- [msg #764] 2025-10-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_445@08-10-2025_13-32-15.jpg` · text transcribed
+- [msg #765] 2025-10-15 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_446@15-10-2025_13-41-26.jpg` · text transcribed
+- [msg #767] 2025-10-29 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_447@29-10-2025_16-25-17.jpg` · text transcribed
+- [msg #768] 2025-10-29 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_448@29-10-2025_16-25-17.jpg` · text transcribed
+- [msg #769] 2025-10-29 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_449@29-10-2025_16-25-17.jpg` · text transcribed
+- [msg #770] 2025-10-29 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_450@29-10-2025_16-25-18.jpg` · text transcribed
+- [msg #771] 2025-10-30 · Meltdowns and shutdowns · `raw-exports/ChatExport_2026-11-18/photos/photo_451@30-10-2025_09-47-03.jpg` · text transcribed
+- [msg #772] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_452@06-11-2025_09-42-14.jpg` · text transcribed
+- [msg #773] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_453@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #774] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_454@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #775] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_455@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #776] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_456@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #777] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_457@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #778] 2025-11-06 · Autistic identity, community and disability pride · `raw-exports/ChatExport_2026-11-18/photos/photo_458@06-11-2025_09-42-15.jpg` · text transcribed
+- [msg #779] 2025-11-10 · The neurodivergent comorbidity cluster and self-help map · `raw-exports/ChatExport_2026-11-18/photos/photo_459@10-11-2025_19-36-11.jpg` · text transcribed
+- [msg #781] 2025-11-24 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_460@24-11-2025_11-10-31.jpg` · text transcribed
+- [msg #782] 2025-11-25 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_461@25-11-2025_13-36-03.jpg` · text transcribed
+- [msg #784] 2025-12-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_462@04-12-2025_16-28-12.jpg` · text transcribed
+- [msg #789] 2026-01-05 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_463@05-01-2026_12-10-29.jpg` · text transcribed
+- [msg #791] 2026-01-10 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_464@10-01-2026_18-17-36.jpg` · text transcribed
+- [msg #793] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_465@19-01-2026_18-23-14.jpg`
+- [msg #794] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_466@19-01-2026_18-23-14.jpg` · text transcribed
+- [msg #795] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_467@19-01-2026_18-23-14.jpg` · text transcribed
+- [msg #796] 2026-01-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_468@26-01-2026_13-16-33.jpg` · text transcribed
+- [msg #797] 2026-01-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_469@26-01-2026_13-16-33.jpg` · text transcribed
+- [msg #798] 2026-01-26 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_470@26-01-2026_13-16-33.jpg` · text transcribed
+- [msg #800] 2026-02-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_471@04-02-2026_15-27-28.jpg` · text transcribed
+- [msg #802] 2026-02-08 · Autistic social communication and processing · `raw-exports/ChatExport_2026-11-18/photos/photo_472@08-02-2026_10-55-12.jpg` · text transcribed
+- [msg #807] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_473@08-03-2026_14-10-34.jpg` · text transcribed
+- [msg #808] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_474@08-03-2026_14-10-34.jpg` · text transcribed
+- [msg #809] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_475@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #810] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_476@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #811] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_477@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #812] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_478@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #813] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_479@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #814] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_480@08-03-2026_14-10-35.jpg` · text transcribed
+- [msg #815] 2026-03-15 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_481@15-03-2026_10-16-30.jpg`
+- [msg #819] 2026-03-17 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_482@17-03-2026_14-54-01.jpg` · text transcribed
+- [msg #820] 2026-03-17 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_483@17-03-2026_14-54-01.jpg` · text transcribed
+- [msg #823] 2026-03-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_484@22-03-2026_19-32-05.jpg` · text transcribed
+- [msg #824] 2026-03-22 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_485@22-03-2026_19-32-06.jpg` · text transcribed
+- [msg #826] 2026-04-08 · Mast cell activation syndrome (MCAS) · `raw-exports/ChatExport_2026-11-18/photos/photo_486@08-04-2026_13-09-15.jpg` · text transcribed
+- [msg #828] 2026-04-16 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_487@16-04-2026_18-38-22.jpg` · text transcribed
+- [msg #829] 2026-04-28 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_488@28-04-2026_12-01-46.jpg` · text transcribed
+- [msg #832] 2026-07-02 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_489@02-07-2026_17-29-42.jpg` · text transcribed
+- [msg #834] 2026-08-17 · POTS, dysautonomia, ME/CFS and post-COVID · `raw-exports/ChatExport_2026-11-18/photos/photo_490@17-08-2026_14-31-27.jpg`
+- [msg #835] 2026-10-03 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_491@03-10-2026_11-46-57.jpg` · text transcribed
+- [msg #836] 2026-10-04 · (unassigned) · `raw-exports/ChatExport_2026-11-18/photos/photo_492@04-10-2026_12-56-28.jpg` · text transcribed
+
+## video  (36)
+- [msg #307] 2024-11-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #319] 2024-11-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #320] 2024-11-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #350] 2024-11-28 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #362] 2024-12-04 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #377] 2024-12-09 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #393] 2024-12-18 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #408] 2024-12-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #445] 2025-01-08 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #450] 2025-01-15 · Sensory processing, overload and sensory regulation · `(not exported)` · *(not included in export)*
+- [msg #467] 2025-02-09 · What autism is: the neurodiversity paradigm · `(not exported)` · *(not included in export)*
+- [msg #495] 2025-02-23 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #499] 2025-02-27 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #500] 2025-02-27 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #502] 2025-02-28 · Anxiety and panic: CBT and body-based coping · `(not exported)` · *(not included in export)*
+- [msg #503] 2025-03-01 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #505] 2025-03-01 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #506] 2025-03-01 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #508] 2025-03-02 · Medical gaslighting and medical trauma · `(not exported)` · *(not included in export)*
+- [msg #511] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #512] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #513] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #514] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #515] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #516] 2025-03-02 · Recovering from neurodivergent burnout · `(not exported)` · *(not included in export)*
+- [msg #527] 2025-03-05 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #529] 2025-03-08 · Regulating the neurodivergent nervous system · `(not exported)` · *(not included in export)*
+- [msg #546] 2025-03-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #547] 2025-03-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #548] 2025-03-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #549] 2025-03-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #563] 2025-04-03 · Pacing and energy accounting · `(not exported)` · *(not included in export)*
+- [msg #587] 2025-04-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #614] 2025-05-06 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #651] 2025-06-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #783] 2025-11-28 · (unassigned) · `(not exported)` · *(not included in export)*
+

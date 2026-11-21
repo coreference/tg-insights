@@ -1,0 +1,52 @@
+# Public repository of the TG Insights library: the synthesized knowledge only.
+# Left out: the Archivist toolkit, the raw Telegram exports and every original post, the pipeline's
+# intermediate data and state, local tooling. Published pages notice the missing toolkit by themselves
+# (the "+ Add / append" button becomes "+ Request a channel").
+
+# ---------------------------------------------------------------- local machine / tooling
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+.idea/
+
+# ---------------------------------------------------------------- root: toolkit and its bookkeeping
+/tg-archivist/
+/Start Archivist.command
+/_library.json
+/CLAUDE.md
+
+# ---------------------------------------------------------------- every source folder: sources/<type>/<source>/
+# raw material: the Telegram exports (wherever they sit) and their contents
+raw-exports/
+ChatExport_*/
+messages*.html
+/sources/*/*/photos/
+/sources/*/*/files/
+/sources/*/*/video_files/
+/sources/*/*/voice_messages/
+/sources/*/*/round_video_messages/
+/sources/*/*/stickers/
+/sources/*/*/images/
+/sources/*/*/css/
+/sources/*/*/js/
+/sources/*/*/exports/
+
+# the original posts the channel library's citations open (kept next to library.html locally)
+/sources/*/*/library-messages.js
+
+# pipeline intermediate data, work orders and state
+/sources/*/*/parsed/
+/sources/*/*/work/
+/sources/*/*/_kb.json
+/sources/*/*/_state.json
+/sources/*/*/_derived.json
+/sources/*/*/_archivist.log
+/sources/*/*/_archivist.run.log
+/sources/*/*/00_recon.md
+
+# legacy material and local helpers of individual channels
+/sources/*/*/_archive_v1/
+/sources/*/*/scripts/
+/sources/*/*/.claude/

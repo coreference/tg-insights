@@ -1,0 +1,30 @@
+# Area index — Technology & AI
+
+Cross-channel domain index: every knowledge base's topics on this subject. Open ALL topic files that match the request (from every channel listed), read them in full, and attribute each view to its channel. Before using a channel's files, read its skill (persona + constraints) named in the channel heading.
+
+**Light versions (NotebookLM study files)** — the same knowledge as plain text per domain, compact `[#id]` citations, no frontmatter or source lists. Read these for an overview of the whole area in few reads or for lighter processing; read the topic files below when you need exact provenance, dates or precise quotes. All of them together (copies): `index/notebooklm/technology-ai/`
+
+- `sources/tg-channels/human-machine/notebooklm/ai-human-machine.md` — Human Gazing Upon Machine · AI and Human-Machine Technology (~7,346 words): Large language models: capabilities, limits and risks; Human-machine interfaces and AI in science
+
+## Human Gazing Upon Machine  (`human-gazing-upon-machine`) — domain “AI and Human-Machine Technology”
+
+Channel skill (adopt its persona and constraints): `sources/tg-channels/human-machine/agent-kb/SKILL.md`
+
+### Large language models: capabilities, limits and risks
+- File: `sources/tg-channels/human-machine/topics/ai-human-machine/llm-capabilities-limits-risks.md` · 9 msgs · 2022-12-05..2025-09-21
+- Light version: `sources/tg-channels/human-machine/notebooklm/ai-human-machine.md`
+- How the channel tracked large language models and generative AI from the first amazement at ChatGPT (2022) to their documented failures — arithmetic errors, hallucinated summaries of scientific papers, political bias, and the specific risks that led US states to ban AI as a therapist — plus what an AI summarizer and a video generator actually produce.
+- Answers: What impressed people about ChatGPT when it first appeared? · Why does ChatGPT get simple arithmetic wrong even though it writes complex texts? · Can I trust ChatGPT, Phind or Perplexity to summarize a scientific paper for me? · Do language models have political views, and can that bias be fixed? · Is there an official way to cite ChatGPT in academic work? · Why did Illinois, Nevada and Utah restrict AI as a therapist? · What are the risks of using LLM chatbots for psychotherapy or for clinical supervision? · What is "AI psychosis"? · What is a RAG model and why is it recommended for professional use? · What was Midjourney's first video model like?
+- Frameworks: Risks of LLMs in psychotherapy (Maria Danina's list) · Two acceptable modes of AI-assisted clinical supervision · Safe-use rule for AI summaries of sources
+- Concepts: `large-language-models`, `ai-and-humans`, `scientific-thinking`, `psychotherapy` · also relevant to: Psychotherapy & Inner Work, Science & Research
+- Resources and links: 9 resources, 5 external links (section *Resources and links* of the file) · ★ APA Style: how to cite ChatGPT; ChatGPT (OpenAI); Holland & Knight: new Illinois law restricts AI in mental health therapy; MIT Technology Review: AI language models are rife with political biases; Tinkoff Journal article on ChatGPT; Video on making computers more human-like (Russian auto-subtitles)
+
+### Human-machine interfaces and AI in science
+- File: `sources/tg-channels/human-machine/topics/ai-human-machine/human-machine-interfaces-ai-science.md` · 11 msgs · 2022-11-15..2026-11-12
+- Light version: `sources/tg-channels/human-machine/notebooklm/ai-human-machine.md`
+- What the channel reported on devices that connect the human body to machines (a face-tracking VR mask, the AlterEgo silent-speech wearable, the Human Operator project in which AI briefly controls part of the body), on 24/7 driverless robotaxis, on AI used in science (generative design of new proteins, AI discovery of the antibiotic abaucin), on a Tokyo lab that builds robots on Piaget's assimilation/accommodation and structuralism, and on Gibson's The Peripheral as fiction about neural interfaces.
+- Answers: How did MIT researchers use a DALL-E-like generative model to design proteins that do not exist in nature, and why does it matter? · What is the difference between a generative and a discriminative model, as the channel explains it? · How did AI find the antibiotic abaucin against Acinetobacter baumannii, and what were the numbers? · What is MIT's AlterEgo device and who can it help? · How accurate and fast is the Dolami VR face mask that transfers facial expressions to an avatar? · What did the 2023 San Francisco decision on Waymo and Cruise robotaxis allow, and under what condition? · How do robotics researchers at the University of Tokyo apply Piaget's assimilation, accommodation and structuralism to robots? · What is the commutativity-error model of structuralism (f1·f2 = f2·f1) used in Piaget-inspired robotics? · What is the Human Operator project from MIT's HARD MODE hackathon and what could it be used for? · What is The Peripheral by William Gibson about?
+- Frameworks: Generative vs discriminative models (as explained for AI protein design) · AI-guided antibiotic discovery pipeline (screen 7000 compounds, 240 candidates, lab tests, abaucin) · Piaget-inspired robotics model of the Intelligent Systems and Informatics Lab (sensorimotor logic, assimilation as mathematical schema, structuralism as irreducible wholeness, toward accommodation) · Self-causation model of downward causation (macro-level axiom f1·f2 = f2·f1, feedback error to synaptic weights)
+- Concepts: `human-machine-interfaces`, `ai-and-humans`, `biomedical-research` · also relevant to: Science & Research
+- Resources and links: 15 resources, 3 external links (section *Resources and links* of the file) · ★ Hard Mode hackathon, MIT Media Lab; Jean Piaget Society 2025 Belgrade conference programme; MIT Media Lab — AlterEgo project; MIT News: AI system can generate novel proteins with structural design (Adam Zewe, 2023); MIT News: using AI, scientists find a drug that kills drug-resistant bacteria (2023); Piaget's Structuralism (open-access PDF, 154 pp., structuralism.ca) …
+

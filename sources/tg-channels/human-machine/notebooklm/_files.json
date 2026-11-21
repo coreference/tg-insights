@@ -1,0 +1,274 @@
+{
+ "channel": "Human Gazing Upon Machine",
+ "slug": "human-gazing-upon-machine",
+ "files": [
+  {
+   "file": "autism-neurodiversity-1.md",
+   "domain": "Autism and Neurodiversity",
+   "domain_slug": "autism-neurodiversity",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 3,
+   "title": "Autism and Neurodiversity (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "autism-myths-and-spectrum",
+     "title": "Understanding autism: myths, stereotypes and the spectrum"
+    }
+   ],
+   "words": 7638
+  },
+  {
+   "file": "autism-neurodiversity-2.md",
+   "domain": "Autism and Neurodiversity",
+   "domain_slug": "autism-neurodiversity",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 3,
+   "title": "Autism and Neurodiversity (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "double-empathy-problem",
+     "title": "The double empathy problem: mutual misunderstanding between autistic and neurotypical people"
+    },
+    {
+     "slug": "autism-employment-inclusion",
+     "title": "Autism and employment: strengths, barriers and workplace inclusion"
+    }
+   ],
+   "words": 11620
+  },
+  {
+   "file": "autism-neurodiversity-3.md",
+   "domain": "Autism and Neurodiversity",
+   "domain_slug": "autism-neurodiversity",
+   "area": "Neurodiversity",
+   "part": 3,
+   "parts": 3,
+   "title": "Autism and Neurodiversity (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "sensory-regulation-emotions-recovery",
+     "title": "Sensory regulation, emotions and recovery for neurodivergent people"
+    }
+   ],
+   "words": 6346
+  },
+  {
+   "file": "brain-research-1.md",
+   "domain": "Brain Research",
+   "domain_slug": "brain-research",
+   "area": "Neuroscience & Cognitive Science",
+   "part": 1,
+   "parts": 2,
+   "title": "Brain Research (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "autism-brain-connectivity",
+     "title": "Brain connectivity and subtypes in autism"
+    },
+    {
+     "slug": "brain-development-lifespan",
+     "title": "How the brain changes across the lifespan"
+    }
+   ],
+   "words": 9843
+  },
+  {
+   "file": "brain-research-2.md",
+   "domain": "Brain Research",
+   "domain_slug": "brain-research",
+   "area": "Neuroscience & Cognitive Science",
+   "part": 2,
+   "parts": 2,
+   "title": "Brain Research (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "fear-extinction-emotion-circuits",
+     "title": "Emotion circuits: fear extinction, anger and aggression"
+    },
+    {
+     "slug": "brain-clearance-mental-fatigue",
+     "title": "Brain maintenance: waste clearance, mental fatigue and Alzheimer's links"
+    }
+   ],
+   "words": 5122
+  },
+  {
+   "file": "mind-self-perception.md",
+   "domain": "Mind, Self and Perception",
+   "domain_slug": "mind-self-perception",
+   "area": "Neuroscience & Cognitive Science",
+   "part": 1,
+   "parts": 1,
+   "title": "Mind, Self and Perception",
+   "topics": [
+    {
+     "slug": "self-consciousness-free-will",
+     "title": "The self, consciousness and free will"
+    },
+    {
+     "slug": "perception-science",
+     "title": "How perception works: from sensory fragments to meaning"
+    },
+    {
+     "slug": "music-and-brain",
+     "title": "Music and the brain"
+    }
+   ],
+   "words": 10092
+  },
+  {
+   "file": "social-psychology-society-1.md",
+   "domain": "Social Psychology and Society",
+   "domain_slug": "social-psychology-society",
+   "area": "Society & Politics",
+   "part": 1,
+   "parts": 2,
+   "title": "Social Psychology and Society (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "polarization-conformity-norms",
+     "title": "Group polarization, conformity and social norms"
+    },
+    {
+     "slug": "cooperation-game-theory-morality",
+     "title": "Cooperation, game theory and the origins of morality"
+    }
+   ],
+   "words": 11575
+  },
+  {
+   "file": "social-psychology-society-2.md",
+   "domain": "Social Psychology and Society",
+   "domain_slug": "social-psychology-society",
+   "area": "Society & Politics",
+   "part": 2,
+   "parts": 2,
+   "title": "Social Psychology and Society (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "authoritarian-regimes-psychology",
+     "title": "Living under authoritarian regimes: compliance, denunciation and resistance"
+    },
+    {
+     "slug": "small-actions-social-change",
+     "title": "Small actions and social change: beating helplessness"
+    }
+   ],
+   "words": 6764
+  },
+  {
+   "file": "psychotherapy-relationships-1.md",
+   "domain": "Psychotherapy, Relationships and Self-Work",
+   "domain_slug": "psychotherapy-relationships",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 2,
+   "title": "Psychotherapy, Relationships and Self-Work (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "self-blame-overcontrol",
+     "title": "Self-blame, overcontrol and the inner critic"
+    },
+    {
+     "slug": "evidence-based-therapy-help",
+     "title": "Evidence-based therapy approaches and choosing help"
+    }
+   ],
+   "words": 9744
+  },
+  {
+   "file": "psychotherapy-relationships-2.md",
+   "domain": "Psychotherapy, Relationships and Self-Work",
+   "domain_slug": "psychotherapy-relationships",
+   "area": "Psychotherapy & Inner Work",
+   "part": 2,
+   "parts": 2,
+   "title": "Psychotherapy, Relationships and Self-Work (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "relationships-communication-repair",
+     "title": "Relationships, communication and repairing connection"
+    }
+   ],
+   "words": 5371
+  },
+  {
+   "file": "happiness-meaning-rest.md",
+   "domain": "Happiness, Meaning and Rest",
+   "domain_slug": "happiness-meaning-rest",
+   "area": "Balance & Life Philosophy",
+   "part": 1,
+   "parts": 1,
+   "title": "Happiness, Meaning and Rest",
+   "topics": [
+    {
+     "slug": "happiness-meaning-good-life",
+     "title": "Happiness, meaning and the good life"
+    },
+    {
+     "slug": "hobbies-play-switching-off",
+     "title": "Hobbies, play and switching off"
+    }
+   ],
+   "words": 8344
+  },
+  {
+   "file": "ai-human-machine.md",
+   "domain": "AI and Human-Machine Technology",
+   "domain_slug": "ai-human-machine",
+   "area": "Technology & AI",
+   "part": 1,
+   "parts": 1,
+   "title": "AI and Human-Machine Technology",
+   "topics": [
+    {
+     "slug": "llm-capabilities-limits-risks",
+     "title": "Large language models: capabilities, limits and risks"
+    },
+    {
+     "slug": "human-machine-interfaces-ai-science",
+     "title": "Human-machine interfaces and AI in science"
+    }
+   ],
+   "words": 7346
+  },
+  {
+   "file": "science-research-careers-1.md",
+   "domain": "Science, Research and Careers",
+   "domain_slug": "science-research-careers",
+   "area": "Science & Research",
+   "part": 1,
+   "parts": 2,
+   "title": "Science, Research and Careers (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "scientific-thinking-reading",
+     "title": "Scientific thinking, philosophy and reading lists"
+    },
+    {
+     "slug": "biomedical-research-news",
+     "title": "Biomedical research news: aging, epigenetics and medicine"
+    }
+   ],
+   "words": 9901
+  },
+  {
+   "file": "science-research-careers-2.md",
+   "domain": "Science, Research and Careers",
+   "domain_slug": "science-research-careers",
+   "area": "Science & Research",
+   "part": 2,
+   "parts": 2,
+   "title": "Science, Research and Careers (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "psychology-science-careers",
+     "title": "Careers in psychology and science: from clinic to research"
+    }
+   ],
+   "words": 2759
+  }
+ ]
+}

@@ -1,0 +1,2597 @@
+{
+ "concepts": [
+  {
+   "slug": "ableism",
+   "label": "Ableism and internalized ableism",
+   "definition": "Prejudice against disabled and neurodivergent people, including the internalized form directed at oneself.",
+   "en": [
+    "ableism",
+    "internalized ableism",
+    "disability pride",
+    "disability rights"
+   ],
+   "ru": [
+    "эйблизм",
+    "внутренний эйблизм",
+    "гордость инвалидности",
+    "права людей с инвалидностью"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "academic-career",
+   "label": "Academic and research careers",
+   "definition": "Building a career in science: PhD, advisers, papers, funding and research skills.",
+   "en": [
+    "phd",
+    "academic career",
+    "science career",
+    "research skills"
+   ],
+   "ru": [
+    "PhD",
+    "академическая карьера",
+    "карьера в науке",
+    "аспирантура"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "acceptance-commitment-therapy",
+   "label": "Acceptance and commitment therapy (ACT)",
+   "definition": "A therapy building psychological flexibility through acceptance, defusion and values-based action.",
+   "en": [
+    "act",
+    "acceptance and commitment therapy",
+    "psychological flexibility",
+    "defusion",
+    "hexaflex"
+   ],
+   "ru": [
+    "ACT",
+    "терапия принятия и ответственности",
+    "психологическая гибкость",
+    "расцепление"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "adult-development",
+   "label": "Adult and vertical development",
+   "definition": "Stage models of adult growth, integral theory and inner work across life.",
+   "en": [
+    "vertical development",
+    "adult development",
+    "integral theory",
+    "spiral dynamics"
+   ],
+   "ru": [
+    "вертикальное развитие",
+    "развитие взрослых",
+    "интегральная теория",
+    "спиральная динамика"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "advanced-meditation-retreats",
+   "label": "Retreats and advanced meditation",
+   "definition": "Meditation retreats, deep concentration states and the risks of advanced practice.",
+   "en": [
+    "meditation retreat",
+    "jhana",
+    "advanced meditation",
+    "vipassana retreat"
+   ],
+   "ru": [
+    "ретрит",
+    "випассана ретрит",
+    "джханы",
+    "глубокая практика"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "ai-and-humans",
+   "label": "AI and the human transition",
+   "definition": "Psychological side of the AI era, adoption and human capacities.",
+   "en": [
+    "ai anxiety",
+    "ai adoption",
+    "ai in therapy",
+    "human intelligence"
+   ],
+   "ru": [
+    "тревога из-за ИИ",
+    "внедрение ИИ",
+    "ИИ в терапии",
+    "человеческий интеллект"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "alcohol-free-living",
+   "label": "Alcohol-free living",
+   "definition": "Reducing or quitting alcohol and its effects on sleep, health and social life.",
+   "en": [
+    "sobriety",
+    "quit alcohol",
+    "non-alcoholic drinks"
+   ],
+   "ru": [
+    "без алкоголя",
+    "трезвость",
+    "безалкогольное вино"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "alexithymia",
+   "label": "Alexithymia",
+   "definition": "Difficulty identifying and describing one's own emotions, often linked to reduced interoceptive awareness.",
+   "en": [
+    "alexithymia",
+    "emotional blindness",
+    "feelings wheel",
+    "naming emotions"
+   ],
+   "ru": [
+    "алекситимия",
+    "колесо эмоций",
+    "распознавание эмоций",
+    "называние чувств"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "attachment-theory",
+   "label": "Attachment",
+   "definition": "How attachment bonds form and how secure connection helps heal hurt and trauma.",
+   "en": [
+    "attachment",
+    "attachment theory",
+    "emotionally focused therapy",
+    "secure attachment"
+   ],
+   "ru": [
+    "привязанность",
+    "теория привязанности",
+    "эмоционально-фокусированная терапия",
+    "надёжная привязанность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "autistic-burnout",
+   "label": "Autistic burnout",
+   "definition": "A state of pervasive exhaustion, loss of skills and reduced tolerance to stimuli in autistic and neurodivergent people caused by chronic life stress and masking.",
+   "en": [
+    "autistic burnout",
+    "neurodivergent burnout",
+    "adhd burnout",
+    "skill regression"
+   ],
+   "ru": [
+    "аутичное выгорание",
+    "нейроотличное выгорание",
+    "выгорание при СДВГ",
+    "регресс навыков"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "balance-philosophy",
+   "label": "Philosophy of balance",
+   "definition": "What balance means, whether it exists, and alternatives like adaptivity.",
+   "en": [
+    "what is balance",
+    "allostasis",
+    "slow living"
+   ],
+   "ru": [
+    "что такое баланс",
+    "адаптивность",
+    "медленная жизнь"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "beauty-skincare",
+   "label": "Skincare and cosmetology",
+   "definition": "Skincare, cosmetic procedures and devices with a critical eye.",
+   "en": [
+    "skincare",
+    "cosmetology",
+    "botox",
+    "beauty devices"
+   ],
+   "ru": [
+    "уход за кожей",
+    "косметология",
+    "ботокс"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "biohacking",
+   "label": "Biohacking and recovery tech",
+   "definition": "Biohacking, recovery technologies and wellness trends.",
+   "en": [
+    "biohacking",
+    "recovery tech",
+    "neurofeedback",
+    "wearables"
+   ],
+   "ru": [
+    "биохакинг",
+    "технологии восстановления",
+    "нейробиоуправление",
+    "трекеры"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "biomedical-research",
+   "label": "Biomedical research news",
+   "definition": "New findings in medicine and biology, from drugs and transplants to animal studies.",
+   "en": [
+    "biomedical research",
+    "medical news",
+    "clinical trial",
+    "animal study"
+   ],
+   "ru": [
+    "биомедицинские исследования",
+    "медицинские новости",
+    "клиническое исследование",
+    "исследование на животных"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "body-image",
+   "label": "Body image and body neutrality",
+   "definition": "Relationship to one's body, appearance, weight and beauty standards.",
+   "en": [
+    "body image",
+    "body neutrality",
+    "beauty standards"
+   ],
+   "ru": [
+    "образ тела",
+    "нейтральность к телу",
+    "красота"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "boundaries",
+   "label": "Boundaries",
+   "definition": "Protecting time and energy through limits and unavailability.",
+   "en": [
+    "boundaries",
+    "saying no",
+    "unreachability"
+   ],
+   "ru": [
+    "границы",
+    "отказ",
+    "недоступность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "brain-connectivity",
+   "label": "Brain connectivity and networks",
+   "definition": "How brain regions are wired and synchronized, studied with fMRI and diffusion imaging.",
+   "en": [
+    "brain connectivity",
+    "neural networks",
+    "connectome",
+    "fmri",
+    "synaptic pruning"
+   ],
+   "ru": [
+    "связность мозга",
+    "нейронные сети",
+    "коннектом",
+    "фМРТ",
+    "синаптический прунинг"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "brain-development",
+   "label": "Brain development and aging",
+   "definition": "How the brain matures, reorganizes and ages across the lifespan.",
+   "en": [
+    "brain development",
+    "brain aging",
+    "adolescent brain",
+    "neuroplasticity"
+   ],
+   "ru": [
+    "развитие мозга",
+    "старение мозга",
+    "подростковый мозг",
+    "нейропластичность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "brain-fog-recovery",
+   "label": "Brain fog and recovery protocols",
+   "definition": "Protocols for mental clarity and recovery under load.",
+   "en": [
+    "brain fog",
+    "recovery protocol",
+    "jet lag",
+    "adaptogens"
+   ],
+   "ru": [
+    "туман в голове",
+    "протокол восстановления",
+    "джетлаг",
+    "адаптогены"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "brain-health",
+   "label": "Brain health and neurodegeneration",
+   "definition": "Processes that keep the brain healthy, such as waste clearance, and those that lead to Alzheimer's and other neurodegeneration.",
+   "en": [
+    "brain health",
+    "glymphatic system",
+    "alzheimer's",
+    "neurodegeneration"
+   ],
+   "ru": [
+    "здоровье мозга",
+    "глимфатическая система",
+    "болезнь Альцгеймера",
+    "нейродегенерация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "buddhist-teachers",
+   "label": "Buddhist teachers and traditions",
+   "definition": "Teachers, lineages and centres of Buddhist and contemplative practice.",
+   "en": [
+    "buddhist teachers",
+    "lineage",
+    "tibetan buddhism",
+    "vipassana"
+   ],
+   "ru": [
+    "буддийские учителя",
+    "линия передачи",
+    "тибетский буддизм",
+    "випассана"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "burnout",
+   "label": "Burnout",
+   "definition": "A state of chronic exhaustion from prolonged overload, with warning signs, prevention and recovery paths.",
+   "en": [
+    "burnout",
+    "emotional exhaustion",
+    "burnout recovery"
+   ],
+   "ru": [
+    "выгорание",
+    "эмоциональное выгорание",
+    "выход из выгорания"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "caffeine",
+   "label": "Caffeine and coffee",
+   "definition": "Effects, timing and tolerance of caffeine and coffee on energy and sleep.",
+   "en": [
+    "caffeine",
+    "coffee",
+    "energy drinks"
+   ],
+   "ru": [
+    "кофеин",
+    "кофе",
+    "энергетики"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "calendar-planning",
+   "label": "Calendar planning",
+   "definition": "Using the calendar to schedule priorities, rest and recovery.",
+   "en": [
+    "time blocking",
+    "calendar planning",
+    "time diary"
+   ],
+   "ru": [
+    "планирование",
+    "календарь",
+    "тайм-блоки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "career-change",
+   "label": "Career change",
+   "definition": "Switching professions or fields and building skills for the new path.",
+   "en": [
+    "career change",
+    "career transition",
+    "reskilling",
+    "job search"
+   ],
+   "ru": [
+    "смена карьеры",
+    "смена профессии",
+    "переквалификация",
+    "поиск работы"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "chronic-illness",
+   "label": "Chronic illness and invisible disability",
+   "definition": "Living with long-term, often invisible physical conditions and the comorbidities that accompany them.",
+   "en": [
+    "chronic illness",
+    "invisible illness",
+    "comorbidities",
+    "disability"
+   ],
+   "ru": [
+    "хроническое заболевание",
+    "невидимая болезнь",
+    "коморбидности",
+    "инвалидность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "chronic-pain",
+   "label": "Chronic pain",
+   "definition": "Persistent pain lasting months, how to measure and track it, and how it shapes daily functioning.",
+   "en": [
+    "chronic pain",
+    "pain scale",
+    "pain tracking",
+    "fibromyalgia"
+   ],
+   "ru": [
+    "хроническая боль",
+    "шкала боли",
+    "трекинг боли",
+    "фибромиалгия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "circadian-rhythm",
+   "label": "Circadian and ultradian rhythms",
+   "definition": "Daily and 90-minute biological cycles that shape energy, alertness and sleep.",
+   "en": [
+    "circadian rhythm",
+    "ultradian rhythm",
+    "biorhythms",
+    "chronotype"
+   ],
+   "ru": [
+    "циркадные ритмы",
+    "биоритмы",
+    "ультрадианные ритмы",
+    "хронотип"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "cognitive-behavioral-therapy",
+   "label": "Cognitive behavioral therapy (CBT)",
+   "definition": "A structured therapy and skills-training approach that changes thoughts and behaviors, including CBT skills groups for adult ADHD.",
+   "en": [
+    "cbt",
+    "cognitive behavioral therapy",
+    "skills training",
+    "cbt for adhd"
+   ],
+   "ru": [
+    "КПТ",
+    "когнитивно-поведенческая терапия",
+    "тренинг навыков",
+    "КПТ при СДВГ"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "cognitive-biases",
+   "label": "Cognitive biases",
+   "definition": "Systematic errors of thinking such as hindsight and confirmation bias.",
+   "en": [
+    "cognitive biases",
+    "hindsight bias",
+    "confirmation bias",
+    "thinking errors"
+   ],
+   "ru": [
+    "когнитивные искажения",
+    "ошибка задним числом",
+    "предвзятость подтверждения",
+    "ошибки мышления"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "collective-trauma",
+   "label": "Collective trauma",
+   "definition": "How societies carry and reproduce trauma, and how to process it.",
+   "en": [
+    "collective trauma",
+    "chosen trauma",
+    "dissociation",
+    "propaganda"
+   ],
+   "ru": [
+    "коллективная травма",
+    "избранная травма",
+    "диссоциация",
+    "пропаганда"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "community-belonging",
+   "label": "Community and belonging",
+   "definition": "Social isolation, loneliness and healthy small communities.",
+   "en": [
+    "community",
+    "loneliness",
+    "belonging",
+    "social isolation"
+   ],
+   "ru": [
+    "сообщество",
+    "одиночество",
+    "принадлежность",
+    "социальная изоляция"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "complex-ptsd",
+   "label": "Complex PTSD (C-PTSD)",
+   "definition": "A trauma condition from prolonged or repeated trauma, adding emotional dysregulation, negative self-image and relational difficulties to PTSD symptoms.",
+   "en": [
+    "c-ptsd",
+    "complex ptsd",
+    "complex trauma",
+    "emotional flashbacks"
+   ],
+   "ru": [
+    "К-ПТСР",
+    "комплексное ПТСР",
+    "комплексная травма",
+    "эмоциональные флешбэки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "conformity",
+   "label": "Conformity and social influence",
+   "definition": "How majorities, authority and norms shape individual opinions and behavior.",
+   "en": [
+    "conformity",
+    "social influence",
+    "asch experiment",
+    "obedience",
+    "preference falsification"
+   ],
+   "ru": [
+    "конформность",
+    "социальное влияние",
+    "эксперимент Аша",
+    "подчинение",
+    "фальсификация предпочтений"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "conscious-business",
+   "label": "Conscious business and purpose",
+   "definition": "Business built on purpose and values beyond profit.",
+   "en": [
+    "conscious capitalism",
+    "company purpose",
+    "corporate values",
+    "conscious business"
+   ],
+   "ru": [
+    "осознанный бизнес",
+    "миссия компании",
+    "ценности компании",
+    "осознанный капитализм"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "consciousness-and-self",
+   "label": "Consciousness and the self",
+   "definition": "What consciousness and the sense of 'I' are, from neuroscience and philosophy of mind.",
+   "en": [
+    "consciousness",
+    "sense of self",
+    "self illusion",
+    "philosophy of mind"
+   ],
+   "ru": [
+    "сознание",
+    "чувство я",
+    "иллюзия я",
+    "философия сознания"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "corporate-culture",
+   "label": "Corporate culture and change",
+   "definition": "How organizational culture works and how companies change it.",
+   "en": [
+    "corporate culture",
+    "culture change",
+    "organizational change",
+    "organizational culture"
+   ],
+   "ru": [
+    "корпоративная культура",
+    "изменение культуры",
+    "организационные изменения",
+    "культура компании"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "demand-avoidance-pda",
+   "label": "Pathological demand avoidance (PDA)",
+   "definition": "A proposed autism profile marked by anxiety-driven avoidance of everyday demands and a strong need for control.",
+   "en": [
+    "pathological demand avoidance",
+    "pda",
+    "demand avoidance",
+    "persistent drive for autonomy"
+   ],
+   "ru": [
+    "патологическое избегание требований",
+    "ПИТ",
+    "PDA",
+    "избегание требований"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "depression",
+   "label": "Depression",
+   "definition": "Recognition and self-help for depression and low mood.",
+   "en": [
+    "depression",
+    "low mood",
+    "depression support"
+   ],
+   "ru": [
+    "депрессия",
+    "сниженное настроение",
+    "поддержка при депрессии"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "digital-hygiene",
+   "label": "Digital hygiene",
+   "definition": "Managing phone, messaging and information intake to protect attention and calm.",
+   "en": [
+    "digital detox",
+    "screen time",
+    "information diet",
+    "information overload",
+    "multitasking",
+    "situational attention deficit"
+   ],
+   "ru": [
+    "цифровая гигиена",
+    "экранное время",
+    "информационная диета",
+    "информационная перегрузка",
+    "многозадачность",
+    "дефицит внимания"
+   ],
+   "aliases": [
+    "information-overload"
+   ]
+  },
+  {
+   "slug": "double-empathy",
+   "label": "Double empathy problem",
+   "definition": "The idea that misunderstanding between autistic and non-autistic people is mutual rather than a one-sided deficit.",
+   "en": [
+    "double empathy",
+    "double empathy problem",
+    "theory of mind",
+    "mind-blindness"
+   ],
+   "ru": [
+    "двойная эмпатия",
+    "проблема двойной эмпатии",
+    "модель психического",
+    "слепота сознания"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "dysautonomia-pots",
+   "label": "Dysautonomia and POTS",
+   "definition": "Dysfunction of the autonomic nervous system, such as postural orthostatic tachycardia syndrome, causing heart-rate, blood-flow and temperature problems.",
+   "en": [
+    "pots",
+    "dysautonomia",
+    "orthostatic intolerance",
+    "small fiber neuropathy"
+   ],
+   "ru": [
+    "СПОТ",
+    "дисавтономия",
+    "ортостатическая непереносимость",
+    "тахикардия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "dyspraxia",
+   "label": "Dyspraxia and motor coordination",
+   "definition": "Developmental coordination disorder causing difficulties with planning and coordinating movement, common in autism and ADHD.",
+   "en": [
+    "dyspraxia",
+    "developmental coordination disorder",
+    "clumsiness",
+    "motor skills"
+   ],
+   "ru": [
+    "диспраксия",
+    "нарушение координации",
+    "неуклюжесть",
+    "моторные навыки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "eating-disorders",
+   "label": "Eating disorders",
+   "definition": "Recognition, screening and recovery from disordered eating.",
+   "en": [
+    "eating disorder",
+    "anorexia bulimia",
+    "ed recovery"
+   ],
+   "ru": [
+    "расстройство пищевого поведения",
+    "РПП",
+    "выход из РПП"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "ego-narcissism",
+   "label": "Ego, narcissism and authenticity",
+   "definition": "Healthy versus inflated ego, narcissism and real authenticity.",
+   "en": [
+    "narcissism",
+    "ego",
+    "authenticity",
+    "vulnerability"
+   ],
+   "ru": [
+    "нарциссизм",
+    "эго",
+    "аутентичность",
+    "уязвимость"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "ehlers-danlos-hypermobility",
+   "label": "Ehlers-Danlos syndrome and hypermobility",
+   "definition": "Heritable connective tissue disorders with joint hypermobility, pain and multisystem symptoms, including hEDS and HSD.",
+   "en": [
+    "ehlers-danlos syndrome",
+    "heds",
+    "hypermobility",
+    "hsd",
+    "beighton score"
+   ],
+   "ru": [
+    "синдром Элерса-Данло",
+    "гипермобильность",
+    "дисплазия соединительной ткани",
+    "ДСТ",
+    "шкала Бейтона"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "embodiment",
+   "label": "Embodiment and body practices",
+   "definition": "The body as resource: posture, yoga, TRE and embodied practices.",
+   "en": [
+    "embodiment",
+    "yoga",
+    "tre",
+    "posture"
+   ],
+   "ru": [
+    "воплощённость",
+    "йога",
+    "TRE",
+    "осанка"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "emotional-intelligence",
+   "label": "Emotional intelligence",
+   "definition": "Accepting, naming and working with emotions in practice.",
+   "en": [
+    "emotional intelligence",
+    "accepting emotions",
+    "anger",
+    "naming emotions"
+   ],
+   "ru": [
+    "эмоциональный интеллект",
+    "принятие эмоций",
+    "гнев",
+    "называние чувств"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "emotional-regulation",
+   "label": "Emotional regulation",
+   "definition": "Managing emotions and the nervous-system state, including safety-system activation.",
+   "en": [
+    "emotion regulation",
+    "nervous system",
+    "cognitive reappraisal"
+   ],
+   "ru": [
+    "регуляция эмоций",
+    "нервная система",
+    "когнитивная переоценка"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "empathy",
+   "label": "Empathy",
+   "definition": "Understanding and sharing others' feelings, its cognitive and affective forms and its limits.",
+   "en": [
+    "empathy",
+    "cognitive empathy",
+    "affective empathy",
+    "compassion"
+   ],
+   "ru": [
+    "эмпатия",
+    "сопереживание",
+    "когнитивная эмпатия",
+    "аффективная эмпатия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "employee-wellbeing",
+   "label": "Employee wellbeing and workplace mental health",
+   "definition": "Managing stress, burnout and mental health of employees as a business matter.",
+   "en": [
+    "employee wellbeing",
+    "workplace stress",
+    "quiet quitting",
+    "corporate wellbeing",
+    "supporting teams in crisis",
+    "team crisis support",
+    "crisis leadership",
+    "continuous traumatic stress"
+   ],
+   "ru": [
+    "благополучие сотрудников",
+    "стресс на работе",
+    "тихий уход",
+    "корпоративный велбинг",
+    "поддержка команды в кризис",
+    "лидерство в кризис",
+    "непрерывный травматический стресс"
+   ],
+   "aliases": [
+    "crisis-team-support"
+   ]
+  },
+  {
+   "slug": "energy-management",
+   "label": "Energy management",
+   "definition": "Treating personal energy as a finite resource to be budgeted, spent and restored deliberately.",
+   "en": [
+    "energy management",
+    "personal energy",
+    "energy budget"
+   ],
+   "ru": [
+    "управление энергией",
+    "личная энергия",
+    "ресурс энергии"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "entrepreneurship-founder",
+   "label": "Founder and entrepreneurship lessons",
+   "definition": "Experience of building a company, failures and founder resilience.",
+   "en": [
+    "founder lessons",
+    "entrepreneurship",
+    "startup failure",
+    "post-mortem"
+   ],
+   "ru": [
+    "уроки основателя",
+    "предпринимательство",
+    "провал стартапа",
+    "постмортем"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "epigenetics",
+   "label": "Epigenetics",
+   "definition": "Heritable changes in gene activity without changes in DNA sequence, such as methylation.",
+   "en": [
+    "epigenetics",
+    "dna methylation",
+    "epigenetic inheritance"
+   ],
+   "ru": [
+    "эпигенетика",
+    "метилирование ДНК",
+    "эпигенетическое наследование"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "ethics-in-inner-work",
+   "label": "Ethics and safety in inner work",
+   "definition": "Ethics, red flags and choosing safe teachers and practitioners.",
+   "en": [
+    "ethics",
+    "red flags",
+    "pseudo-guru",
+    "choosing a therapist"
+   ],
+   "ru": [
+    "этика",
+    "красные флаги",
+    "псевдогуру",
+    "выбор специалиста"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "executive-function",
+   "label": "Executive function",
+   "definition": "Mental skills for planning, starting and switching tasks, and the executive dysfunction common in ADHD and autism.",
+   "en": [
+    "executive function",
+    "executive dysfunction",
+    "task initiation",
+    "task paralysis"
+   ],
+   "ru": [
+    "исполнительные функции",
+    "исполнительная дисфункция",
+    "начало задачи",
+    "паралич задач"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "fatigue",
+   "label": "Chronic fatigue",
+   "definition": "Persistent tiredness and its causes, signs and remedies.",
+   "en": [
+    "fatigue",
+    "chronic tiredness",
+    "always tired"
+   ],
+   "ru": [
+    "усталость",
+    "хроническая усталость",
+    "постоянно устаю"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "fear-extinction",
+   "label": "Fear learning and extinction",
+   "definition": "How the brain learns fear and unlearns it when expected danger does not happen, the basis of exposure therapy.",
+   "en": [
+    "fear extinction",
+    "fear memory",
+    "exposure",
+    "amygdala"
+   ],
+   "ru": [
+    "угасание страха",
+    "память страха",
+    "экспозиция",
+    "миндалина"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "focus-attention",
+   "label": "Focus and attention",
+   "definition": "Habits that improve concentration and reduce distraction.",
+   "en": [
+    "focus",
+    "attention span",
+    "pomodoro"
+   ],
+   "ru": [
+    "фокус",
+    "внимание",
+    "концентрация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "free-will",
+   "label": "Free will and determinism",
+   "definition": "Whether human choices are free or determined, and what follows for responsibility.",
+   "en": [
+    "free will",
+    "determinism",
+    "agency",
+    "responsibility"
+   ],
+   "ru": [
+    "свобода воли",
+    "детерминизм",
+    "ответственность",
+    "выбор"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "freedom-and-culture",
+   "label": "Freedom, capitalism and culture",
+   "definition": "Critique of consumer and attention capitalism and reflections on freedom and culture.",
+   "en": [
+    "freedom",
+    "attention economy",
+    "consumerism",
+    "culture wars"
+   ],
+   "ru": [
+    "свобода",
+    "экономика внимания",
+    "консьюмеризм",
+    "культурные войны"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "future-orientation",
+   "label": "Relating to the future",
+   "definition": "Images of the future, future self and anxiety about the future.",
+   "en": [
+    "image of the future",
+    "future self",
+    "three horizons",
+    "future anxiety"
+   ],
+   "ru": [
+    "образ будущего",
+    "будущее я",
+    "три горизонта",
+    "тревога о будущем"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "game-theory-cooperation",
+   "label": "Game theory of cooperation",
+   "definition": "Formal models of when and why individuals cooperate or defect, such as the prisoner's dilemma.",
+   "en": [
+    "game theory",
+    "prisoner's dilemma",
+    "tit for tat",
+    "cooperation"
+   ],
+   "ru": [
+    "теория игр",
+    "дилемма заключённого",
+    "око за око",
+    "кооперация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "gender-expectations",
+   "label": "Gender and social expectations",
+   "definition": "How gender roles and social expectations shape women's and men's lives and well-being, including masculinity and gender in leadership.",
+   "en": [
+    "superwoman",
+    "gender inequality",
+    "third shift",
+    "masculinity and gender",
+    "masculinity",
+    "gender roles",
+    "new masculinity"
+   ],
+   "ru": [
+    "женская усталость",
+    "суперженщина",
+    "гендерное неравенство",
+    "маскулинность",
+    "гендерные роли",
+    "новая маскулинность"
+   ],
+   "aliases": [
+    "masculinity-gender"
+   ]
+  },
+  {
+   "slug": "group-polarization",
+   "label": "Group polarization and echo chambers",
+   "definition": "How group discussion and identity push opinions to extremes and create information bubbles.",
+   "en": [
+    "group polarization",
+    "echo chamber",
+    "information bubble",
+    "social identity"
+   ],
+   "ru": [
+    "групповая поляризация",
+    "эхо-камера",
+    "информационный пузырь",
+    "социальная идентичность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "gut-health-oral",
+   "label": "Oral and gut health",
+   "definition": "Gut and oral health as foundations of general health.",
+   "en": [
+    "gut health",
+    "oral health",
+    "gastroenterology"
+   ],
+   "ru": [
+    "здоровье кишечника",
+    "здоровье полости рта",
+    "гастроэнтеролог"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "habit-formation",
+   "label": "Habit formation and behavior change",
+   "definition": "Mechanics of building habits and making lifestyle change stick.",
+   "en": [
+    "habit formation",
+    "behavior change",
+    "stages of change"
+   ],
+   "ru": [
+    "формирование привычек",
+    "изменение поведения",
+    "стадии изменений"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "happiness-wellbeing",
+   "label": "Happiness and subjective well-being",
+   "definition": "What makes people happy, why predictions about happiness fail and what a good life consists of.",
+   "en": [
+    "happiness",
+    "well-being",
+    "hedonic treadmill",
+    "affective forecasting",
+    "good life"
+   ],
+   "ru": [
+    "счастье",
+    "благополучие",
+    "гедонистическая беговая дорожка",
+    "аффективное прогнозирование",
+    "хорошая жизнь"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "health-coaching",
+   "label": "Health coaching",
+   "definition": "Coaching approach to health goals, client cases and experiments.",
+   "en": [
+    "health coaching",
+    "wellness coaching",
+    "coaching cases"
+   ],
+   "ru": [
+    "коучинг здоровья",
+    "коучинг",
+    "кейс клиента"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "hobbies-and-play",
+   "label": "Hobbies and play",
+   "definition": "Hobbies, play and creative leisure as sources of recovery and joy.",
+   "en": [
+    "hobby",
+    "play",
+    "leisure",
+    "creative hobby"
+   ],
+   "ru": [
+    "хобби",
+    "игра",
+    "досуг",
+    "увлечения"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "human-machine-interfaces",
+   "label": "Human-machine interfaces",
+   "definition": "Wearables, brain-computer interfaces and robotics that connect people and machines.",
+   "en": [
+    "brain-computer interface",
+    "human-machine interface",
+    "wearables",
+    "robotics"
+   ],
+   "ru": [
+    "нейроинтерфейс",
+    "человеко-машинный интерфейс",
+    "носимые устройства",
+    "робототехника"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "impermanence-acceptance",
+   "label": "Impermanence and acceptance",
+   "definition": "Buddhist-inspired practices of accepting change, such as the two arrows.",
+   "en": [
+    "impermanence",
+    "acceptance",
+    "two arrows"
+   ],
+   "ru": [
+    "непостоянство",
+    "принятие",
+    "две стрелы"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "impostor-syndrome",
+   "label": "Impostor syndrome",
+   "definition": "Persistent doubt that one's achievements, abilities or identity (including a diagnosis) are real or deserved.",
+   "en": [
+    "impostor syndrome",
+    "self-doubt",
+    "feeling like a fraud"
+   ],
+   "ru": [
+    "синдром самозванца",
+    "сомнения в себе",
+    "неуверенность в диагнозе"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "inner-parts-ifs",
+   "label": "Parts work (IFS)",
+   "definition": "Working with inner parts and self-leadership, as in Internal Family Systems.",
+   "en": [
+    "ifs",
+    "inner parts",
+    "self-leadership"
+   ],
+   "ru": [
+    "внутренние части",
+    "IFS",
+    "самолидерство"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "intuitive-eating",
+   "label": "Intuitive eating",
+   "definition": "Eating guided by body signals and self-compassion rather than rules and restriction.",
+   "en": [
+    "intuitive eating",
+    "mindful eating",
+    "emotional eating"
+   ],
+   "ru": [
+    "интуитивное питание",
+    "осознанное питание",
+    "эмоциональное переедание"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "large-language-models",
+   "label": "Large language models",
+   "definition": "Capabilities, limits and risks of ChatGPT-like AI systems, including hallucinations and bias.",
+   "en": [
+    "chatgpt",
+    "llm",
+    "large language models",
+    "ai hallucinations",
+    "generative ai"
+   ],
+   "ru": [
+    "ChatGPT",
+    "LLM",
+    "языковые модели",
+    "галлюцинации ИИ",
+    "генеративный ИИ"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "longevity",
+   "label": "Longevity and aging",
+   "definition": "What extends healthy life and how to think about aging.",
+   "en": [
+    "longevity",
+    "aging",
+    "blue zones",
+    "life expectancy"
+   ],
+   "ru": [
+    "долголетие",
+    "старение",
+    "голубые зоны"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "loving-kindness-metta",
+   "label": "Loving-kindness (metta) and compassion",
+   "definition": "Heart practices that cultivate goodwill and compassion toward oneself and others.",
+   "en": [
+    "metta",
+    "loving-kindness",
+    "compassion practice",
+    "four immeasurables"
+   ],
+   "ru": [
+    "метта",
+    "любящая доброта",
+    "практика сострадания",
+    "четыре безмерных"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "masking-camouflaging",
+   "label": "Masking and camouflaging",
+   "definition": "Suppressing or hiding neurodivergent traits to fit neurotypical expectations, its costs and the process of unmasking.",
+   "en": [
+    "masking",
+    "camouflaging",
+    "unmasking",
+    "autistic masking"
+   ],
+   "ru": [
+    "маскинг",
+    "камуфляж",
+    "анмаскинг",
+    "маскировка аутизма"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "mast-cell-activation",
+   "label": "Mast cell activation syndrome",
+   "definition": "A condition where mast cells release histamine and other mediators inappropriately, causing multisystem allergic-like symptoms.",
+   "en": [
+    "mcas",
+    "mast cell activation syndrome",
+    "histamine",
+    "mast cell stabilizers"
+   ],
+   "ru": [
+    "САТК",
+    "синдром активации тучных клеток",
+    "гистамин",
+    "тучные клетки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "me-cfs-long-covid",
+   "label": "ME/CFS and long COVID",
+   "definition": "Myalgic encephalomyelitis/chronic fatigue syndrome and post-COVID conditions marked by post-exertional malaise and severe fatigue.",
+   "en": [
+    "me/cfs",
+    "chronic fatigue syndrome",
+    "long covid",
+    "post-exertional malaise"
+   ],
+   "ru": [
+    "МЭ/СХУ",
+    "синдром хронической усталости",
+    "постковид",
+    "постнагрузочное ухудшение"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "meaning-purpose",
+   "label": "Meaning and purpose",
+   "definition": "Finding meaning, values and life direction.",
+   "en": [
+    "life purpose",
+    "meaning of life",
+    "values",
+    "life direction",
+    "meaning and four types of energy",
+    "four types of energy",
+    "meaning",
+    "spiritual energy"
+   ],
+   "ru": [
+    "смысл жизни",
+    "предназначение",
+    "ценности",
+    "направление жизни",
+    "четыре вида энергии",
+    "смысл",
+    "духовная энергия"
+   ],
+   "aliases": [
+    "meaning-and-energy"
+   ]
+  },
+  {
+   "slug": "media-ethics",
+   "label": "Public and media ethics",
+   "definition": "Ethics of public figures, victim-blaming and harassment.",
+   "en": [
+    "media ethics",
+    "victim blaming",
+    "public harassment",
+    "ethical blogging"
+   ],
+   "ru": [
+    "медиаэтика",
+    "обвинение жертвы",
+    "травля",
+    "этика блогеров"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "medical-gaslighting",
+   "label": "Medical gaslighting",
+   "definition": "Dismissal of patients' symptoms as psychosomatic or exaggerated by clinicians, and the medical trauma it causes.",
+   "en": [
+    "medical gaslighting",
+    "medical trauma",
+    "it's all in your head",
+    "psychosomatic dismissal"
+   ],
+   "ru": [
+    "медицинский газлайтинг",
+    "медицинская травма",
+    "психосоматика",
+    "обесценивание симптомов"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "meditation-mindfulness",
+   "label": "Meditation and mindfulness",
+   "definition": "Attention-training practices including short micro-practices and savoring.",
+   "en": [
+    "meditation",
+    "mindfulness",
+    "savoring"
+   ],
+   "ru": [
+    "медитация",
+    "осознанность",
+    "майндфулнес"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "meetings-facilitation",
+   "label": "Meetings and facilitation",
+   "definition": "Running effective meetings and facilitating groups.",
+   "en": [
+    "facilitation",
+    "effective meetings",
+    "meeting roles",
+    "group workshops"
+   ],
+   "ru": [
+    "фасилитация",
+    "эффективные встречи",
+    "роли на встрече",
+    "групповые сессии"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "meltdowns-shutdowns",
+   "label": "Meltdowns and shutdowns",
+   "definition": "Involuntary overload responses in autistic people, either outward (meltdown) or inward (shutdown), and how to support recovery.",
+   "en": [
+    "meltdown",
+    "shutdown",
+    "autistic meltdown",
+    "verbal shutdown",
+    "co-regulation"
+   ],
+   "ru": [
+    "мелтдаун",
+    "шатдаун",
+    "аутичный срыв",
+    "корегуляция"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "metabolic-health",
+   "label": "Metabolic health",
+   "definition": "Healthy glucose, insulin and mitochondrial function underlying steady energy.",
+   "en": [
+    "metabolic health",
+    "blood glucose",
+    "mitochondria"
+   ],
+   "ru": [
+    "метаболическое здоровье",
+    "глюкоза",
+    "митохондрии"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "mindful-leadership",
+   "label": "Mindful and compassionate leadership",
+   "definition": "Leadership grounded in presence, self-awareness, compassion and vulnerability.",
+   "en": [
+    "mindful leadership",
+    "compassionate leader",
+    "conscious leadership"
+   ],
+   "ru": [
+    "осознанное лидерство",
+    "сострадательный лидер",
+    "лидерство"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "money-management",
+   "label": "Money management and impulsive spending",
+   "definition": "Budgeting, saving and limiting impulsive spending, including strategies adapted to ADHD.",
+   "en": [
+    "money management",
+    "budgeting",
+    "impulsive spending",
+    "saving money"
+   ],
+   "ru": [
+    "управление деньгами",
+    "бюджет",
+    "импульсивные траты",
+    "накопления"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "motivation",
+   "label": "Motivation and effort",
+   "definition": "Where motivation comes from and how effort differs from self-coercion.",
+   "en": [
+    "motivation",
+    "willpower",
+    "self-control"
+   ],
+   "ru": [
+    "мотивация",
+    "самоконтроль",
+    "сила воли"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "music-and-brain",
+   "label": "Music and the brain",
+   "definition": "How the brain perceives music and why music evokes emotion and movement.",
+   "en": [
+    "music perception",
+    "music neuroscience",
+    "rhythm",
+    "music and emotion"
+   ],
+   "ru": [
+    "восприятие музыки",
+    "нейронаука музыки",
+    "ритм",
+    "музыка и эмоции"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "nature-and-restoration",
+   "label": "Nature and restorative practices",
+   "definition": "Nature time, sauna/banya and similar practices that restore energy.",
+   "en": [
+    "forest bathing",
+    "banya",
+    "sauna",
+    "nature walks"
+   ],
+   "ru": [
+    "лес",
+    "баня",
+    "природа",
+    "прогулки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "neurodivergent-communication",
+   "label": "Neurodivergent communication styles",
+   "definition": "How autistic and ADHD people tend to communicate, such as directness, infodumping, avoiding small talk and using AAC, and how to accommodate it.",
+   "en": [
+    "autistic communication",
+    "aac",
+    "augmentative and alternative communication",
+    "small talk",
+    "echolalia",
+    "adhd communication"
+   ],
+   "ru": [
+    "аутичная коммуникация",
+    "АДК",
+    "альтернативная коммуникация",
+    "small talk",
+    "эхолалия",
+    "общение при СДВГ"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "neurodiversity",
+   "label": "Neurodiversity",
+   "definition": "ADHD, autism and other neurodivergent minds and support for them.",
+   "en": [
+    "neurodiversity",
+    "adhd",
+    "autism",
+    "masking"
+   ],
+   "ru": [
+    "нейроразнообразие",
+    "СДВГ",
+    "аутизм",
+    "маскинг"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "nonviolent-communication",
+   "label": "Nonviolent and clear communication",
+   "definition": "Expressing needs, requests and refusals clearly and without aggression.",
+   "en": [
+    "nonviolent communication",
+    "nvc",
+    "assertiveness",
+    "conversational maxims"
+   ],
+   "ru": [
+    "ненасильственное общение",
+    "ННО",
+    "ассертивность",
+    "коммуникация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "nutrition-basics",
+   "label": "Evidence-based nutrition",
+   "definition": "Practical, research-based guidance on eating, nutrients and diet myths.",
+   "en": [
+    "nutrition guidelines",
+    "diet myths",
+    "fiber",
+    "calcium"
+   ],
+   "ru": [
+    "питание",
+    "мифы о питании",
+    "клетчатка",
+    "кальций"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "open-science",
+   "label": "Open science and research access",
+   "definition": "Open, collaborative science and free access to papers and research tools.",
+   "en": [
+    "open science",
+    "open access",
+    "research tools",
+    "free articles"
+   ],
+   "ru": [
+    "открытая наука",
+    "открытый доступ",
+    "научные ресурсы",
+    "бесплатные статьи"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "pacing",
+   "label": "Activity pacing",
+   "definition": "Planning activity within a limited energy envelope to avoid boom-bust cycles and post-exertional crashes.",
+   "en": [
+    "pacing",
+    "energy accounting",
+    "spoon theory",
+    "boom-bust cycle"
+   ],
+   "ru": [
+    "пейсинг",
+    "учёт энергии",
+    "теория ложек",
+    "цикл бум-спад"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "patient-advocacy",
+   "label": "Patient self-advocacy",
+   "definition": "Preparing for and communicating with doctors so symptoms are taken seriously, including second opinions and patient rights.",
+   "en": [
+    "patient advocacy",
+    "talking to doctors",
+    "second opinion",
+    "patient rights"
+   ],
+   "ru": [
+    "самоадвокация пациента",
+    "разговор с врачом",
+    "второе мнение",
+    "права пациента"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "perfectionism",
+   "label": "Perfectionism and overcontrol",
+   "definition": "Excessive self-control, high standards and rigidity, and their emotional costs.",
+   "en": [
+    "perfectionism",
+    "overcontrol",
+    "ro dbt",
+    "rigidity"
+   ],
+   "ru": [
+    "перфекционизм",
+    "гиперконтроль",
+    "RO DBT",
+    "ригидность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "physical-activity",
+   "label": "Everyday physical activity",
+   "definition": "How much and what kind of movement supports health and is sustainable.",
+   "en": [
+    "daily steps",
+    "exercise",
+    "neat",
+    "workout recovery"
+   ],
+   "ru": [
+    "физическая активность",
+    "шаги",
+    "тренировки",
+    "восстановление после тренировки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "politics-authoritarianism",
+   "label": "Politics and authoritarianism",
+   "definition": "Authoritarian systems, populism and political agency.",
+   "en": [
+    "authoritarianism",
+    "populism",
+    "political agency",
+    "protest"
+   ],
+   "ru": [
+    "авторитаризм",
+    "популизм",
+    "политическая субъектность",
+    "протест"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "productivity-culture-critique",
+   "label": "Critique of productivity and achievement culture",
+   "definition": "Critical view of hustle, achievism and productivity as self-worth.",
+   "en": [
+    "burnout society",
+    "hustle culture",
+    "achievement society",
+    "productivity critique"
+   ],
+   "ru": [
+    "общество выгорания",
+    "культура достижений",
+    "хастл",
+    "критика продуктивности"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "psychiatric-diagnosis",
+   "label": "Psychiatric and differential diagnosis",
+   "definition": "How mental and neurodevelopmental conditions are diagnosed, distinguished from look-alikes and misdiagnosed.",
+   "en": [
+    "differential diagnosis",
+    "misdiagnosis",
+    "dsm-5",
+    "late diagnosis",
+    "comorbidity"
+   ],
+   "ru": [
+    "дифференциальная диагностика",
+    "ошибочный диагноз",
+    "DSM-5",
+    "поздний диагноз",
+    "коморбидность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "psychotherapy",
+   "label": "Psychotherapy methods and results",
+   "definition": "How therapy works, choosing a method and getting results.",
+   "en": [
+    "psychotherapy",
+    "therapy methods",
+    "ifs",
+    "therapeutic alliance"
+   ],
+   "ru": [
+    "психотерапия",
+    "методы терапии",
+    "IFS",
+    "терапевтический альянс"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "rejection-sensitivity",
+   "label": "Rejection sensitivity",
+   "definition": "Intense emotional pain in response to perceived rejection or criticism, often described in ADHD as rejection sensitive dysphoria.",
+   "en": [
+    "rejection sensitive dysphoria",
+    "rsd",
+    "rejection sensitivity",
+    "people-pleasing"
+   ],
+   "ru": [
+    "дисфория чувствительности к отвержению",
+    "RSD",
+    "чувствительность к отвержению",
+    "угодничество"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "relationships-family",
+   "label": "Relationships, family and parenting",
+   "definition": "Partnership, family systems and parenting.",
+   "en": [
+    "relationships",
+    "family systems",
+    "parenting",
+    "couples therapy"
+   ],
+   "ru": [
+    "отношения",
+    "семейные системы",
+    "воспитание детей",
+    "парная терапия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "relocation",
+   "label": "Relocation and emigration",
+   "definition": "Staying stable through moving countries and adapting to a new place.",
+   "en": [
+    "relocation",
+    "emigration",
+    "moving abroad"
+   ],
+   "ru": [
+    "релокация",
+    "эмиграция",
+    "переезд"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "remote-work",
+   "label": "Remote and hybrid work",
+   "definition": "Remote, hybrid work and the future of work.",
+   "en": [
+    "remote work",
+    "hybrid work",
+    "future of work",
+    "freelance"
+   ],
+   "ru": [
+    "удалённая работа",
+    "гибридный формат",
+    "будущее работы",
+    "фриланс"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "rest-and-recovery",
+   "label": "Rest and recovery",
+   "definition": "Deliberately restoring physical, mental and emotional resources after effort.",
+   "en": [
+    "rest",
+    "recovery",
+    "how to rest",
+    "downtime"
+   ],
+   "ru": [
+    "отдых",
+    "восстановление",
+    "как отдыхать"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "scientific-thinking",
+   "label": "Scientific thinking and evidence",
+   "definition": "Evaluating claims, sources and replication, and how science builds reliable knowledge.",
+   "en": [
+    "scientific thinking",
+    "critical thinking",
+    "replication",
+    "evidence-based",
+    "source checking"
+   ],
+   "ru": [
+    "научное мышление",
+    "критическое мышление",
+    "репликация",
+    "доказательность",
+    "проверка источников"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-advocacy-accommodations",
+   "label": "Self-advocacy and accommodations",
+   "definition": "Identifying one's needs and asking for adjustments in daily life, communication and work.",
+   "en": [
+    "self-advocacy",
+    "accommodations",
+    "adjustments",
+    "support needs"
+   ],
+   "ru": [
+    "самоадвокация",
+    "аккомодации",
+    "адаптации",
+    "потребности в поддержке"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-care",
+   "label": "Self-care",
+   "definition": "Everyday practices and permissions for taking care of one's own needs.",
+   "en": [
+    "self-care",
+    "permission to rest",
+    "self-support"
+   ],
+   "ru": [
+    "забота о себе",
+    "самоподдержка",
+    "разрешения"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-compassion",
+   "label": "Self-compassion",
+   "definition": "Treating yourself with kindness instead of criticism, shame or pity.",
+   "en": [
+    "self-compassion",
+    "inner critic",
+    "self-kindness"
+   ],
+   "ru": [
+    "сострадание к себе",
+    "внутренний критик",
+    "доброта к себе"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-managing-organizations",
+   "label": "Self-management and Teal organizations",
+   "definition": "Organization models with distributed power and without classic hierarchy.",
+   "en": [
+    "teal organizations",
+    "self-management",
+    "sociocracy",
+    "management by context"
+   ],
+   "ru": [
+    "бирюзовые организации",
+    "самоуправление",
+    "социократия",
+    "управление через контекст"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-reflection-tools",
+   "label": "Self-reflection tools",
+   "definition": "Structured exercises for reflection, values and review.",
+   "en": [
+    "reflection",
+    "values exercise",
+    "year review",
+    "wheel of balance"
+   ],
+   "ru": [
+    "рефлексия",
+    "ценности",
+    "итоги года",
+    "колесо баланса"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-tracking",
+   "label": "Self-tracking and wellness gadgets",
+   "definition": "Using diaries, apps and wearables to observe your state, and their limits.",
+   "en": [
+    "self-tracking",
+    "wearables",
+    "health apps",
+    "energy diary",
+    "measuring stress load",
+    "hrv",
+    "stress measurement",
+    "stress load",
+    "state management"
+   ],
+   "ru": [
+    "трекинг",
+    "гаджеты",
+    "дневник",
+    "трекеры",
+    "ВСР",
+    "измерение стресса",
+    "стрессовая нагрузка",
+    "управление состоянием"
+   ],
+   "aliases": [
+    "stress-measurement"
+   ]
+  },
+  {
+   "slug": "sensory-perception",
+   "label": "Perception science",
+   "definition": "How the brain constructs percepts from sensory signals and why people perceive differently.",
+   "en": [
+    "perception",
+    "visual illusions",
+    "color perception",
+    "synesthesia"
+   ],
+   "ru": [
+    "восприятие",
+    "зрительные иллюзии",
+    "восприятие цвета",
+    "синестезия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "sensory-processing",
+   "label": "Sensory processing and sensitivity",
+   "definition": "How people register and regulate sensory input, including sensory overload, stimming and interoception.",
+   "en": [
+    "sensory processing",
+    "sensory overload",
+    "sensory sensitivity",
+    "interoception",
+    "stimming"
+   ],
+   "ru": [
+    "сенсорная обработка",
+    "сенсорная перегрузка",
+    "сенсорная чувствительность",
+    "интероцепция",
+    "стимминг"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "shame",
+   "label": "Shame",
+   "definition": "How shame works and blocks self-care and change.",
+   "en": [
+    "shame",
+    "guilt",
+    "toxic shame"
+   ],
+   "ru": [
+    "стыд",
+    "вина",
+    "архитектура стыда"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "sleep-hygiene",
+   "label": "Sleep hygiene, sleep debt and insomnia",
+   "definition": "Getting enough good-quality sleep: habits and environment, sleep need and sleep debt, the effects of sleep deprivation, and breaking insomnia loops.",
+   "en": [
+    "sleep hygiene",
+    "better sleep",
+    "sleep routine",
+    "sleep deprivation",
+    "sleep loss",
+    "sleep need",
+    "sleep debt and insomnia",
+    "sleep debt",
+    "insomnia",
+    "light therapy"
+   ],
+   "ru": [
+    "гигиена сна",
+    "сон",
+    "режим сна",
+    "недосып",
+    "недостаток сна",
+    "норма сна",
+    "долг сна",
+    "бессонница",
+    "светотерапия"
+   ],
+   "aliases": [
+    "sleep-deprivation",
+    "sleep-debt-insomnia"
+   ]
+  },
+  {
+   "slug": "social-change-activism",
+   "label": "Social change and activism",
+   "definition": "How individual and collective actions produce social change despite feelings of powerlessness.",
+   "en": [
+    "social change",
+    "activism",
+    "civic action",
+    "helplessness"
+   ],
+   "ru": [
+    "социальные изменения",
+    "активизм",
+    "гражданское действие",
+    "беспомощность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "somatic-regulation",
+   "label": "Somatic and breathing regulation practices",
+   "definition": "Body-based techniques such as breathing, tapping and grounding to calm the nervous system.",
+   "en": [
+    "breathing exercises",
+    "eft tapping",
+    "grounding",
+    "somatic practices"
+   ],
+   "ru": [
+    "дыхательные практики",
+    "EFT тэппинг",
+    "заземление",
+    "телесные практики"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "special-interests-hyperfocus",
+   "label": "Special interests and hyperfocus",
+   "definition": "Intense, absorbing focus on particular subjects or activities, as in autistic special interests, ADHD hyperfixations and hyperfocus.",
+   "en": [
+    "special interests",
+    "hyperfocus",
+    "hyperfixation",
+    "infodumping"
+   ],
+   "ru": [
+    "специальные интересы",
+    "гиперфокус",
+    "гиперфиксация",
+    "спецынтерес"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "spiritual-bypassing",
+   "label": "Spiritual bypassing and pitfalls",
+   "definition": "Using spiritual practice to avoid emotions, reality or psychological work.",
+   "en": [
+    "spiritual bypassing",
+    "spiritual materialism",
+    "dissociation vs witnessing"
+   ],
+   "ru": [
+    "духовный байпас",
+    "духовный материализм",
+    "диссоциация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "stigma-and-acceptance",
+   "label": "Stigma and acceptance of difference",
+   "definition": "Prejudice, stereotypes and myths about people who differ, and how understanding replaces them.",
+   "en": [
+    "stigma",
+    "stereotypes",
+    "myths",
+    "acceptance of difference"
+   ],
+   "ru": [
+    "стигма",
+    "стереотипы",
+    "мифы",
+    "принятие различий"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "stress-and-anxiety",
+   "label": "Stress and anxiety",
+   "definition": "Causes of stress and anxiety and ways of coping.",
+   "en": [
+    "stress",
+    "anxiety",
+    "anticipatory anxiety"
+   ],
+   "ru": [
+    "стресс",
+    "тревога",
+    "тревожность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "sugar-and-glucose",
+   "label": "Sugar and glucose",
+   "definition": "How sugar and glucose spikes affect energy, cravings and health.",
+   "en": [
+    "sugar",
+    "glucose spikes",
+    "fructose",
+    "sweets"
+   ],
+   "ru": [
+    "сахар",
+    "глюкоза",
+    "сладкое",
+    "скачки глюкозы"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "supplements",
+   "label": "Supplements",
+   "definition": "Evidence, benefits and risks of vitamins and dietary supplements.",
+   "en": [
+    "supplements",
+    "vitamins",
+    "nmn",
+    "vitamin D"
+   ],
+   "ru": [
+    "БАДы",
+    "витамины",
+    "добавки"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "team-trust-feedback",
+   "label": "Team trust, feedback and psychological safety",
+   "definition": "Building trust, giving feedback and handling conflict in teams.",
+   "en": [
+    "psychological safety",
+    "feedback",
+    "team conflict",
+    "team trust"
+   ],
+   "ru": [
+    "психологическая безопасность",
+    "обратная связь",
+    "конфликты в команде",
+    "доверие в команде"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "theory-u",
+   "label": "Theory U and presencing",
+   "definition": "Scharmer's Theory U: open mind, heart and will, and leading from the emerging future.",
+   "en": [
+    "theory u",
+    "presencing",
+    "co-sensing",
+    "otto scharmer"
+   ],
+   "ru": [
+    "теория U",
+    "присутствие",
+    "ко-сенсинг",
+    "Отто Шармер"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "toxic-leadership",
+   "label": "Toxic leadership and power",
+   "definition": "Abusive management, rank and power dynamics in organizations.",
+   "en": [
+    "toxic boss",
+    "abusive leadership",
+    "power and rank",
+    "workplace toxicity"
+   ],
+   "ru": [
+    "токсичный руководитель",
+    "абьюз на работе",
+    "власть и ранг",
+    "токсичность в компании"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "trauma-and-nervous-system",
+   "label": "Trauma and the nervous system",
+   "definition": "How trauma and chronic stress shape the nervous system and what healing looks like.",
+   "en": [
+    "trauma",
+    "window of tolerance",
+    "vagal tone",
+    "trauma healing"
+   ],
+   "ru": [
+    "травма",
+    "окно толерантности",
+    "блуждающий нерв",
+    "исцеление травмы"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "uncertainty-resilience",
+   "label": "Uncertainty and resilience",
+   "definition": "Staying functional and deciding well when events are outside your control.",
+   "en": [
+    "uncertainty",
+    "resilience",
+    "scenario thinking",
+    "locus of control",
+    "coping with crisis",
+    "crisis coping",
+    "crisis support",
+    "permacrisis",
+    "coping strategies"
+   ],
+   "ru": [
+    "неопределённость",
+    "устойчивость",
+    "сценарное мышление",
+    "зона контроля",
+    "совладание с кризисом",
+    "поддержка в кризис",
+    "перманентный кризис",
+    "копинг"
+   ],
+   "aliases": [
+    "crisis-coping"
+   ]
+  },
+  {
+   "slug": "war-ethics-resilience",
+   "label": "Staying humane in war and repression",
+   "definition": "Inner stance, agency and ethics in wartime and under repression.",
+   "en": [
+    "moral injury",
+    "war and ethics",
+    "normalization of violence",
+    "agency"
+   ],
+   "ru": [
+    "моральная травма",
+    "этика на войне",
+    "нормализация насилия",
+    "субъектность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "weight-and-genetics",
+   "label": "Weight and genetics",
+   "definition": "Why weight is not a simple health marker and how genetics and dieting affect it.",
+   "en": [
+    "weight",
+    "metabolic adaptation",
+    "genetic test"
+   ],
+   "ru": [
+    "вес",
+    "генетика",
+    "метаболическая адаптация"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "wellness-industry-critique",
+   "label": "Wellness industry critique",
+   "definition": "Critical view of marketing, hype and consumerism in wellness.",
+   "en": [
+    "wellness industry",
+    "health marketing",
+    "critical thinking"
+   ],
+   "ru": [
+    "критика wellness-индустрии",
+    "маркетинг",
+    "потребление"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "willpower",
+   "label": "Willpower",
+   "definition": "Willpower and self-control, including what research says about ego depletion.",
+   "en": [
+    "willpower",
+    "ego depletion",
+    "self-control",
+    "replication crisis"
+   ],
+   "ru": [
+    "сила воли",
+    "истощение эго",
+    "самоконтроль",
+    "кризис репликации"
+   ],
+   "aliases": [
+    "willpower-evidence"
+   ]
+  },
+  {
+   "slug": "womens-health",
+   "label": "Women's health",
+   "definition": "Menstrual cycle, pregnancy, check-ups and women-specific health topics.",
+   "en": [
+    "menstrual cycle",
+    "pregnancy",
+    "postpartum",
+    "check-up"
+   ],
+   "ru": [
+    "женское здоровье",
+    "менструальный цикл",
+    "беременность",
+    "чек-ап"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "work-life-balance",
+   "label": "Work-life balance",
+   "definition": "Combining career, family, rest and personal life sustainably.",
+   "en": [
+    "work-life balance",
+    "life balance",
+    "ideal week"
+   ],
+   "ru": [
+    "баланс работы и жизни",
+    "баланс",
+    "идеальная неделя"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "workplace-inclusion",
+   "label": "Workplace inclusion and accommodations",
+   "definition": "Making workplaces accessible to diverse and disabled people through hiring practices and accommodations.",
+   "en": [
+    "workplace inclusion",
+    "neuroinclusion",
+    "reasonable accommodations",
+    "disability employment"
+   ],
+   "ru": [
+    "инклюзия на работе",
+    "нейроинклюзивность",
+    "адаптация рабочего места",
+    "трудоустройство"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "workplace-motivation-hiring",
+   "label": "Workplace motivation and hiring",
+   "definition": "Intrinsic motivation at work, hiring for culture fit and the talent market.",
+   "en": [
+    "intrinsic motivation",
+    "self-determination theory",
+    "hiring",
+    "talent market"
+   ],
+   "ru": [
+    "внутренняя мотивация",
+    "теория самодетерминации",
+    "найм",
+    "рынок талантов"
+   ],
+   "aliases": []
+  }
+ ]
+}
