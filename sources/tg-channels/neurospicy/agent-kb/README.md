@@ -6,8 +6,10 @@ It is regenerated automatically whenever the knowledge base changes, so a symlin
 
 Install for Claude Code (symlink keeps it current):
 
+Run in the library root (the folder holding `KNOWLEDGE_INDEX.md`):
+
 ```bash
-mkdir -p ~/.claude/skills && ln -s "/Users/coreference/projects/tg insights/sources/tg-channels/neurospicy/agent-kb" ~/.claude/skills/kb-neyropryanost
+mkdir -p ~/.claude/skills && ln -s "$PWD/sources/tg-channels/neurospicy/agent-kb" ~/.claude/skills/kb-neyropryanost
 ```
 
 or copy the folder into a project's `.claude/skills/kb-neyropryanost/`. For claude.ai, zip the folder and upload it as a skill (re-upload after updates). For other agents, load `SKILL.md` as instructions and give file access to the folder.

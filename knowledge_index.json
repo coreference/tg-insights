@@ -1,12 +1,11 @@
 {
- "library_root": "/Users/coreference/projects/tg insights",
- "generated": "2026-11-21 17:07",
+ "library_root": ".",
+ "generated": "2026-11-21 18:24",
  "knowledge_bases": [
   {
    "slug": "na-balanse",
    "title": "На балансе с Катей Стрельниковой",
    "path": "sources/tg-channels/na-balanse",
-   "abs_path": "/Users/coreference/projects/tg insights/sources/tg-channels/na-balanse",
    "status": "complete",
    "date_range": [
     "2023-12-04",
@@ -14430,7 +14429,6 @@
    "slug": "deep-mind-2-0",
    "title": "deep mind 2.0",
    "path": "sources/tg-channels/deep-mind2.0",
-   "abs_path": "/Users/coreference/projects/tg insights/sources/tg-channels/deep-mind2.0",
    "status": "complete",
    "date_range": [
     "2019-11-10",
@@ -34250,7 +34248,6 @@
    "slug": "human-gazing-upon-machine",
    "title": "Human Gazing Upon Machine",
    "path": "sources/tg-channels/human-machine",
-   "abs_path": "/Users/coreference/projects/tg insights/sources/tg-channels/human-machine",
    "status": "complete",
    "date_range": [
     "2022-03-21",
@@ -40312,7 +40309,6 @@
    "slug": "neyropryanost",
    "title": "Нейропряность",
    "path": "sources/tg-channels/neurospicy",
-   "abs_path": "/Users/coreference/projects/tg insights/sources/tg-channels/neurospicy",
    "status": "complete",
    "date_range": [
     "2024-02-10",
@@ -44763,7 +44759,6 @@
    "slug": "neurodiv-psy",
    "title": "(нейро)разнообразная психология",
    "path": "sources/tg-channels/neurodiv_psy",
-   "abs_path": "/Users/coreference/projects/tg insights/sources/tg-channels/neurodiv_psy",
    "status": "complete",
    "date_range": [
     "2023-03-15",
