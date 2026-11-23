@@ -1,14 +1,14 @@
-# Comorbid Chronic Conditions (part 1 of 2) — Нейропряность
+# Comorbid Chronic Conditions (part 1 of 3) — Нейропряность
 
 Full knowledge extracted from the Telegram channel “Нейропряность” on the domain “Comorbid Chronic Conditions”. Everything below comes only from the channel's own posts; opinions are attributed to their authors. Tags like [#123] are source message numbers. Original-language quotes are followed by an English translation in parentheses.
 
-Topics in this file: The neurodivergent comorbidity cluster and self-help map; Ehlers-Danlos syndrome and hypermobility; Mast cell activation syndrome (MCAS).
+Topics in this file: The neurodivergent comorbidity cluster and self-help map; Ehlers-Danlos syndrome and hypermobility.
 
 ## The neurodivergent comorbidity cluster and self-help map
 
 ### What this covers
 
-This topic collects the channel's posts on conditions that tend to come together with autism and ADHD. It covers comorbidity statistics for autism, the "triad" of hypermobile Ehlers-Danlos syndrome (hEDS), mast cell activation syndrome (MCAS) and postural orthostatic tachycardia syndrome (POTS), binocular vision dysfunction (BVD) and the MTHFR gene mutation. It also includes the author's visual self-help map for "neurocomplexity" and a forwarded awareness post on how stroke can look different in women. The source says these conditions matter because they strongly affect quality of life and daily functioning, are often misdiagnosed (BVD as "other conditions", MCAS as "psychosomatic"), and need a comprehensive approach, often with several specialists [#349, #779, #509, #767].
+This topic collects the channel's posts on conditions that tend to come together with autism and ADHD. It covers comorbidity statistics for autism, the "triad" of hypermobile Ehlers-Danlos syndrome (hEDS), mast cell activation syndrome (MCAS) and postural orthostatic tachycardia syndrome (POTS), binocular vision dysfunction (BVD) and the MTHFR gene mutation. It also includes the author's visual self-help map for "neurocomplexity" and a forwarded awareness post on how stroke can look different in women. The source says these conditions matter because they strongly affect quality of life and daily functioning, are often misdiagnosed (BVD as "other conditions", MCAS as "psychosomatic"), and need a comprehensive approach, often with several specialists [#349, #779, #509, #767, #36].
 
 ### Core ideas
 
@@ -16,6 +16,7 @@ This topic collects the channel's posts on conditions that tend to come together
 - hEDS, MCAS and POTS form a triad. These three conditions often occur with autism and ADHD and with each other. Diagnosing and treating them needs a comprehensive approach, often with several specialists [#779].
 - Some conditions are hidden or misdiagnosed. A standard eye exam may miss BVD, and doctors often misdiagnose it as other conditions. MCAS is often labelled "psychosomatic" or "somatoform disorder", yet unlike those labels it can and should be treated [#349, #779].
 - Self-help in neurocomplexity works on several fronts at once. The author's map has six parallel branches: pain control, supportive strategies, mast cell stabilisation, medication for depression/anxiety/ADHD, nervous-system support and psychotherapy [#509].
+- MTHFR blocks vitamin activation. The channel says a common MTHFR mutation stops the body converting folate into its active form, leading to B-vitamin deficiency, raised homocysteine and catecholamine build-up (anxiety, insomnia); its suggested response is testing plus methylated vitamins as part of a broader approach. Full detail under *MTHFR genetic mutation* [#36, article #36].
 - Body signals should not be put down to stress. In women, stroke may look like confusion, a sudden headache or a "panic attack". These signs are often mistaken for stress or overwork, which is dangerous [#767].
 
 ### Frameworks, models and step-by-step methods
@@ -118,17 +119,48 @@ Comorbidity: "Это состояние коморбидно и часто вс�
 Diagnosis and treatment: diagnosis needs a specialised examination, because a routine eye exam may not detect the problem. Treatment usually includes special prismatic lenses and vision therapy. People with such symptoms are advised to see an "офтальмологу, специализирующемуся на бинокулярном зрении" (ophthalmologist specialising in binocular vision) for an accurate diagnosis and effective treatment [#349].
 
 #### MTHFR genetic mutation
-The channel states that 44% of the world's population carry a mutation in the MTHFR gene, which plays a key role in folate (folic acid) metabolism. Problems with this gene are "связывают" (linked, the author's hedged wording) with these conditions [#36]:
-1. Anxiety.
-2. Depression.
-3. Gastrointestinal problems.
-4. Worsening of ADHD symptoms.
-5. OCD.
-6. Insomnia.
-7. Alzheimer's disease.
+Scope and framing. The channel's post and its linked Telegraph article (by Настя) introduce MTHFR "не научным языком" (in non-scientific language): what the mutation is, the conditions linked to it, and "что с этим можно сделать" (what can be done about it). The article opens with three framing points: a diagnosis requires a genetic test; with this mutation medication is not always needed, and "в некоторых случаях хватает восполнение недостатка витаминов в активной форме" (in some cases replenishing the deficiency with vitamins in their active form is enough); and you should consult a doctor before starting any drugs or supplements, prescription or not [#36, article #36].
 
-The source list ends with "🌟..." (an open ellipsis), meaning it is not exhaustive. The full explanation is in a separate Telegraph article. The post says the article introduces MTHFR in non-scientific language, covers related conditions and "что с этим можно сделать" (what can be done about it) [#36].
-(!) INCOMPLETE: the article's content, including testing and what can be done, was not provided, so this file holds only the post's summary [#36].
+What the gene does. The channel states that 44% of the world's population carry a mutation called MTHFR; the gene plays a key role in folate (folic acid) metabolism. The article explains the chain step by step [#36, article #36]:
+1. MTHFR takes part in converting 5,10-methylenetetrahydrofolate into the active form of folate, 5-methyltetrahydrofolate.
+2. That active folate is needed for the methylation of homocysteine into methionine.
+3. By turning homocysteine into methionine, the gene helps lower blood homocysteine, which the article says is important for preventing cardiovascular and other diseases.
+4. Because MTHFR is involved both in folate metabolism and in regulating homocysteine, it may affect the development of the nervous system and how the brain functions [#36].
+
+Conditions linked to a malfunctioning gene. The post names seven conditions and then trails off with "🌟..." (an open ellipsis): anxiety, depression, GI problems, worsening of ADHD symptoms, OCD, insomnia and Alzheimer's [#36]. The article names all seventeen conditions that disruption of the gene is "связывают" with (linked with — the author's hedged wording) [#36]:
+1. Anxiety (тревожность).
+2. Depression (депрессия).
+3. Gastrointestinal problems (проблемы ЖКТ).
+4. ADHD (СДВГ; the post phrases it as worsening of ADHD symptoms).
+5. OCD (ОКР).
+6. Insomnia (бессонница).
+7. Alzheimer's disease.
+8. Cardiovascular and thromboembolic diseases, in particular thromboses, stroke, embolism and heart attacks.
+9. Bipolar disorder.
+10. Schizophrenia.
+11. Colon cancer (рак толстой кишки).
+12. Acute leukaemia.
+13. Chronic pain and fatigue.
+14. Nerve pain (боли в нервах).
+15. Migraine.
+16. Recurrent miscarriages in women of childbearing age.
+17. Pregnancies with neural tube defects, such as spina bifida and anencephaly.
+
+The methylation process explained by the "oil → petrol" analogy. To be used by a car, crude oil must first be converted into the right form, petrol. The same normally happens with vitamins: we take in a vitamin, the body converts it into its active form, and only then can use it. With the MTHFR mutation we cannot convert our vitamins into the active form, because our gene lacks the "правильного рецепта" ("right recipe"). As a result we develop a deficiency of B-group vitamins, and the processes in which they are an important link are disrupted [#36].
+
+Mechanism linking MTHFR to anxiety and "tired but wired" sleep. The article's causal chain:
+- Active folate is needed to break down and clear excess neurotransmitters — catecholamines, which are responsible for the "бей или беги" (fight or flight) response.
+- Catecholamines are normally produced in a state of fear. But because the body lacks the resources to break them down, "мы можем испытывать страх без наличия опасности" (we may feel fear with no danger present) — in other words, be anxious for no particular reason.
+- Definition given: catecholamines are physiologically active substances that act as mediators (noradrenaline, dopamine, serotonin) and hormones (adrenaline, noradrenaline). (As written in the source; the article lists serotonin among them.)
+- Example: the state when you are very tired and want to sleep but the brain keeps thinking and will not let you fall asleep — the article says this arises from a large build-up of catecholamines in the body [#36].
+
+#### What to do about MTHFR (the article's action steps)
+The article's "Что с этим делать?" (What to do about it?) section, in order [#36]:
+1. Get tested. "Обязательно сделайте генетический тест" (be sure to do a genetic test) for the MTHFR mutation, plus blood tests for homocysteine and catecholamine levels. Why: identifying the right cause of homocysteine build-up in the blood is very important.
+2. Do not rely on food alone, and know the folic-acid trap. In the modern world it is very hard to get the needed nutrients from food only. Moreover, some foods — white flour, rice, bread, pasta, breakfast cereals — contain the synthetic version of folate, folic acid, which, like dietary folate, is not the active form and cannot be absorbed by people with this mutation.
+3. Take methylated (active-form) vitamins that the body can use immediately, to help it break down catecholamines and stabilise homocysteine. The article names a methylated B-vitamin complex, methionine, and DIM, and says they can improve symptoms such as insomnia, high blood pressure, anxiety, depression, poor sugar metabolism, estrogen dominance, ADHD symptoms, OCD and GI problems. No doses or products are given.
+4. Treat it as one part of a comprehensive approach. "Важно для понимания: это не панацея." (Important to understand: this is not a panacea.) There is no guarantee that starting a methylated B complex will make your condition magically improve and all symptoms disappear. As a rule, the best results need a comprehensive approach: further examinations, lifestyle change (following a diet, exercise) and work on restoring the nervous system. Still, taking the active form of folate "может стать хорошим началом" (can be a good start) if you have the MTHFR mutation.
+5. Consult specialists first. Always consult specialists before starting any supplements or drugs [#36].
 
 #### Stroke warning signs in women (forwarded awareness post)
 The post was forwarded from the channel Женщины. Инвалидность. Феминизм (Women. Disability. Feminism) for Stroke Awareness Day (29 October), which the WHO set up in 2006 to raise awareness of the disease, its early signs and the importance of timely medical help. The post defines stroke as an acute disruption of blood circulation in the brain that "может произойти с каждым вне зависимости от возраста или образа жизни" (can happen to anyone regardless of age or lifestyle) [#767].
@@ -150,7 +182,9 @@ Cases of women who spoke publicly about stroke. The post gives these to show tha
 
 ### Tools and resources mentioned
 
-- Telegraph article "Генетическая мутация MTHFR" (MTHFR genetic mutation): the channel's own plain-language introduction to MTHFR, related conditions and what can be done [#36].
+- Telegraph article "Генетическая мутация MTHFR" (MTHFR genetic mutation): the channel's own plain-language longread by Настя; its content is written out under *MTHFR genetic mutation* and *What to do about MTHFR* [#36, article #36].
+- Methylated B-vitamin complex, methionine, DIM: supplements the article names as able to improve MTHFR-related symptoms; the author's verdict is "not a panacea, but a good start", to be taken only after consulting a specialist [#36].
+- Genetic test for MTHFR; blood tests for homocysteine and catecholamines: the diagnostics the article says to do first [#36].
 - SameYou (sameyou.org): a foundation set up by Emilia Clarke that helps women and young people with rehabilitation after stroke and brain injury [#767].
 - Prismatic lenses and vision therapy: the usual treatments for BVD, prescribed by an ophthalmologist who specialises in binocular vision [#349].
 
@@ -160,14 +194,18 @@ Cases of women who spoke publicly about stroke. The post gives these to show tha
 
 > "В отличие от этих неправильных диагнозов САТК можно и нужно лечить." (Unlike these wrong diagnoses, MCAS can and should be treated.) — channel author [#779]
 
+> "Однако, прием активной формы фолиевой кислоты может стать хорошим началом, если у вас есть MTHFR мутация." (However, taking the active form of folic acid can be a good start if you have the MTHFR mutation.) — Настя [#36]
+
 > "Такие симптомы часто воспринимаются как стресс или переутомление, что опасно: инсульт требует немедленной медицинской помощи." (Such symptoms are often taken for stress or overwork, which is dangerous: a stroke requires immediate medical help.) — forwarded post [#767]
 
 ### Caveats, disagreements and open questions
 
 - The author says she is not a specialist: she collects and structures information and adds her own experience. Treat the self-help map and the condition descriptions as that, not as medical advice [#509].
 - (!) UNCLEAR: the autism comorbidity card gives no sources, sample populations or definitions. For example, it does not say which population the "57% higher diabetes risk" is compared with [#64].
-- (!) UNCLEAR: the "44% of the planet's population" MTHFR figure has no source. The post does not say which variant it means, and the condition links are hedged as "связывают" (are linked) [#36].
-- (!) INCOMPLETE: the MTHFR article and the posts linked from #779 (connective-tissue disease, MCAS symptoms, POTS symptoms) were not provided [#36, #779].
+- (!) UNCLEAR: the "44% of the planet's population" MTHFR figure has no source. Neither the post nor the article says which variant it means, and the condition links are hedged as "связывают" (are linked) [#36, article #36].
+- (!) UNCLEAR: the article cites no studies for its mechanism (catecholamine build-up causing anxiety and sleeplessness) or for the claimed benefits of methylated B vitamins, methionine and DIM, and gives no doses. It hedges itself: "это не панацея" and always consult specialists first [#36].
+- (!) UNCLEAR: the article lists serotonin among catecholamines and says food folic acid "как же как и фолат" (just like folate) is not the active form; these are reproduced as written [#36].
+- (!) INCOMPLETE: the posts linked from #779 (connective-tissue disease, MCAS symptoms, POTS symptoms) are not part of this topic [#779].
 - (!) INCOMPLETE: the self-help map has no instructions, doses or priorities. It shows directions only [#509].
 - The stroke post was forwarded from another channel. #768–#770 are its image cards and repeat the case texts. The card for Emilia Clarke leaves out the years (2011 and 2013) and the aneurysm detail that the post text gives [#767, img #768, img #769, img #770].
 
@@ -179,6 +217,10 @@ Every link and file shared in this topic's posts. Resources can be used directly
 
 - ★ Генетическая мутация MTHFR (The MTHFR gene mutation) (article) — The channel's own plain-language telegra.ph article on MTHFR, related conditions and what can be done; offered to readers. [#36] → <https://telegra.ph/Geneticheskaya-mutaciya-MTHFR-02-16>
 - SameYou — charity for rehabilitation after stroke and brain injury (website) — Website of the foundation founded by an actress after her own brain surgery; mentioned in a list of famous people who survived stroke or brain injury. [#767] → <https://www.sameyou.org/>
+
+#### External links
+
+- Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#36] → <https://t.me/neurospicyru>
 
 
 ## Ehlers-Danlos syndrome and hypermobility
@@ -485,225 +527,4 @@ Every link and file shared in this topic's posts. Resources can be used directly
 
 - Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#204] → <https://t.me/neurospicyru>
 - АНО «Не просто усталость» (Not Just Fatigue) — Telegram channel (channel) — Patient organisation whose channel made the Russian translation of the hEDS diagnostic criteria; credited in the post. [#376] → <https://t.me/neprosto_ustalost>
-
-
-## Mast cell activation syndrome (MCAS)
-
-### What this covers
-
-This topic gathers everything the channel Нейропряность posted about mast cells and mast cell activation syndrome (MCAS; in Russian САТК, «синдром активации тучных клеток»): what mast cells are and how they degranulate, how normal defensive activation turns into a self-sustaining pathological cycle, the very wide range of symptoms across body systems, the factors that contribute to it (infections, chronic stress, PTSD/cPTSD, early and medical trauma, genetics, hidden infections, toxic load, autoimmunity), and its connections to neurodivergence, hypermobile Ehlers-Danlos syndrome, POTS, IBS, PMDD and Alzheimer's disease. It also covers treatment options discussed in the channel — antihistamines, quercetin, anti-inflammatory diet, stress and nervous-system regulation, low-dose naltrexone (LDN) and benzodiazepines — with study data and the author's personal LDN story. [#39, #291, #318, #353, #689, #690, #827]
-
-According to the source, it matters because MCAS is more common than assumed, is frequently misread as "psychosomatic", is highly comorbid with neurodivergence, and substantially lowers quality of life; the author's stated goal is to spread information about MCAS and stress the importance of correct diagnosis and treatment «для улучшения качества жизни» (to improve quality of life) and to prevent repeated activations of mast cells. [#39, #291]
-
-### Core ideas
-
-- Mast cells are the body's first responders. They are innate-immune cells living in connective tissue all over the body; when activated they release stored mediators (histamine, cytokines, prostaglandins, proteases, heparin). Detail in *Mast cell activation cycle*. [#291, #695]
-- MCAS is defence that has gone out of control. A trigger makes the protective response pathological: mediators are released abnormally and excessively, harmless stimuli are treated as dangers, and the state can become chronic and self-sustaining. [#291]
-- Because mast cells are everywhere, MCAS is systemic. Symptoms range from anxiety, depression, brain fog and migraine to skin, gut, heart, reproductive and blood symptoms; see *MCAS symptom map by body system*. [#39, #291, #353]
-- Stress and trauma are triggers, not just allergens. Stress releases CRH, which activates mast cells; trauma reshapes the HPA axis and autonomic nervous system, which in turn shape mast cell behaviour. See *Trauma and MCAS model*. [#318, #689]
-- Histamine may drive PMDD. Elevated luteal-phase histamine is presented as a contributor to PMDD's mood, pain and cognitive symptoms; see *Histamine–PMDD mechanism model*. [#91, #92, #93, #94]
-- Chronic stress + mast cells may feed Alzheimer's pathology via neuroinflammation and beta-amyloid build-up — a risk, not a destiny. See the *vicious circle* framework. [#318]
-- Mast-cell-targeted therapies help neuropsychiatric symptoms. In a 553-patient survey, antihistamines, LDN and benzodiazepines were rated most helpful; see *Neuropsychiatric symptoms and treatment effectiveness*. [#690]
-
-### Frameworks, models and step-by-step methods
-
-#### Mast cell activation cycle (normal vs pathological activation)
-Purpose: to understand what mast cells normally do and what goes wrong in MCAS. [#291]
-
-1. Where mast cells are. Mast cells («тучные клетки») are a special type of cell of the innate immune system. They are present in the connective tissues of the whole body, especially in tissues of organs close to the external environment: the lungs, the gastrointestinal tract and the skin. The #695 post adds that they are a special kind of white blood cell living in connective tissue, with a key role in immune defence and allergic reactions; #39 notes that connective tissue is found practically everywhere in the body, which is why excess activation shows up in so many different ways. [#291, #695, #39]
-2. Their normal functions. They act as the first line of defence against pathogens and other potentially dangerous substances, and thanks to their wide distribution can react quickly to various irritants and initiate an immune response. They take part in: (a) protecting the body from pathogens; (b) allergic reactions; (c) inflammatory processes; (d) wound healing. [#291]
-3. Activation and degranulation. On activation mast cells release mediators — histamine, cytokines and prostaglandins — that regulate immune and inflammatory responses. #695 describes the process: on meeting an allergen the cell activates and starts degranulation (дегрануляция), the release of stored chemicals including histamine and heparin; these mediators are what cause redness, itching and swelling. Timelapse microframes (a video shared in #695, not transcribed) show the cell literally "exploding" its contents into the surrounding tissue. [#291, #695]
-4. Normal ending. In a healthy body the activation cycle ends once the "danger" has passed. [#291]
-5. Pathological activation = MCAS. MCAS is pathological activation of mast cells, characterised by abnormal and excessive release of mediators. It happens when the normal protective response gets out of control due to a particular trigger. As a result the immune system mistakenly perceives even harmless stimuli as dangerous and launches a protective reaction where normally none would happen. [#291]
-6. Chronicity. The condition can become chronic and turn into a self-sustaining cycle. [#291]
-
-#### MCAS contributing factors list
-The #291 article lists factors that contribute to developing MCAS (six items): [#291]
-1. Strong blows to the immune system (viral infections).
-2. Chronic stress / PTSD / cPTSD.
-3. Genetic factors.
-4. Hidden chronic infections.
-5. Toxic load.
-6. Autoimmune diseases.
-
-The earlier guide (#39) names everyday triggers explaining why MCAS is more common than we think: stress, herpes viruses, infections and toxic load. #689 widens the trigger list beyond allergens to hormones, infections, temperature changes and stress signals from the brain; the post stresses this list is not complete. [#39, #689]
-
-#### MCAS symptom map by body system (15 groups)
-Source: #353, "General symptoms of MCAS", based on a PMC review (PMC10672129). The post stresses there are many heterogeneous phenotypes that vary with where the mast cells are located, how many there are, and their ability to degranulate specific mediators. Symptoms can be constant or periodic and of varying severity. The full list as posted: [#353]
-
-1. Systemic: fatigue; subjective feeling of raised and/or lowered body temperature; sweating; appetite change; weight gain/loss; sensitivity to chemicals and physical factors; slow healing. [#353]
-2. Skin: urticaria (hives); itch; flushing; haemangiomas with itch/pain; various rashes; telangiectasias; stretch marks; skin papillomas (skin tags); folliculitis; ulcers; eczema; Quincke's oedema (angioedema); alopecia; onychodystrophy (nail dystrophy). [#353]
-3. Ophthalmological: irritation / "dryness" of the eyes; difficulty focusing; blepharospasm. [#353]
-4. Otological (ear/nose as grouped in the post): tinnitus; hearing loss; runny nose; rhinitis; nasal congestion; nosebleeds. [#353]
-5. Oropharyngeal: pain; burning; leukoplakia; ulcers; angioneurotic oedema; dysgeusia (taste disturbance); inflammation/destruction of teeth and/or periodontium. [#353]
-6. Lymphatic system: lymphadenopathy; rarely, splenomegaly. [#353]
-7. Respiratory system: dry cough; shortness of breath (difficulty taking a deep breath); wheezing; obstructive sleep apnoea. [#353]
-8. Cardiovascular system: pre-syncope (feeling faint); hypertension; labile blood pressure; palpitations; oedema; chest pain; Kounis syndrome (allergic angina). [#353]
-9. Gastrointestinal tract: dyspepsia; gastro-oesophageal reflux; abdominal pain; nausea; vomiting; diarrhoea and/or constipation; gastroparesis; Quincke's oedema; dysphagia (usually proximal); bloating (after meals or spontaneous); malabsorption. [#353]
-10. Genitourinary system: menorrhagia; pelvic pain; endometriosis; vulvodynia; vaginitis; dysmenorrhoea; miscarriages; infertility; dysuria. [#353]
-11. Musculoskeletal system: myalgias; migrating bone/joint pain; osteopenia/osteoporosis. [#353]
-12. Neurological: headache; migraine; sensory neuropathies; dysautonomia; episodic weakness; seizure disorders; non-epileptic seizures; cognitive dysfunction; insomnia; hypersomnia; restless legs syndrome. [#353]
-13. Psychiatric: depression; anger/irritability; mood lability; anxiety; panic; obsessive-compulsive disorders; attention deficit/hyperactivity syndrome (ADHD). [#353]
-14. Haematological: tendency to bruise; polycythaemia; anaemia. [#353]
-15. Immunological: hypersensitivity reactions; increased risk of malignant neoplasms and autoimmune diseases; impaired healing; increased susceptibility to infections. [#353]
-
-
-Shorter versions in other posts: the #291 article lists skin (itch, redness, rash, hives), gastrointestinal (nausea, abdominal pain, diarrhoea), respiratory (shortness of breath, nasal congestion), cardiovascular (rapid heartbeat, dizziness), neurological (headaches, "brain fog", memory problems) and musculoskeletal (joint and muscle pain) symptoms, noting «это не исчерпывающий список симптомов» (this is not an exhaustive list of symptoms). The #39 guide lists: anxiety; depression; "brain fog", memory and concentration problems; muscle and joint pain; migraine; chronic fatigue; heart problems; thyroid dysfunction; "…and many others". It adds that MCAS's effects extend to the whole body and can in particular worsen POTS (сПОТ), Ehlers-Danlos syndrome and IBS (СРК), conditions that are common in neurodivergent people, and that the symptoms point to a systemic, multifaceted syndrome that significantly affects quality of life. [#291, #39]
-
-#### Trauma and MCAS model (stress signals, HPA axis, autonomic nervous system)
-Source: #689, a translation of an Instagram post by @hyperresilient titled "Trauma can provoke mast cell activation syndrome". The model in six steps: [#689]
-1. Mast cells respond not only to allergens. Triggers can be hormones, infections, temperature swings and stress signals from the brain. Chronic stress and trauma make mast cells more sensitive over time. [#689]
-2. Stress and mast cells are connected. Stress makes the brain release CRH (corticotropin-releasing hormone). This activates mast cells, especially in the skin, gut and brain, causing release of histamine and inflammatory substances. [#689]
-3. Trauma can change the nervous system. Early trauma, PTSD or chronic stress can alter the HPA (hypothalamic–pituitary–adrenal) axis and the autonomic nervous system; both systems influence mast cell behaviour. [#689]
-4. Many people with MCAS report past trauma, including: childhood trauma; medical trauma; chronic stress; complex PTSD. These patterns are often seen both in research and in real life. Caveat from the post: this does not mean trauma is the only cause, but it can be part of the overall picture. [#689]
-5. That is why MCAS is often misunderstood. Symptoms can be triggered by "invisible" causes — emotions, memories or internal stress signals — not only allergens or external factors. [#689]
-6. MCAS is often complex; recovery may include calming the nervous system, supporting immune regulation, and working with trauma if it is part of one's history. [#689]
-
-#### Stress → CRH → mast cell → neuroinflammation → Alzheimer's vicious circle
-Source: #318, the author's post "Chronic stress, PTSD and mast cell activation: potential risk factors for Alzheimer's disease", continuing an earlier post on cPTSD vs PTSD and citing a review in *Frontiers in Cellular Neuroscience* (linked via PMC5733004). [#318]
-
-- Starting point (the review's claim): chronic stress can accelerate Alzheimer's disease (БА) pathogenesis in humans and animal models through increased inflammatory reactions, beta-amyloid accumulation, tau hyperphosphorylation, oxidative stress, mitochondrial dysfunction and disturbed glucose metabolism. [#318]
-- Step 1 — stress activates mast cells. Mast cells play an important role in the stress response: under stress, CRH is released and activates mast cells. [#318]
-- Step 2 — mediators damage the barrier. Activated mast cells release pro-inflammatory mediators including histamine, cytokines and proteases. These can disrupt the integrity of the blood–brain barrier and promote neuroinflammation. [#318]
-- Step 3 — mast cells start the cascade. Research quoted in the post says mast cells are the first cells to respond to brain injury because they can release pre-stored mediators — indicating a potential role in initiating the inflammatory cascade in brain trauma and stress. [#318]
-- Step 4 — the vicious circle. Chronic stress creates a loop: increased mast cell activation → more neuroinflammation → which may promote beta-amyloid accumulation and AD development. [#318]
-- Step 5 — microglia fail. Prolonged stress forms a closed cycle in which normal microglial function is disturbed. This lowers the brain's ability to clear harmful substances and increases beta-amyloid (Aβ) accumulation; inflammatory processes in nerve tissue intensify and neuron death speeds up. [#318]
-- Conclusion: mast cell activation in brain trauma, stress and PTSD may accelerate the pathogenesis of neuroinflammatory and neurodegenerative diseases including AD; stress management and regulation of mast cell activity could become new approaches to preventing and treating Alzheimer's. [#318]
-- Caveat and prevention: this does not mean everyone with chronic stress or PTSD/cPTSD will inevitably develop AD — AD depends on many factors including genetics, lifestyle and environment. But the risk exists, and awareness can motivate prevention: stress management, a healthy lifestyle, mast cell stabilisation and cognitive stimulation. The author closes: early prevention and timely treatment can significantly reduce risks and improve quality of life. [#318]
-
-#### Histamine–PMDD mechanism model
-Source: the carousel #88–#95, forwarded from the author's "Neurospicy_dushnila" channel, titled «ПМС или ПМДР?» (PMS or PMDD?). [#88]
-
-PMS vs PMDD distinction.
-- PMS (premenstrual syndrome) is fairly common; the card says 90% of women experience it «в период менструации» (in the period of menstruation). Typical symptoms: headaches; fatigue; bloating; irritability. [#89]
-- PMDD (premenstrual dysphoric disorder) is a serious mental condition in which women experience extreme mood swings and intense symptoms in the week before menstruation starts. Typical symptoms: sharp mood changes; depression; anxiety/tension; anger/rage. The card then asks what the cause might be. [#90]
-
-Histamine as a cause. Modern research, per the card, indicates that elevated histamine may significantly influence PMDD. Histamines are chemicals produced by the immune system in response to allergens, injuries or stress; they play roles in many body functions including regulation of sleep, digestion and mood. In people with PMDD histamine levels tend to be higher in the luteal phase preceding menstruation. [#91]
-
-Mechanisms (three bodily routes): [#92]
-1. Inflammatory reactions — histamine, being a pro-inflammatory mediator, can worsen PMDD symptoms such as pain, swelling and irritability.
-2. Effect on the hypothalamus — histamine can disturb the hypothalamus, the key regulator of the menstrual cycle, leading to hormonal imbalances.
-3. Muscle spasms — high histamine can cause spasms of the uterine smooth muscle, intensifying pain during menstruation.
-
-Brain route: histamines act as neurotransmitters in the brain, affecting mood, alertness and cognitive function. When histamine is elevated it can cause inflammation, especially in the brain; brain inflammation can disrupt neurotransmitter function and contribute to symptoms of depression and anxiety. Histamines can also influence other mood-regulating neurotransmitters such as serotonin and dopamine. [#93]
-
-PMDD symptoms caused by histamine: [#94]
-1. Anxiety and irritability — elevated histamine can increase anxiety and irritability during the luteal phase.
-2. Mood swings — fluctuating histamine can contribute to sudden mood changes in people with PMDD.
-3. Fatigue — histamine-induced brain inflammation can cause fatigue and lethargy.
-4. Cognitive symptoms — because of histamine's effect on neurotransmitters, "head fog", poor concentration and memory problems can occur.
-
-#### What to do about histamine-driven PMDD (4 measures)
-From the final card (#95), «Что делать?» (What to do?): [#95]
-1. Antihistamines may relieve some PMDD symptoms.
-2. Histamine-lowering supplements — supplements such as quercetin may help reduce histamine levels.
-3. Anti-inflammatory diet — avoid foods high in preservatives, alcohol and sugar; eat foods rich in omega-3 fatty acids and antioxidants.
-4. Stress management through mindfulness, physical exercise and relaxation techniques, plus stabilising the nervous system.
-
-Warning on the card (read from the image; the OCR captured only its end, «назначения любых добавок и препаратов»): always consult a doctor about prescribing any supplements and medications. [#95]
-
-#### Neuropsychiatric symptoms and treatment effectiveness in MCAS (553-patient survey)
-Source: #690, the channel's translation of an Instagram summary by @drtoddmaderis of a recently published study. [#690]
-
-- Aim: find out how often neuropsychiatric symptoms occur in people with MCAS and which treatments work best. It compared the frequency of neurological and psychiatric symptoms in more than 500 MCAS patients versus healthy people, and examined how therapies commonly used in MCAS — antihistamines, low-dose naltrexone (LDN) and benzodiazepines — affect these symptoms. [#690]
-- Method: researchers surveyed 553 MCAS patients and 558 controls with detailed questionnaires on (a) neurological symptoms — fatigue, clouded consciousness, migraines, neuropathy, fainting/pre-fainting, tinnitus, sensitivity to light/sound/smells, seizure states, insomnia, plus further unlisted items; (b) psychiatric symptoms — anxiety, depression, panic attacks, PTSD, OCD, mania/hypomania, psychosis/schizophrenia, hallucinations, plus further unlisted items. MCAS patients also rated how much specific therapies relieved these symptoms. [#690]
-- Findings — burden: neuropsychiatric symptom burden was significantly higher in MCAS patients than in controls. Leading neurological symptoms (over 70% of MCAS patients): fatigue; cognitive impairment; neuropathy; migraine-like headaches. Leading psychiatric symptoms (40–66%): anxiety; depression; panic attacks; PTSD. [#690]
-- Findings — treatments (patient ratings of relief, 0–10 scale): antihistamines 6.3; LDN 5.6; benzodiazepines 5.6. Neurological: LDN helped 29% with fatigue and cognitive impairment; benzodiazepines helped 51% with insomnia and 29% with restless legs syndrome. Psychiatric: benzodiazepines helped 70% with anxiety, 52% with panic attacks and 51% with agoraphobia; antihistamines and LDN were moderately effective for anxiety and depression. [#690]
-- Why it matters (per the summary): it is one of the largest studies to date on neuropsychiatric symptoms in MCAS; the data suggest mast cell dysregulation plays a key role in brain inflammation and psychiatric manifestations; standard psychiatric approaches may not account for the mast cell link; MCAS-targeted therapies, especially antihistamines, LDN and benzodiazepines, may significantly improve quality of life. The study underlines the importance of considering an MCAS diagnosis in patients with unexplained fatigue, cognitive impairment and treatment-resistant psychiatric symptoms. [#690]
-
-### Detailed insights
-
-#### Prevalence, recognition and diagnostic status
-- The #291 article opens with a common experience: coming to a doctor with many seemingly unrelated symptoms and complaints and hearing «Это всё психосоматика» ("It's all psychosomatic"). Such stories are often told by people diagnosed with MCAS. [#291]
-- The article states MCAS occurs in 17% of the world's population and can show up as chronic disturbances in different body systems. [#291]
-- MCAS is a relatively new diagnostic term: it appeared in the international ICD-10 edition only in 2016, under code D89.40. At the time of the post (November 2024) MCAS had not yet been officially introduced into clinical practice in Russia. [#291]
-- The #39 guide says MCAS is more common than we think because of various triggers met in everyday life. [#39]
-
-#### Comorbidity with neurodivergence and connective-tissue conditions
-- MCAS has high comorbidity with autism and with hypermobile Ehlers-Danlos syndrome, which is itself highly comorbid with neurodivergence (author's clarification in #318). [#318]
-- MCAS can worsen POTS, Ehlers-Danlos syndrome and IBS, which are common in neurodivergent people. [#39]
-- The #291 article lists, as topics for future posts, the influence of viruses on mast cell activation, MCAS comorbidity with connective tissue dysplasia, and how diagnosis of this difficult condition proceeds. (!) INCOMPLETE: those follow-up explanations are not part of this topic's messages. [#291]
-
-#### The author's MCAS guide (#39)
-The #39 post introduces a longer guide in which the author tried to collect what is currently known about MCAS. The guide promises to cover four sections: (1) what MCAS is; (2) how it affects the body; (3) the diagnostic process; (4) treatment approaches (medications, nutrition, supplements). (!) INCOMPLETE: the full guide is an external Teletype article that was not included in the source; only the teaser text (triggers, symptom list, linked conditions) is available here, so the diagnostic process and the medication/nutrition/supplement recommendations of the guide cannot be reproduced. [#39]
-
-#### Low-dose naltrexone for fibromyalgia and ME/CFS (#826)
-The author shared information for those interested in how effective low-dose naltrexone (LDN) is in fibromyalgia and ME/CFS (МЭСХУ), sourced from the Facebook group Fibromyalgia Support. The attached chart, "CureTogether — 104 Treatments for Fibromyalgia", plots patient-reported effectiveness (vertical axis, about −0.4 to 1.2) against popularity (horizontal axis, 0 to 1.0). Reading the image: [#826]
-- LDN sits alone at the top of the "Surprisingly effective" quadrant (top-left: high effectiveness, low popularity), at effectiveness of roughly 0.95 with popularity of about 0.2 — the highest-rated of the 104 treatments. Other items in that low-popularity, higher-effectiveness area include hydrotherapy, T3, gluten-free diet, qigong, Xyrem and marijuana. [#826]
-- Popular and fairly effective: rest (highest on the right, about 0.85), heating pad, sleep, hot shower/bath, reduce stress, massage, stretching, meditation, deep breathing, chiropractor, Vicodin, yoga, avoid alcohol, maintain hydration. [#826]
-- The "Popular but less helpful" quadrant (bottom-right) and the low band contain items such as limit caffeine, ibuprofen, acetaminophen, exercise, Aleve, ice, glucosamine, gabapentin, melatonin and vitamin D; several drugs sit near or below zero effectiveness: Lyrica, Elavil, Cymbalta, Wellbutrin XL, Prozac, Effexor XR, Savella, SAM-E, Xanax, Provigil. [#826]
-- Two further sources were linked: a Cort Johnson (Health Rising) article on LDN for fibromyalgia and chronic fatigue syndrome, and a PMC article (PMC8591911). Their contents were not provided. [#826]
-Numeric positions are approximate, read from the chart image.
-
-#### Personal case: LDN, MCAS and autoimmune thyroiditis (#827)
-The author takes LDN to stabilise mast cells because of her MCAS, and reports it also helped with her autoimmune thyroiditis (AIT). [#827]
-- 2024: an MRI of the neck showed "something wrong". Standard thyroid tests were normal, but P-TPO (thyroid antibodies) was 38 (upper limit 34), and ultrasound found AIT and a cyst, which was not biopsied (she says she fears such procedures and would probably have refused anyway). The endocrinologist told her simply to wait until the thyroid fails, since they were not going to treat it. [#827]
-- End of 2024: she finally obtained medication to stabilise MCAS — LDN was prescribed. She explained to doctors that she did not want to lose her thyroid and, since they could suggest nothing else, wanted to try a treatment suitable both for MCAS and for autoimmune problems. [#827]
-- October 2025: P-TPO had fallen to 28. Because the result was within the normal range, no repeat ultrasound was ordered, but she no longer feels such strong problems with the "lump" in her throat. [#827]
-- Her conclusion: she sees this as confirming her hypothesis that mast cell stabilisation can reduce thyroid inflammation, and was glad she secured the drug in Norway, as it at least paused the process of thyroid failure. This is a single personal case, not a study. [#827]
-
-### Tools and resources mentioned
-
-- Low-dose naltrexone (LDN) — used for mast cell stabilisation in MCAS; rated 5.6/10 by MCAS patients in the 553-patient survey; top of the CureTogether fibromyalgia chart; the author's personal verdict is positive (lowered thyroid antibodies, eased symptoms). [#690, #826, #827]
-- Antihistamines — highest patient rating (6.3/10) in the MCAS survey; moderately effective for anxiety and depression; suggested for histamine-driven PMDD. [#690, #95]
-- Benzodiazepines — rated 5.6/10; strongest reported help for anxiety, panic, agoraphobia and insomnia in the MCAS survey. [#690]
-- Quercetin — supplement cited as able to help lower histamine levels (PMDD carousel). [#95]
-- The author's MCAS guide (Teletype article «Синдром активации тучных клеток (САТК)») — the channel's compiled overview of MCAS: definition, body effects, diagnosis, treatment (medications, nutrition, supplements). [#39]
-- Review in Frontiers in Cellular Neuroscience (PMC5733004) — the basis of the stress/PTSD/mast cell/Alzheimer's post. [#318]
-- PMC review PMC10672129 — the source of the full MCAS symptom list; the post also points to the channel's article and a video about MCAS. [#353]
-- CureTogether "104 Treatments for Fibromyalgia" chart, a Cort Johnson article on LDN for fibromyalgia/CFS, and PMC8591911 — shared as evidence on LDN in fibromyalgia/ME-CFS. [#826]
-- Mast cell degranulation timelapse from the Telegram channel БиоТехнологии — visualises how a mast cell releases its contents. [#695]
-- «Астра» charity foundation — published the author's MCAS article. [#291]
-
-### Notable quotes
-
-> "Синдром активации тучных клеток встречается чаще, чем мы думаем" (Mast cell activation syndrome occurs more often than we think) — Анастасия [#39]
-
-> "В результате иммунная система ошибочно воспринимает даже безвредные раздражители как опасные" (As a result the immune system mistakenly perceives even harmless stimuli as dangerous) — Анастасия, «Астра» article [#291]
-
-> "Это состояние может перейти в хроническую форму и стать самоподдерживающимся циклом." (This condition can become chronic and turn into a self-sustaining cycle.) — Анастасия [#291]
-
-> "тучные клетки являются первыми реагирующими клетками при повреждении мозга, поскольку они могут высвобождать предварительно запасенные медиаторы." (mast cells are the first responding cells in brain injury because they can release pre-stored mediators) — research quoted by the author [#318]
-
-> "Это не значит, что травма — единственная причина, но она может быть частью общей картины." (This does not mean trauma is the only cause, but it can be part of the overall picture.) — @hyperresilient, translated by the channel [#689]
-
-> "Стандартные психиатрические подходы могут не учитывать связь с тучными клетками" (Standard psychiatric approaches may not account for the link with mast cells) — @drtoddmaderis summary [#690]
-
-> "стабилизация тучных клеток может уменьшить воспаление в щитовидке" (mast cell stabilisation can reduce inflammation in the thyroid) — Анастасия, on her own case [#827]
-
-### Caveats, disagreements and open questions
-
-- (!) INCOMPLETE: the full MCAS guide (#39) and the diagnostic-process material are in an external article not included; diagnostic criteria and the guide's diet/supplement protocol are not available. [#39]
-- (!) UNCLEAR: the PMDD carousel uses inconsistent abbreviations — ПМДР, «ПДМР» [sic] and «ПМР» [sic] — all apparently meaning PMDD; it also says PMS affects 90% of women «в период менструации» although PMS is premenstrual. The cards cite "modern research" without naming studies. [#89, #91]
-- The 17% prevalence figure (#291) is stated without a source in the post. [#291]
-- The 553-patient study's treatment results are patient self-ratings from questionnaires, relayed via an Instagram summary; the study itself is not named. Benzodiazepines appear among "effective" therapies; the source adds no caveats about them. [#690]
-- The Alzheimer's link is framed as a potential risk factor: the author explicitly says chronic stress or PTSD/cPTSD does not mean one will inevitably get AD. [#318]
-- Trauma is described as a possible contributor, not the only cause of MCAS. [#689]
-- The LDN–thyroid result is one personal case; no repeat ultrasound was done after the antibodies normalised. [#827]
-- Chart positions in #826 are approximate readings of a crowd-sourced (CureTogether) chart. [#826]
-- The PMDD card advises always consulting a doctor before taking any supplements or medications. [#95]
-
-### Resources and links
-
-Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
-
-#### Resources
-
-- ★ Cort Johnson (Health Rising) — Low dose naltrexone (LDN) for fibromyalgia and ME/CFS (article) — Article on how effective low-dose naltrexone is in fibromyalgia and ME/CFS; shared as information for those interested in LDN. [#826] → <http://www.cortjohnson.org/treating-chronic-fatigue-syndrome-mecfs/drugs-for-chronic-fatigue-syndrome-mecfs-treatment/low-dose-naltrexone-ldn-fibromyalgia-chronic-fatigue-syndrom/>
-- ★ Синдром активации тучных клеток (САТК) (Mast cell activation syndrome) (article) — The channel's own full article on MCAS: what it is, how to prevent repeated mast cell activation and improve quality of life; the author asks readers to spread it. [#39, #318] → <https://teletype.in/@neurospicyru/Sindrom-aktivacii-tuchnyh-kletok-02-21>
-- ★ PMC8591911 — article on low-dose naltrexone (study) — Scientific article on low-dose naltrexone passed on together with the Cort Johnson page (info from the Fibromyalgia Support group on Facebook). [#826] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC8591911/>
-- ★ Благотворительный фонд «Астра» (Astra charity foundation) website (website) — Website of a Russian charity foundation for patients with mast cell activation syndrome and related conditions, behind the MCAS video; offered to readers. [#291] → <https://bfastra.ru/>
-- PMC10672129 — review on mast cell activation syndrome (study) — Scientific source behind the channel's MCAS article and video, cited as the source. [#353] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC10672129/>
-- PMC5733004 — article linking chronic stress, PTSD, neuroinflammation and mast cells (study) — Scientific article cited for the link between chronic stress, PTSD, neuroinflammation and neurodegeneration, with mast cells as a key player. [#318] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC5733004/>
-
-#### External links
-
-- Astra foundation Telegram chat (bfastrachat) (channel) — Telegram community chat of the Astra foundation, where people with MCAS exchange experience; the post invites readers to join. [#291] → <https://t.me/bfastrachat>
-- Astra foundation YouTube channel (@bfastra) (channel) — YouTube channel of the Astra foundation hosting its MCAS videos; the post invites readers to follow. [#291] → <https://www.youtube.com/@bfastra/>
-- Boost link to vote for the Telegram channel Нейропряность (channel) — Telegram boost link to support the channel, placed in the navigation footer of posts; asks readers to boost it. [#353] → <https://t.me/boost/neurospicyru>
-- Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#291] → <https://t.me/neurospicyru>
-- БиоТехнологии (Biotechnology) — Telegram channel (channel) — Science-video channel whose time-lapse of a mast cell 'exploding' with its contents was reposted; credited as the source of the video. [#695] → <https://t.me/biotehno>
-- @drtoddmaderis (profile) [#690] → <https://www.instagram.com/p/DMiq4-Fi6UQ/?img_index=5&igsh=MXZncG1yMm8zMm03NA==>
-- @hyperresilient (profile) [#689] → <https://www.instagram.com/p/DMm1Rw-sUKU/?igsh=dmdvYWIwbTRkajVx>
-- VK (profile) [#291] → <https://vk.com/bfastra>
 

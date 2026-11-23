@@ -144,7 +144,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 ### Rest and recovery: vacations, year-end and weekends  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Rest & Burnout
 - File: `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/rest-recovery.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
 - Why the year-end "push through, then rest" crunch backfires, what fatigue is biologically, the 6 types of rest beyond sleep, how to design a vacation that actually restores (sandwich model rest-retreat-rest, dopamine fasting, the 4 stages of successful rest), how to make weekends work, and why "rest as a project" fails while letting go works.
-- Concepts: `rest-and-recovery`, `fatigue`, `digital-hygiene`, `energy-management`
+- Concepts: `rest-and-recovery`, `burnout`, `fatigue`, `energy-management`, `digital-hygiene`, `meditation-mindfulness`
 
 ### Supplements and recovery protocols  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Wellness Industry, Gadgets & Longevity
 - File: `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
@@ -154,7 +154,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 ### Sensory regulation, emotions and recovery for neurodivergent people  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Neurodiversity
 - File: `sources/tg-channels/human-machine/topics/autism-neurodiversity/sensory-regulation-emotions-recovery.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
 - What stimming is, what forms it takes in autistic people and what it does for them; the eight sensory channels (including interoception); how autistic adults experience, notice, express and regulate emotions, with survey data from Anastasia Zmievskaya's lecture; and the concrete sensory-based ways two practitioners use to relax (remove tension) and recover (refill what was spent).
-- Concepts: `sensory-processing`, `emotional-regulation`, `neurodiversity`, `stress-and-anxiety`, `rest-and-recovery`, `energy-management`
+- Concepts: `sensory-processing`, `emotional-regulation`, `meltdowns-shutdowns`, `stress-and-anxiety`, `rest-and-recovery`, `neurodiversity`
 
 ### Brain maintenance: waste clearance, mental fatigue and Alzheimer's links  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Neuroscience & Cognitive Science
 - File: `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
@@ -163,7 +163,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 
 ### Pacing and energy accounting  — *also relevant* · Нейропряность (`neyropryanost`) · primary area: Neurodiversity
 - File: `sources/tg-channels/neurospicy/topics/neurodivergent-burnout/pacing-energy-accounting.md` · channel skill: `sources/tg-channels/neurospicy/agent-kb/SKILL.md`
-- How the channel teaches neurodivergent people to manage limited energy during and after burnout — the causes of burnout and the boom-bust cycle, pacing and energy accounting (spoons, energy "checkbook", traffic-light calendar), a do-or-don't flowchart for activity versus rest, a daily health tracker for chronic pain, the Mankoski 0–10 pain scale, and a note on why exercise can make things worse.
+- How the channel teaches neurodivergent people to manage limited energy during and after burnout — energy accounting as a budget (spoons, battery, physical/social/cognitive energy, the five-step recovery method with the 20–40% reserve rule), the causes of burnout and the boom-bust cycle, pacing and energy accounting (spoons, energy "checkbook", traffic-light calendar), a do-or-don't flowchart for activity versus rest, a daily health tracker for chronic pain, the Mankoski 0–10 pain scale, and a note on why exercise can make things worse.
 - Concepts: `pacing`, `energy-management`, `autistic-burnout`, `self-tracking`, `chronic-pain`, `fatigue`
 
 ### POTS, dysautonomia, ME/CFS and post-COVID  — *also relevant* · Нейропряность (`neyropryanost`) · primary area: Chronic Illness & Disability
@@ -175,4 +175,14 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - File: `sources/tg-channels/neurodiv_psy/topics/masking-overload-burnout/neurodivergent-burnout-fatigue.md` · channel skill: `sources/tg-channels/neurodiv_psy/agent-kb/SKILL.md`
 - Why neurodivergent (especially autistic) people burn out and feel chronically tired, how to recognise neurodivergent burnout by its three indicators, and what helps or does not help, including the channel author's personal list of energy drains, unhelpful fixes and working strategies.
 - Concepts: `autistic-burnout`, `fatigue`, `energy-management`, `masking-camouflaging`, `sensory-processing`, `chronic-illness`
+
+### Autistic and ADHD burnout, fatigue and limited energy  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/overload-meltdowns-burnout/neurodivergent-burnout-fatigue.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- Why autistic and ADHD people tire faster (constant attention switching, sensory processing, social load), what autistic burnout is and how it differs from depression, the five-stage ADHD work-burnout cycle with the research the channel cites, the author's own experience of living on the edge of burnout, a five-step ChatGPT setup for offloading executive function during burnout, and the rule to plan by energy rather than by task count.
+- Concepts: `autistic-burnout`, `burnout`, `fatigue`, `energy-management`, `executive-function`, `large-language-models`
+
+### Autistic and ADHD burnout, boom-or-bust and pacing  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Neurodiversity
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/overload-demands-burnout/autistic-burnout-pacing.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- What autistic and ADHD burnout is (definition, causes, risk factors, symptoms, duration, recovery), how the boom-or-bust cycle works and who is vulnerable to it, three pacing systems for evening out energy (energy accounting, spoon theory, traffic light), why the 40-hour week is not a health norm, and the key findings of a 2025 survey of 1027 Russian-speaking autistic and ADHD people on work, burnout, quitting and returning to work.
+- Concepts: `autistic-burnout`, `pacing`, `energy-management`, `burnout`, `workplace-inclusion`
 

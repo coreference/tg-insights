@@ -27,6 +27,7 @@ Links to products and shops (including book store pages), courses and programmes
 
 - ★ **@your_real_strory — Telegram channel (co-author Rita)** (channel) — Partner channel with which the myth series on autism is run in two voices; recommended to follow. [msg #365] → <https://t.me/your_real_strory>
 - ★ **Olga Gorbacheva — psychotherapist's Telegram channel** (channel) — Channel of a psychotherapy practitioner working with neurodivergent people, co-author of the upcoming post series. [msg #727] → <https://t.me/gorbacheva_psy_tg>
+- **Автичные переводы (Telegram channel, Anna Green Moon)** (channel) — Telegram channel credited as the source/author of the article «Аутизм и справедливость», a text on why autistic people do not innately have a strong sense of justice. Shared as attribution to the translator/author. [msg #660] → <https://t.me/autichnieperevodii>
 
 ## Brain Research → [Brain connectivity and subtypes in autism](../topics/brain-research/autism-brain-connectivity.md)
 

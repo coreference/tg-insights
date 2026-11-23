@@ -1,0 +1,262 @@
+{
+ "channel": "This is too much",
+ "slug": "this-is-too-much",
+ "files": [
+  {
+   "file": "borderline-personality-disorder-1.md",
+   "domain": "Borderline personality disorder",
+   "domain_slug": "borderline-personality-disorder",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 1,
+   "parts": 3,
+   "title": "Borderline personality disorder (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "bpd-definition-causes-models",
+     "title": "BPD: definition, causes and explanatory models"
+    }
+   ],
+   "words": 4769
+  },
+  {
+   "file": "borderline-personality-disorder-2.md",
+   "domain": "Borderline personality disorder",
+   "domain_slug": "borderline-personality-disorder",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 2,
+   "parts": 3,
+   "title": "Borderline personality disorder (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "bpd-interpersonal-hypersensitivity",
+     "title": "BPD in relationships: rejection sensitivity, mentalization and loneliness"
+    }
+   ],
+   "words": 8229
+  },
+  {
+   "file": "borderline-personality-disorder-3.md",
+   "domain": "Borderline personality disorder",
+   "domain_slug": "borderline-personality-disorder",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 3,
+   "parts": 3,
+   "title": "Borderline personality disorder (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "bpd-self-image-emptiness",
+     "title": "Self-image, identity and emptiness in BPD"
+    },
+    {
+     "slug": "suicidal-thinking-self-harm",
+     "title": "Suicidal thinking and self-harm"
+    }
+   ],
+   "words": 9769
+  },
+  {
+   "file": "dbt-skills-1.md",
+   "domain": "DBT skills",
+   "domain_slug": "dbt-skills",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 2,
+   "title": "DBT skills (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "dbt-crisis-survival-skills",
+     "title": "Crisis survival skills: STOP, TIPP and distraction"
+    },
+    {
+     "slug": "dbt-mindfulness-skills",
+     "title": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing"
+    },
+    {
+     "slug": "radical-acceptance-validation",
+     "title": "Radical acceptance and validation"
+    }
+   ],
+   "words": 9993
+  },
+  {
+   "file": "dbt-skills-2.md",
+   "domain": "DBT skills",
+   "domain_slug": "dbt-skills",
+   "area": "Psychotherapy & Inner Work",
+   "part": 2,
+   "parts": 2,
+   "title": "DBT skills (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "emotional-vulnerability-self-care-basics",
+     "title": "Lowering emotional vulnerability: routines, food and boring basics"
+    }
+   ],
+   "words": 2839
+  },
+  {
+   "file": "trauma-ptsd-cptsd-1.md",
+   "domain": "Trauma, PTSD and complex PTSD",
+   "domain_slug": "trauma-ptsd-cptsd",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 1,
+   "parts": 3,
+   "title": "Trauma, PTSD and complex PTSD (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "ptsd-cptsd-recognition",
+     "title": "Recognizing PTSD and complex PTSD"
+    }
+   ],
+   "words": 7880
+  },
+  {
+   "file": "trauma-ptsd-cptsd-2.md",
+   "domain": "Trauma, PTSD and complex PTSD",
+   "domain_slug": "trauma-ptsd-cptsd",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 2,
+   "parts": 3,
+   "title": "Trauma, PTSD and complex PTSD (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "trauma-coping-ongoing-threat",
+     "title": "Coping with trauma, ongoing threat and post-traumatic growth"
+    },
+    {
+     "slug": "dissociation-depersonalization",
+     "title": "Dissociation, depersonalization and out-of-body experiences"
+    }
+   ],
+   "words": 9596
+  },
+  {
+   "file": "trauma-ptsd-cptsd-3.md",
+   "domain": "Trauma, PTSD and complex PTSD",
+   "domain_slug": "trauma-ptsd-cptsd",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 3,
+   "parts": 3,
+   "title": "Trauma, PTSD and complex PTSD (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "trauma-neurobiology-memory",
+     "title": "Neurobiology of trauma and trauma memory"
+    },
+    {
+     "slug": "religion-spiritual-traditions-trauma",
+     "title": "How religions and spiritual traditions made sense of trauma"
+    }
+   ],
+   "words": 6637
+  },
+  {
+   "file": "emotions-dysregulation-1.md",
+   "domain": "Emotions and emotional dysregulation",
+   "domain_slug": "emotions-dysregulation",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 2,
+   "title": "Emotions and emotional dysregulation (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "understanding-emotional-dysregulation",
+     "title": "Understanding emotions and emotional dysregulation"
+    }
+   ],
+   "words": 7889
+  },
+  {
+   "file": "emotions-dysregulation-2.md",
+   "domain": "Emotions and emotional dysregulation",
+   "domain_slug": "emotions-dysregulation",
+   "area": "Mind & Emotions",
+   "part": 2,
+   "parts": 2,
+   "title": "Emotions and emotional dysregulation (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "avoidance-rumination-exposure",
+     "title": "Avoidance, rumination, anxiety and exposure"
+    },
+    {
+     "slug": "self-criticism-people-pleasing",
+     "title": "Self-criticism, people-pleasing and social comparison"
+    }
+   ],
+   "words": 10756
+  },
+  {
+   "file": "diagnosis-mood-disorders-1.md",
+   "domain": "Diagnosis, comorbidity and mood disorders",
+   "domain_slug": "diagnosis-mood-disorders",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 1,
+   "parts": 2,
+   "title": "Diagnosis, comorbidity and mood disorders (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "differential-diagnosis-classification",
+     "title": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP"
+    },
+    {
+     "slug": "depression-seasonal-grief",
+     "title": "Depression, seasonal depression and grief"
+    }
+   ],
+   "words": 9473
+  },
+  {
+   "file": "diagnosis-mood-disorders-2.md",
+   "domain": "Diagnosis, comorbidity and mood disorders",
+   "domain_slug": "diagnosis-mood-disorders",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 2,
+   "parts": 2,
+   "title": "Diagnosis, comorbidity and mood disorders (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "bipolar-disorder-management",
+     "title": "Bipolar disorder: routines, caffeine and pregnancy"
+    },
+    {
+     "slug": "antisocial-personality-disorder",
+     "title": "Antisocial personality disorder: signs, myths and therapy"
+    }
+   ],
+   "words": 6923
+  },
+  {
+   "file": "trauma-and-sleep.md",
+   "domain": "Trauma and sleep",
+   "domain_slug": "trauma-and-sleep",
+   "area": "Sleep",
+   "part": 1,
+   "parts": 1,
+   "title": "Trauma and sleep",
+   "topics": [
+    {
+     "slug": "ptsd-nightmares-sleep",
+     "title": "PTSD nightmares and sleep disturbances"
+    }
+   ],
+   "words": 7743
+  },
+  {
+   "file": "motivation-procrastination.md",
+   "domain": "Motivation and procrastination",
+   "domain_slug": "motivation-procrastination",
+   "area": "Behavior Change & Coaching",
+   "part": 1,
+   "parts": 1,
+   "title": "Motivation and procrastination",
+   "topics": [
+    {
+     "slug": "procrastination-motivation-vacation",
+     "title": "Procrastination, motivation and the vacation brain"
+    }
+   ],
+   "words": 5038
+  }
+ ]
+}

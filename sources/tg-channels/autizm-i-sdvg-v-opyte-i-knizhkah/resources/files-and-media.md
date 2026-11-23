@@ -1,0 +1,112 @@
+# Files & media index
+
+All media referenced in the export with message context and relative path.
+
+## file  (4)
+- [msg #41] 2023-10-20 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/files/CAT-Q_русская версия.docx`
+- [msg #42] 2023-10-20 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/files/CAT-Q_русская версия.pdf` · text transcribed
+- [msg #140] 2024-07-17 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/files/CATQ.pdf` · text transcribed
+- [msg #247] 2025-11-07 · Anxiety, PTSD and OCD in autistic people · `raw-exports/ChatExport_2026-11-22 (2)/files/Шкала самонаблюдения при ОКР.xlsx`
+
+## photo  (93)
+- [msg #5] 2023-04-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_1@06-04-2023_10-39-55.jpg` · text transcribed
+- [msg #10] 2023-04-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_2@14-04-2023_12-59-50.jpg`
+- [msg #11] 2023-04-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_3@14-04-2023_12-59-50.jpg`
+- [msg #16] 2023-04-27 · Autism traits beyond the stereotypes: lesser-known features and aphantasia · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_4@27-04-2023_16-46-46.jpg` · text transcribed
+- [msg #17] 2023-05-12 · Meltdowns and shutdowns: triggers, differences and recovery · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_5@12-05-2023_18-22-00.jpg` · text transcribed
+- [msg #38] 2023-10-12 · Autism traits beyond the stereotypes: lesser-known features and aphantasia · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_6@12-10-2023_15-02-19.jpg` · text transcribed
+- [msg #45] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_7@30-10-2023_11-13-57.jpg` · text transcribed
+- [msg #56] 2024-01-27 · Sensory processing differences in autism: senses, profiles and theories · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_8@27-01-2024_11-02-02.jpg` · text transcribed
+- [msg #64] 2024-03-14 · Autistic communication, empathy and friendship · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_9@14-03-2024_10-38-48.jpg` · text transcribed
+- [msg #72] 2024-04-08 · Autistic communication, empathy and friendship · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_10@08-04-2024_08-02-05.jpg` · text transcribed
+- [msg #74] 2024-04-11 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_11@11-04-2024_08-03-13.jpg` · text transcribed
+- [msg #76] 2024-05-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_12@14-05-2024_08-02-01.jpg` · text transcribed
+- [msg #78] 2024-05-21 · Research on autism and ADHD: brain, genetics, diagnosis trends and reading · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_13@21-05-2024_13-13-26.jpg` · text transcribed
+- [msg #83] 2024-05-22 · AuDHD, differential diagnosis and self-report questionnaires · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_14@22-05-2024_10-03-18.jpg` · text transcribed
+- [msg #84] 2024-05-22 · AuDHD, differential diagnosis and self-report questionnaires · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_15@22-05-2024_10-03-18.jpg` · text transcribed
+- [msg #86] 2024-05-27 · Executive function, autistic inertia, time perception and object permanence · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_16@27-05-2024_07-00-30.jpg` · text transcribed
+- [msg #90] 2024-06-05 · AuDHD, differential diagnosis and self-report questionnaires · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_17@05-06-2024_18-02-25.jpg` · text transcribed
+- [msg #91] 2024-06-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_18@07-06-2024_07-02-18.jpg` · text transcribed
+- [msg #103] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_19@14-06-2024_12-08-09.jpg`
+- [msg #104] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_20@14-06-2024_12-08-09.jpg` · text transcribed
+- [msg #105] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_21@14-06-2024_12-08-09.jpg` · text transcribed
+- [msg #106] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_22@14-06-2024_12-08-09.jpg` · text transcribed
+- [msg #107] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_23@14-06-2024_12-08-09.jpg` · text transcribed
+- [msg #108] 2024-06-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_24@14-06-2024_12-08-09.jpg` · text transcribed
+- [msg #109] 2024-06-17 · Hyperfocus, special interests and monotropism · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_25@17-06-2024_07-02-07.jpg` · text transcribed
+- [msg #110] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_26@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #111] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_27@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #112] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_28@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #113] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_29@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #114] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_30@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #115] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_31@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #116] 2024-06-20 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_32@20-06-2024_07-20-25.jpg` · text transcribed
+- [msg #117] 2024-06-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_33@21-06-2024_11-00-36.jpg` · text transcribed
+- [msg #119] 2024-06-24 · Pathological demand avoidance (PDA) and the PANDA approach · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_34@24-06-2024_10-01-19.jpg` · text transcribed
+- [msg #120] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_35@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #121] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_36@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #122] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_37@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #123] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_38@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #124] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_39@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #125] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_40@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #126] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_41@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #127] 2024-06-26 · Distress tolerance and self-care skills for neurodivergent people · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_42@26-06-2024_18-02-36.jpg` · text transcribed
+- [msg #131] 2024-07-08 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_43@08-07-2024_16-00-43.jpg` · text transcribed
+- [msg #132] 2024-07-08 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_44@08-07-2024_16-00-43.jpg` · text transcribed
+- [msg #133] 2024-07-08 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_45@08-07-2024_16-00-43.jpg` · text transcribed
+- [msg #141] 2024-07-18 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_46@18-07-2024_08-00-35.jpg` · text transcribed
+- [msg #143] 2024-07-22 · Pathological demand avoidance (PDA) and the PANDA approach · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_47@22-07-2024_10-01-57.jpg` · text transcribed
+- [msg #145] 2024-07-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_48@26-07-2024_12-40-06.jpg` · text transcribed
+- [msg #146] 2024-08-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_49@30-08-2024_10-01-46.jpg`
+- [msg #147] 2024-09-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_50@05-09-2024_09-01-49.jpg` · text transcribed
+- [msg #152] 2024-09-12 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_51@12-09-2024_15-29-08.jpg` · text transcribed
+- [msg #165] 2024-10-03 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_52@03-10-2024_10-01-57.jpg` · text transcribed
+- [msg #174] 2024-11-04 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_53@04-11-2024_08-01-01.jpg` · text transcribed
+- [msg #177] 2024-11-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_54@13-11-2024_15-09-42.jpg` · text transcribed
+- [msg #181] 2024-11-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_55@30-11-2024_14-08-10.jpg` · text transcribed
+- [msg #189] 2024-12-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_56@13-12-2024_08-03-01.jpg` · text transcribed
+- [msg #196] 2025-02-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_57@17-02-2025_11-16-58.jpg` · text transcribed
+- [msg #207] 2025-03-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_58@28-03-2025_08-40-06.jpg`
+- [msg #209] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_59@08-04-2025_08-03-47.jpg` · text transcribed
+- [msg #210] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_60@08-04-2025_08-03-47.jpg` · text transcribed
+- [msg #211] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_61@08-04-2025_08-03-47.jpg` · text transcribed
+- [msg #212] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_62@08-04-2025_08-03-47.jpg` · text transcribed
+- [msg #213] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_63@08-04-2025_08-03-47.jpg` · text transcribed
+- [msg #218] 2025-05-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_64@23-05-2025_18-04-38.jpg` · text transcribed
+- [msg #219] 2025-05-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_65@27-05-2025_09-03-01.jpg` · text transcribed
+- [msg #223] 2025-07-15 · AuDHD, differential diagnosis and self-report questionnaires · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_66@15-07-2025_14-20-13.jpg` · text transcribed
+- [msg #224] 2025-07-21 · Executive function, autistic inertia, time perception and object permanence · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_67@21-07-2025_15-33-23.jpg` · text transcribed
+- [msg #225] 2025-07-23 · Sensory processing differences in autism: senses, profiles and theories · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_68@23-07-2025_15-31-06.jpg` · text transcribed
+- [msg #230] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_69@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #231] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_70@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #232] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_71@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #233] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_72@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #234] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_73@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #235] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_74@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #236] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_75@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #237] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_76@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #238] 2025-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_77@16-09-2025_11-04-00.jpg` · text transcribed
+- [msg #246] 2025-11-04 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_78@04-11-2025_16-02-30.jpg`
+- [msg #250] 2025-11-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_79@14-11-2025_09-03-30.jpg` · text transcribed
+- [msg #251] 2025-11-24 · Masking and camouflaging: forms, costs and measurement · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_80@24-11-2025_09-47-04.jpg`
+- [msg #253] 2026-01-13 · Sensory processing differences in autism: senses, profiles and theories · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_81@13-01-2026_14-05-37.jpg` · text transcribed
+- [msg #259] 2026-04-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_82@07-04-2026_10-55-04.jpg` · text transcribed
+- [msg #267] 2026-09-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_83@16-09-2026_09-33-40.jpg` · text transcribed
+- [msg #268] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_84@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #269] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_85@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #270] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_86@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #271] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_87@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #272] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_88@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #273] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_89@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #274] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_90@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #275] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_91@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #276] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_92@18-09-2026_09-00-26.jpg` · text transcribed
+- [msg #277] 2026-09-18 · Autistic and ADHD burnout, boom-or-bust and pacing · `raw-exports/ChatExport_2026-11-22 (2)/photos/photo_93@18-09-2026_09-00-26.jpg` · text transcribed
+
+## video  (5)
+- [msg #95] 2024-06-11 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #139] 2024-07-15 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #150] 2024-09-09 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #187] 2024-12-09 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #201] 2025-03-19 · (unassigned) · `(not exported)` · *(not included in export)*
+

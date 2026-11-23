@@ -1,8 +1,8 @@
-# Trauma, Anxiety and Medical Gaslighting (part 1 of 2) — Нейропряность
+# Trauma, Anxiety and Medical Gaslighting (part 1 of 3) — Нейропряность
 
 Full knowledge extracted from the Telegram channel “Нейропряность” on the domain “Trauma, Anxiety and Medical Gaslighting”. Everything below comes only from the channel's own posts; opinions are attributed to their authors. Tags like [#123] are source message numbers. Original-language quotes are followed by an English translation in parentheses.
 
-Topics in this file: Complex trauma (C-PTSD) in neurodivergent lives; Medical gaslighting and medical trauma.
+Topics in this file: Complex trauma (C-PTSD) in neurodivergent lives.
 
 ## Complex trauma (C-PTSD) in neurodivergent lives
 
@@ -11,6 +11,12 @@ Topics in this file: Complex trauma (C-PTSD) in neurodivergent lives; Medical ga
 This topic gathers what the channel taught about complex post-traumatic stress disorder (C-PTSD): how it differs from single-event PTSD, what emotional flashbacks are, what trauma looks like in everyday behaviour (people-pleasing, hypervigilance, extreme independence, suppressed needs), and why it is so common among autistic, ADHD and gifted people, especially those diagnosed late. It also covers trauma-related memory loss, the way autistic children's pain goes unbelieved, why neurodivergent women are especially exposed to abuse and gaslighting (with a full practical guide to recognising and countering gaslighting), and a therapist's statement of what C-PTSD therapy aims at [#301, #305, #466, #528, #648, #650, #785, #787].
 
 According to the source, naming C-PTSD correctly matters because it shows that these patterns are trauma responses rather than character traits, and that you are not "overdoing it", not dramatising and not a failure [#648]. The channel adds that both PTSD and C-PTSD can substantially lower quality of life, so professional help is strongly advised when symptoms are noticed [#305].
+
+This part adds one forwarded post (from the channel «На спектре») and the long-read it links, "Аутизм и травматичный опыт" (Autism and traumatic experience) by Яна J, which states it is based on an Attwood & Garnett article on autism and PTSD. It explains what turns stress into trauma, what defines PTSD, how the brain stores traumatic memories (the dual representation model), and five reasons autistic people are more vulnerable to trauma and to PTSD [#217].
+
+Relation to the existing topic file. The existing file deals mainly with *complex* PTSD (C-PTSD), emotional flashbacks, late diagnosis and gaslighting. This part is about PTSD in autistic people in general and adds a memory-and-neurobiology mechanism that the existing file lacks. It *extends* the existing PTSD symptom list (flashbacks, hypervigilance, avoidance) with a fourth element, marked mood swings, and frames the symptoms as "persistent". It *supports* the existing material on unrecognised pain (#466) and the "neurocomplex childhood" list (#528) by arguing that the range of events that can traumatise autistic people is wider than standard criteria allow. It does not use the term C-PTSD and does not deal with repeated-versus-single trauma beyond saying that PTSD risk grows with each new trauma [#217].
+
+According to the article, understanding these neurocognitive differences matters most because it widens the concept of trauma to include sensory and social experiences that "многие нейротипичные люди никогда в принципе не воспримут как травматические" (many neurotypical people would never in principle perceive as traumatic) [#217].
 
 ### Core ideas
 
@@ -21,6 +27,12 @@ According to the source, naming C-PTSD correctly matters because it shows that t
 - Trauma can erase memory, and this is protection, not lying. Forgetting dates, events or whole years can be how the mind coped with unbearable pain (see *Eight principles for treating people whose memory was damaged by trauma*) [#650].
 - Neurodivergent women face double vulnerability to abuse. Gaslighting, which destroys trust in one's own perception, can prepare the ground for harsher violence (see the gaslighting frameworks) [#785].
 - C-PTSD therapy aims at quality of life, not productivity. This is a therapist's reframe quoted by the author [#787].
+
+- Trauma means pain that is more than you can cope with. Distress becomes trauma when the intensity of the painful experience substantially exceeds the person's ability to cope with it [#217].
+- The same event affects different people very differently. The impact depends on the person's sensory sensitivity and communication style. This is why autistic people can be traumatised by events others shrug off [#217].
+- Trauma is common, but most of it does not become PTSD. PTSD is a specific psychiatric condition. Risk rises with each new trauma, especially with interpersonal trauma [#217].
+- Where a memory is stored decides whether it heals. Memories integrated into a verbal narrative (BAM) support recovery. Memories stuck in sensory-emotional memory (SAM) drive PTSD symptoms. Autistic sensory and working-memory differences push memories toward SAM (see *Dual representation model*) [#217].
+- Autistic vulnerability to PTSD has several causes at once: memory, a wider pool of traumatic events, emotional-processing neurology, stress hormones, and sensory/social processing (see *Five factors*) [#217].
 
 ### Frameworks, models and step-by-step methods
 
@@ -201,6 +213,36 @@ Safety disclaimer from the guide: do not set boundaries harshly if you are in a 
 5. Take distance, physical and emotional. If possible, take a pause, leave the room and regulate your state. Gaslighting intensifies in long dialogues [#785].
 6. Seek support and help. Talking with someone you trust helps restore clarity and the sense that you have not gone mad [#785].
 
+#### Stress, trauma and PTSD: definitions
+1. Distress. When we go through a painful experience or strong emotional pain, it knocks the psyche off balance and we fall into a state of distress [#217].
+2. Trauma. Often the intensity of an overly painful experience greatly exceeds our ability to cope with it; "именно в таком случае мы говорим не просто о стрессе, а о травме" (it is precisely in that case that we speak not just of stress but of trauma). Painful experiences range widely, from interpersonal conflicts to life-threatening situations [#217].
+3. PTSD. Traumatic experience is not rare, but far from every trauma leads to PTSD. PTSD is a specific psychiatric condition marked by persistent symptoms. The article lists four:
+   1. Intrusive memories of the trauma (for example, nightmares).
+   2. Active avoidance of any reminders of it.
+   3. Marked mood swings.
+   4. Constant heightened tension of the nervous system [#217].
+4. What raises PTSD risk. The probability of PTSD grows with each new trauma. Interpersonal traumas such as physical violence or bullying raise it most, because their especially intimate and intrusive nature does severe psychological damage [#217].
+
+#### Dual representation model of traumatic memory (Brewin, 1996)
+Purpose: to explain PTSD through how the brain processes traumatic memories. The article says the model ("модель двойной системы") was developed in 1996 by Prof. Brewin. It holds that traumatic memories are encoded and stored through two different systems [#217]:
+1. BAM, verbally accessible memory («словесно доступная память»). It helps integrate the trauma memory into the person's current life ("здесь и сейчас", *here and now*). This helps build a coherent story (narrative) of the events and supports recovery from the traumatic experience without developing PTSD [#217].
+2. SAM, situationally accessible memory («ситуативно доступная память»). It processes the sensory and emotional aspects of the trauma. It often leads to vivid, involuntary memories known as flashbacks [#217].
+
+The key mechanism. When traumatic memories get stuck in SAM, PTSD symptoms become more likely: heightened anxiety, negative appraisals of what happened, and intrusive memories [#217].
+
+Application to autistic people.
+- Heightened sensory sensitivity can strengthen the sensory and emotional encoding of memories. This leads to flashbacks that are both more vivid and longer-lasting [#217].
+- Difficulties with working memory and social communication can make it even harder to integrate traumatic memories into a coherent experience. That complicates their processing and storage and gets in the way of recovery [#217].
+
+#### Five factors of autistic vulnerability to PTSD
+The article first explains why autistic people are more vulnerable to *trauma*. Difficulties in social communication and sensory processing raise that vulnerability considerably. For example, trouble interpreting social signals and interactions can lead to frequent misunderstandings, bullying and social isolation. These can count as traumatic events, and they happen to autistic people more often than to their neurotypical peers [#217]. It then gives five factors that make autistic people more vulnerable to *PTSD*:
+
+1. Memory problems. Working-memory problems often come with autism. They play a mediating role in the chain "traumatic experience >> PTSD symptom severity". They affect how traumatic memories are processed and later recalled, and they make it harder to encode context-rich, verbally accessible trauma memories (that is, BAM). Many autistic people also have a detailed, sensory-rich processing style. This amplifies the emotional and sensory parts of traumatic memories and can produce overly vivid, emotionally charged memories. These are set off "по щелчку пальца" (at the snap of a finger) by surrounding stimuli, making flashbacks and intrusive thoughts more likely [#217].
+2. A wider range of potentially traumatic events. For autistic people the "pool" of life events that can be experienced as traumatic is much wider. These events often fall outside what the DSM-5 criteria count as traumatic. Even events that do not meet the DSM definition of trauma can cause PTSD symptoms in autistic people. Because autistic people tend to experience various adverse events as traumatic, the article says screening and intervention methods need to be specially adapted for the autistic population [#217].
+3. Different neurology of emotional processing. Changes in key neural circuits, especially the amygdala and the prefrontal cortex, play a central role in regulating emotions and perceiving fear. In autistic people the amygdala may be more active, which strengthens their reactions to stress and traumatic events. The prefrontal cortex helps control the amygdala and matters for managing emotions. It often works less efficiently in both PTSD and autism [#217].
+4. The role of hormones. Both PTSD and autism are linked to differences in how the hypothalamic-pituitary-adrenal (HPA) axis works. This axis is the basis of the body's stress-response system. In autistic people it may be activated chronically or inappropriately, producing atypical cortisol output that weakens the body's ability to cope with stress effectively. The article says these differences make stressful events feel more vivid and overwhelming, which raises the risk of PTSD after a trauma [#217].
+5. Differences in sensory and social processing. Neurobiological features of autism, such as heightened sensory sensitivity and different processing of social signals, complicate these interactions further. Autistic people perceive the world somewhat differently: sensory stimuli are excessive for them and social communication is too hard to interpret. This raises their vulnerability to traumatic experiences. Difficulty integrating personal experience into a coherent narrative can affect how trauma memories are processed and recalled, often leading to more vivid and distressing memories [#217].
+
 ### Detailed insights
 
 #### Unrecognised pain in autistic childhood as a source of trauma
@@ -254,6 +296,12 @@ The channel author shares a phrase from her psychotherapist that calmed her: "Т
 
 > "Терапия кПТСР не нацелена на то, чтобы сделать тебя работоспособной. Наша цель улучшить твое качество жизни" (C-PTSD therapy is not aimed at making you able to work. Our goal is to improve your quality of life.) — the author's psychotherapist [#787]
 
+> "одни и те же ситуации будут иметь кардинально разное воздействие на разных людей, в зависимости от сенсорной чувствительности человека и особенностей общения" (the same situations will have radically different effects on different people, depending on the person's sensory sensitivity and communication style) — Яна J [#217]
+
+> "Когда травматические воспоминания застревают в SAM, симптомы ПТСР … становятся более вероятными." (When traumatic memories get stuck in SAM, PTSD symptoms … become more likely.) — Яна J [#217]
+
+> "даже события, не подпадающие под определение травматических по DSM, могут вызывать симптомы ПТСР у аутичных людей" (even events that do not meet the DSM definition of traumatic can cause PTSD symptoms in autistic people) — Яна J [#217]
+
 ### Caveats, disagreements and open questions
 
 - (!) INCOMPLETE: the 16 reasons in Lindsey Mackereth's list are only in the linked article, not in the message [#528].
@@ -264,6 +312,11 @@ The channel author shares a phrase from her psychotherapist that calmed her: "Т
 - #305 stresses that both PTSD and C-PTSD warrant professional help; the channel's descriptions are not a diagnosis [#305].
 - The PDF transcription is broken into fragments at line ends; the content above is reconstructed from it without additions [#785].
 
+- The article's neurobiological claims (amygdala activity, prefrontal efficiency, HPA axis, cortisol) are hedged in the source ("может быть", *may be*; "часто", *often*). No individual studies are cited apart from Brewin's 1996 model and the English original the article is based on [#217].
+- (!) UNCLEAR: the article says the HPA axis "may" be activated chronically "or" inappropriately in autistic people, but does not say which applies when, or how this was measured [#217].
+- The article covers PTSD, not C-PTSD. It mentions that risk grows with repeated and interpersonal trauma but does not link this to the C-PTSD concept in the existing topic file. It also describes SAM flashbacks as *vivid* sensory-emotional memories, whereas the existing file (#305, #648) describes C-PTSD emotional flashbacks that can come *without* clear images. The two descriptions concern different phenomena and are not stated as contradictory by the source [#217].
+- The article says autism-adapted screening and intervention methods are needed but does not describe any [#217].
+
 ### Resources and links
 
 Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
@@ -271,7 +324,9 @@ Every link and file shared in this topic's posts. Resources can be used directly
 #### Resources
 
 - ★ 16 дней активных действий против гендерного насилия — post 'How neurodivergent women can recognise gaslighting' (pure_cognitions_adhd) (article) — Original Telegram post by the partner channel Pure Cognitions ADHD with the campaign material on gaslighting and violence against neurodivergent women, which the post republishes; a practical guide. [#785] → <https://t.me/pure_cognitions_adhd/958>
+- ★ Attwood & Garnett Events — Autism and PTSD (article) — English original of the translated article on autism and trauma. [#217] → <https://attwoodandgarnettevents.com/autism-and-ptsd/>
 - ★ Lindsey Mackereth — checklist: why your neurocomplex childhood may have been traumatic (article) — Full list by therapist Lindsey Mackereth (MA, LPCC, LADC), written for gifted, autistic and ADHD adults and youth, to support the inner, possibly wounded neurodivergent child; the post translates it and links the full list. [#528] → <https://teletype.in/@neurospicyru/bUwylR5bjKE>
+- ★ Аутизм и травматичный опыт (Autism and traumatic experience) (article) — Telegra.ph article on how autistic people process trauma and why memories can be vivid and painful. [#217] → <https://telegra.ph/Autizm-i-travmatichnyj-opyt-09-21>
 - ★ Колесо чувств: Как распознать свои чувства (The feelings wheel: how to recognise your feelings) (article) — The channel's own article explaining the feelings wheel as a tool for naming emotions; also reused in the trauma topic. Offered to readers. [#305] → <https://teletype.in/@neurospicyru/S3yKDUWQTXi>
 - ★ Полный пост про к-ПТСР (Full post on C-PTSD) (article) — The channel's own full teletype article on complex PTSD in neurodivergent people, which the post summarises; offered to readers. [#301] → <https://teletype.in/@neurospicyru/z7PBEuARASH>
 - ★ Газлайтинг: как распознать и противостоять — практическое руководство для нейроотличных людей (PDF guide) (file) — Free guide with definition of gaslighting, typical signs with examples and ready answers, self-check questions, what to do and where to seek help. Issued by the channel with partners for the 16 Days campaign; the post asks to save and share it. [#785] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Газлайтинг_как_распознать_и_противостоять_ГМВ.pdf`
@@ -285,140 +340,4 @@ Every link and file shared in this topic's posts. Resources can be used directly
 
 - «Mental health center» — partner Telegram channel (channel) — Partner channel that publishes the next post of the 16-days campaign (on female genital mutilation); mentioned as a follow-up. [#785] → <https://t.me/mentalhealthcenter>
 - Neurotribe (profile) [#648] → <https://www.instagram.com/p/DLCwf8MsQXa/?img_index=1&igsh=MTdhbzZhZmIwd3hkdw==>
-
-
-## Medical gaslighting and medical trauma
-
-### What this covers
-
-This topic gathers what the channel taught about medical gaslighting and medical trauma: how being repeatedly dismissed by clinicians ("it's psychosomatic", "you invented it, it's actually anxiety", "go to a psychiatrist") produces genuine psychological trauma in people with hypermobile Ehlers-Danlos syndrome (hEDS), hypermobility spectrum disorder (HSD), functional neurological disorder (FND) and other invisible conditions. It covers the research the channel cites (an interview study naming "clinically associated traumatization", PTSD rates in hEDS), the channel author's first-person account of how years of gaslighting taught her to distrust her own body, an FND patient's explanation of why such patients appear "unpleasant", and a translated list of eleven ways autism collides with chronic illness. According to the source it matters because fear of doctors makes people ignore important symptoms and delay treatment, and because gaslighting leaves people believing they "made it all up" [#106, #378, #766, #780].
-
-### Core ideas
-
-- Dismissive care is itself a source of trauma. Repeated hostile or uninterested encounters accumulate into lost trust in healthcare and acute anxiety about seeking help; researchers call this "clinically associated traumatization" (see *Clinically associated traumatization*) [#106].
-- PTSD is markedly more common in EDS/HSD than in the general population, linked to physical injuries, severe medical experiences or both, and partly preventable (see *Evidence and numbers* and *What needs to change*) [#666].
-- Medical gaslighting teaches people to distrust their own bodies, feeding dissociation, interoception problems and worsening alexithymia [#378].
-- "Difficult" patients are broken and exhausted, not difficult by personality — the FND patient's argument (see *Why FND patients seem "unpleasant"*) [#766].
-- Autism and chronic illness pull in opposite directions on eleven dimensions, and the combination, reinforced by medical gaslighting, leads to traumatization (see *Autism vs chronic illness*) [#780].
-
-### Frameworks, models and step-by-step methods
-
-#### Clinically associated traumatization (three findings of the hEDS interview study)
-Purpose: a named model of how medical care becomes traumatic for hEDS patients. The forwarded post (from Neurospicy_dushnila, by Настя) describes a new study (pubmed 37426705) in which researchers conducted 26 in-depth interviews with patients with hypermobile EDS. The results showed a three-step chain [#106]:
-1. Hostility and lack of interest. Patients often meet hostility and disinterest from healthcare workers — the starting point of the chain [#106].
-2. Cumulative effect → loss of trust. It is not one bad visit: the accumulated effect of such encounters leads to loss of trust in the healthcare system as a whole [#106].
-3. Acute anxiety about seeking care. Patients develop acute anxiety at the very thought of having to seek medical help [#106].
-
-The phenomenon was named "клинически ассоциированная травматизация" (clinically associated traumatization). Why it matters, per the post: it worsens quality of life and can harm health, because fear of doctors can make people ignore important symptoms and postpone needed treatment. The post's conclusion: the study underlines the need to raise awareness of hEDS among medical workers and improve approaches to treating these patients — "Только так мы сможем разорвать порочный круг недоверия и страха" (Only this way can we break the vicious circle of distrust and fear) between patients and doctors; it calls for more understanding, empathetic and effective care for all patients regardless of diagnosis [#106].
-
-#### What needs to change — four measures against PTSD in EDS/HSD
-The Ehlers-Danlos Society infographic (translated by the channel, citing Halverson et al., 2023) states that PTSD in EDS and HSD is a reality and "в некоторых случаях это можно предотвратить" (in some cases it can be prevented). What is needed [#666, img #666]:
-1. Trauma-informed medical care [#666].
-2. Acknowledgement of the emotional consequences of misdiagnosis and of being ignored [#666].
-3. Earlier diagnosis and access to mental-health support [#666].
-4. Expanded physician education on EDS and HSD [#666].
-(!) INCOMPLETE: the source lists these measures without explaining how each should be implemented.
-
-#### Script of a helpful FND diagnosis conversation
-Purpose: what the FND patient-author (forwarded from an FND channel) says would have "helped a lot" instead of the silent page-flipping and referral to a psychiatrist. The proposed doctor's speech contains these components, each answering a gap the author experienced [#766]:
-1. A mechanism-based explanation of the diagnosis: "ФНР — это заболевание, при котором от стресса разрушаются функциональные связи между отделами мозга, и поэтому появляются проблемы с движением" (FND is a disease in which stress disrupts the functional connections between brain regions, and this is why movement problems appear). This replaces a diagnosis that sounds like "blah-blah-blah" [#766].
-2. A treatment recommendation with its reasons: psychotherapy and antidepressants, "because they reduce stress; because there are studies that for some people with FND this helps get rid of the movement problems; because nothing better has been devised". Giving the "why" is what keeps a psychiatric referral from sounding like "you are not sane" [#766].
-3. Honesty about disability status: disability cannot be obtained for this diagnosis "потому что это большое упущение нашего здравоохранения, а не пустяковая болезнь" (because this is a big omission of our healthcare system, not a trivial illness) — framing the gap as a system failure rather than a verdict on the patient's suffering [#766].
-4. Rehabilitation, with realism and contacts: rehabilitation may be useful, but very few specialists can work with this diagnosis — "Вот контакты:...." (Here are the contacts:....). The author stresses this because when she asked a neurologist to help her find a specialist, she usually got silence [#766].
-
-#### Autism vs chronic illness — eleven collisions
-A list by spooniesaga, translated by the channel, under the title "When autism and chronic illness collide". Each pair sets an autistic need against what chronic illness demands [#780]:
-1. Processing time vs fast decisions. Autism means needing more time to gather and process information and make decisions; chronic illness requires deciding quickly, reacting to sudden symptoms and talking to doctors, often with very limited information [#780].
-2. Predictability vs unpredictability. Autism brings a strong need for predictability, routines and schedules; with chronic illness it is impossible to plan, keep a stable regime, or predict how you will feel even an hour from now [#780].
-3. Communication difficulty vs self-advocacy demand. Autism involves difficulty communicating, explaining one's symptoms and defending one's needs; chronic illness requires communicating clearly and advocating for oneself in the hardest states, when one has the least strength [#780].
-4. Sensory sensitivity vs medical sensory load. Autism brings heightened sensitivity to sounds, smells, light, touch and textures; chronic illness forces tolerating intensified sensory difficulties for medical procedures — hospitals, devices, side effects, compression garments, which are rarely sensory-comfortable [#780].
-5. Recovery time vs endless admin. Autism requires a lot of time to recover in a calm environment; chronic illness brings endless administrative tasks — managing treatment, booking appointments, following instructions, prescriptions, insurance, and constant mental load [#780].
-6. Need for movement vs limited mobility. Autistic people need movement to manage emotions and support the nervous system; chronic illness brings mobility limits and severe energy shortage — the needed movement cannot be had without risking deterioration [#780].
-7. Masking cost vs double masking. Autism already costs much energy on "masking"; chronic illness leads to total exhaustion when one must mask both the autism and the illness at the same time [#780].
-8. Emotional regulation load vs added emotional burden. Autism already strains emotional regulation; chronic illness adds a constant sense of loss, irritation, fear for the future and of doctor visits [#780].
-9. Restricted food choice vs illness-driven food limits. Sensory sensitivity in autism strongly limits food choice; chronic illness adds nausea, pain, allergies, hypersensitivity, special dietary needs and unpredictable appetite — sometimes foods that are sensory-safe are not suitable symptom-wise [#780].
-10. Control and autonomy vs dependence. Autism means needing control and predictability over environment and schedule and the independence to do things according to one's nervous system's needs; chronic illness means a severe loss of independence and dependence on others and external circumstances that dictate what one can and cannot do [#780].
-11. Direct communication vs vagueness. Autism needs direct communication — honesty, clear instructions, lots of data; chronic illness brings vague answers, dismissal (обесценивание), contradictory medical opinions, and lack of clarity both accidental and deliberate [#780].
-
-All eleven pairs in the source are reproduced above [#780].
-
-Channel author's addition: she adds that autism is a predisposition to C-PTSD (кптср), and chronic illness is very often the reason "we" meet medical gaslighting, plus life in one's own limited body. Altogether this leads to traumatization, especially when people try for a long time to live as if they did not have these traits — a stance reinforced by medical gaslighting — thereby harming themselves without realizing the consequences, "а потом остаемся в этом теле..." (and then we remain in this body...) [#780].
-
-### Detailed insights
-
-#### How gaslighting erodes trust in the body — a first-person account
-The channel author (with a trigger warning) explains that she still gets strongly triggered by phrases such as "это все психосоматика" (it's all psychosomatics), "ты себе придумала, на самом деле это тревожность" (you made it up, it's actually anxiety) and "а ты знаешь что такое соматоформное расстройство?" (do you know what somatoform disorder is?). Notably, these phrases evoke a "fight" ("бей") response rather than "freeze" ("замри"), which she experiences as a sharp contrast, since she is usually in chronic disconnection from her body [#378].
-
-The trigger was a passage from a book about PTSD, which she quotes: many trauma survivors delay seeing a doctor or dentist or do not seek help at all until seriously ill or injured; they may fear physical contact or distrust doctors and nurses; the examination itself can be a trigger reminding of past trauma, or they may have been mocked when describing their condition. People with traumatic pasts often have many physical symptoms with no clear physical cause; someone may have told them their problems are "in their head" and psychological, which can make them doubt whether they can trust their body's signals. The passage is headed "Вам не нужно справляться со всем в одиночку - существует помощь" (You don't have to cope with everything alone — help exists) [#378].
-
-Her reaction: "то есть где-то существует помощь...в которой мне отказывали все эти годы...?" (so somewhere help exists... which I was denied all these years...?), followed by the bitter realization that years of medical gaslighting had taught her not to trust her body and herself. She could not sleep all night due to an emotional flashback. She felt in one moment how each such experience gradually distanced her from herself, contributing to dissociation, interoception problems and worsening alexithymia. She learned to distrust her feelings and body signals, ignore her needs and simply endure pain — and looking back, was horrified that by believing the doctors she had systematically traumatized herself without suspecting where it would lead [#378].
-
-She notes that writing the full story brought emotional flashbacks in an unusually intense and prolonged stream. Her broader claim: medical gaslighting is a relatively new term, and many people do not realize this is what is happening to them — or they feel the trauma but are afraid to say so, because few people truly understand the pain and its impact on life. She hopes her story helps others validate their experience of traumatization, since gaslighting often plants the thought that the person invented everything themselves. Her closing message: "Прошу вас, доверяйте себе" (Please, trust yourselves) [#378].
-
-#### Why FND patients seem "unpleasant" — the patient's side
-The FND patient-author answers the question "why are FND patients so unpleasant" from the inside [#766]:
-- The symptoms are frightening. Yesterday you were healthy; today you lie crying from pain and fear because your body cramps and shakes violently, or you can no longer walk, or you suddenly lose sensation in body parts. Whether you go to a doctor yourself or are hospitalized urgently, the outcome is the same: you feel terrible but all the tests are perfect [#766].
-- Most doctors don't know FND. Patients very rarely reach a doctor who knows what FND is and how to work with it on the first try, so the appointment looks like quiet flipping through test results, awkward silence and a recommendation to see a psychiatrist — which the patient hears as "you are not sane". The author says that even she, with experience of psychiatrists and psychoeducation, heard it that way; the issue is not psychiatric stigma but that "нет ничего очевидного в том, что ты жалуешься на руки, а тебя отправляют лечить голову" (there is nothing obvious about complaining about your hands and being sent to treat your head) [#766].
-- Doctor-shopping is survival, not whim. The patient leaves with no diagnosis that doesn't sound like "blah-blah-blah", no treatment, no recommendations about the movement problem. So they go to a "better" doctor, again and again — not out of joy but because living like this is impossible, so they choose to risk it [#766].
-- Exhaustion and defensiveness. You get tired of the illness and of doctors, lose trust in them, lose confidence that you are normal and can be helped, and start defending yourself before the doctor even speaks [#766].
-- No legitimizing "excuse". The illness took work and hobbies, but there is no disability status, treatment or understanding of the diagnosis; a wheelchair is at your own expense. Lack of support makes you feel you are either ill with "nonsense" or don't deserve help; the hundredth referral to a psychiatrist and psychotherapy sounds like mockery [#766].
-- Mental-health professionals often don't know FND either, and when the patient asks the neurologist for help finding a specialist, they usually get silence [#766].
-- Conclusion: "мы неприятно себя ведем не потому что у нас неприятная структура личности. А потому что мы сломлены и очень устали" (we behave unpleasantly not because we have an unpleasant personality structure, but because we are broken and very tired), with a plea to help patients feel they are not alone in this pain [#766].
-
-#### Why hypermobility is not "psychosomatic"
-The channel posted a video titled "Почему это не психосоматика?" (Why is it not psychosomatics?) with a reference to an earlier post listing all body systems involved (in hypermobility/EDS) [#508].
-(!) INCOMPLETE: the video was not available in the export and the list of involved systems is in another post, so the argument itself cannot be reproduced here [#508].
-
-
-#### Biological vulnerability to trauma in hypermobility
-Research cited in the Ehlers-Danlos Society material (Baeza-Velasco et al., 2011) indicates that people with hypermobility may be more prone to anxiety disorders and also more sensitive to bodily sensations such as temperature or pain, which can feel intense and cause stress; this heightened sensitivity may increase their vulnerability to trauma. The elevated PTSD rate may stem from physical injuries, severe medical experiences, or both (Halverson et al., 2023) [#666].
-
-### Evidence and numbers
-
-- Halverson et al., 2023 (PMID 37426705), adults with hypermobile EDS, as reported by the Ehlers-Danlos Society [#666]:
-  - 85% had a traumatic experience within the healthcare system.
-  - 33% had a PTSD diagnosis.
-  - 68% avoided mentioning their EDS diagnosis for fear of stigma and bias.
-  - 85% said they additionally avoided medical care altogether.
-- The same PMID (37426705) is the study described in the forwarded post as 26 in-depth interviews with hEDS patients (see *Clinically associated traumatization*) [#106, #666].
-- People with EDS and HSD face PTSD more often than the general population (Halverson et al., 2023) [#666].
-
-### Tools and resources mentioned
-
-- Halverson et al., 2023 (PubMed 37426705) — study of medical trauma and PTSD in hEDS; basis of the "clinically associated traumatization" concept and the statistics above [#106, #666].
-- Baeza-Velasco et al., 2011 (PMID 21373784) — study on anxiety and bodily sensitivity in hypermobility [#666].
-- The Ehlers-Danlos Society infographic "PTSD and hypermobility" (Instagram) — the source the channel translated [#666, img #666].
-- The channel author's full medical-gaslighting story on Teletype — her long personal account, which the post introduces [#378].
-- An unnamed book about PTSD — the passage on trauma survivors avoiding doctors that triggered the author's realization [#378].
-
-### Notable quotes
-
-> "клинически ассоциированная травматизация" (clinically associated traumatization) — forwarded post by Настя [#106]
-> "то есть где-то существует помощь...в которой мне отказывали все эти годы...?" (so somewhere help exists... which I was denied all these years...?) — channel author [#378]
-> "Прошу вас, доверяйте себе" (Please, trust yourselves) — channel author [#378]
-> "Все. Прием окончен. Есть вопросы? Да какие вопросы — тебе только что сказали, что ты неадекватен." (That's it. Appointment over. Any questions? What questions — you've just been told you're not sane.) — FND patient-author [#766]
-> "Сотая рекомендация обратиться к психиатру и сходить на психотерапию звучит как издевательство." (The hundredth recommendation to see a psychiatrist and go to psychotherapy sounds like mockery.) — FND patient-author [#766]
-> "ПТСР при СЭД и РСГ — это реальность" (PTSD in EDS and HSD is a reality) — The Ehlers-Danlos Society, translated [#666]
-
-### Caveats, disagreements and open questions
-
-- The FND explanation in the "helpful script" (stress disrupting functional connections between brain regions) is the patient-author's proposed wording of what a doctor could say, not a cited scientific definition [#766].
-- The claim that autism is a predisposition to C-PTSD is the channel author's own addition, without a cited source [#780].
-- The hypermobility-anxiety-sensitivity link is hedged in the source ("могут быть более склонны" — *may be more prone*) [#666].
-- (!) UNCLEAR: whether the 85% "had a traumatic experience in healthcare" and the 85% "additionally avoided medical care" are distinct measures or the same figure is not clarified [#666].
-- (!) INCOMPLETE: the video in #508 and the linked list of involved body systems were not available [#508].
-- The autism/chronic-illness list is attributed to spooniesaga and only translated by the channel [#780].
-
-### Resources and links
-
-Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
-
-#### Resources
-
-- ★ История пациента о медицинском газлайтинге (patient story, teletype) (article) — The channel's own article with a full story of medical gaslighting and traumatisation, offering validation to readers who doubt their own experience. [#378] → <https://teletype.in/@neurospicyru/3Ab5tN8KNYl>
-- PubMed 37426705 — study on negative healthcare encounters and trauma in hypermobile Ehlers-Danlos syndrome (study) — Study cited in the post showing that repeated negative encounters with doctors can cause serious psychological harm in people with hEDS. [#106] → <https://pubmed.ncbi.nlm.nih.gov/37426705/>
-
-#### External links
-
-- The Ehlers-Danlos Society (profile) [#666] → <https://www.instagram.com/p/DLZfVpuNS_S/?img_index=3&igsh=MWd3dWhobGRlams2OA==>
 

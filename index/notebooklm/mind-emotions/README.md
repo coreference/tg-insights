@@ -1,6 +1,6 @@
 # NotebookLM set — Mind & Emotions
 
-All NotebookLM study files on “Mind & Emotions” from 4 channel(s): (нейро)разнообразная психология, deep mind 2.0, На балансе с Катей Стрельниковой, Нейропряность. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
+All NotebookLM study files on “Mind & Emotions” from 7 channel(s): (нейро)разнообразная психология, This is too much, deep mind 2.0, Аутизм и СДВГ в опыте и книжках, На балансе с Катей Стрельниковой, Нейропряность, Читаю мысли. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
 
 - `na-balanse--mind-1.md` — На балансе с Катей Стрельниковой · **Mind & Emotions (part 1 of 3)** (~7,241 words): Emotions as energy; Meditation and mindfulness
 - `na-balanse--mind-2.md` — На балансе с Катей Стрельниковой · **Mind & Emotions (part 2 of 3)** (~10,231 words): Inner work: self-worth, shame, parts
@@ -15,6 +15,11 @@ All NotebookLM study files on “Mind & Emotions” from 4 channel(s): (нейр
 - `deep-mind-2-0--emotions-personal-growth-5.md` — deep mind 2.0 · **Emotions, Ego & Personal Growth (part 5 of 7)** (~9,341 words): Relationships, family systems and parenting
 - `deep-mind-2-0--emotions-personal-growth-6.md` — deep mind 2.0 · **Emotions, Ego & Personal Growth (part 6 of 7)** (~11,059 words): Masculinity, gender and leadership; Community, belonging and loneliness; Willpower, self-control and habits: what the evidence says
 - `deep-mind-2-0--emotions-personal-growth-7.md` — deep mind 2.0 · **Emotions, Ego & Personal Growth (part 7 of 7)** (~3,467 words): Relating to the future: images of the future, future self and mature progress
-- `neyropryanost--trauma-anxiety-1.md` — Нейропряность · **Trauma, Anxiety and Medical Gaslighting (part 1 of 2)** (~8,744 words): Complex trauma (C-PTSD) in neurodivergent lives; Medical gaslighting and medical trauma
-- `neyropryanost--trauma-anxiety-2.md` — Нейропряность · **Trauma, Anxiety and Medical Gaslighting (part 2 of 2)** (~8,657 words): Anxiety and panic: CBT and body-based coping
+- `neyropryanost--trauma-anxiety-1.md` — Нейропряность · **Trauma, Anxiety and Medical Gaslighting (part 1 of 3)** (~7,304 words): Complex trauma (C-PTSD) in neurodivergent lives
+- `neyropryanost--trauma-anxiety-2.md` — Нейропряность · **Trauma, Anxiety and Medical Gaslighting (part 2 of 3)** (~8,957 words): Medical gaslighting and medical trauma
+- `neyropryanost--trauma-anxiety-3.md` — Нейропряность · **Trauma, Anxiety and Medical Gaslighting (part 3 of 3)** (~8,657 words): Anxiety and panic: CBT and body-based coping
 - `neurodiv-psy--emotional-self-support.md` — (нейро)разнообразная психология · **Emotional self-support** (~3,133 words): Self-compassion, comparison, shame and emotional literacy
+- `chitayu-mysli--anxiety-mood-coping.md` — Читаю мысли · **Anxiety, mood and coping** (~7,013 words): Anxiety, phobias, panic and OCD: exposure and self-observation; Coping with terror attacks and collective tragedy; Behavioral activation, movement and mindfulness for mood
+- `this-is-too-much--emotions-dysregulation-1.md` — This is too much · **Emotions and emotional dysregulation (part 1 of 2)** (~7,889 words): Understanding emotions and emotional dysregulation
+- `this-is-too-much--emotions-dysregulation-2.md` — This is too much · **Emotions and emotional dysregulation (part 2 of 2)** (~10,756 words): Avoidance, rumination, anxiety and exposure; Self-criticism, people-pleasing and social comparison
+- `autizm-i-sdvg-v-opyte-i-knizhkah--emotions-alexithymia.md` — Аутизм и СДВГ в опыте и книжках · **Emotions and alexithymia** (~4,401 words): Alexithymia and interoception in autism

@@ -144,6 +144,43 @@
    "aliases": []
   },
   {
+   "slug": "antisocial-personality-disorder",
+   "label": "Antisocial personality disorder (ASPD)",
+   "definition": "A personality disorder marked by persistent disregard for and violation of others' rights, impulsivity and lack of remorse, often confused with psychopathy and sociopathy.",
+   "en": [
+    "antisocial personality disorder",
+    "aspd",
+    "psychopathy",
+    "sociopathy"
+   ],
+   "ru": [
+    "антисоциальное расстройство личности",
+    "АРЛ",
+    "психопатия",
+    "социопатия"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "aphantasia",
+   "label": "Aphantasia",
+   "definition": "The inability or strongly reduced ability to voluntarily form mental images, existing on a spectrum of visual imagery.",
+   "en": [
+    "aphantasia",
+    "no mind's eye",
+    "mental imagery",
+    "visual imagination",
+    "vviq"
+   ],
+   "ru": [
+    "афантазия",
+    "отсутствие воображения",
+    "мысленные образы",
+    "визуальное воображение"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "attachment-theory",
    "label": "Attachment",
    "definition": "How attachment bonds form and how secure connection helps heal hurt and trauma.",
@@ -213,6 +250,24 @@
    "aliases": []
   },
   {
+   "slug": "behavioral-genetics",
+   "label": "Heritability and behavioral genetics",
+   "definition": "How much traits and conditions such as autism or happiness are inherited, as estimated from twin, family and genetic studies.",
+   "en": [
+    "heritability",
+    "twin studies",
+    "behavioral genetics",
+    "genetics of autism"
+   ],
+   "ru": [
+    "наследуемость",
+    "близнецовые исследования",
+    "генетика поведения",
+    "генетика аутизма"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "biohacking",
    "label": "Biohacking and recovery tech",
    "definition": "Biohacking, recovery technologies and wellness trends.",
@@ -249,6 +304,25 @@
    "aliases": []
   },
   {
+   "slug": "bipolar-disorder",
+   "label": "Bipolar disorder",
+   "definition": "A mood disorder with episodes of mania or hypomania and depression, managed with medication, routines and psychotherapy.",
+   "en": [
+    "bipolar disorder",
+    "bipolar",
+    "mania",
+    "hypomania",
+    "manic depression"
+   ],
+   "ru": [
+    "биполярное расстройство",
+    "БАР",
+    "мания",
+    "гипомания"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "body-image",
    "label": "Body image and body neutrality",
    "definition": "Relationship to one's body, appearance, weight and beauty standards.",
@@ -261,6 +335,44 @@
     "образ тела",
     "нейтральность к телу",
     "красота"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "borderline-personality-disorder",
+   "label": "Borderline personality disorder (BPD)",
+   "definition": "A personality disorder marked by instability of emotions, self-image and relationships, impulsivity and intense fear of abandonment.",
+   "en": [
+    "borderline personality disorder",
+    "bpd",
+    "borderline",
+    "emotionally unstable personality disorder"
+   ],
+   "ru": [
+    "пограничное расстройство личности",
+    "ПРЛ",
+    "эмоционально неустойчивое расстройство личности",
+    "пограничники"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "boredom",
+   "label": "Boredom",
+   "definition": "The unpleasant state of wanting but failing to engage with an activity, its types (agitated vs apathetic) and ways to cope with boring tasks.",
+   "en": [
+    "boredom",
+    "boring tasks",
+    "agitated boredom",
+    "apathetic boredom",
+    "boredom proneness"
+   ],
+   "ru": [
+    "скука",
+    "скучные задачи",
+    "ажитированная скука",
+    "апатичная скука",
+    "склонность к скуке"
    ],
    "aliases": []
   },
@@ -691,6 +803,24 @@
    "aliases": []
   },
   {
+   "slug": "dialectical-behavior-therapy",
+   "label": "Dialectical behavior therapy (DBT)",
+   "definition": "A skills-based therapy balancing acceptance and change, teaching mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness.",
+   "en": [
+    "dbt",
+    "dialectical behavior therapy",
+    "dbt skills",
+    "skills training"
+   ],
+   "ru": [
+    "ДБТ",
+    "диалектическая поведенческая терапия",
+    "навыки ДБТ",
+    "тренинг навыков"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "digital-hygiene",
    "label": "Digital hygiene",
    "definition": "Managing phone, messaging and information intake to protect attention and calm.",
@@ -713,6 +843,42 @@
    "aliases": [
     "information-overload"
    ]
+  },
+  {
+   "slug": "dissociation",
+   "label": "Dissociation",
+   "definition": "Disconnection from one's body, feelings, surroundings or memory, as in depersonalization, derealization and out-of-body experiences, often in response to overwhelming stress or trauma.",
+   "en": [
+    "dissociation",
+    "depersonalization",
+    "derealization",
+    "out-of-body experience"
+   ],
+   "ru": [
+    "диссоциация",
+    "деперсонализация",
+    "дереализация",
+    "выход из тела"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "distress-tolerance",
+   "label": "Distress tolerance and crisis skills",
+   "definition": "Skills for getting through acute emotional crises without making things worse, such as STOP, cold water, paced breathing and distraction.",
+   "en": [
+    "distress tolerance",
+    "crisis skills",
+    "stop skill",
+    "tipp skills"
+   ],
+   "ru": [
+    "толерантность к дистрессу",
+    "кризисные навыки",
+    "навык СТОП",
+    "переживание кризиса"
+   ],
+   "aliases": []
   },
   {
    "slug": "double-empathy",
@@ -841,6 +1007,24 @@
    "aliases": []
   },
   {
+   "slug": "emotional-avoidance",
+   "label": "Emotional and experiential avoidance",
+   "definition": "Attempts to escape or suppress unwanted emotions, thoughts and situations, which relieve short-term but maintain distress.",
+   "en": [
+    "emotional avoidance",
+    "experiential avoidance",
+    "suppression",
+    "escape behavior"
+   ],
+   "ru": [
+    "эмоциональное избегание",
+    "избегание",
+    "подавление эмоций",
+    "избегающее поведение"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "emotional-intelligence",
    "label": "Emotional intelligence",
    "definition": "Accepting, naming and working with emotions in practice.",
@@ -871,6 +1055,24 @@
     "регуляция эмоций",
     "нервная система",
     "когнитивная переоценка"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "emotional-validation",
+   "label": "Emotional validation",
+   "definition": "Communicating that another person's feelings and experience make sense, and the harm done by invalidation.",
+   "en": [
+    "validation",
+    "emotional validation",
+    "invalidation",
+    "levels of validation"
+   ],
+   "ru": [
+    "валидация",
+    "эмоциональная валидация",
+    "инвалидация",
+    "уровни валидации"
    ],
    "aliases": []
   },
@@ -1153,6 +1355,24 @@
    ]
   },
   {
+   "slug": "grief-and-loss",
+   "label": "Grief and loss",
+   "definition": "Emotional reactions to loss, the course of grief and prolonged grief disorder.",
+   "en": [
+    "grief",
+    "loss",
+    "stages of grief",
+    "prolonged grief"
+   ],
+   "ru": [
+    "горе",
+    "утрата",
+    "стадии горя",
+    "затяжное горе"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "group-polarization",
    "label": "Group polarization and echo chambers",
    "definition": "How group discussion and identity push opinions to extremes and create information bubbles.",
@@ -1235,6 +1455,24 @@
     "коучинг здоровья",
     "коучинг",
     "кейс клиента"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "health-policy",
+   "label": "Health policy and healthcare systems",
+   "definition": "How healthcare systems are organized, funded and regulated, and how this affects access and population health.",
+   "en": [
+    "health policy",
+    "healthcare system",
+    "insurance medicine",
+    "health spending"
+   ],
+   "ru": [
+    "политика здравоохранения",
+    "система здравоохранения",
+    "страховая медицина",
+    "расходы на здравоохранение"
    ],
    "aliases": []
   },
@@ -1564,6 +1802,24 @@
    "aliases": []
   },
   {
+   "slug": "mentalization",
+   "label": "Mentalization",
+   "definition": "The capacity to understand one's own and others' behavior in terms of mental states, and its impairment in conditions such as BPD.",
+   "en": [
+    "mentalization",
+    "mentalizing",
+    "mbt",
+    "hypermentalizing"
+   ],
+   "ru": [
+    "ментализация",
+    "ментализирование",
+    "MBT",
+    "гиперментализация"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "metabolic-health",
    "label": "Metabolic health",
    "definition": "Healthy glucose, insulin and mitochondrial function underlying steady energy.",
@@ -1706,6 +1962,24 @@
    "aliases": []
   },
   {
+   "slug": "nightmares",
+   "label": "Nightmares and trauma-related sleep problems",
+   "definition": "Distressing dreams, especially trauma-related nightmares, their mechanisms in REM sleep and treatments such as imagery rehearsal therapy.",
+   "en": [
+    "nightmares",
+    "trauma nightmares",
+    "imagery rehearsal therapy",
+    "fear of sleep"
+   ],
+   "ru": [
+    "кошмары",
+    "ночные кошмары",
+    "терапия репетиции образов",
+    "страх сна"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "nonviolent-communication",
    "label": "Nonviolent and clear communication",
    "definition": "Expressing needs, requests and refusals clearly and without aggression.",
@@ -1738,6 +2012,26 @@
     "мифы о питании",
     "клетчатка",
     "кальций"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "obsessive-compulsive-disorder",
+   "label": "OCD and body-focused repetitive behaviors",
+   "definition": "Obsessive-compulsive disorder and related repetitive behaviors such as hair pulling and skin picking, their recognition and treatment.",
+   "en": [
+    "ocd",
+    "obsessive-compulsive disorder",
+    "y-bocs",
+    "trichotillomania",
+    "skin picking"
+   ],
+   "ru": [
+    "ОКР",
+    "обсессивно-компульсивное расстройство",
+    "трихотилломания",
+    "дерматилломания",
+    "навязчивости"
    ],
    "aliases": []
   },
@@ -1850,6 +2144,42 @@
    "aliases": []
   },
   {
+   "slug": "post-traumatic-growth",
+   "label": "Post-traumatic growth",
+   "definition": "Positive psychological change that can follow a struggle with trauma, and the coping styles that foster it.",
+   "en": [
+    "post-traumatic growth",
+    "ptg",
+    "growth after trauma",
+    "adaptive coping"
+   ],
+   "ru": [
+    "посттравматический рост",
+    "ПТР",
+    "рост после травмы",
+    "адаптивное совладание"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "procrastination",
+   "label": "Procrastination",
+   "definition": "Delaying intended actions despite expected harm, understood through its emotional function and how to change it.",
+   "en": [
+    "procrastination",
+    "putting things off",
+    "intention-action gap",
+    "task avoidance"
+   ],
+   "ru": [
+    "прокрастинация",
+    "откладывание",
+    "разрыв между намерением и действием",
+    "избегание задач"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "productivity-culture-critique",
    "label": "Critique of productivity and achievement culture",
    "definition": "Critical view of hustle, achievism and productivity as self-worth.",
@@ -1884,6 +2214,28 @@
     "DSM-5",
     "поздний диагноз",
     "коморбидность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "psychiatric-medication",
+   "label": "Psychiatric medication",
+   "definition": "Use, effects, dosing and tapering of psychotropic drugs such as antidepressants and ADHD medications.",
+   "en": [
+    "psychiatric medication",
+    "antidepressants",
+    "adhd medication",
+    "stimulants",
+    "atomoxetine",
+    "tapering"
+   ],
+   "ru": [
+    "психофармакология",
+    "антидепрессанты",
+    "лекарства от СДВГ",
+    "стимуляторы",
+    "атомоксетин",
+    "отмена препаратов"
    ],
    "aliases": []
   },
@@ -1993,6 +2345,42 @@
    "aliases": []
   },
   {
+   "slug": "rumination",
+   "label": "Rumination and overthinking",
+   "definition": "Repetitive, cyclical thinking about problems, causes or fantasies that prolongs emotional pain instead of solving anything.",
+   "en": [
+    "rumination",
+    "overthinking",
+    "worry",
+    "maladaptive daydreaming"
+   ],
+   "ru": [
+    "руминации",
+    "мыслемешалка",
+    "прокручивание мыслей",
+    "навязчивые размышления"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "schema-therapy",
+   "label": "Schema therapy",
+   "definition": "An integrative therapy working with early maladaptive schemas and modes such as the punitive inner critic.",
+   "en": [
+    "schema therapy",
+    "schema modes",
+    "punitive critic",
+    "imagery rescripting"
+   ],
+   "ru": [
+    "схема-терапия",
+    "режимы схем",
+    "карающий критик",
+    "рескриптинг"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "scientific-thinking",
    "label": "Scientific thinking and evidence",
    "definition": "Evaluating claims, sources and replication, and how science builds reliable knowledge.",
@@ -2059,6 +2447,42 @@
     "сострадание к себе",
     "внутренний критик",
     "доброта к себе"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-esteem",
+   "label": "Self-esteem and self-worth",
+   "definition": "How a person evaluates their own worth, including low, unstable or contingent self-esteem and its causes.",
+   "en": [
+    "self-esteem",
+    "self-worth",
+    "low self-esteem",
+    "unstable self-esteem"
+   ],
+   "ru": [
+    "самооценка",
+    "низкая самооценка",
+    "нестабильная самооценка",
+    "самоценность"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "self-identity",
+   "label": "Sense of self and identity",
+   "definition": "The stable experience of who one is, and its disturbance as unstable identity, self-image and chronic emptiness.",
+   "en": [
+    "sense of self",
+    "identity disturbance",
+    "self-image",
+    "chronic emptiness"
+   ],
+   "ru": [
+    "чувство себя",
+    "нарушение идентичности",
+    "образ себя",
+    "хроническая пустота"
    ],
    "aliases": []
   },
@@ -2232,6 +2656,24 @@
    "aliases": []
   },
   {
+   "slug": "social-comparison",
+   "label": "Social comparison",
+   "definition": "Evaluating oneself by comparison with others, especially upward comparison that fuels envy and low self-worth.",
+   "en": [
+    "social comparison",
+    "upward comparison",
+    "envy",
+    "comparing yourself to others"
+   ],
+   "ru": [
+    "социальное сравнение",
+    "сравнение себя с другими",
+    "зависть",
+    "восходящее сравнение"
+   ],
+   "aliases": []
+  },
+  {
    "slug": "somatic-regulation",
    "label": "Somatic and breathing regulation practices",
    "definition": "Body-based techniques such as breathing, tapping and grounding to calm the nervous system.",
@@ -2332,6 +2774,26 @@
     "глюкоза",
     "сладкое",
     "скачки глюкозы"
+   ],
+   "aliases": []
+  },
+  {
+   "slug": "suicide-and-self-harm",
+   "label": "Suicidality and self-harm",
+   "definition": "Suicidal thoughts and self-injury, their warning signs and risk factors, and ways to prevent and work with them.",
+   "en": [
+    "suicide",
+    "suicidal ideation",
+    "self-harm",
+    "self-injury",
+    "suicide prevention"
+   ],
+   "ru": [
+    "суицид",
+    "суицидальные мысли",
+    "самоповреждение",
+    "селфхарм",
+    "профилактика суицида"
    ],
    "aliases": []
   },

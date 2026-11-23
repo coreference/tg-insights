@@ -160,7 +160,7 @@
      "title": "Qualities of mindful and compassionate leaders"
     }
    ],
-   "words": 13614
+   "words": 15078
   },
   {
    "file": "mindful-leadership-teams-2.md",
@@ -304,7 +304,7 @@
      "title": "Self-management and new organization models"
     }
    ],
-   "words": 4027
+   "words": 5327
   },
   {
    "file": "organizations-corporate-culture-6.md",
@@ -372,7 +372,7 @@
      "title": "Measuring and managing stress load"
     }
    ],
-   "words": 10510
+   "words": 11532
   },
   {
    "file": "stress-burnout-rest-3.md",
@@ -564,8 +564,8 @@
    "domain_slug": "attention-digital-wellbeing",
    "area": "Attention & Digital Wellbeing",
    "part": 1,
-   "parts": 2,
-   "title": "Attention & Digital Wellbeing (part 1 of 2)",
+   "parts": 3,
+   "title": "Attention & Digital Wellbeing (part 1 of 3)",
    "topics": [
     {
      "slug": "attention-focus-overload",
@@ -580,19 +580,31 @@
    "domain_slug": "attention-digital-wellbeing",
    "area": "Attention & Digital Wellbeing",
    "part": 2,
-   "parts": 2,
-   "title": "Attention & Digital Wellbeing (part 2 of 2)",
+   "parts": 3,
+   "title": "Attention & Digital Wellbeing (part 2 of 3)",
    "topics": [
     {
      "slug": "digital-detox-screens",
      "title": "Digital detox and healthy screen habits"
-    },
+    }
+   ],
+   "words": 11653
+  },
+  {
+   "file": "attention-digital-wellbeing-3.md",
+   "domain": "Attention & Digital Wellbeing",
+   "domain_slug": "attention-digital-wellbeing",
+   "area": "Attention & Digital Wellbeing",
+   "part": 3,
+   "parts": 3,
+   "title": "Attention & Digital Wellbeing (part 3 of 3)",
+   "topics": [
     {
      "slug": "neurodiversity-adhd-autism",
      "title": "Neurodiversity: ADHD, autism and masking"
     }
    ],
-   "words": 12036
+   "words": 2106
   },
   {
    "file": "work-technology-ai-1.md",
@@ -608,7 +620,7 @@
      "title": "Remote, hybrid and the future of work"
     }
    ],
-   "words": 7247
+   "words": 8669
   },
   {
    "file": "work-technology-ai-2.md",
@@ -640,7 +652,7 @@
      "title": "Collective trauma, propaganda and society"
     }
    ],
-   "words": 12567
+   "words": 15017
   },
   {
    "file": "society-war-collective-trauma-2.md",
@@ -720,7 +732,7 @@
      "title": "Public ethics, abuse scandals and media responsibility"
     }
    ],
-   "words": 9288
+   "words": 13788
   },
   {
    "file": "sleep.md",

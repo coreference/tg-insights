@@ -1,8 +1,8 @@
-# Attention & Digital Wellbeing (part 2 of 2) — deep mind 2.0
+# Attention & Digital Wellbeing (part 2 of 3) — deep mind 2.0
 
 Full knowledge extracted from the Telegram channel “deep mind 2.0” on the domain “Attention & Digital Wellbeing”. Everything below comes only from the channel's own posts; opinions are attributed to their authors. Tags like [#123] are source message numbers. Original-language quotes are followed by an English translation in parentheses.
 
-Topics in this file: Digital detox and healthy screen habits; Neurodiversity: ADHD, autism and masking.
+Topics in this file: Digital detox and healthy screen habits.
 
 ## Digital detox and healthy screen habits
 
@@ -11,6 +11,10 @@ Topics in this file: Digital detox and healthy screen habits; Neurodiversity: AD
 This file collects everything the deep mind channel taught about screens and the phone as a source of stress, a habitual way of regulating emotions and a deliberately engineered addiction — and about how to change one's relationship with them: information-detox checklists, a framework for weighing any digital activity, phone-free mornings and evenings, social-media breaks, the screen-apnea phenomenon, persuasive design, and a mindfulness-based way of working with craving instead of prohibitions. It also contains the author's critical counterpoints: that "cheap dopamine" is a myth, that bans tend to strengthen addiction, that the science on social media harm is not unanimous, and that imposed disconnection works opposite to chosen disconnection. [#400, #795, #1253, #1495, #1542, #1548, #1678, #1689, #1753, #1788]
 
 According to the source, this matters because information arriving through the phone screen is "one of the main causes of stress today", because the smartphone has become a person's main source of stress triggers, and because a dysregulated attention and dopamine system stops us from going deep, reflecting and moving toward important but slow goals. [#400, #795, #1253]
+
+This part covers one new post (#1579): the author's article for RBC-pro (republished on Telegraph) on JOMO — "joy of missing out" — as an emerging, more mature stage of digital culture. It explains the origin of the term, three reasons it is trending now, four everyday behaviours that make up JOMO, the cultural shift behind it and three small first steps. [#1579, article #1579]
+
+How it relates to the existing topic file. The existing file already describes JOMO from post #1386 through the lens of attachment psychology (FOMO as a trace of anxious attachment, JOMO as an expression of secure attachment, the "avoidance mask" pitfall). This new post extends it with a different framing — cultural and historical: JOMO as a collective transition to "digital maturity", its attribution to Cal Newport and digital minimalism, a numeric claim about daily external signals, the three drivers of the trend, a concrete behaviour list and starter steps. It does not contradict #1386; both insist JOMO is not detachment or isolation. One minor tension is noted in *Caveats*. [#1579]
 
 ### Core ideas
 
@@ -23,6 +27,10 @@ According to the source, this matters because information arriving through the p
 - "Cheap dopamine" is a reductionist myth. Dopamine codes prediction error, not pleasure; behaviour comes from many interacting systems. [#1542]
 - Chosen limits help; imposed limits harm. Voluntarily blocking mobile internet improved attention and wellbeing in a large study, but the same limit imposed from outside produces anxiety and helplessness. [#1788, #1745]
 - Balance, not Luddism. The author owes a lot to screens and rejects nihilism, but sees that 50–70% of his screen time does not move him toward what matters. [#1689]
+
+- FOMO has not disappeared, but conscious people are moving to JOMO. FOMO was long "one of the central emotions of the era of hyperconnectivity": switching off from the flow felt like leaving the game. Now a new word is heard increasingly often — JOMO, the joy of not being in the know, not participating, not being reachable. [#1579]
+- JOMO is a sign of digital maturity. The author compares the transition to the huge tables (feasts) of the 2000s that eventually gave way to more moderate consumption focused on quality rather than quantity: after a decade of hyper-involvement people have "eaten their fill" of digital abundance and start to distinguish what nourishes from what merely fills. [#1579, article #1579]
+- JOMO is about directing attention, not about not knowing. It is a question of what exactly you want to point your attention at — and therefore about a greater degree of freedom, "the very freedom" for which people came into the world of smartphones and the absence of borders. [#1579]
 
 ### Frameworks, models and step-by-step methods
 
@@ -113,6 +121,28 @@ Purpose: once the screen-as-anaesthetic pattern (see Detailed insights) is seen 
 1. Do we want to live in constant anaesthesia? It lowers overall sensitivity and makes it harder to digest experiences — to live through them and naturally move into another state. [#1678]
 2. What are we training? Through reading we develop reflection; through meeting friends, presence and contact; constant regulation through the screen rather trains switching off. We become less aware and understand worse what is really happening with us — not because something is wrong with us, but because there is simply no room left for it. [#1678]
 3. Is it effective? The screen can really help short-term, but regulation that supports more deeply and reliably usually lies not in distraction but in the body, breath and contact with what is. That, not information noise, really helps the nervous system return to balance. [#1678]
+
+#### Three reasons JOMO is trending now
+Context: the author states that every day we receive on average 6,000 to 10,000 external signals — from notifications to digital conversations — so skipping things has become "an act of survival", and recently also an act of culture. He gives three drivers: [#1579]
+
+1. Overfatigue from constant presence. Research by the American Psychological Association, as cited by the author, shows that constant involvement in messengers, Zoom calls and news streams lowers cognitive functions, worsens sleep and contributes to anxiety. People began to feel that life slips away in the attempt to be everywhere — and almost nowhere for real. Conclusion: JOMO is an attempt to adapt to overload. [#1579]
+2. Sharper attention to mental health. The pandemic and post-pandemic overload led people to place greater value on a healthy body, boundaries and personal ecology; words like «цифровая гигиена» ("digital hygiene"), «информационный детокс» ("information detox") and «психоэмоциональный ресурс» ("psycho-emotional resource") are heard ever more often. Conclusion: JOMO is a new form of caring for health. [#1579]
+3. A changed idea of success and engagement. FOMO comes from old career thinking: be everywhere, take part, do, don't fall behind. JOMO comes from a new value — attention, depth and inner engagement. If "missing everything" used to look like failure, today it can be a choice of maturity and of tuning in to what is your own. Conclusion: JOMO is a new form of identity in which success looks different. [#1579]
+
+#### JOMO in action (4 everyday behaviours)
+What JOMO looks like in practice, per the author — each item pairs a behaviour with the absence of the usual negative feeling: [#1579]
+
+1. Switch the phone off in the evening — and feel no anxiety. [#1579]
+2. Don't open a chat with 238 messages — and feel no guilt. [#1579]
+3. Don't answer instantly — because you are in a meeting or simply want to be alone with yourself; and not be in the know — without treating that as a threat to your competence. [#1579]
+4. Don't go to a meeting even if you were invited — simply because your "no" has become possible. [#1579]
+
+#### Start small with JOMO (3 first steps)
+Purpose: for readers who do not yet manage to enjoy missing out. (If you already notice yourself rejoicing at what you missed, the author says "congratulations": your attention is coming back to you; it is not a sign of lost opportunities but a sign that you can choose again.) [#1579]
+
+1. Unsubscribe from notifications of channels that bring neither joy nor meaning. The filter is joy or meaning — anything that gives neither goes. [#1579]
+2. Allow yourself not to answer right away. [#1579]
+3. Try to spend at least one evening a week without internet access — and treat it "not as a feat but as rest". [#1579]
 
 ### Detailed insights
 
@@ -222,6 +252,16 @@ Why such studies cannot justify forced disconnection: there is no direct data on
 
 What the numbers mean for practice: mobile internet is clearly not a neutral technology; it is an environment that keeps the nervous system all day in micro-switching and anticipation of reward. From such hyper-involvement and activation it is impossible to listen attentively to another person, notice tension rising in a room, or stop and ask oneself what is guiding me right now. Constructive contact and presence — the basis of leadership mastery and any quality interaction — need an attention resource that constant network access spends. However, the decision about restrictions must be made by the person themselves; otherwise the effect not only disappears but becomes its opposite, and forced shutdowns breed growing insecurity, irritation and anger. The problems of technology's impact still have to be dealt with, but that is secondary if a person is deprived of freedom of choice and their agency is under attack. [#1788]
 
+#### Origin of the term
+According to the author, JOMO first appeared as the opposite of FOMO in the context of digital minimalism and was popularized by technology writer Cal Newport, author of *Digital Minimalism: Choosing a Focused Life in a Noisy World* and *Deep Work: Rules for Focused Success in a Distracted World*. In these books Newport writes about how multitasking and constant digital presence fragment attention and make experience meaningless. JOMO offers a radically different vector: conscious disconnection from the superfluous in favour of the present. [#1579]
+
+Contrast drawn by the author: FOMO is about the anxiety "what if I'm missing something", while JOMO is about the silence in which there is finally everything you need and nothing is missed. [#1579]
+
+#### The cultural shift: from feasting to eating when hungry
+The author insists JOMO is "neither a whim nor an escape" but part of a new stage of digital maturity. We lived through a decade of hyper-involvement; the digital abundance became not nourishing but exhausting, and now we start to distinguish what saturates from what merely fills. His image: it is like learning to eat when you are hungry, not when everyone around is eating. [#1579]
+
+Closing thesis: JOMO is not loneliness and not detachment; it is the joy of being in life — your own life, not everyone's at once. [#1579]
+
 ### Evidence and numbers
 
 - People switch between activities on average every 20 seconds (study cited by the author). [#795]
@@ -239,6 +279,9 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - Oxford researchers (2022, one of the largest analyses): the link between social media and adolescent mental health exists statistically, but its size is roughly that of regularly eating potatoes. Jonathan Haidt (NYU) disputes this: averaging dilutes the effect, but among those spending 5–6 hours a day on social media — especially teenage girls — the association with depression and anxiety is comparable to that of alcohol. [#1753]
 - February 2025 study: 467 people blocked all mobile internet on their iPhones for 2 weeks via an app; attention, mental health and subjective wellbeing improved significantly; 91% improved on at least 1 of 3 measures; the effect on depression symptoms was larger than the typical effect of antidepressants; the gain in attention was equivalent to turning back about 10 years. [#1788]
 
+- On average we receive 6,000–10,000 external signals a day, from notifications to digital conversations (figure given by the author without a named source). [#1579]
+- American Psychological Association research (as cited): constant involvement in messengers, Zoom and news streams lowers cognitive function, worsens sleep and contributes to anxiety. [#1579]
+
 ### Tools and resources mentioned
 
 - reMarkable 2 — e-ink paper-like tablet for reading, handwriting and annotation; author's "favourite gadget", verdict: a game-changer for slow reading and focus; downsides: price, limited functions, no Russian handwriting recognition or Russian keyboard. [#1042]
@@ -250,6 +293,10 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - The New York Times article on screen apnea (2023) — extended "email apnea" to "screen apnea"; its comments generated the Breathe-Blink-Break-Boundaries formula. [#1495]
 - Deloitte study on digital fatigue (connected consumers, 2023) and a report on digital fatigue at the workplace — sources for the digital-fatigue post. [#1294, img #1294]
 - MBRP (mindfulness-based relapse prevention) — the contemplative approach the author relied on for working with screen craving. [#1689]
+
+- Cal Newport, *Digital Minimalism: Choosing a Focused Life in a Noisy World* (Russian edition «Цифровой минимализм. Фокус и осознанность в шумном мире») — book on how constant digital presence fragments attention; named as the context in which JOMO was popularized. No explicit verdict. [#1579]
+- Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World* (Russian edition «В работу с головой. Паттерны успеха от IT-специалиста») — book on multitasking and fragmented attention; named alongside *Digital Minimalism*. No explicit verdict. [#1579]
+- The author's RBC-pro article "JOMO: why we started to rejoice at missing things" — the longread this post shares, published in RBC-pro and mirrored on Telegraph; it is the source of everything in this part. [#1579, img #1579]
 
 ### Notable quotes
 
@@ -281,6 +328,16 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 
 > "Радостно, что мы коллективно сделали еще один шаг к тому, чтобы перестать системно газлайтить свой реальный опыт." (It's joyful that we collectively took another step toward stopping the systemic gaslighting of our real experience.) — author [#1753]
 
+> "Мы наелись цифрового изобилия, которое стало не питательным, а утомляющим." (We have eaten our fill of digital abundance, which has become not nourishing but exhausting.) — Max Rodin [#1579]
+
+> "Это как научиться есть, когда голоден. А не когда просто все вокруг едят." (It's like learning to eat when you're hungry. And not just when everyone around is eating.) — Max Rodin [#1579]
+
+> "Если FOMO — это про тревогу «а вдруг я что-то упускаю», то JOMO — про тишину, в которой наконец есть все, что нужно, и ничего не упускается." (If FOMO is about the anxiety "what if I'm missing something", JOMO is about the silence in which there is finally everything you need and nothing is missed.) — Max Rodin [#1579]
+
+> "По сути, JOMO — это не про «не знать», а про на что именно ты хочешь направить свое внимание." (In essence, JOMO is not about "not knowing" but about what exactly you want to direct your attention to.) — Max Rodin [#1579]
+
+> "JOMO — это не одиночество и не отстраненность. Это радость от того, что ты в жизни. В своей, а не во всех сразу." (JOMO is not loneliness and not detachment. It is the joy of being in life. Your own, not everyone's at once.) — Max Rodin [#1579]
+
 ### Caveats, disagreements and open questions
 
 - (!) CONTRADICTION: early posts rely on the notion of «дешевый дофамин» ("cheap dopamine") as an explanation for phone stickiness (#400, #795, #1042, #1253 — e.g. "overloaded dopamine system", "harmful dopamine loop of quick pleasure"), while #1542 (written under a clinical psychologist's supervision) calls "cheap dopamine" a non-scientific, reductionist myth and lists "dopamine detox" among pseudo-practices. [#400, #795, #1042, #1253, #1542]
@@ -294,12 +351,18 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - (!) INCOMPLETE: the MBRP method in #1689 continues in a comment not included in the source; only the first two steps (craving, needs) are available. [#1689]
 - The author is not anti-technology: he stresses how much he owes to screens and rejects nihilism or Luddism (#1689), and argues the internet is a basic environment and space of co-regulation whose forced loss is a serious stressor (#1745, #1788). [#1689, #1745, #1788]
 
+- The 6,000–10,000 daily signals figure and the APA findings are stated without specific study references in the article. [#1579]
+- (!) UNCLEAR: the post frames JOMO as something "conscious people have already moved to" and as a broad cultural trend; the article gives no data on how widespread it is. [#1579]
+- Tension with #1386 (existing file): #1386 calls JOMO a "new trend" grounded in secure attachment and warns that JOMO can mask an avoidant style; #1579 presents declining an invitation "simply because your 'no' has become possible" as JOMO without repeating that avoidance check. The two framings are compatible but #1579 omits the pitfall. [#1579]
+- Tension with #1689 (existing file): #1689 warns that self-imposed bans like "no screen before sleep" tend to backfire, while #1579's starter step of one internet-free evening a week is framed explicitly as rest rather than a feat — which may be the author's way of avoiding a ban framing, but the source does not connect the two. [#1579]
+
 ### Resources and links
 
 Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
 
 #### Resources
 
+- ★ JOMO: почему мы стали радоваться тому, что что-то пропустили (JOMO: why we enjoy missing out) (article) — The author's own free telegra.ph article on JOMO (joy of missing out) and a move toward more moderate, quality-focused consumption. [#1579] → <https://telegra.ph/JOMO-pochemu-my-stali-radovatsya-tomu-chto-chto-to-propustili-10-20>
 - ★ The Guardian: reading print improves comprehension far more than digital text (2023) (article) — News report on research showing print reading yields much better comprehension than digital; cited by the author to support reading on paper. [#1042] → <https://www.theguardian.com/books/2023/dec/15/reading-print-improves-comprehension-far-more-than-looking-at-digital-text-say-researchers>
 - ★ deep mind programmes for teams (Notion page) (guide) — The authors' Notion overview of their practice-based programmes for team development, built on small repeated exercises. [#795] → <https://dmcom.notion.site/Deep-Mind-049547592013465487a9fbab21e8f55d>
 - ★ Welcome to Deep mind Mindfulness Community (Notion page) (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [#795] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
@@ -332,132 +395,9 @@ Every link and file shared in this topic's posts. Resources can be used directly
 - ★ Light Phone (minimalist phone) (product) — Minimalist phone that filters distractions; the author is considering buying it as part of the focused-tools trend. [#1042] → <https://www.thelightphone.com/>
 - ★ reMarkable 2 e-paper notebook-tablet (product) — Norwegian e-ink notebook tablet the author loves and bought twice (one as a gift); presented as a focused, distraction-free digital tool. [#1042] → <https://remarkable.com/>
 - deep mind (Telegram channel @mindfulleadersrussia) (channel) — The author's own Telegram channel, used as the signature link in posts. [#1386, #1542, #1745, #1753] → <https://t.me/mindfulleadersrussia>
+- РБК Pro — Deep Mind author tag page (channel) — RBC Pro tag page with the author's columns, including the JOMO piece; paywalled publication listing. [#1579] → <https://pro.rbc.ru/tags/?tag=deep%20mind>
 - deep mind asynchronous programme (emotion regulation) (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [#795] → <https://bit.ly/3aqOYlI>
 - Mike Yan (itsmikeyan), Telegram channel (profile) — Telegram channel of a Silicon Valley entrepreneur acquaintance whose method for reducing attention load the author borrowed. [#1548] → <https://t.me/itsmikeyan>
 - deep mind consulting (b2b site) (website) — Company website for corporate offers, footer link. [#795] → <http://deepmindconsulting.ru/>
-
-
-## Neurodiversity: ADHD, autism and masking
-
-### What this covers
-
-This topic comes from the channel's release of an analytical report, "Нейроотличие 2026. Современная карта" ("Neurodivergence 2026. A modern map"). The report is aimed at both specialists and a general audience. The post gives the core argument: the "norm" is a design built for an average that does not exist. It also gives a definition of neurodivergence, prevalence estimates and the full table of contents of the 48-page report [#1874, #1875]. The author says the topic matters because the phenomenon "точно касается каждого" ("definitely concerns everyone"). He also says that for therapists and helping practitioners this knowledge is "уже база, без которой отстаешь от собственных клиентов" ("already the basics, without which you fall behind your own clients") [#1874].
-
-(!) INCOMPLETE: the report's full content (48 pages, available as a downloadable file) was not provided. Only the announcement post, the cover image and the table-of-contents image are available, so the chapter contents below are known only by their titles and subtitles [#1874, #1875].
-
-### Core ideas
-
-- No one is "average." In Daniels' 1952 measurements, not one of 4,063 pilots matched the average on all 10 dimensions. A design built for the average fits no one (see *Daniels' cockpit lesson*) [#1874].
-- The "norm" is a non-adjustable cockpit. Offices, schools, conversations and expectations are still built for a "norm". The author says this norm fits no one, or only a minority of people [#1874].
-- Neurodivergence is difference, not defect. It is defined as physiological particularities of the brain and nervous system, "не плохо или хорошо, а просто иначе, чем у соседа" ("not bad or good, just different from one's neighbour") [#1874].
-- Prevalence is large, and rising numbers reflect better detection. About one in five or six people is neurodivergent. If other differences are added, the author's figure is 60–70% [#1874].
-
-### Frameworks, models and step-by-step methods
-
-#### Daniels' cockpit lesson (design for adjustability, not for the average)
-Purpose: this is a case study the author uses to explain why systems built for a statistical "norm" fail people, and what the alternative looks like [#1874].
-1. The problem. In 1952 the US Air Force was trying to understand why its planes kept crashing [#1874].
-2. The design assumption. Cockpits had been designed for the average pilot. Thousands of pilots were measured, average dimensions were calculated, and the seat and pedals were fitted to those averages [#1874].
-3. The test. Lieutenant Gilbert Daniels decided to check how many pilots actually matched this "average person". He measured 4,063 pilots on 10 average parameters [#1874].
-4. The finding. The number who matched on all ten parameters was zero: "Ни одного человека из четырех тысяч" ("Not a single person out of four thousand"). A cockpit designed for the averaged human fit literally no one [#1874].
-5. The fix and the result. The seats were made adjustable, and the accident rate dropped sharply [#1874].
-6. The transfer to neurodiversity. The author says he thought about this case throughout the work on the report. His view is that the social "norm" behind offices, schools, conversations and expectations is the same kind of non-adjustable cockpit. He is "уверен" ("convinced") that it fits no one, or only a minority. The implied lesson is to build adjustable environments rather than environments fitted to an average [#1874].
-
-The report gives this case its own chapter: chapter 02, "Что такое норма - и существует ли она" ("What is the norm — and does it exist"), subtitled "Кабина Дэниелса" ("Daniels' cockpit") [#1875].
-
-#### Structure of the report "Neurodivergence: a modern map"
-The table-of-contents card lists every section in order. Page numbers are in brackets. Each chapter title is followed by its subtitle [#1875]:
-- Prologue: who needs to know this — "Почему это касается всех" ("Why this concerns everyone") [p. 3] [#1875]
-- Part I — Framework (РАМКА) [#1875]
-  1. 01 What neurodivergence is — "Три модели и оси спектра" ("Three models and the axes of the spectrum") [p. 6] [#1875]
-  2. 02 What the norm is, and whether it exists — "Кабина Дэниелса" ("Daniels' cockpit") [p. 9] [#1875]
-- Part II — Map (КАРТА). The OCR renders the heading as "4ACT6 11・KAPTA", which reads as Part II, Map (КАРТА) [#1875]
-  3. 03 Autism, ADHD and AuDHD — "Ядро спектра" ("The core of the spectrum") [p. 12] [#1875]
-  4. 04 Differences in learning and language — dyslexia, DLD [p. 15] [#1875]
-  5. 05 Tics, contested boundaries and giftedness — Tourette's, PDA, 2e [p. 18] [#1875]
-  6. 06 Where neurodivergence ends — "Травма, кПТСР и границы" ("Trauma, complex PTSD and boundaries") [p. 21] [#1875]
-- Part "How it is lived" (КАК ЭТО ПРОЖИВАЕТСЯ). The card labels this part II as well, so the numbering is irregular [#1875]
-  7. 07 Across a life — "От детства к зрелости" ("From childhood to maturity") [p. 23] [#1875]
-  8. 08 Women, masking and late diagnosis — "Кого норма не замечала" ("Whom the norm did not notice") [p. 25] [#1875]
-  9. 09 What comes alongside, and what gives strength — "Здоровье и ресурсы" ("Health and resources") [p. 27] [#1875]
-- Part IV — How to live with it (КАК С ЭТИМ ЖИТЬ) [#1875]
-  10. 10 For oneself, and about diagnosis — "Регуляция, среда, энергия" ("Regulation, environment, energy") [p. 29] [#1875]
-  11. 11 What really helps — "Среда, терапия, медикаменты" ("Environment, therapy, medication") [p. 31] [#1875]
-  12. 12 Alongside: for a partner, manager, parent — "Четыре роли рядом" ("Four roles alongside"). The title names three roles. The fourth is presumably the specialist mentioned in the post ("партнеру, руководителю, родителю, специалисту") [p. 33] [#1875, #1874]
-- Part V — Orientation points (ОРИЕНТИРЫ) [#1875]
-  13. 13 What we don't yet know and where we are heading — "Честные пробелы и горизонт" ("Honest gaps and the horizon") [p. 35] [#1875]
-  14. 14 How to tune AI to your own nervous system — "Промпты и настройка" ("Prompts and setup") [p. 37] [#1875]
-- Reference section — a frequency (prevalence) table, a glossary and sources [p. 41] [#1875]
-
-(!) UNCLEAR: the card shows two parts labelled "II" and no part III. This is probably an OCR or layout artefact, but the source does not resolve it [#1875].
-
-### Detailed insights
-
-#### What neurodivergence is and how common it is
-The author defines нейроотличия (neurodivergences) as "буквально физиологические особенности мозга и нервной системы" ("literally physiological particularities of the brain and nervous system"). He says they are neither bad nor good, just different from one's neighbour's, and that the phenomenon concerns everyone [#1874].
-
-On prevalence, the author says neurodivergent people make up roughly one in every five or six people. He argues the figures are rising "не потому, что таких людей стало больше, а потому что их наконец научились видеть" ("not because there are more such people, but because people have finally learned to see them"), largely thanks to neuroscience. He then adds other differences that strongly shape a person, namely intense experience, social position and gender. Counting these, he says, "получается, что их 60-70%" ("it turns out they are 60–70%"). The source does not give a citation for either figure [#1874].
-
-#### The history of the "norm"
-The author notes that the word "norm" in its current sense was coined only in the 19th century. It arose together with Quetelet's "average person", which "довольно быстро стал основанием для евгеники" ("fairly quickly became a basis for eugenics"). The point is that the norm is a recent statistical construct, not a natural fact [#1874].
-
-#### What the report promises to cover
-The post lists what is inside the report [#1874]:
-- what neurodivergence is and what a "norm" is
-- a map of conditions (autism, ADHD, AuDHD, dyslexia and other conditions, as the source puts it), presented "честно про спорные границы" ("honestly about the contested boundaries")
-- where neurodivergence ends and trauma begins
-- masking and late diagnosis in women
-- what really helps
-- how to be alongside a neurodivergent person, as a partner, manager, parent or specialist
-- prompts for configuring an AI assistant to fit one's own nervous system
-
-The cover describes the report as a holistic map of the spectrum, "от аутизма и СДВГ до дислексии, тиков и спорных границ" ("from autism and ADHD to dyslexia, tics and contested boundaries"). It is meant for those who are neurodivergent themselves, those close to them, those who lead people and those who help professionally, and it describes itself as written systematically, honestly and humanely (системно, честно и по-человечески). Its subtitle says it covers what science knows today about how differently the human nervous system is built, and how to live with this: for oneself, alongside others and in a team [#1874].
-
-#### Intended audiences
-The post names these audiences [#1874]:
-- therapists and helping practitioners, for whom this is "already the basics, without which you fall behind your own clients"
-- managers and HR
-- parents and partners
-- doctors and teachers
-- anyone who recognises themselves in the descriptions
-
-### Evidence and numbers
-
-- Daniels (US Air Force, 1952) measured 4,063 pilots on 10 average dimensions and found that 0 matched all ten. After adjustable seats were introduced, the accident rate fell sharply [#1874].
-- The author estimates that about 1 in 5–6 people is neurodivergent, rising to 60–70% when other strong differences (intense experience, social position, gender) are included [#1874].
-- The report says it is a synthesis of peer-reviewed literature from The Lancet, Nature, Autism, JAMA, Molecular Psychiatry and Frontiers, with data current to mid-2026. The post adds that it has 48 pages [#1874, msg #1874].
-
-### Tools and resources mentioned
-
-- Report "Нейроотличие: современная карта" ("Neurodivergence: a modern map"). This is deep mind's own 48-page analytical review, structured as described above. The author presents it as a systematic report on the latest scientific understanding, written to be engaging and relevant beyond specialists. He asks readers to share it in their own media "Пускай принесет пользу!" ("Let it be of use!"). It is self-published by the channel, so this is not an independent verdict [#1874, #1875].
-- deep mind describes itself on the cover as an ecosystem for developing people and communities in the AI era. It runs educational programmes for business, facilitates teams and consults companies on people development and meta-skills, and has done so since 2019 [#1874].
-
-### Notable quotes
-
-> "Кабина, спроектированная под усредненного человека, не подходила буквально никому." (A cockpit designed for the averaged human fit literally no one.) — author [#1874]
-
-> "Это не плохо или хорошо, а просто иначе, чем у соседа." (It is not bad or good, just different from one's neighbour.) — author [#1874]
-
-> "И я уверен, что она является такой же нерегулируемой кабиной — не подходит никому, ну или меньшиству людей." (*And I am sure it is the same kind of non-adjustable cockpit: it fits no one, or a minority of people.* "меньшиству" is sic in the original) — author [#1874]
-
-### Caveats, disagreements and open questions
-
-- (!) INCOMPLETE: the 48-page report itself was not provided. The three models of neurodivergence, the axes of the spectrum, the boundary with trauma and complex PTSD, the masking findings, what helps (environment, therapy, medication), the four supporting roles and the AI prompts are known only as chapter titles [#1874, #1875].
-- The prevalence figures (1 in 5–6; 60–70% with other differences) are the author's statements without specific citations in the post. The 60–70% figure uses a broadened definition that includes experience, social position and gender [#1874].
-- The view that the norm "fits no one" is the author's stated conviction ("я уверен", "I am sure") [#1874].
-- (!) UNCLEAR: the part numbering on the contents card (two parts labelled II, no part III) [#1875].
-- The report is the channel's own product, so its description is self-presentation [#1874].
-
-### Resources and links
-
-Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
-
-#### Resources
-
-- ★ deep mind guide, 48 pages (Google Drive PDF) (file) — The authors' own free 48-page guide on neurodiversity with support advice and AI-assistant prompts; offered for reading, download and sharing. [#1874] → <https://drive.google.com/file/d/1tbiD1N7y3aXHuXDeJc7cvWonNd9P7c3O/view?usp=sharing>
-- ★ deep mind world (web app/site) (website) — The authors' own site, linked as the signature of many posts, gathering their materials. [#1874] → <https://deepmindworld.vercel.app/>
-
-#### External links
-
-- Max Rodin (personal site) (website) — Personal site of Maxim Rodin, footer of the deep mind ecosystem links. [#1874] → <https://maxrodin.vercel.app/>
+- deep mind consulting (company website) (website) — The author's company website with mindfulness leadership programmes; linked beside the deep mind 4-level model of mindfulness. [#1579] → <https://deepmindconsulting.ru/>
 

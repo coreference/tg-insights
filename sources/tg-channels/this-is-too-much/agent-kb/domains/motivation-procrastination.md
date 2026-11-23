@@ -1,0 +1,12 @@
+# Motivation and procrastination — routing table (This is too much)
+
+Pick every topic whose *Answers* or *Frameworks* match the request, then read its reference file in full.
+
+## Procrastination, motivation and the vacation brain
+- File: `../references/motivation-procrastination--procrastination-motivation-vacation.md` · 4 msgs · 2023-05-23..2026-11-11
+- Light version (NotebookLM study text, whole domain part): `notebooklm/motivation-procrastination.md` in the channel folder
+- How to analyze one concrete procrastination episode to find what it does for you and design a better replacement behavior; how self-determination theory separates intrinsic, identified and introjected motivation from amotivation, why an intention can stall without any lack of motivation, and which questions help diagnose it; and what a break from habitual work (rest, softer attention, novelty) does to stress systems, attention and the sudden appearance of new wants.
+- Answers: How do I figure out what my procrastination is actually doing for me? · What is a step-by-step exercise for replacing procrastination with a better behavior? · Why do different people procrastinate on the same thing for different reasons? · What does self-determination theory say about why we do things? · What is the difference between intrinsic, identified, introjected motivation and amotivation? · Is guilt-driven productivity a burnout risk? · Why can't I start something even though I understand why it matters? · What happens in the brain and body when regular work disappears for a while, e.g. on vacation? · What is Attention Restoration Theory and soft fascination? · Why do I suddenly want strange new things (beading, old TV series) on vacation?
+- Frameworks: Procrastination function analysis (episode diary → feelings → benefit → alternatives → mental rehearsal → real-world test) · Self-Determination Theory — four motivational positions (intrinsic, identified, introjected, amotivation) · Reasons an intention stalls without lack of motivation · SDT three basic psychological needs (autonomy, competence, relatedness) · Four self-diagnostic motivation questions for a stalled task · Attention Restoration Theory (directed attention vs soft fascination) · The vacation "wants" formula (less stress/habit load + less directed attention + more novelty)
+- Concepts (cross-channel tags): procrastination, motivation, rest-and-recovery, focus-attention · also relevant to areas: Rest & Burnout, Attention & Digital Wellbeing
+

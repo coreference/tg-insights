@@ -1,0 +1,396 @@
+# Files & media index
+
+All media referenced in the export with message context and relative path.
+
+## audio_file  (1)
+- [msg #184] 2024-05-18 · How adult ADHD and autism are diagnosed · `raw-exports/ChatExport_2026-11-22/files/record.ogg`
+
+## file  (2)
+- [msg #772] 2025-11-01 · Anxiety, phobias, panic and OCD: exposure and self-observation · `raw-exports/ChatExport_2026-11-22/files/Шкала самонаблюдения при ОКР.xlsx`
+- [msg #815] 2026-01-12 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/files/Воркбук года — @juu.be.pdf` · text transcribed
+
+## photo  (337)
+- [msg #5] 2023-09-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_2@23-09-2023_14-13-28.jpg` · text transcribed
+- [msg #9] 2023-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_3@24-09-2023_11-17-27.jpg` · text transcribed
+- [msg #10] 2023-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_4@24-09-2023_18-25-45.jpg`
+- [msg #11] 2023-09-25 · Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD · `raw-exports/ChatExport_2026-11-22/photos/photo_5@25-09-2023_11-37-29.jpg` · text transcribed
+- [msg #13] 2023-09-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_6@28-09-2023_16-35-15.jpg`
+- [msg #19] 2023-10-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_7@05-10-2023_10-07-47.jpg` · text transcribed
+- [msg #20] 2023-10-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_8@05-10-2023_10-07-48.jpg` · text transcribed
+- [msg #21] 2023-10-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_9@05-10-2023_10-07-48.jpg` · text transcribed
+- [msg #22] 2023-10-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_10@05-10-2023_10-07-48.jpg` · text transcribed
+- [msg #25] 2023-10-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_11@27-10-2023_19-15-47.jpg` · text transcribed
+- [msg #27] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_12@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #28] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_13@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #29] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_14@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #30] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_15@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #31] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_16@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #32] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_17@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #33] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_18@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #34] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_19@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #35] 2023-10-30 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_20@30-10-2023_19-32-32.jpg` · text transcribed
+- [msg #38] 2023-11-07 · Self-diagnosis, myths and stigma around neurodivergence · `raw-exports/ChatExport_2026-11-22/photos/photo_21@07-11-2023_16-59-51.jpg`
+- [msg #42] 2023-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_22@17-11-2023_08-20-21.jpg`
+- [msg #43] 2023-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_23@17-11-2023_08-20-21.jpg` · text transcribed
+- [msg #44] 2023-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_24@17-11-2023_08-20-21.jpg` · text transcribed
+- [msg #45] 2023-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_25@17-11-2023_08-24-44.jpg` · text transcribed
+- [msg #46] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_26@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #47] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_27@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #48] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_28@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #49] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_29@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #50] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_30@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #51] 2023-11-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_31@17-11-2023_13-35-27.jpg` · text transcribed
+- [msg #52] 2023-11-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_32@17-11-2023_13-35-28.jpg` · text transcribed
+- [msg #63] 2023-12-03 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_33@03-12-2023_10-58-40.jpg` · text transcribed
+- [msg #69] 2023-12-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_34@10-12-2023_18-02-55.jpg`
+- [msg #70] 2023-12-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_35@10-12-2023_18-02-55.jpg` · text transcribed
+- [msg #71] 2023-12-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_36@10-12-2023_18-02-55.jpg`
+- [msg #72] 2023-12-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_37@10-12-2023_18-02-55.jpg`
+- [msg #75] 2023-12-17 · Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD · `raw-exports/ChatExport_2026-11-22/photos/photo_38@17-12-2023_10-27-13.jpg` · text transcribed
+- [msg #81] 2023-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_39@31-12-2023_17-02-36.jpg` · text transcribed
+- [msg #86] 2024-01-12 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_40@12-01-2024_16-49-26.jpg` · text transcribed
+- [msg #88] 2024-01-15 · Autistic and ADHD burnout, fatigue and limited energy · `raw-exports/ChatExport_2026-11-22/photos/photo_41@15-01-2024_11-14-46.jpg` · text transcribed
+- [msg #90] 2024-01-23 · Psychiatric medication: ADHD drugs and antidepressants · `raw-exports/ChatExport_2026-11-22/photos/photo_42@23-01-2024_15-35-14.jpg` · text transcribed
+- [msg #91] 2024-01-23 · Psychiatric medication: ADHD drugs and antidepressants · `raw-exports/ChatExport_2026-11-22/photos/photo_43@23-01-2024_15-35-14.jpg` · text transcribed
+- [msg #92] 2024-01-23 · Psychiatric medication: ADHD drugs and antidepressants · `raw-exports/ChatExport_2026-11-22/photos/photo_44@23-01-2024_15-35-14.jpg` · text transcribed
+- [msg #93] 2024-01-23 · Psychiatric medication: ADHD drugs and antidepressants · `raw-exports/ChatExport_2026-11-22/photos/photo_45@23-01-2024_15-35-14.jpg` · text transcribed
+- [msg #98] 2024-02-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_46@02-02-2024_15-06-48.jpg` · text transcribed
+- [msg #101] 2024-02-12 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_47@12-02-2024_10-22-28.jpg` · text transcribed
+- [msg #105] 2024-02-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_48@19-02-2024_16-48-26.jpg`
+- [msg #110] 2024-02-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_49@28-02-2024_16-08-50.jpg`
+- [msg #135] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_50@28-03-2024_14-54-40.jpg` · text transcribed
+- [msg #136] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_51@28-03-2024_14-54-41.jpg` · text transcribed
+- [msg #137] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_52@28-03-2024_14-54-41.jpg` · text transcribed
+- [msg #138] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_53@28-03-2024_14-54-41.jpg` · text transcribed
+- [msg #139] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_54@28-03-2024_14-54-41.jpg` · text transcribed
+- [msg #140] 2024-03-28 · Coping with terror attacks and collective tragedy · `raw-exports/ChatExport_2026-11-22/photos/photo_55@28-03-2024_14-54-41.jpg` · text transcribed
+- [msg #144] 2024-04-01 · Masking, compensation and unmasking · `raw-exports/ChatExport_2026-11-22/photos/photo_56@01-04-2024_11-10-28.jpg` · text transcribed
+- [msg #145] 2024-04-01 · Masking, compensation and unmasking · `raw-exports/ChatExport_2026-11-22/photos/photo_57@01-04-2024_11-14-22.jpg` · text transcribed
+- [msg #148] 2024-04-02 · Building and using your sensory profile · `raw-exports/ChatExport_2026-11-22/photos/photo_58@02-04-2024_21-15-39.jpg`
+- [msg #150] 2024-04-04 · Autism spectrum: support levels, genetics and history · `raw-exports/ChatExport_2026-11-22/photos/photo_59@04-04-2024_21-34-42.jpg` · text transcribed
+- [msg #151] 2024-04-04 · Autism spectrum: support levels, genetics and history · `raw-exports/ChatExport_2026-11-22/photos/photo_60@04-04-2024_21-51-37.jpg` · text transcribed
+- [msg #152] 2024-04-04 · Autism spectrum: support levels, genetics and history · `raw-exports/ChatExport_2026-11-22/photos/photo_61@04-04-2024_21-51-37.jpg` · text transcribed
+- [msg #153] 2024-04-04 · Autism spectrum: support levels, genetics and history · `raw-exports/ChatExport_2026-11-22/photos/photo_62@04-04-2024_21-51-37.jpg` · text transcribed
+- [msg #156] 2024-04-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_63@10-04-2024_12-49-36.jpg` · text transcribed
+- [msg #165] 2024-04-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_64@27-04-2024_18-09-01.jpg` · text transcribed
+- [msg #167] 2024-04-29 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_65@29-04-2024_09-35-43.jpg`
+- [msg #172] 2024-05-04 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_66@04-05-2024_20-46-10.jpg`
+- [msg #174] 2024-05-05 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_67@05-05-2024_13-18-30.jpg` · text transcribed
+- [msg #175] 2024-05-05 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_68@05-05-2024_21-00-00.jpg` · text transcribed
+- [msg #177] 2024-05-07 · Inner critic, schema therapy and soothing the threat system · `raw-exports/ChatExport_2026-11-22/photos/photo_69@07-05-2024_17-47-21.jpg` · text transcribed
+- [msg #182] 2024-05-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_70@14-05-2024_20-55-47.jpg` · text transcribed
+- [msg #192] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_71@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #193] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_72@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #194] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_73@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #195] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_74@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #196] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_75@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #197] 2024-06-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_76@13-06-2024_11-58-08.jpg` · text transcribed
+- [msg #209] 2024-06-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_77@24-06-2024_14-10-34.jpg` · text transcribed
+- [msg #211] 2024-06-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_78@27-06-2024_13-49-46.jpg` · text transcribed
+- [msg #213] 2024-06-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_79@28-06-2024_17-45-31.jpg`
+- [msg #214] 2024-06-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_80@28-06-2024_17-45-31.jpg` · text transcribed
+- [msg #215] 2024-06-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_81@28-06-2024_17-45-31.jpg` · text transcribed
+- [msg #216] 2024-06-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_82@28-06-2024_17-45-31.jpg`
+- [msg #217] 2024-06-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_83@28-06-2024_17-45-31.jpg`
+- [msg #223] 2024-07-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_84@10-07-2024_15-19-35.jpg` · text transcribed
+- [msg #225] 2024-07-11 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_85@11-07-2024_21-00-58.jpg` · text transcribed
+- [msg #239] 2024-07-23 · Behavioral activation, movement and mindfulness for mood · `raw-exports/ChatExport_2026-11-22/photos/photo_86@23-07-2024_11-07-07.jpg`
+- [msg #240] 2024-07-23 · Behavioral activation, movement and mindfulness for mood · `raw-exports/ChatExport_2026-11-22/photos/photo_87@23-07-2024_11-07-07.jpg`
+- [msg #241] 2024-07-23 · Behavioral activation, movement and mindfulness for mood · `raw-exports/ChatExport_2026-11-22/photos/photo_88@23-07-2024_11-07-07.jpg`
+- [msg #245] 2024-07-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_89@31-07-2024_13-22-06.jpg` · text transcribed
+- [msg #252] 2024-08-10 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_90@10-08-2024_12-55-15.jpg` · text transcribed
+- [msg #257] 2024-08-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_91@15-08-2024_16-52-11.jpg` · text transcribed
+- [msg #258] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_92@16-08-2024_13-32-56.jpg`
+- [msg #259] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_93@16-08-2024_13-32-56.jpg`
+- [msg #260] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_94@16-08-2024_13-32-56.jpg`
+- [msg #261] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_95@16-08-2024_13-32-56.jpg`
+- [msg #262] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_96@16-08-2024_13-32-56.jpg`
+- [msg #263] 2024-08-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_97@16-08-2024_13-32-56.jpg`
+- [msg #266] 2024-08-22 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_98@22-08-2024_20-02-13.jpg` · text transcribed
+- [msg #272] 2024-08-26 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_99@26-08-2024_21-06-12.jpg`
+- [msg #273] 2024-08-26 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_100@26-08-2024_21-06-12.jpg`
+- [msg #274] 2024-08-26 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_101@26-08-2024_21-06-12.jpg` · text transcribed
+- [msg #284] 2024-09-11 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_102@11-09-2024_12-31-45.jpg` · text transcribed
+- [msg #298] 2024-09-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_103@23-09-2024_18-17-25.jpg` · text transcribed
+- [msg #306] 2024-10-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_104@01-10-2024_17-40-04.jpg` · text transcribed
+- [msg #309] 2024-10-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_105@01-10-2024_23-01-22.jpg` · text transcribed
+- [msg #310] 2024-10-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_106@01-10-2024_23-01-22.jpg`
+- [msg #313] 2024-10-03 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_107@03-10-2024_14-15-39.jpg` · text transcribed
+- [msg #317] 2024-10-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_108@06-10-2024_18-01-48.jpg` · text transcribed
+- [msg #318] 2024-10-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_109@08-10-2024_12-38-53.jpg`
+- [msg #319] 2024-10-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_110@08-10-2024_12-38-53.jpg`
+- [msg #320] 2024-10-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_111@08-10-2024_12-38-53.jpg`
+- [msg #322] 2024-10-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_112@09-10-2024_22-01-09.jpg` · text transcribed
+- [msg #323] 2024-10-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_113@10-10-2024_16-20-47.jpg` · text transcribed
+- [msg #324] 2024-10-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_114@10-10-2024_16-21-58.jpg` · text transcribed
+- [msg #325] 2024-10-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_115@10-10-2024_16-23-04.jpg` · text transcribed
+- [msg #327] 2024-10-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_116@14-10-2024_10-33-25.jpg` · text transcribed
+- [msg #328] 2024-10-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_117@14-10-2024_10-33-25.jpg`
+- [msg #329] 2024-10-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_118@14-10-2024_10-33-25.jpg` · text transcribed
+- [msg #330] 2024-10-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_119@14-10-2024_10-33-25.jpg`
+- [msg #332] 2024-10-14 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_120@14-10-2024_17-40-05.jpg` · text transcribed
+- [msg #334] 2024-10-14 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_121@14-10-2024_17-40-05.jpg`
+- [msg #335] 2024-10-14 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_122@14-10-2024_17-40-05.jpg`
+- [msg #340] 2024-10-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_123@19-10-2024_13-20-20.jpg`
+- [msg #351] 2024-10-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_124@31-10-2024_12-23-04.jpg` · text transcribed
+- [msg #354] 2024-10-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_125@31-10-2024_18-45-06.jpg` · text transcribed
+- [msg #355] 2024-10-31 · Health policy and healthcare systems · `raw-exports/ChatExport_2026-11-22/photos/photo_126@31-10-2024_18-50-36.jpg` · text transcribed
+- [msg #360] 2024-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_127@09-11-2024_11-39-44.jpg`
+- [msg #361] 2024-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_128@09-11-2024_11-39-44.jpg`
+- [msg #362] 2024-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_129@09-11-2024_11-39-44.jpg`
+- [msg #363] 2024-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_130@09-11-2024_11-39-44.jpg`
+- [msg #372] 2024-11-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_131@19-11-2024_13-33-10.jpg` · text transcribed
+- [msg #380] 2024-11-22 · Inner critic, schema therapy and soothing the threat system · `raw-exports/ChatExport_2026-11-22/photos/photo_132@22-11-2024_17-34-19.jpg` · text transcribed
+- [msg #383] 2024-11-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_133@25-11-2024_15-04-12.jpg` · text transcribed
+- [msg #384] 2024-11-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_134@25-11-2024_15-04-12.jpg` · text transcribed
+- [msg #400] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_135@27-11-2024_15-48-27.jpg` · text transcribed
+- [msg #401] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_136@27-11-2024_15-48-27.jpg` · text transcribed
+- [msg #402] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_137@27-11-2024_15-48-28.jpg` · text transcribed
+- [msg #403] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_138@27-11-2024_15-48-28.jpg` · text transcribed
+- [msg #404] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_139@27-11-2024_15-48-28.jpg` · text transcribed
+- [msg #405] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_140@27-11-2024_15-48-28.jpg` · text transcribed
+- [msg #406] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_141@27-11-2024_15-48-28.jpg` · text transcribed
+- [msg #407] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_142@27-11-2024_15-51-19.jpg` · text transcribed
+- [msg #408] 2024-11-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_143@27-11-2024_15-51-19.jpg` · text transcribed
+- [msg #413] 2024-11-29 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_144@29-11-2024_09-22-21.jpg`
+- [msg #414] 2024-11-29 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_109@08-10-2024_12-38-53.jpg`
+- [msg #415] 2024-11-29 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_146@29-11-2024_09-24-27.jpg` · text transcribed
+- [msg #422] 2024-12-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_147@09-12-2024_12-48-19.jpg` · text transcribed
+- [msg #424] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_148@17-12-2024_20-10-23.jpg` · text transcribed
+- [msg #425] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_149@17-12-2024_20-10-23.jpg` · text transcribed
+- [msg #426] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_150@17-12-2024_20-10-24.jpg` · text transcribed
+- [msg #427] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_151@17-12-2024_20-10-24.jpg` · text transcribed
+- [msg #428] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_152@17-12-2024_20-10-24.jpg` · text transcribed
+- [msg #429] 2024-12-17 · Executive dysfunction, environment and work · `raw-exports/ChatExport_2026-11-22/photos/photo_153@17-12-2024_20-10-24.jpg` · text transcribed
+- [msg #437] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_154@23-12-2024_09-42-33.jpg`
+- [msg #438] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_155@23-12-2024_09-42-33.jpg`
+- [msg #439] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_156@23-12-2024_09-42-33.jpg`
+- [msg #440] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_157@23-12-2024_09-42-33.jpg`
+- [msg #441] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_158@23-12-2024_09-42-33.jpg`
+- [msg #442] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_159@23-12-2024_09-42-33.jpg` · text transcribed
+- [msg #443] 2024-12-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_160@23-12-2024_09-42-33.jpg` · text transcribed
+- [msg #446] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_161@26-12-2024_09-57-16.jpg`
+- [msg #447] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_162@26-12-2024_09-57-16.jpg`
+- [msg #448] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_163@26-12-2024_09-57-16.jpg`
+- [msg #449] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_164@26-12-2024_09-57-17.jpg`
+- [msg #450] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_165@26-12-2024_09-57-17.jpg`
+- [msg #451] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_166@26-12-2024_09-57-17.jpg`
+- [msg #452] 2024-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_167@26-12-2024_09-57-17.jpg`
+- [msg #453] 2024-12-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_168@27-12-2024_11-19-24.jpg` · text transcribed
+- [msg #456] 2024-12-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_169@28-12-2024_11-45-40.jpg` · text transcribed
+- [msg #457] 2024-12-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_170@28-12-2024_11-45-40.jpg` · text transcribed
+- [msg #458] 2024-12-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_171@28-12-2024_11-45-40.jpg` · text transcribed
+- [msg #459] 2024-12-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_172@28-12-2024_11-45-41.jpg` · text transcribed
+- [msg #461] 2024-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_173@31-12-2024_14-12-15.jpg`
+- [msg #462] 2024-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_174@31-12-2024_14-12-15.jpg`
+- [msg #463] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_175@04-01-2025_16-26-20.jpg`
+- [msg #464] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_176@04-01-2025_16-26-20.jpg`
+- [msg #465] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_177@04-01-2025_16-26-20.jpg` · text transcribed
+- [msg #466] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_178@04-01-2025_16-26-20.jpg`
+- [msg #467] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_179@04-01-2025_16-26-20.jpg` · text transcribed
+- [msg #468] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_180@04-01-2025_16-26-20.jpg`
+- [msg #469] 2025-01-04 · How neurodivergent people rest and recover · `raw-exports/ChatExport_2026-11-22/photos/photo_181@04-01-2025_16-26-20.jpg`
+- [msg #486] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_182@24-01-2025_18-20-42.jpg` · text transcribed
+- [msg #487] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_183@24-01-2025_18-20-42.jpg` · text transcribed
+- [msg #488] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_184@24-01-2025_18-20-43.jpg` · text transcribed
+- [msg #489] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_185@24-01-2025_18-20-43.jpg` · text transcribed
+- [msg #490] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_186@24-01-2025_18-20-43.jpg` · text transcribed
+- [msg #491] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_187@24-01-2025_18-20-43.jpg` · text transcribed
+- [msg #492] 2025-01-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_188@24-01-2025_18-20-43.jpg` · text transcribed
+- [msg #504] 2025-02-04 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_189@04-02-2025_16-28-58.jpg`
+- [msg #505] 2025-02-04 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_190@04-02-2025_16-28-58.jpg` · text transcribed
+- [msg #511] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_191@14-02-2025_12-11-43.jpg` · text transcribed
+- [msg #512] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_192@14-02-2025_12-11-43.jpg` · text transcribed
+- [msg #513] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_193@14-02-2025_12-11-43.jpg` · text transcribed
+- [msg #514] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_194@14-02-2025_12-11-43.jpg` · text transcribed
+- [msg #515] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_195@14-02-2025_12-11-44.jpg` · text transcribed
+- [msg #523] 2025-02-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_196@24-02-2025_14-34-54.jpg`
+- [msg #529] 2025-02-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_197@25-02-2025_20-34-10.jpg`
+- [msg #530] 2025-02-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_198@25-02-2025_20-34-10.jpg`
+- [msg #531] 2025-02-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_199@25-02-2025_20-34-10.jpg`
+- [msg #532] 2025-02-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_200@25-02-2025_20-34-10.jpg`
+- [msg #535] 2025-03-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_201@01-03-2025_12-33-12.jpg`
+- [msg #536] 2025-03-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_202@01-03-2025_12-33-12.jpg`
+- [msg #537] 2025-03-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_203@01-03-2025_12-33-12.jpg`
+- [msg #548] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_204@09-03-2025_16-02-48.jpg`
+- [msg #549] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_205@09-03-2025_16-02-48.jpg`
+- [msg #550] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_206@09-03-2025_16-02-48.jpg`
+- [msg #551] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_207@09-03-2025_16-02-48.jpg`
+- [msg #552] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_208@09-03-2025_16-02-48.jpg`
+- [msg #553] 2025-03-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_209@09-03-2025_16-02-48.jpg`
+- [msg #555] 2025-03-12 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_210@12-03-2025_19-12-47.jpg` · text transcribed
+- [msg #562] 2025-03-21 · Building and using your sensory profile · `raw-exports/ChatExport_2026-11-22/photos/photo_211@21-03-2025_09-50-17.jpg`
+- [msg #563] 2025-03-21 · Building and using your sensory profile · `raw-exports/ChatExport_2026-11-22/photos/photo_212@21-03-2025_09-50-17.jpg`
+- [msg #572] 2025-03-28 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_213@28-03-2025_15-04-28.jpg` · text transcribed
+- [msg #574] 2025-03-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_214@31-03-2025_10-08-44.jpg` · text transcribed
+- [msg #576] 2025-04-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_215@02-04-2025_21-06-12.jpg` · text transcribed
+- [msg #579] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_216@08-04-2025_18-42-25.jpg`
+- [msg #580] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_217@08-04-2025_18-42-25.jpg` · text transcribed
+- [msg #581] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_218@08-04-2025_18-42-25.jpg`
+- [msg #582] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_219@08-04-2025_18-42-25.jpg`
+- [msg #583] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_220@08-04-2025_18-42-26.jpg`
+- [msg #584] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_221@08-04-2025_18-42-26.jpg`
+- [msg #585] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_222@08-04-2025_18-42-26.jpg` · text transcribed
+- [msg #586] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_223@08-04-2025_18-42-26.jpg`
+- [msg #587] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_224@08-04-2025_18-42-26.jpg`
+- [msg #588] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_225@08-04-2025_18-43-17.jpg`
+- [msg #589] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_226@08-04-2025_18-43-17.jpg`
+- [msg #590] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_227@08-04-2025_18-43-17.jpg` · text transcribed
+- [msg #591] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_228@08-04-2025_18-43-17.jpg`
+- [msg #592] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_229@08-04-2025_18-43-17.jpg`
+- [msg #593] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_230@08-04-2025_18-43-17.jpg`
+- [msg #594] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_231@08-04-2025_18-43-17.jpg` · text transcribed
+- [msg #595] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_232@08-04-2025_18-43-17.jpg`
+- [msg #596] 2025-04-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_233@08-04-2025_18-43-17.jpg` · text transcribed
+- [msg #606] 2025-04-12 · How adult ADHD and autism are diagnosed · `raw-exports/ChatExport_2026-11-22/photos/photo_234@12-04-2025_09-43-26.jpg` · text transcribed
+- [msg #608] 2025-04-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_235@13-04-2025_08-09-24.jpg` · text transcribed
+- [msg #609] 2025-04-13 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_236@13-04-2025_08-09-24.jpg` · text transcribed
+- [msg #618] 2025-04-17 · ADHD and autism in women: phenotype, masking and hormones · `raw-exports/ChatExport_2026-11-22/photos/photo_237@17-04-2025_17-55-09.jpg` · text transcribed
+- [msg #627] 2025-04-25 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_238@25-04-2025_17-08-23.jpg`
+- [msg #628] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_239@02-05-2025_20-07-34.jpg`
+- [msg #629] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_240@02-05-2025_20-07-34.jpg`
+- [msg #630] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_241@02-05-2025_20-07-34.jpg`
+- [msg #631] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_242@02-05-2025_20-07-34.jpg`
+- [msg #632] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_243@02-05-2025_20-07-34.jpg`
+- [msg #633] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_244@02-05-2025_20-07-35.jpg`
+- [msg #634] 2025-05-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_245@02-05-2025_20-33-22.jpg`
+- [msg #635] 2025-05-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_246@06-05-2025_14-34-53.jpg`
+- [msg #636] 2025-05-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_247@06-05-2025_14-34-54.jpg`
+- [msg #651] 2025-05-20 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_248@20-05-2025_08-28-40.jpg` · text transcribed
+- [msg #665] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_249@01-06-2025_18-19-38.jpg` · text transcribed
+- [msg #666] 2025-06-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_250@01-06-2025_18-19-38.jpg`
+- [msg #670] 2025-06-20 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_251@20-06-2025_09-17-41.jpg` · text transcribed
+- [msg #682] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_252@07-07-2025_18-07-36.jpg`
+- [msg #683] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_253@07-07-2025_18-07-36.jpg`
+- [msg #684] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_254@07-07-2025_18-07-36.jpg`
+- [msg #685] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_255@07-07-2025_18-07-36.jpg`
+- [msg #686] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_256@07-07-2025_18-07-36.jpg`
+- [msg #687] 2025-07-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_257@07-07-2025_18-07-36.jpg`
+- [msg #690] 2025-07-22 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_258@22-07-2025_11-05-24.jpg` · text transcribed
+- [msg #705] 2025-07-27 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_259@27-07-2025_15-30-13.jpg` · text transcribed
+- [msg #708] 2025-08-02 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_260@02-08-2025_19-53-35.jpg`
+- [msg #710] 2025-08-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_261@06-08-2025_21-14-20.jpg` · text transcribed
+- [msg #711] 2025-08-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_262@06-08-2025_21-14-20.jpg` · text transcribed
+- [msg #712] 2025-08-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_263@06-08-2025_21-14-20.jpg` · text transcribed
+- [msg #713] 2025-08-06 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_264@06-08-2025_21-14-20.jpg` · text transcribed
+- [msg #721] 2025-08-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_265@15-08-2025_17-01-15.jpg`
+- [msg #722] 2025-08-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_266@15-08-2025_17-01-15.jpg`
+- [msg #725] 2025-09-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_267@01-09-2025_14-08-19.jpg`
+- [msg #726] 2025-09-01 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_268@01-09-2025_14-08-19.jpg`
+- [msg #732] 2025-09-18 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_269@18-09-2025_17-22-29.jpg` · text transcribed
+- [msg #734] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_270@21-09-2025_04-57-06.jpg`
+- [msg #735] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_271@21-09-2025_04-57-06.jpg`
+- [msg #736] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_272@21-09-2025_04-57-06.jpg`
+- [msg #737] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_273@21-09-2025_04-57-06.jpg` · text transcribed
+- [msg #738] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_274@21-09-2025_04-57-06.jpg`
+- [msg #739] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_275@21-09-2025_04-57-06.jpg`
+- [msg #740] 2025-09-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_276@21-09-2025_04-57-06.jpg` · text transcribed
+- [msg #745] 2025-09-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_277@23-09-2025_14-48-14.jpg` · text transcribed
+- [msg #750] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_278@24-09-2025_16-09-42.jpg`
+- [msg #751] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_279@24-09-2025_16-09-42.jpg`
+- [msg #752] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_280@24-09-2025_16-09-42.jpg` · text transcribed
+- [msg #753] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_281@24-09-2025_16-09-42.jpg`
+- [msg #754] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_282@24-09-2025_16-09-43.jpg`
+- [msg #755] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_283@24-09-2025_16-09-43.jpg`
+- [msg #756] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_284@24-09-2025_16-09-43.jpg` · text transcribed
+- [msg #757] 2025-09-24 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_285@24-09-2025_16-09-43.jpg` · text transcribed
+- [msg #758] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_286@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #759] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_287@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #760] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_288@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #761] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_289@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #762] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_290@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #763] 2025-09-30 · ADHD skills training, coaching and organization tools · `raw-exports/ChatExport_2026-11-22/photos/photo_291@30-09-2025_12-15-28.jpg` · text transcribed
+- [msg #766] 2025-10-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_292@09-10-2025_20-38-56.jpg`
+- [msg #768] 2025-10-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_293@10-10-2025_11-21-43.jpg` · text transcribed
+- [msg #770] 2025-10-17 · Autistic and ADHD burnout, fatigue and limited energy · `raw-exports/ChatExport_2026-11-22/photos/photo_294@17-10-2025_20-02-27.jpg`
+- [msg #777] 2025-11-09 · Masking, compensation and unmasking · `raw-exports/ChatExport_2026-11-22/photos/photo_295@09-11-2025_16-29-26.jpg`
+- [msg #778] 2025-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_296@09-11-2025_16-29-27.jpg`
+- [msg #779] 2025-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_297@09-11-2025_16-29-27.jpg`
+- [msg #780] 2025-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_298@09-11-2025_16-29-27.jpg`
+- [msg #781] 2025-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_299@09-11-2025_16-29-27.jpg` · text transcribed
+- [msg #782] 2025-11-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_300@09-11-2025_16-29-27.jpg`
+- [msg #787] 2025-11-16 · Behavioral activation, movement and mindfulness for mood · `raw-exports/ChatExport_2026-11-22/photos/photo_301@16-11-2025_14-38-55.jpg` · text transcribed
+- [msg #792] 2025-11-21 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_302@21-11-2025_12-28-49.jpg` · text transcribed
+- [msg #798] 2025-12-09 · Inner critic, schema therapy and soothing the threat system · `raw-exports/ChatExport_2026-11-22/photos/photo_303@09-12-2025_07-54-55.jpg`
+- [msg #799] 2025-12-09 · Inner critic, schema therapy and soothing the threat system · `raw-exports/ChatExport_2026-11-22/photos/photo_304@09-12-2025_07-54-55.jpg` · text transcribed
+- [msg #800] 2025-12-10 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_305@10-12-2025_10-24-52.jpg` · text transcribed
+- [msg #806] 2025-12-20 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_306@20-12-2025_10-02-48.jpg`
+- [msg #807] 2025-12-20 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_307@20-12-2025_10-02-48.jpg` · text transcribed
+- [msg #809] 2025-12-26 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_308@26-12-2025_17-08-02.jpg` · text transcribed
+- [msg #810] 2025-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_309@31-12-2025_15-42-31.jpg`
+- [msg #811] 2025-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_310@31-12-2025_15-42-31.jpg`
+- [msg #812] 2025-12-31 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_311@31-12-2025_15-42-31.jpg`
+- [msg #816] 2026-01-12 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_312@12-01-2026_13-13-26.jpg` · text transcribed
+- [msg #818] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_313@15-01-2026_18-47-56.jpg` · text transcribed
+- [msg #819] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_314@15-01-2026_18-47-56.jpg` · text transcribed
+- [msg #820] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_315@15-01-2026_18-47-56.jpg` · text transcribed
+- [msg #821] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_316@15-01-2026_18-47-57.jpg` · text transcribed
+- [msg #822] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_317@15-01-2026_18-47-57.jpg` · text transcribed
+- [msg #823] 2026-01-15 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_318@15-01-2026_18-47-57.jpg` · text transcribed
+- [msg #825] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_319@19-01-2026_16-59-51.jpg`
+- [msg #826] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_320@19-01-2026_16-59-51.jpg` · text transcribed
+- [msg #827] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_321@19-01-2026_16-59-51.jpg`
+- [msg #828] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_322@19-01-2026_16-59-51.jpg`
+- [msg #829] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_323@19-01-2026_16-59-51.jpg`
+- [msg #830] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_324@19-01-2026_16-59-51.jpg`
+- [msg #831] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_325@19-01-2026_16-59-52.jpg`
+- [msg #832] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_326@19-01-2026_16-59-52.jpg` · text transcribed
+- [msg #833] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_327@19-01-2026_16-59-52.jpg` · text transcribed
+- [msg #834] 2026-01-19 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_328@19-01-2026_16-59-52.jpg`
+- [msg #847] 2026-02-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_329@16-02-2026_15-14-41.jpg` · text transcribed
+- [msg #848] 2026-02-16 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_330@16-02-2026_15-14-41.jpg` · text transcribed
+- [msg #858] 2026-03-08 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_331@08-03-2026_10-34-07.jpg` · text transcribed
+- [msg #859] 2026-03-11 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_332@11-03-2026_09-53-52.jpg` · text transcribed
+- [msg #862] 2026-03-30 · Physical comorbidities: sleep, pain, migraine and eating · `raw-exports/ChatExport_2026-11-22/photos/photo_333@30-03-2026_09-45-40.jpg` · text transcribed
+- [msg #872] 2026-04-23 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_334@23-04-2026_21-03-45.jpg`
+- [msg #881] 2026-08-03 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_335@03-08-2026_19-01-50.jpg` · text transcribed
+- [msg #882] 2026-08-17 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_336@17-08-2026_17-23-02.jpg` · text transcribed
+- [msg #884] 2026-09-07 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_337@07-09-2026_15-57-41.jpg` · text transcribed
+- [msg #885] 2026-09-09 · (unassigned) · `raw-exports/ChatExport_2026-11-22/photos/photo_338@09-09-2026_11-27-21.jpg` · text transcribed
+
+## video  (44)
+- [msg #53] 2023-11-18 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #56] 2023-11-20 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #74] 2023-12-11 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #106] 2024-02-19 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #120] 2024-03-13 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #147] 2024-04-02 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #171] 2024-05-04 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #199] 2024-06-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #227] 2024-07-12 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #229] 2024-07-17 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #244] 2024-07-31 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #251] 2024-08-10 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #299] 2024-09-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #305] 2024-09-27 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #316] 2024-10-05 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #326] 2024-10-11 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #341] 2024-10-19 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #344] 2024-10-24 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #348] 2024-10-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #359] 2024-11-08 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #373] 2024-11-19 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #410] 2024-11-28 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #417] 2024-12-01 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #423] 2024-12-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #484] 2025-01-20 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #494] 2025-01-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #538] 2025-03-01 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #556] 2025-03-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #561] 2025-03-20 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #567] 2025-03-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #568] 2025-03-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #610] 2025-04-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #613] 2025-04-16 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #637] 2025-05-07 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #645] 2025-05-14 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #667] 2025-06-07 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #741] 2025-09-21 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #743] 2025-09-22 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #764] 2025-10-03 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #786] 2025-11-13 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #808] 2025-12-25 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #849] 2026-02-16 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #875] 2026-06-03 · (unassigned) · `(not exported)` · *(not included in export)*
+- [msg #879] 2026-06-24 · (unassigned) · `(not exported)` · *(not included in export)*
+

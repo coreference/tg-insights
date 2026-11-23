@@ -127,10 +127,20 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 ### Remote, hybrid and the future of work  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Leadership & Organizations
 - File: `sources/tg-channels/deep-mind2.0/topics/work-technology-ai/remote-hybrid-future-of-work.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
 - How the deep mind channel read the shift from office work to remote and hybrid models (2019–2026) — why hybrid wins, who thrives or suffers remotely, how to build trust in distributed teams, what future employees will demand (health, family, learning, multistage life, schedules matching their rhythm), the BANI frame, and the collapse of stable careers toward solo-preneurship — plus the data the channel shared (Harvard, HBR/Gallup, PwC startup survey, 2021 expert consensus).
-- Concepts: `remote-work`, `work-life-balance`, `uncertainty-resilience`
+- Concepts: `remote-work`, `team-trust-feedback`, `uncertainty-resilience`, `work-life-balance`, `career-change`
 
 ### Small actions and social change: beating helplessness  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Society & Politics
 - File: `sources/tg-channels/human-machine/topics/social-psychology-society/small-actions-social-change.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
 - Why the belief that "you can't beat the big system" (the nirvana fallacy) stalls change, five historical cases where single or local actions grew into systemic change and the three factors behind their success, eight mechanics to remember when an individual contribution feels pointless, and the claim that helping others counters helplessness and depression.
 - Concepts: `social-change-activism`, `meaning-purpose`, `uncertainty-resilience`
+
+### How neurodivergent people rest and recover  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/overload-meltdowns-burnout/neurodivergent-rest-recovery.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- How the author (a psychologist writing for people with ADHD and autism) teaches rest — three kinds of rest and the order to combine them, how to learn to "do nothing" in small steps, why rest must be planned, how to recover socially after holidays, how to return to work gradually, resilience as flexibility and recovery rather than endurance, and a full year-review workbook ritual done with a close friend.
+- Concepts: `rest-and-recovery`, `self-reflection-tools`, `uncertainty-resilience`, `calendar-planning`, `future-orientation`
+
+### How religions and spiritual traditions made sense of trauma  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychiatry & Mental Health Care
+- File: `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- How Christianity, Islam, Hinduism, Buddhism and Indigenous/shamanic traditions explained traumatic suffering (punishment, test, purification, karma, broken connection, soul loss), which ancient texts describe what we now call PTSD symptoms, and why the author sees these explanations as forerunners of modern trauma therapy (meaning-making, mindfulness, reprocessing, social support).
+- Concepts: `trauma-and-nervous-system`, `meaning-purpose`, `loving-kindness-metta`, `meditation-mindfulness`, `psychotherapy`
 

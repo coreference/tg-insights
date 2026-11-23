@@ -1,8 +1,229 @@
-# Comorbid Chronic Conditions (part 2 of 2) — Нейропряность
+# Comorbid Chronic Conditions (part 2 of 3) — Нейропряность
 
 Full knowledge extracted from the Telegram channel “Нейропряность” on the domain “Comorbid Chronic Conditions”. Everything below comes only from the channel's own posts; opinions are attributed to their authors. Tags like [#123] are source message numbers. Original-language quotes are followed by an English translation in parentheses.
 
-Topics in this file: POTS, dysautonomia, ME/CFS and post-COVID; Talking to doctors and patient self-advocacy.
+Topics in this file: Mast cell activation syndrome (MCAS); POTS, dysautonomia, ME/CFS and post-COVID.
+
+## Mast cell activation syndrome (MCAS)
+
+### What this covers
+
+This topic gathers everything the channel Нейропряность posted about mast cells and mast cell activation syndrome (MCAS; in Russian САТК, «синдром активации тучных клеток»): what mast cells are and how they degranulate, how normal defensive activation turns into a self-sustaining pathological cycle, the very wide range of symptoms across body systems, the factors that contribute to it (infections, chronic stress, PTSD/cPTSD, early and medical trauma, genetics, hidden infections, toxic load, autoimmunity), and its connections to neurodivergence, hypermobile Ehlers-Danlos syndrome, POTS, IBS, PMDD and Alzheimer's disease. It also covers treatment options discussed in the channel — antihistamines, quercetin, anti-inflammatory diet, stress and nervous-system regulation, low-dose naltrexone (LDN) and benzodiazepines — with study data and the author's personal LDN story. [#39, #291, #318, #353, #689, #690, #827]
+
+According to the source, it matters because MCAS is more common than assumed, is frequently misread as "psychosomatic", is highly comorbid with neurodivergence, and substantially lowers quality of life; the author's stated goal is to spread information about MCAS and stress the importance of correct diagnosis and treatment «для улучшения качества жизни» (to improve quality of life) and to prevent repeated activations of mast cells. [#39, #291]
+
+### Core ideas
+
+- Mast cells are the body's first responders. They are innate-immune cells living in connective tissue all over the body; when activated they release stored mediators (histamine, cytokines, prostaglandins, proteases, heparin). Detail in *Mast cell activation cycle*. [#291, #695]
+- MCAS is defence that has gone out of control. A trigger makes the protective response pathological: mediators are released abnormally and excessively, harmless stimuli are treated as dangers, and the state can become chronic and self-sustaining. [#291]
+- Because mast cells are everywhere, MCAS is systemic. Symptoms range from anxiety, depression, brain fog and migraine to skin, gut, heart, reproductive and blood symptoms; see *MCAS symptom map by body system*. [#39, #291, #353]
+- Stress and trauma are triggers, not just allergens. Stress releases CRH, which activates mast cells; trauma reshapes the HPA axis and autonomic nervous system, which in turn shape mast cell behaviour. See *Trauma and MCAS model*. [#318, #689]
+- Histamine may drive PMDD. Elevated luteal-phase histamine is presented as a contributor to PMDD's mood, pain and cognitive symptoms; see *Histamine–PMDD mechanism model*. [#91, #92, #93, #94]
+- Chronic stress + mast cells may feed Alzheimer's pathology via neuroinflammation and beta-amyloid build-up — a risk, not a destiny. See the *vicious circle* framework. [#318]
+- Mast-cell-targeted therapies help neuropsychiatric symptoms. In a 553-patient survey, antihistamines, LDN and benzodiazepines were rated most helpful; see *Neuropsychiatric symptoms and treatment effectiveness*. [#690]
+
+### Frameworks, models and step-by-step methods
+
+#### Mast cell activation cycle (normal vs pathological activation)
+Purpose: to understand what mast cells normally do and what goes wrong in MCAS. [#291]
+
+1. Where mast cells are. Mast cells («тучные клетки») are a special type of cell of the innate immune system. They are present in the connective tissues of the whole body, especially in tissues of organs close to the external environment: the lungs, the gastrointestinal tract and the skin. The #695 post adds that they are a special kind of white blood cell living in connective tissue, with a key role in immune defence and allergic reactions; #39 notes that connective tissue is found practically everywhere in the body, which is why excess activation shows up in so many different ways. [#291, #695, #39]
+2. Their normal functions. They act as the first line of defence against pathogens and other potentially dangerous substances, and thanks to their wide distribution can react quickly to various irritants and initiate an immune response. They take part in: (a) protecting the body from pathogens; (b) allergic reactions; (c) inflammatory processes; (d) wound healing. [#291]
+3. Activation and degranulation. On activation mast cells release mediators — histamine, cytokines and prostaglandins — that regulate immune and inflammatory responses. #695 describes the process: on meeting an allergen the cell activates and starts degranulation (дегрануляция), the release of stored chemicals including histamine and heparin; these mediators are what cause redness, itching and swelling. Timelapse microframes (a video shared in #695, not transcribed) show the cell literally "exploding" its contents into the surrounding tissue. [#291, #695]
+4. Normal ending. In a healthy body the activation cycle ends once the "danger" has passed. [#291]
+5. Pathological activation = MCAS. MCAS is pathological activation of mast cells, characterised by abnormal and excessive release of mediators. It happens when the normal protective response gets out of control due to a particular trigger. As a result the immune system mistakenly perceives even harmless stimuli as dangerous and launches a protective reaction where normally none would happen. [#291]
+6. Chronicity. The condition can become chronic and turn into a self-sustaining cycle. [#291]
+
+#### MCAS contributing factors list
+The #291 article lists factors that contribute to developing MCAS (six items): [#291]
+1. Strong blows to the immune system (viral infections).
+2. Chronic stress / PTSD / cPTSD.
+3. Genetic factors.
+4. Hidden chronic infections.
+5. Toxic load.
+6. Autoimmune diseases.
+
+The earlier guide (#39) names everyday triggers explaining why MCAS is more common than we think: stress, herpes viruses, infections and toxic load. #689 widens the trigger list beyond allergens to hormones, infections, temperature changes and stress signals from the brain; the post stresses this list is not complete. [#39, #689]
+
+#### MCAS symptom map by body system (15 groups)
+Source: #353, "General symptoms of MCAS", based on a PMC review (PMC10672129). The post stresses there are many heterogeneous phenotypes that vary with where the mast cells are located, how many there are, and their ability to degranulate specific mediators. Symptoms can be constant or periodic and of varying severity. The full list as posted: [#353]
+
+1. Systemic: fatigue; subjective feeling of raised and/or lowered body temperature; sweating; appetite change; weight gain/loss; sensitivity to chemicals and physical factors; slow healing. [#353]
+2. Skin: urticaria (hives); itch; flushing; haemangiomas with itch/pain; various rashes; telangiectasias; stretch marks; skin papillomas (skin tags); folliculitis; ulcers; eczema; Quincke's oedema (angioedema); alopecia; onychodystrophy (nail dystrophy). [#353]
+3. Ophthalmological: irritation / "dryness" of the eyes; difficulty focusing; blepharospasm. [#353]
+4. Otological (ear/nose as grouped in the post): tinnitus; hearing loss; runny nose; rhinitis; nasal congestion; nosebleeds. [#353]
+5. Oropharyngeal: pain; burning; leukoplakia; ulcers; angioneurotic oedema; dysgeusia (taste disturbance); inflammation/destruction of teeth and/or periodontium. [#353]
+6. Lymphatic system: lymphadenopathy; rarely, splenomegaly. [#353]
+7. Respiratory system: dry cough; shortness of breath (difficulty taking a deep breath); wheezing; obstructive sleep apnoea. [#353]
+8. Cardiovascular system: pre-syncope (feeling faint); hypertension; labile blood pressure; palpitations; oedema; chest pain; Kounis syndrome (allergic angina). [#353]
+9. Gastrointestinal tract: dyspepsia; gastro-oesophageal reflux; abdominal pain; nausea; vomiting; diarrhoea and/or constipation; gastroparesis; Quincke's oedema; dysphagia (usually proximal); bloating (after meals or spontaneous); malabsorption. [#353]
+10. Genitourinary system: menorrhagia; pelvic pain; endometriosis; vulvodynia; vaginitis; dysmenorrhoea; miscarriages; infertility; dysuria. [#353]
+11. Musculoskeletal system: myalgias; migrating bone/joint pain; osteopenia/osteoporosis. [#353]
+12. Neurological: headache; migraine; sensory neuropathies; dysautonomia; episodic weakness; seizure disorders; non-epileptic seizures; cognitive dysfunction; insomnia; hypersomnia; restless legs syndrome. [#353]
+13. Psychiatric: depression; anger/irritability; mood lability; anxiety; panic; obsessive-compulsive disorders; attention deficit/hyperactivity syndrome (ADHD). [#353]
+14. Haematological: tendency to bruise; polycythaemia; anaemia. [#353]
+15. Immunological: hypersensitivity reactions; increased risk of malignant neoplasms and autoimmune diseases; impaired healing; increased susceptibility to infections. [#353]
+
+
+Shorter versions in other posts: the #291 article lists skin (itch, redness, rash, hives), gastrointestinal (nausea, abdominal pain, diarrhoea), respiratory (shortness of breath, nasal congestion), cardiovascular (rapid heartbeat, dizziness), neurological (headaches, "brain fog", memory problems) and musculoskeletal (joint and muscle pain) symptoms, noting «это не исчерпывающий список симптомов» (this is not an exhaustive list of symptoms). The #39 guide lists: anxiety; depression; "brain fog", memory and concentration problems; muscle and joint pain; migraine; chronic fatigue; heart problems; thyroid dysfunction; "…and many others". It adds that MCAS's effects extend to the whole body and can in particular worsen POTS (сПОТ), Ehlers-Danlos syndrome and IBS (СРК), conditions that are common in neurodivergent people, and that the symptoms point to a systemic, multifaceted syndrome that significantly affects quality of life. [#291, #39]
+
+#### Trauma and MCAS model (stress signals, HPA axis, autonomic nervous system)
+Source: #689, a translation of an Instagram post by @hyperresilient titled "Trauma can provoke mast cell activation syndrome". The model in six steps: [#689]
+1. Mast cells respond not only to allergens. Triggers can be hormones, infections, temperature swings and stress signals from the brain. Chronic stress and trauma make mast cells more sensitive over time. [#689]
+2. Stress and mast cells are connected. Stress makes the brain release CRH (corticotropin-releasing hormone). This activates mast cells, especially in the skin, gut and brain, causing release of histamine and inflammatory substances. [#689]
+3. Trauma can change the nervous system. Early trauma, PTSD or chronic stress can alter the HPA (hypothalamic–pituitary–adrenal) axis and the autonomic nervous system; both systems influence mast cell behaviour. [#689]
+4. Many people with MCAS report past trauma, including: childhood trauma; medical trauma; chronic stress; complex PTSD. These patterns are often seen both in research and in real life. Caveat from the post: this does not mean trauma is the only cause, but it can be part of the overall picture. [#689]
+5. That is why MCAS is often misunderstood. Symptoms can be triggered by "invisible" causes — emotions, memories or internal stress signals — not only allergens or external factors. [#689]
+6. MCAS is often complex; recovery may include calming the nervous system, supporting immune regulation, and working with trauma if it is part of one's history. [#689]
+
+#### Stress → CRH → mast cell → neuroinflammation → Alzheimer's vicious circle
+Source: #318, the author's post "Chronic stress, PTSD and mast cell activation: potential risk factors for Alzheimer's disease", continuing an earlier post on cPTSD vs PTSD and citing a review in *Frontiers in Cellular Neuroscience* (linked via PMC5733004). [#318]
+
+- Starting point (the review's claim): chronic stress can accelerate Alzheimer's disease (БА) pathogenesis in humans and animal models through increased inflammatory reactions, beta-amyloid accumulation, tau hyperphosphorylation, oxidative stress, mitochondrial dysfunction and disturbed glucose metabolism. [#318]
+- Step 1 — stress activates mast cells. Mast cells play an important role in the stress response: under stress, CRH is released and activates mast cells. [#318]
+- Step 2 — mediators damage the barrier. Activated mast cells release pro-inflammatory mediators including histamine, cytokines and proteases. These can disrupt the integrity of the blood–brain barrier and promote neuroinflammation. [#318]
+- Step 3 — mast cells start the cascade. Research quoted in the post says mast cells are the first cells to respond to brain injury because they can release pre-stored mediators — indicating a potential role in initiating the inflammatory cascade in brain trauma and stress. [#318]
+- Step 4 — the vicious circle. Chronic stress creates a loop: increased mast cell activation → more neuroinflammation → which may promote beta-amyloid accumulation and AD development. [#318]
+- Step 5 — microglia fail. Prolonged stress forms a closed cycle in which normal microglial function is disturbed. This lowers the brain's ability to clear harmful substances and increases beta-amyloid (Aβ) accumulation; inflammatory processes in nerve tissue intensify and neuron death speeds up. [#318]
+- Conclusion: mast cell activation in brain trauma, stress and PTSD may accelerate the pathogenesis of neuroinflammatory and neurodegenerative diseases including AD; stress management and regulation of mast cell activity could become new approaches to preventing and treating Alzheimer's. [#318]
+- Caveat and prevention: this does not mean everyone with chronic stress or PTSD/cPTSD will inevitably develop AD — AD depends on many factors including genetics, lifestyle and environment. But the risk exists, and awareness can motivate prevention: stress management, a healthy lifestyle, mast cell stabilisation and cognitive stimulation. The author closes: early prevention and timely treatment can significantly reduce risks and improve quality of life. [#318]
+
+#### Histamine–PMDD mechanism model
+Source: the carousel #88–#95, forwarded from the author's "Neurospicy_dushnila" channel, titled «ПМС или ПМДР?» (PMS or PMDD?). [#88]
+
+PMS vs PMDD distinction.
+- PMS (premenstrual syndrome) is fairly common; the card says 90% of women experience it «в период менструации» (in the period of menstruation). Typical symptoms: headaches; fatigue; bloating; irritability. [#89]
+- PMDD (premenstrual dysphoric disorder) is a serious mental condition in which women experience extreme mood swings and intense symptoms in the week before menstruation starts. Typical symptoms: sharp mood changes; depression; anxiety/tension; anger/rage. The card then asks what the cause might be. [#90]
+
+Histamine as a cause. Modern research, per the card, indicates that elevated histamine may significantly influence PMDD. Histamines are chemicals produced by the immune system in response to allergens, injuries or stress; they play roles in many body functions including regulation of sleep, digestion and mood. In people with PMDD histamine levels tend to be higher in the luteal phase preceding menstruation. [#91]
+
+Mechanisms (three bodily routes): [#92]
+1. Inflammatory reactions — histamine, being a pro-inflammatory mediator, can worsen PMDD symptoms such as pain, swelling and irritability.
+2. Effect on the hypothalamus — histamine can disturb the hypothalamus, the key regulator of the menstrual cycle, leading to hormonal imbalances.
+3. Muscle spasms — high histamine can cause spasms of the uterine smooth muscle, intensifying pain during menstruation.
+
+Brain route: histamines act as neurotransmitters in the brain, affecting mood, alertness and cognitive function. When histamine is elevated it can cause inflammation, especially in the brain; brain inflammation can disrupt neurotransmitter function and contribute to symptoms of depression and anxiety. Histamines can also influence other mood-regulating neurotransmitters such as serotonin and dopamine. [#93]
+
+PMDD symptoms caused by histamine: [#94]
+1. Anxiety and irritability — elevated histamine can increase anxiety and irritability during the luteal phase.
+2. Mood swings — fluctuating histamine can contribute to sudden mood changes in people with PMDD.
+3. Fatigue — histamine-induced brain inflammation can cause fatigue and lethargy.
+4. Cognitive symptoms — because of histamine's effect on neurotransmitters, "head fog", poor concentration and memory problems can occur.
+
+#### What to do about histamine-driven PMDD (4 measures)
+From the final card (#95), «Что делать?» (What to do?): [#95]
+1. Antihistamines may relieve some PMDD symptoms.
+2. Histamine-lowering supplements — supplements such as quercetin may help reduce histamine levels.
+3. Anti-inflammatory diet — avoid foods high in preservatives, alcohol and sugar; eat foods rich in omega-3 fatty acids and antioxidants.
+4. Stress management through mindfulness, physical exercise and relaxation techniques, plus stabilising the nervous system.
+
+Warning on the card (read from the image; the OCR captured only its end, «назначения любых добавок и препаратов»): always consult a doctor about prescribing any supplements and medications. [#95]
+
+#### Neuropsychiatric symptoms and treatment effectiveness in MCAS (553-patient survey)
+Source: #690, the channel's translation of an Instagram summary by @drtoddmaderis of a recently published study. [#690]
+
+- Aim: find out how often neuropsychiatric symptoms occur in people with MCAS and which treatments work best. It compared the frequency of neurological and psychiatric symptoms in more than 500 MCAS patients versus healthy people, and examined how therapies commonly used in MCAS — antihistamines, low-dose naltrexone (LDN) and benzodiazepines — affect these symptoms. [#690]
+- Method: researchers surveyed 553 MCAS patients and 558 controls with detailed questionnaires on (a) neurological symptoms — fatigue, clouded consciousness, migraines, neuropathy, fainting/pre-fainting, tinnitus, sensitivity to light/sound/smells, seizure states, insomnia, plus further unlisted items; (b) psychiatric symptoms — anxiety, depression, panic attacks, PTSD, OCD, mania/hypomania, psychosis/schizophrenia, hallucinations, plus further unlisted items. MCAS patients also rated how much specific therapies relieved these symptoms. [#690]
+- Findings — burden: neuropsychiatric symptom burden was significantly higher in MCAS patients than in controls. Leading neurological symptoms (over 70% of MCAS patients): fatigue; cognitive impairment; neuropathy; migraine-like headaches. Leading psychiatric symptoms (40–66%): anxiety; depression; panic attacks; PTSD. [#690]
+- Findings — treatments (patient ratings of relief, 0–10 scale): antihistamines 6.3; LDN 5.6; benzodiazepines 5.6. Neurological: LDN helped 29% with fatigue and cognitive impairment; benzodiazepines helped 51% with insomnia and 29% with restless legs syndrome. Psychiatric: benzodiazepines helped 70% with anxiety, 52% with panic attacks and 51% with agoraphobia; antihistamines and LDN were moderately effective for anxiety and depression. [#690]
+- Why it matters (per the summary): it is one of the largest studies to date on neuropsychiatric symptoms in MCAS; the data suggest mast cell dysregulation plays a key role in brain inflammation and psychiatric manifestations; standard psychiatric approaches may not account for the mast cell link; MCAS-targeted therapies, especially antihistamines, LDN and benzodiazepines, may significantly improve quality of life. The study underlines the importance of considering an MCAS diagnosis in patients with unexplained fatigue, cognitive impairment and treatment-resistant psychiatric symptoms. [#690]
+
+### Detailed insights
+
+#### Prevalence, recognition and diagnostic status
+- The #291 article opens with a common experience: coming to a doctor with many seemingly unrelated symptoms and complaints and hearing «Это всё психосоматика» ("It's all psychosomatic"). Such stories are often told by people diagnosed with MCAS. [#291]
+- The article states MCAS occurs in 17% of the world's population and can show up as chronic disturbances in different body systems. [#291]
+- MCAS is a relatively new diagnostic term: it appeared in the international ICD-10 edition only in 2016, under code D89.40. At the time of the post (November 2024) MCAS had not yet been officially introduced into clinical practice in Russia. [#291]
+- The #39 guide says MCAS is more common than we think because of various triggers met in everyday life. [#39]
+
+#### Comorbidity with neurodivergence and connective-tissue conditions
+- MCAS has high comorbidity with autism and with hypermobile Ehlers-Danlos syndrome, which is itself highly comorbid with neurodivergence (author's clarification in #318). [#318]
+- MCAS can worsen POTS, Ehlers-Danlos syndrome and IBS, which are common in neurodivergent people. [#39]
+- The #291 article lists, as topics for future posts, the influence of viruses on mast cell activation, MCAS comorbidity with connective tissue dysplasia, and how diagnosis of this difficult condition proceeds. (!) INCOMPLETE: those follow-up explanations are not part of this topic's messages. [#291]
+
+#### The author's MCAS guide (#39)
+The #39 post introduces a longer guide in which the author tried to collect what is currently known about MCAS. The guide promises to cover four sections: (1) what MCAS is; (2) how it affects the body; (3) the diagnostic process; (4) treatment approaches (medications, nutrition, supplements). (!) INCOMPLETE: the full guide is an external Teletype article that was not included in the source; only the teaser text (triggers, symptom list, linked conditions) is available here, so the diagnostic process and the medication/nutrition/supplement recommendations of the guide cannot be reproduced. [#39]
+
+#### Low-dose naltrexone for fibromyalgia and ME/CFS (#826)
+The author shared information for those interested in how effective low-dose naltrexone (LDN) is in fibromyalgia and ME/CFS (МЭСХУ), sourced from the Facebook group Fibromyalgia Support. The attached chart, "CureTogether — 104 Treatments for Fibromyalgia", plots patient-reported effectiveness (vertical axis, about −0.4 to 1.2) against popularity (horizontal axis, 0 to 1.0). Reading the image: [#826]
+- LDN sits alone at the top of the "Surprisingly effective" quadrant (top-left: high effectiveness, low popularity), at effectiveness of roughly 0.95 with popularity of about 0.2 — the highest-rated of the 104 treatments. Other items in that low-popularity, higher-effectiveness area include hydrotherapy, T3, gluten-free diet, qigong, Xyrem and marijuana. [#826]
+- Popular and fairly effective: rest (highest on the right, about 0.85), heating pad, sleep, hot shower/bath, reduce stress, massage, stretching, meditation, deep breathing, chiropractor, Vicodin, yoga, avoid alcohol, maintain hydration. [#826]
+- The "Popular but less helpful" quadrant (bottom-right) and the low band contain items such as limit caffeine, ibuprofen, acetaminophen, exercise, Aleve, ice, glucosamine, gabapentin, melatonin and vitamin D; several drugs sit near or below zero effectiveness: Lyrica, Elavil, Cymbalta, Wellbutrin XL, Prozac, Effexor XR, Savella, SAM-E, Xanax, Provigil. [#826]
+- Two further sources were linked: a Cort Johnson (Health Rising) article on LDN for fibromyalgia and chronic fatigue syndrome, and a PMC article (PMC8591911). Their contents were not provided. [#826]
+Numeric positions are approximate, read from the chart image.
+
+#### Personal case: LDN, MCAS and autoimmune thyroiditis (#827)
+The author takes LDN to stabilise mast cells because of her MCAS, and reports it also helped with her autoimmune thyroiditis (AIT). [#827]
+- 2024: an MRI of the neck showed "something wrong". Standard thyroid tests were normal, but P-TPO (thyroid antibodies) was 38 (upper limit 34), and ultrasound found AIT and a cyst, which was not biopsied (she says she fears such procedures and would probably have refused anyway). The endocrinologist told her simply to wait until the thyroid fails, since they were not going to treat it. [#827]
+- End of 2024: she finally obtained medication to stabilise MCAS — LDN was prescribed. She explained to doctors that she did not want to lose her thyroid and, since they could suggest nothing else, wanted to try a treatment suitable both for MCAS and for autoimmune problems. [#827]
+- October 2025: P-TPO had fallen to 28. Because the result was within the normal range, no repeat ultrasound was ordered, but she no longer feels such strong problems with the "lump" in her throat. [#827]
+- Her conclusion: she sees this as confirming her hypothesis that mast cell stabilisation can reduce thyroid inflammation, and was glad she secured the drug in Norway, as it at least paused the process of thyroid failure. This is a single personal case, not a study. [#827]
+
+### Tools and resources mentioned
+
+- Low-dose naltrexone (LDN) — used for mast cell stabilisation in MCAS; rated 5.6/10 by MCAS patients in the 553-patient survey; top of the CureTogether fibromyalgia chart; the author's personal verdict is positive (lowered thyroid antibodies, eased symptoms). [#690, #826, #827]
+- Antihistamines — highest patient rating (6.3/10) in the MCAS survey; moderately effective for anxiety and depression; suggested for histamine-driven PMDD. [#690, #95]
+- Benzodiazepines — rated 5.6/10; strongest reported help for anxiety, panic, agoraphobia and insomnia in the MCAS survey. [#690]
+- Quercetin — supplement cited as able to help lower histamine levels (PMDD carousel). [#95]
+- The author's MCAS guide (Teletype article «Синдром активации тучных клеток (САТК)») — the channel's compiled overview of MCAS: definition, body effects, diagnosis, treatment (medications, nutrition, supplements). [#39]
+- Review in Frontiers in Cellular Neuroscience (PMC5733004) — the basis of the stress/PTSD/mast cell/Alzheimer's post. [#318]
+- PMC review PMC10672129 — the source of the full MCAS symptom list; the post also points to the channel's article and a video about MCAS. [#353]
+- CureTogether "104 Treatments for Fibromyalgia" chart, a Cort Johnson article on LDN for fibromyalgia/CFS, and PMC8591911 — shared as evidence on LDN in fibromyalgia/ME-CFS. [#826]
+- Mast cell degranulation timelapse from the Telegram channel БиоТехнологии — visualises how a mast cell releases its contents. [#695]
+- «Астра» charity foundation — published the author's MCAS article. [#291]
+
+### Notable quotes
+
+> "Синдром активации тучных клеток встречается чаще, чем мы думаем" (Mast cell activation syndrome occurs more often than we think) — Анастасия [#39]
+
+> "В результате иммунная система ошибочно воспринимает даже безвредные раздражители как опасные" (As a result the immune system mistakenly perceives even harmless stimuli as dangerous) — Анастасия, «Астра» article [#291]
+
+> "Это состояние может перейти в хроническую форму и стать самоподдерживающимся циклом." (This condition can become chronic and turn into a self-sustaining cycle.) — Анастасия [#291]
+
+> "тучные клетки являются первыми реагирующими клетками при повреждении мозга, поскольку они могут высвобождать предварительно запасенные медиаторы." (mast cells are the first responding cells in brain injury because they can release pre-stored mediators) — research quoted by the author [#318]
+
+> "Это не значит, что травма — единственная причина, но она может быть частью общей картины." (This does not mean trauma is the only cause, but it can be part of the overall picture.) — @hyperresilient, translated by the channel [#689]
+
+> "Стандартные психиатрические подходы могут не учитывать связь с тучными клетками" (Standard psychiatric approaches may not account for the link with mast cells) — @drtoddmaderis summary [#690]
+
+> "стабилизация тучных клеток может уменьшить воспаление в щитовидке" (mast cell stabilisation can reduce inflammation in the thyroid) — Анастасия, on her own case [#827]
+
+### Caveats, disagreements and open questions
+
+- (!) INCOMPLETE: the full MCAS guide (#39) and the diagnostic-process material are in an external article not included; diagnostic criteria and the guide's diet/supplement protocol are not available. [#39]
+- (!) UNCLEAR: the PMDD carousel uses inconsistent abbreviations — ПМДР, «ПДМР» [sic] and «ПМР» [sic] — all apparently meaning PMDD; it also says PMS affects 90% of women «в период менструации» although PMS is premenstrual. The cards cite "modern research" without naming studies. [#89, #91]
+- The 17% prevalence figure (#291) is stated without a source in the post. [#291]
+- The 553-patient study's treatment results are patient self-ratings from questionnaires, relayed via an Instagram summary; the study itself is not named. Benzodiazepines appear among "effective" therapies; the source adds no caveats about them. [#690]
+- The Alzheimer's link is framed as a potential risk factor: the author explicitly says chronic stress or PTSD/cPTSD does not mean one will inevitably get AD. [#318]
+- Trauma is described as a possible contributor, not the only cause of MCAS. [#689]
+- The LDN–thyroid result is one personal case; no repeat ultrasound was done after the antibodies normalised. [#827]
+- Chart positions in #826 are approximate readings of a crowd-sourced (CureTogether) chart. [#826]
+- The PMDD card advises always consulting a doctor before taking any supplements or medications. [#95]
+
+### Resources and links
+
+Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
+
+#### Resources
+
+- ★ Cort Johnson (Health Rising) — Low dose naltrexone (LDN) for fibromyalgia and ME/CFS (article) — Article on how effective low-dose naltrexone is in fibromyalgia and ME/CFS; shared as information for those interested in LDN. [#826] → <http://www.cortjohnson.org/treating-chronic-fatigue-syndrome-mecfs/drugs-for-chronic-fatigue-syndrome-mecfs-treatment/low-dose-naltrexone-ldn-fibromyalgia-chronic-fatigue-syndrom/>
+- ★ Синдром активации тучных клеток (САТК) (Mast cell activation syndrome) (article) — The channel's own full article on MCAS: what it is, how to prevent repeated mast cell activation and improve quality of life; the author asks readers to spread it. [#39, #318] → <https://teletype.in/@neurospicyru/Sindrom-aktivacii-tuchnyh-kletok-02-21>
+- ★ PMC8591911 — article on low-dose naltrexone (study) — Scientific article on low-dose naltrexone passed on together with the Cort Johnson page (info from the Fibromyalgia Support group on Facebook). [#826] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC8591911/>
+- ★ Благотворительный фонд «Астра» (Astra charity foundation) website (website) — Website of a Russian charity foundation for patients with mast cell activation syndrome and related conditions, behind the MCAS video; offered to readers. [#291] → <https://bfastra.ru/>
+- PMC10672129 — review on mast cell activation syndrome (study) — Scientific source behind the channel's MCAS article and video, cited as the source. [#353] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC10672129/>
+- PMC5733004 — article linking chronic stress, PTSD, neuroinflammation and mast cells (study) — Scientific article cited for the link between chronic stress, PTSD, neuroinflammation and neurodegeneration, with mast cells as a key player. [#318] → <https://pmc.ncbi.nlm.nih.gov/articles/PMC5733004/>
+
+#### External links
+
+- Astra foundation Telegram chat (bfastrachat) (channel) — Telegram community chat of the Astra foundation, where people with MCAS exchange experience; the post invites readers to join. [#291] → <https://t.me/bfastrachat>
+- Astra foundation YouTube channel (@bfastra) (channel) — YouTube channel of the Astra foundation hosting its MCAS videos; the post invites readers to follow. [#291] → <https://www.youtube.com/@bfastra/>
+- Boost link to vote for the Telegram channel Нейропряность (channel) — Telegram boost link to support the channel, placed in the navigation footer of posts; asks readers to boost it. [#353] → <https://t.me/boost/neurospicyru>
+- Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#291] → <https://t.me/neurospicyru>
+- БиоТехнологии (Biotechnology) — Telegram channel (channel) — Science-video channel whose time-lapse of a mast cell 'exploding' with its contents was reposted; credited as the source of the video. [#695] → <https://t.me/biotehno>
+- @drtoddmaderis (profile) [#690] → <https://www.instagram.com/p/DMiq4-Fi6UQ/?img_index=5&igsh=MXZncG1yMm8zMm03NA==>
+- @hyperresilient (profile) [#689] → <https://www.instagram.com/p/DMm1Rw-sUKU/?igsh=dmdvYWIwbTRkajVx>
+- VK (profile) [#291] → <https://vk.com/bfastra>
+
 
 ## POTS, dysautonomia, ME/CFS and post-COVID
 
@@ -233,153 +454,4 @@ Every link and file shared in this topic's posts. Resources can be used directly
 - Astra foundation YouTube channel (@bfastra) (channel) — YouTube channel of the Astra foundation hosting its MCAS videos; the post invites readers to follow. [#287] → <https://www.youtube.com/@bfastra/>
 - Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#287] → <https://t.me/neurospicyru>
 - VK (profile) [#287] → <https://vk.com/bfastra>
-
-
-## Talking to doctors and patient self-advocacy
-
-### What this covers
-
-This topic gathers what the channel taught about being a patient with a complex, chronic or invisible condition: how to prepare for and run a doctor's appointment so that the problem is taken seriously, what to say when a doctor dismisses symptoms or refuses treatment, where to go next (second opinion, head of department, insurance company), and who is legally allowed to prescribe or adjust psychiatric medication in Russia. It also covers the community side — peer support versus professional expertise — and the emotional stance of living with chronic illness: the right to say "no, thank you" to advice and the idea of "giving up" temporarily in order to regroup. The sources frame this as important because patients with many symptoms and hard-to-diagnose illnesses routinely meet the situation where tests are "normal" and the doctor sees no problem [#536], and because nobody carries more responsibility for one's condition than the patient [#257].
-
-### Core ideas
-
-- Normal tests do not mean no illness, and communication has to be built deliberately. Patients with complex conditions often hear "your tests are normal"; preparation, good questions and specific wording increase the chance of an accurate diagnosis (see *Appointment preparation checklist*, *Six questions*, *Sannikov's scripts*) [#536, #537, #538, #540].
-- If a doctor won't help, change doctors and escalate. A second opinion is sometimes the most effective path; for ME/CFS, long COVID and POTS, look for vetted doctors via patient communities; rights violations go to the head of department/clinic or the insurance company (see *What to do if the doctor ignores symptoms*) [#539].
-- Only a psychiatrist or other relevant physician may decide on medication. Psychologists and other helping professionals may do primary psychological diagnostics but may not prescribe or adjust doses; a feldsher may do so only inside a licensed medical organisation (see *Rules on who may prescribe*) [#541, #564, #565].
-- Peer support is legitimate but is not expertise. Translating and sharing materials is a form of peer counselling; it does not replace professional help, and information from any source must be checked critically [#659].
-- Refusing advice is not refusing to get well. Saying "no" to courses, alternative treatments and "you just need to…" stories often means the person has already tried a lot and knows their body; responsibility for illness is unfairly shifted onto the sick [#803].
-- Self-responsibility and resilience. The patient knows themselves best; read research, find competent doctors and patient communities, and "give up" only to gather strength and come back with a new plan [#257].
-
-### Frameworks, models and step-by-step methods
-
-#### Appointment preparation checklist (6 items)
-Purpose: the non-profit «Не просто усталость» states that "good preparation helps the doctor understand your case faster" («Хорошая подготовка помогает врачу быстрее разобраться в вашем случае») — use it before any appointment for a complex, hard-to-diagnose condition [#537].
-1. Write down your symptoms — when they started, how they change, what makes them worse or better. A written timeline replaces vague recollection in the room [#537].
-2. Prioritise the symptoms by singling out the key complaints, so the most important problems are not lost among many [#537].
-3. Be ready to talk about chronic illnesses and family history [#537].
-4. Make a list of medications with doses and frequency, including dietary supplements (БАДы) [#537].
-5. Collect important test results and examinations and bring copies [#537].
-6. Formulate your questions in advance — "so you won't forget anything" [#537].
-
-#### Six questions to ask at an appointment
-Purpose: "to get the most out of an appointment, it is important to ask questions" (the card is illustrated with a still from *Scrubs* captioned «Я правда думаю, что лучшая часть моей работы - это общение с пациентами» (I really think the best part of my job is communicating with patients)) [#538].
-1. Which tests can confirm or rule out the diagnosis? [#538]
-2. Do any tests need to be repeated, or should additional tests be done? [#538]
-3. Is there a chance this is related to [the condition you suspect]? — the patient inserts the condition they themselves suspect [#538].
-4. What treatment options are there? What are the pros and cons of each? [#538]
-5. How soon can I expect improvement? [#538]
-6. What does this result mean? How significant is it? [#538]
-
-#### What to do if the doctor ignores symptoms or improvement never comes (5 options)
-Purpose: if the doctor brushes off your complaints, "there are several ways to protect yourself and get help" [#539].
-1. Try to build communication and ask clarifying questions — about tests, additional examinations, and referral to other specialists [#539].
-2. Seek a second opinion. If the doctor is clearly not interested in helping, look for another specialist; the card says this is "sometimes the most effective path" [#539].
-3. Go to vetted doctors for specific diseases. For ME/CFS, post-COVID syndrome, POTS and similar conditions, it is better to see trusted doctors whom you can find out about in patient communities [#539].
-4. Use doctors only within their specialty. Not all doctors are aware of diagnoses such as post-COVID syndrome and POTS; sometimes it makes sense to consult a doctor only within the scope of their own specialisation (rather than expecting them to handle the whole picture) [#539].
-5. Escalate rights violations. If a doctor violates your rights, you can turn to the head of the department or the outpatient clinic, or to your insurance company, to clarify the situation and protect your interests [#539].
-
-#### Sannikov's scripts for getting a correct diagnosis and attention from doctors
-Psychologist Alexei Sannikov offers "examples and methods that can help you get a correct diagnosis and attention from doctors". He stresses this is "not a guide to manipulation" but a memo for people who have serious difficulty getting the right diagnosis: «это не руководство к манипулированию, а именно памятка для тех, кто испытывает серьёзные трудности с получением верного диагноза» [#540].
-
-1. Prepare a list of the symptoms that bother you in advance. Why: it saves appointment time that can be spent on diagnostics and clarifying details; it signals the seriousness of your condition to the doctor up front; and it helps you form your own expectations of the visit and state in advance what you expect from the meeting [#540].
-2. Describe the impact on your life, stressing that it prevents you from functioning. Suggested phrasings (all [#540]):
-   - "This has a substantial negative impact on my life."
-   - "Because of this, my quality of life is significantly worse."
-   - "This makes life much harder for people close to me."
-   - "It prevents me from doing my necessary daily routine — for example, I can't eat properly, wash, it disrupts my sleep."
-   - "I had to take time off work because of the symptoms."
-   - "I am having great difficulty getting appropriate treatment for this problem."
-   - "My pain / discomfort can't be fixed by ordinary over-the-counter medication available for everyday use."
-3. If the doctor still refuses to prescribe treatment, ask for documentation. Scripts: «Пожалуйста, не могли бы вы указать – желательно в письменном виде – причину вашего отказа назначать мне название метода лечения ?» (Could you please state — preferably in writing — the reason you refuse to prescribe me [name of treatment]?) and ask for a copy of the doctor's medical notes about you after the appointment [#540].
-4. Point out that others have noticed the problem too. Scripts: "People I know noticed symptoms in me and pointed out it may be a serious problem"; "My pain / discomfort is bad enough to interfere with my sleep and/or walking" [#540].
-5. If you have a larger body and get prejudice and "advice" to lose weight: Sannikov suggests saying you recently lost a few kilograms (4–6, for example) and that this worsened your symptoms — this, he says, cuts off such (inappropriate) comments [#540].
-6. If everything is attributed to psychosomatics and you already have experience working on psychological issues: clarify that you have already discussed this with your mental-health specialists and they agree the problem is not psychosomatic [#540].
-7. If you are still refused treatment — the "trick" of asking for a referral. Scripts: "Could you please refer me to another specialist" — Sannikov admits this may sound like passive aggression, "but that is exactly what you may be aiming for here"; and "I would like to hear another opinion. Please refer me to one of your colleagues" [#540].
-
-#### Rules on who may prescribe and adjust psychotropic drugs (Russian law, as posted by the channel)
-Purpose: posted by Nastya "for even more clarification" after the warning about a non-psychiatrist giving dosage advice; her summary: «Фельдшер не имеет право консультировать или корректировать дозировки психотропных препаратов вне медицинской организации имеющей для этого лицензию» (A feldsher has no right to consult on or adjust doses of psychotropic drugs outside a medical organisation licensed for this) [#564].
-1. Prescribing and regulating psychotropic drugs (card 1). Under Order of the Ministry of Health and Social Development of Russia No. 252н of 23 March 2012, feldshers may perform the functions of an attending physician, including prescribing and using medicines (psychotropic ones included), only if those functions have been officially assigned to them by the head of a medical organisation, and only within a medical organisation when providing primary health care or emergency care. Federal Law No. 3-ФЗ "On Narcotic Drugs and Psychotropic Substances" (article 25) specifies that when prescribing or adjusting psychotropic doses, a feldsher must act within a medical organisation and make the corresponding entries in the medical records [#564].
-2. (!) INCOMPLETE: the cards jump from point 1 to point 3; point 2 was not among the posted images [#564, #565].
-3. Private practice (card 3). Private medical practice is regulated by article 56 of the Fundamentals of RF legislation on protecting citizens' health; it requires a licence for medical activity. However, regulating psychotropic doses outside a licensed medical organisation is prohibited [#565].
-4. Liability for violations (card 4). Illegal medical practice without a licence falls under article 235 of the Criminal Code of the RF; if the patient's health is harmed, this can lead to criminal liability up to imprisonment [#565].
-
-#### "Give up in order to regroup" — a stance for living with relapsing illness
-The author of a channel about functional neurological disorder (FND) cannot tell readers "never give up", because she has given up dozens of times. Instead: «сдавайтесь. Но сдавайтесь, чтобы набраться сил, узнать больше информации, разработать новый план действий и продолжить этот путь диагностики, лечения» (give up. But give up in order to gather strength, learn more information, develop a new plan of action and continue this path of diagnosis and treatment), which she calls potentially truly exhausting. The four components: (1) gather strength, (2) gather more information, (3) make a new action plan, (4) continue diagnosis and treatment [#257].
-
-### Detailed insights
-
-#### The FND author's experience: relapses, routine and trust in a doctor
-After the last round of illness she never fully recovered; in summer her tics worsened spontaneously and she is treating them now. Her observation: FND symptoms worsen when routine is disrupted and she has to rebuild it — however understanding she is of life's changing circumstances, "my brain seems unable to bear it." She does not expect deteriorations to stop: they will most likely come again, of unknown strength. What she can do is "balance on the waves of trials" and try not to fall off the "board of self-regulation". A stabilising factor is having a doctor she deeply trusts and who will help as far as medicine today can help people with FND [#257].
-
-#### Finding meaning through disability-rights community
-While her condition worsened she became interested in accessible environments, inclusion and disability rights and joined a community on the topic. There she realised that whatever state she is in, there will always be other people in the same state; and since she likes inventing ways to help herself and other people, "as long as my mind is alive" she can make the world more accessible in any state. This gives her strength to live, even though looking to the future can be frightening [#257].
-
-#### Recovery is possible, even when health is not
-Her message to readers: some things cannot be fully recovered from, but some unspeakably hard, frightening and painful things can. "Perhaps your psyche is more flexible than you think"; perhaps you have far more resources for coping than you suspect. «вам может стать лучше, чем сейчас. Даже если это лучше не означает ваше здоровье» (you can get better than you are now. Even if this "better" does not mean your health) [#257].
-
-#### Self-responsibility and self-education
-«Никто не знает вас лучше, чем вы. Ни один врач не несет ответственности за ваше состояние больше, чем вы сами» (No one knows you better than you. No doctor bears more responsibility for your condition than you yourself). Her concrete advice: read research, books and textbooks (possibly with a translator); look for understanding, competent doctors; look for patient communities and blogs — sometimes people with long experience of the illness know better how to cope with it; and create such communities. "You won't get better if you do nothing" [#257].
-
-#### Psychologists may diagnose but not prescribe — the Ivlev case
-Psychologist Anna Kostareva warned that a specialist well known in the neurodivergent community, Alexei Ivlev, "undermined trust": she was told, and says she saw the correspondence herself, that he gives direct recommendations on medications and dosages although he is not a psychiatrist and has no right to do so, and asks a neurologist (apparently an acquaintance) to pass on the prescription. Her rule: helping professionals may carry out primary psychological and similar diagnostics, but in no way prescribe medications or adjust their dosage. «вопросы препаратов может решать только психиатр или другой профильный врач, в зависимости от заболевания» (questions of medication can be decided only by a psychiatrist or another relevant physician, depending on the condition). She does not recommend him and urges caution, and suggests checking a specialist's education on their professional profile page [#541]. These are Kostareva's allegations as posted; the channel followed up with the legal arguments in *Rules on who may prescribe* [#564].
-
-#### Peer support versus expertise — Nastya's response to the "parrot" post
-Context: psychologist Valentina (Френдли Психолог) published a card titled «Перевод статьи - это не экспертиза» (Translating an article is not expertise), arguing that copying an abstract from PubMed is not enough to call yourself a scientist or expert — "at most you are an advanced parrot with a funny keyboard from a marketplace"; giving links without analysis is not science, since "even Wikipedia asks for sources"; and that in the Russian-speaking neurodivergent community translators of English-language resources have become the new "rock stars" and "experts" [#659]. Nastya suspects it was aimed at her (she had asked Valentina uncomfortable questions, which Valentina called aggression and "nitpicking") and at Yana Dzhumka, who had just released a 200-page guide for a symbolic price [#659].
-
-Nastya's position, in three points [#659]:
-1. She never considered herself an expert. That is hard without any education; she is here "to try, together with everyone, to figure out what we live with and what to do next", certainly not as an expert. She simply has language skills and had the resources to help people by translating material that she found interesting and that helped her.
-2. Helping and sharing new information is normal and needs no expert status. She calls it «равным консультированием (немного в другой форме)» (*peer counselling (in a somewhat different form)*): more experienced people help and share information that once helped them. Because community members live with neurodivergence and share similar difficulties, this is currently an important support for the community, which "has to help itself with what it has". «Это не заменяет профессиональной помощи, но тоже вариант поддержки» (This does not replace professional help, but it is also a form of support).
-3. The critic's inconsistency raises questions. An expert who complains in a video about toxicity in the neurodivergent community, while calling translators "advanced parrots" and uncomfortable questions "nitpicking", and who says she "doesn't create f*ing guides, let alone sell them", prompts doubts for Nastya.
-
-Shared caution: among bloggers and among those who pass themselves off as specialists there are people who exploit the vulnerability of neurodivergent people and profit from their trust, so «важно всегда проверять информацию и использовать критическое мышление вне зависимости от того, где мы получаем информацию» (it is important to always check information and use critical thinking regardless of where we get it) — inside the neurodivergent community or not. Nastya concludes that the community's contribution is voluntary, made from a wish to help; that the wording came from a specialist working with a vulnerable group; and that, since Valentina says she avoids publishing guides because she "knows the price of responsibility", words also carry responsibility [#659].
-
-#### The right to refuse advice (translated text by Kristina Vedel Nielsen)
-Title: «Я устала от того, что мой отказ воспринимается как нежелание поправляться» (I'm tired of my refusal being taken as unwillingness to get better). The author lists what she says "no, thank you" to: courses; alternative treatment; yet another "you just need to…"; stories like "have you heard about that woman who was cured thanks to…" [#803].
-
-What saying "no" does not mean: being negatively minded; not wanting to be healthy; having given up. Yet there are always people who "know better" what you should do, what is "really" necessary, which remedy you haven't tried yet, which story proves you just need to try harder — "as if illness were a choice, as if improvement depended only on effort." Mechanism named: «Когда заболевание хроническое, сложное или незаметное внешне, ответственность часто перекладывают на того, кто болен» (When an illness is chronic, complex or invisible, responsibility is often shifted onto the person who is ill) [#803].
-
-Sometimes "no" just means that you:
-- have already tried a great deal;
-- know your body;
-- are tired of being made to feel guilty for your own illness [#803].
-
-The constant need to prove that you want to recover badly enough, think "correctly" and do enough is "an additional burden that few people talk about". Closing affirmations: choosing rest over action is normal; setting boundaries is normal; and hoping without proving it to anyone is also normal [#803].
-
-### Notable quotes
-
-> «Вам не станет лучше, если ничего не делать.» (You won't get better if you do nothing.) — author of the FND channel [#257]
-
-> «Если врач явно не заинтересован в помощи, можно поискать другого специалиста для второго мнения» (If a doctor is clearly not interested in helping, you can look for another specialist for a second opinion) — АНО «Не просто усталость» [#539]
-
-> «Мне хотелось бы услышать ещё одно мнение. Направьте меня, пожалуйста, к кому-либо из ваших коллег.» (I would like to hear another opinion. Please refer me to one of your colleagues.) — Alexei Sannikov [#540]
-
-> «Сказать «нет» - не значит быть негативно настроенной.» (Saying "no" does not mean being negatively minded.) — Kristina Vedel Nielsen, translated by Nastya [#803]
-
-> «Выбрать покой вместо действий - это нормально.» (Choosing rest over action is normal.) — Kristina Vedel Nielsen, translated by Nastya [#803]
-
-### Caveats, disagreements and open questions
-
-- (!) CONTRADICTION (in tone, not fact): the FND author's stance that no doctor is more responsible for your condition than you, and that you won't improve by doing nothing [#257], sits in tension with the translated text arguing that responsibility for chronic illness is unfairly shifted onto the sick and that choosing rest over action is normal [#803]. Both also affirm "giving up"/resting as legitimate, so the difference is emphasis.
-- Sannikov's weight script (claiming a recent 4–6 kg loss that worsened symptoms) and the "refer me to another specialist" request are presented by him as a "trick" that may sound passive-aggressive; he explicitly frames the memo as not a manipulation guide [#540].
-- The accusation against Alexei Ivlev is Anna Kostareva's claim, based on correspondence she says she saw; the channel does not present the other side [#541].
-- The legal cards cover Russian law only and were posted as images; point 2 of the numbered cards is missing. The footnote numbers on the cards refer to sources that were not posted [#564, #565].
-- The "parrot" dispute is a personal conflict; only the arguments about peer support, expertise and critical thinking are extracted here, and Valentina's side is known only through her card and Nastya's account [#659].
-- #536's text invited readers to share their experience and announced a second part on ME/CFS and long COVID nuances; that second part is not among this topic's messages (!) INCOMPLETE [#536].
-
-### Resources and links
-
-Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
-
-#### Resources
-
-- ★ TikTok video by the author: psychotropic medication doses should not be advised or adjusted outside a licensed medical organisation (video) — The author's own short video repeating the post's message that only a licensed doctor can consult on or change psychotropic drug doses; made for the TikTok audience. [#564] → <https://vm.tiktok.com/ZNdLaQcAk/>
-
-#### External links
-
-- ★ Alex_Psy_Sun — author's personal Telegram account for direct messages (profile) — Personal Telegram profile of the post's author, offered as a way to send questions privately. [#540] → <https://t.me/Alex_Psy_Sun>
-- ★ Anonymous questions bot (Telegram) of the author (service) — Bot where readers can anonymously send questions, requests and stories to the author; the author reminds readers about it. [#540] → <https://t.me/anonimnyye_voprosy_bot?start=ac1gy>
-- na_spektre — Telegram channel (Yana's 200-page guide sold for a symbolic price) (channel) — Channel of the author who released a paid ~200-page guide; mentioned in a dispute about expertise and criticism of those giving advice. Referred to, not endorsed as a source. [#659] → <https://t.me/na_spektre>
-- @kristinavedelnielsen — author of the translated text (Telegram) (profile) — Telegram channel of the original author of the translated text on hope, boundaries and self-advocacy in healthcare; credited as the source, translation by Nastya of Нейропряность. [#803] → <https://t.me/kristinavedelnielsen>
-- b17.ru profile of the specialist (Alexei Ivlev) with his education details (profile) — Specialist's profile on the b17.ru directory, linked so readers can check his education and see that he is not a psychiatrist. Used as verification evidence in the warning. [#541] → <https://www.b17.ru/althum42/>
-- Ivlevpsy — Telegram channel of Alexei Ivlev, psychologist/specialist in the neurodivergent community (profile) — Channel of a specialist the post warns about: he allegedly gives direct medication and dosage recommendations without being a psychiatrist. Shown as a warning example, not a recommendation. [#541] → <https://t.me/Ivlevpsy>
 

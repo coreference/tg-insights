@@ -26,6 +26,7 @@ Links to products and shops (including book store pages), courses and programmes
 
 ## Work, study and relocation → [Neurodivergent people at work and university: job fit and accommodations](../topics/work-study-relocation/work-study-accommodations.md)
 
+- ★ **Дистинтэк (Telegram)** (channel) — Telegram channel of the initiative that employs autistic people in IT across Russia; listed among employment options. [msg #193] → <https://t.me/Distingtecit>
 - ★ **НЕЙРОТРОЕЧНИЦА! — Telegram channel of Tatyanida, autistic stand-up comedian** (channel) — Personal Telegram channel of the autistic stand-up comedian whose story about career and special interests is featured in the cards; readers are sent there for the continuation. [msg #371] → <https://t.me/goldonmywristautist>
 
 ## Work, study and relocation → [Autism and emigration](../topics/work-study-relocation/autism-emigration.md)

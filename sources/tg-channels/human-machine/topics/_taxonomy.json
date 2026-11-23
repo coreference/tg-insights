@@ -122,17 +122,17 @@
       "rest"
      ],
      "also_areas": [
-      "Rest & Burnout",
       "Mind & Emotions",
+      "Rest & Burnout",
       "Energy & Resource"
      ],
      "concepts": [
       "sensory-processing",
       "emotional-regulation",
-      "neurodiversity",
+      "meltdowns-shutdowns",
       "stress-and-anxiety",
       "rest-and-recovery",
-      "energy-management"
+      "neurodiversity"
      ],
      "ids": [
       365,
@@ -585,6 +585,7 @@
      "concepts": [
       "relationships-family",
       "nonviolent-communication",
+      "emotional-validation",
       "attachment-theory",
       "boundaries",
       "trauma-and-nervous-system"
@@ -2107,6 +2108,11 @@
    "id": 731,
    "kind": "other",
    "gist": "Humor meme about Marx's uncompromising politics and his beard before styling"
+  },
+  {
+   "id": 607,
+   "kind": "other",
+   "gist": "Photo-only post without text (event/cinema photo album)"
   }
  ]
 }

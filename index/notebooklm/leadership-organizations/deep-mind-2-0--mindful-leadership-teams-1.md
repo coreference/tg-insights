@@ -18,6 +18,12 @@ This part contains a single post (12 November 2026) in which the deep mind autho
 
 Relation to the existing topic file: the post extends the thesis that mindfulness-based leadership is moving into the mainstream (msg #1305) — here the author describes the moment when that shift reaches Russian-speaking society and meets rejection; it extends the earlier explanation that the neurotic mode is mainstream because upbringing through violence is passed down generations (msg #900) and that a person dissociated from body and emotions cannot create a different environment (msg #384), now applied to collective aggression; and it adds a new element to the compassion theme — compassion owed to the attackers themselves. No contradiction with the existing file was found [#1979].
 
+This part covers one post (3 February 2025) in which the deep mind author shares his new RBC Pro article, co-written with HR expert Elena Stupina, on practices and frames for "new leadership", together with his own summary longread «4 практики для лидеров в непредсказуемом мире» (4 practices for leaders in an unpredictable world). The longread gives four practices — dopamine fasting, empathic listening, Theory U and the team check-in — each with a mechanism, how-to and an optimal schedule [#1285, article #1285].
+
+Why it matters according to the source: the world is changing rapidly and "perhaps we are only entering a stage of truly unpredictable and fast changes", which demands from leaders the courage to try and find other foundations for leadership. The article's lead (photo of the RBC Pro page) states that leaders must learn to work with uncertainty, and the first steps are «отказаться от мелких улучшений в пользу масштабных, задействовать две системы мышления и развить осознанность» (to give up small improvements in favor of large-scale ones, to engage both systems of thinking and to develop awareness) [#1285, img #1285].
+
+Relation to the existing topic file: this part extends the existing theses that inner work and awareness come first (Equation Awareness = Empathy = Facilitative management, msg #321) and that management is learned through embodied skills such as "listening deeply" (msg #321) — here deep listening gets a concrete method and schedule. It extends the Compassionate leadership entry (active listening, msg #1024) with Otto Scharmer's empathic listening. It is consistent with the author's remark (msg #791) that his MSU management faculty education was scientific rather than applied: here he says «На факультете управления в МГУ меня ничему такому не учили» (At the MSU faculty of management they taught me nothing like this). No contradiction with the existing file was found [#1285].
+
 ### Core ideas
 
 - Inner work comes first; organizational methods without it are a facade. Awareness and empathy are the foundation of facilitative, non-violent, engaging leadership; personal practice must precede vertical development, horizontal non-violent communication and deep democracy. See *Equation Awareness = Empathy = Facilitative management* and *Ruslan Zaydullin's manifesto*. [#321, #384]
@@ -40,6 +46,12 @@ Relation to the existing topic file: the post extends the thesis that mindfulnes
 - In a bullying dynamic, the very rationality invoked by attackers stops working — the dispute is no longer about facts [#1979].
 - Authentic leadership means saying what you consider true before the environment is ready, and paying a price for it [#1979].
 - The new culture needs conscious care and public courage; the old one reproduces itself. Those who can feel and speak about it should treat that as a privilege and give attackers compassion as well as resistance [#1979].
+
+- Leaders need awareness of their own automatic stress reactions. The longread's premise: a leader must track automatic reactions to stress and notice moments when the brain "overheats" from workload or surrounding uncertainty — and that requires awareness [#1285].
+- Automatic, experience-based decisions are no longer enough. In a world of unprecedented challenges it is harder and harder to decide only by Kahneman's System 1; Theory U offers leading from deep awareness and intuition instead [#1285].
+- The practices fit into a working schedule. The four methods range from simple daily rituals to deep transformational practices; each can be built into the work schedule without breaking the usual rhythm while significantly improving the quality of managerial decisions [#1285].
+- Together they keep thinking clear under uncertainty. Combined, the tools help a leader preserve clarity of thinking and stay effective even in uncertain conditions [#1285].
+- These practices are not "simple". Unlike the RBC editors, whose headline calls them simple management practices for which an MBA degree is not needed, the author did not dare call them simple: they lie in a different plane from what management usually operates with [#1285, img #1285].
 
 ### Frameworks, models and step-by-step methods
 
@@ -278,6 +290,49 @@ Addressed to "us as a community of people going into the new"; he wants the stor
 3. Show new leadership publicly with more courage than before — "новое лидерство, осознанность, эмбодимент и прочие нормальные элементы зрелости" (new leadership, mindfulness, embodiment and other normal elements of maturity). Why: the old agenda needs no defense and reproduces itself "как пожар в осеннем лесу" (like a fire in an autumn forest), while the new exists only where someone dared to speak aloud [#1979].
 4. Handle your privilege carefully and keep compassion for attackers. The ability to feel, to notice one's body and state, and also to talk about it, remains a huge privilege that millions of people around us lack. And those who attack today deserve our compassion no less than a rebuff [#1979].
 
+#### Four practices for leaders in an unpredictable world
+Purpose: to develop the awareness that lets a leader notice stress automatisms and brain overload, and so make better decisions under uncertainty. The four "proven methods" chosen by the authors, each with its recommended schedule [#1285]:
+
+#### 1. Dopamine fasting (Дофаминовый фастинг)
+- What it is for. Coping with information overload through a temporary refusal of stimulating inputs [#1285].
+- What it involves. Stopping work, intense communication, content consumption and entertainment, and giving up rich ("насыщенной") food and sexual activity [#1285].
+- Why it works (per the source). The detox not only unloads the dopamine system but gives the body a chance to process accumulated stress hormones — cortisol and adrenaline [#1285].
+- Recommended add-on. The authors recommend complementing it with meditation or time in nature, where artificial stimuli are absent; this, they say, positively affects dopamine regulation and helps reach mental well-being [#1285].
+- Optimal schedule: «один вечер еженедельно, день ежемесячно или неделя раз в полгода» (one evening weekly, a day monthly, or a week once every six months) [#1285].
+
+#### 2. Empathic listening (Эмпатическое слушание)
+- Authority. Otto Scharmer, MIT professor, considers deep listening a key competence of leaders [#1285].
+- The problem. We usually listen from a closed position, merely rejecting facts that contradict our picture of the world [#1285].
+- What it teaches. To join the speaker's world and to notice one's own bodily and emotional responses to their presence [#1285].
+- How to practice:
+  1. Attentively observe the other person's gestures, tone and emotions, trying to understand what they feel [#1285].
+  2. Keep an open mind in the form of curiosity and acceptance of one's own not-knowing of reality [#1285].
+  3. Give the person time to answer [#1285].
+  4. Respect moments of silence — in them one can notice something new and find new responses to what was said [#1285].
+- Optimal schedule: in every extended dialogue, at least three to four times a week [#1285].
+
+#### 3. Theory U (Теория U)
+- Why it is needed. Leaders face unprecedented challenges, so deciding only from automatic reactions based on past experience (Kahneman's System 1) is increasingly hard. Theory U proposes focusing on a state of deep awareness and intuition and learning an advanced way of leading «предчувствуя будущее, которое частично уже здесь» (sensing in advance the future that is partly already here) [#1285].
+- The seven stages of transformation described by the methodology [#1285]:
+  1. Stopping automatic, stereotyped perception.
+  2. Open observation with a curious, non-judging mind.
+  3. Sensing the processes.
+  4. Connecting with the point or state of full presence.
+  5. Forming an intuitive vision.
+  6. Prototyping new solutions.
+  7. Implementing the new solutions.
+  (!) INCOMPLETE: the source lists the stages by name only and does not explain how to carry out each one.
+- Purpose. Developed at MIT, it offers a way to break out of the circle of endlessly repeating habitual patterns [#1285].
+- How to apply at work. For example, by bringing more awareness into work processes: in a dialogue, try to notice the body, listen deeply by asking open questions, and take in what is said without interpretations [#1285].
+- Use in staff training — Avito example. The practice can be used in employee training, as Avito does. Special attention is paid to team interaction: in a 100-person design department, principles of safe and effective communication have been practiced for a year. According to the source, the method positively affects employee motivation and the speed of creating a product or service and delivering it to the user [#1285].
+- Optimal schedule: once a week [#1285].
+
+#### 4. Check-in (Чек-ин)
+- What it is. A practice that improves team interaction: the first meeting of the day starts with each participant rating their state on a scale from 0 to 10, adding adjectives [#1285].
+- Rule. Vague descriptions such as «нормально» (fine / okay) are forbidden [#1285].
+- Why it works. Each employee understands how their colleague feels, which raises the level of trust and involvement. In addition, each employee understands that management treats them as a person, not as a function [#1285].
+- Optimal schedule: every day, during the team's first meeting [#1285].
+
 ### Detailed insights
 
 #### Compassion during hard decisions (firing, budget cuts, refusals)
@@ -468,6 +523,10 @@ The author says he worries for Dasha on a human level: however much resilience o
 
 > "И те, кто сегодня нападает, заслуживают нашего сочувствия не меньше, чем отпора." (And those who attack today deserve our compassion no less than a rebuff.) — author [#1979]
 
+> "В отличие от редакторов РБК, я не рискнул назвать их простыми. Скорее, они лежат в иной плоскости, чем принято оперировать в менеджменте." (Unlike the RBC editors, I did not dare call them simple. Rather, they lie in a different plane from what management is used to operating with.) — deep mind author [#1285]
+
+> "Лидеры должны учиться работать с неопределенностью." (Leaders must learn to work with uncertainty.) — RBC Pro article lead [#1285]
+
 ### Caveats, disagreements and open questions
 
 - (!) CONTRADICTION (tension between sources): Dalio's ninth quality praises intolerance of colleagues who do not meet one's quality standards and his list describes a heroic individual, while the author elsewhere argues ideal-leader lists are distorted by confirmation bias and contradictory, and Potential Project's research says the "lonely hero" model no longer delivers. The channel does not reconcile these. [#31, #121, #175]
@@ -493,17 +552,24 @@ The author says he worries for Dasha on a human level: however much resilience o
 - The author reports the critics' framing ("hiring by vibe instead of data") only to reject it; he states Zolotukhina never advocated managing a company on intuition alone [#1979].
 - Source typos preserved in meaning: "выпутил" [sic] (released) and "подверждает" [sic] (confirms) [#1979].
 
+- (!) UNCLEAR: the OCR of the RBC Pro page names the co-authors as «Елена Ступина (Innergy Human Capital Trust) и Максим Родин (Deep Mind)»; the existing topic file identifies the channel author as Max Timofeev. The source does not resolve this, and it may be an OCR error or a different byline [#1285].
+- (!) INCOMPLETE: the full RBC Pro article sits behind a paywall; only the author's summary of "his part" (the four practices) is available, so the article's other content — including the "abandon small improvements for large-scale ones" and "engage both systems of thinking" steps from the lead — is not explained beyond the lead sentence [#1285, img #1285].
+- The physiological claims (dopamine system unloading, processing of cortisol and adrenaline) and the Avito effects on motivation and delivery speed are stated by the authors without cited studies or figures [#1285].
+- The author's own hedge: the practices are not "simple", contrary to the editors' headline [#1285].
+
 ### Resources and links
 
 Every link and file shared in this topic's posts. Resources can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); external links lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
 
 #### Resources
 
+- ★ 4 практики для лидеров в непредсказуемом мире (4 practices for new leadership) (article) — The author's own free telegra.ph summary of his part of the RBC Pro article: four leadership practices that lie outside usual management thinking. [#1285] → <https://telegra.ph/4-praktiki-dlya-liderov-v-nepredskazuemom-mire-02-02>
 - ★ HBR: The Neuroscience of Trust (Paul Zak, 2017) (article) — Article cited as neuro-research that leaders' vulnerability and trust drive team performance. [#651] → <https://hbr.org/2017/01/the-neuroscience-of-trust>
 - ★ Kommersant: trauma-informed leadership (deep mind article) (article) — The authors' own text in Kommersant about practices forming trauma-informed leadership; they ask to share it. [#757] → <https://www.kommersant.ru/doc/5667383>
 - ★ Maxim Timofeev on vc.ru: stress leads to bad decisions, how to avoid them (translation by deep mind) (article) — Fresh translation by deep mind on widening one's leadership range under stress. [#665] → <https://vc.ru/u/401039-maksim-timofeev/408620-stress-vedet-k-prinyatiyu-plohih-resheniy-kak-ih-izbezhat>
 - ★ Setters Education: interview with Max Rodin, working with the state of people in teams (article) — Interview of Max Rodin with the education partner on state work as the new marketing. [#791] → <https://setters.education/blog/articles/maks-rodin-deep-mind-rabota-s-sostoyaniem-lyudej-v-komandah-novyj-marketing?utm_source=telegram&utm_medium=post&utm_campaign=max_rodin_deepmind>
 - ★ World Economic Forum: 6 skills AI cannot replicate (2020) (article) — Article on human skills such as non-verbal communication that AI cannot copy, supporting a need for soft skills. [#321] → <https://www.weforum.org/agenda/2020/10/these-6-skills-cannot-be-replicated-by-artificial-intelligence/>
+- ★ РБК Pro: article on new leadership practices (Resonance faculty) (article) — The RBC Pro article co-written by the author about leadership practices in an unpredictable world; paywalled, so the author also offers a free summary. [#1285] → <https://pro.rbc.ru/demo/679327349a794796201eaca3?from=newsfeed>
 - ★ deep mind programmes for teams (Notion page) (guide) — The authors' Notion overview of their practice-based programmes for team development, built on small repeated exercises. [#662, #706, #819, #900] → <https://dmcom.notion.site/Deep-Mind-049547592013465487a9fbab21e8f55d>
 - ★ Welcome to Deep mind Mindfulness Community (Notion page) (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [#651, #706, #819, #900] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
 - ★ deep mind world (web app/site) (website) — The authors' own site, linked as the signature of many posts, gathering their materials. [#1809] → <https://deepmindworld.vercel.app/>

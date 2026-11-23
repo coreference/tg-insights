@@ -19,8 +19,8 @@
       "autistic-burnout",
       "burnout",
       "masking-camouflaging",
-      "self-tracking",
       "sensory-processing",
+      "self-tracking",
       "neurodiversity"
      ],
      "ids": [
@@ -58,7 +58,8 @@
      ],
      "also_areas": [
       "Rest & Burnout",
-      "Mind & Emotions"
+      "Mind & Emotions",
+      "Psychiatry & Mental Health Care"
      ],
      "concepts": [
       "autistic-burnout",
@@ -85,7 +86,7 @@
     {
      "title": "Recovering from neurodivergent burnout",
      "slug": "burnout-recovery",
-     "scope": "Recovery from autistic/neurodivergent burnout: the two tasks of recovery, why plain rest fails, nervous-system tools (breathing, PMR, completing the stress cycle, sleep), sensory inventories and soothing kits, relearning boundaries after masking, and self-advocacy scripts and accommodation requests.",
+     "scope": "Recovery from autistic/neurodivergent burnout: the two phases of recovery, why plain rest fails, recovery plans and demand reduction, nervous-system tools, sensory inventories, soothing kits and restorative activities by sense, relearning boundaries after masking, deep recovery (unmasking, internalized ableism, grief), and self-advocacy scripts and accommodation requests.",
      "themes": [
       "burnout"
      ],
@@ -164,6 +165,7 @@
      "concepts": [
       "ableism",
       "productivity-culture-critique",
+      "self-esteem",
       "masking-camouflaging",
       "autistic-burnout",
       "self-compassion"
@@ -200,6 +202,7 @@
      "concepts": [
       "masking-camouflaging",
       "autistic-burnout",
+      "self-identity",
       "self-reflection-tools",
       "psychiatric-diagnosis",
       "neurodiversity"
@@ -317,13 +320,16 @@
      "themes": [
       "autism"
      ],
-     "also_areas": [],
+     "also_areas": [
+      "Psychiatry & Mental Health Care"
+     ],
      "concepts": [
       "psychiatric-diagnosis",
       "neurodiversity",
       "masking-camouflaging",
-      "sensory-processing",
-      "meltdowns-shutdowns"
+      "demand-avoidance-pda",
+      "meltdowns-shutdowns",
+      "sensory-processing"
      ],
      "ids": [
       29,
@@ -394,15 +400,17 @@
       "differential"
      ],
      "also_areas": [
+      "Psychiatry & Mental Health Care",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
      "concepts": [
       "psychiatric-diagnosis",
       "complex-ptsd",
-      "neurodiversity",
-      "autistic-burnout",
-      "depression"
+      "borderline-personality-disorder",
+      "bipolar-disorder",
+      "depression",
+      "neurodiversity"
      ],
      "ids": [
       43,
@@ -436,30 +444,34 @@
     {
      "title": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
-     "scope": "Brain connectivity and genetics of autism, fMRI subtypes, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable narcissism, paracetamol, Ozempic for ADHD).",
+     "scope": "Brain connectivity and genetics of autism, fMRI subtypes, why brain scans cannot yet diagnose psychiatric conditions or neurodivergence, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable narcissism, paracetamol, Ozempic for ADHD).",
      "themes": [
       "autism"
      ],
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health Care"
      ],
      "concepts": [
       "scientific-thinking",
       "brain-connectivity",
+      "psychiatric-diagnosis",
+      "behavioral-genetics",
       "biomedical-research",
       "neurodiversity"
      ],
      "ids": [
       57,
       130,
+      192,
       317,
       658,
       718,
       725,
       755
      ],
-     "count": 7
+     "count": 8
     }
    ]
   },
@@ -484,8 +496,8 @@
       "trauma-and-nervous-system",
       "emotional-regulation",
       "somatic-regulation",
-      "neurodiversity",
-      "sleep-hygiene"
+      "sleep-hygiene",
+      "neurodiversity"
      ],
      "ids": [
       34,
@@ -521,6 +533,7 @@
       "sensory-processing",
       "emotional-regulation",
       "executive-function",
+      "self-care",
       "stress-and-anxiety",
       "neurodiversity"
      ],
@@ -758,14 +771,16 @@
       "adhd"
      ],
      "also_areas": [
-      "Attention & Digital Wellbeing"
+      "Attention & Digital Wellbeing",
+      "Mind & Emotions"
      ],
      "concepts": [
-      "neurodiversity",
       "rejection-sensitivity",
       "executive-function",
+      "rumination",
+      "emotional-regulation",
       "focus-attention",
-      "emotional-regulation"
+      "neurodiversity"
      ],
      "ids": [
       42,
@@ -792,7 +807,7 @@
     {
      "title": "Complex trauma (C-PTSD) in neurodivergent lives",
      "slug": "complex-trauma-neurodivergent",
-     "scope": "C-PTSD versus PTSD, emotional flashbacks, people-pleasing and hypervigilance, trauma from a misunderstood neurodivergent childhood or late diagnosis, trauma-related memory loss, gaslighting in relationships and therapy goals.",
+     "scope": "C-PTSD versus PTSD, emotional flashbacks, why autistic and late-diagnosed neurodivergent people are more vulnerable to trauma and PTSD (dual representation model, sensory and stress-system differences), people-pleasing and hypervigilance, trauma-related memory loss, gaslighting in relationships and therapy goals.",
      "themes": [
       "complex"
      ],
@@ -803,12 +818,13 @@
      "concepts": [
       "complex-ptsd",
       "trauma-and-nervous-system",
-      "relationships-family",
       "masking-camouflaging",
-      "shame",
+      "relationships-family",
+      "dissociation",
       "psychotherapy"
      ],
      "ids": [
+      217,
       301,
       305,
       466,
@@ -818,12 +834,12 @@
       785,
       787
      ],
-     "count": 8
+     "count": 9
     },
     {
      "title": "Medical gaslighting and medical trauma",
      "slug": "medical-gaslighting-trauma",
-     "scope": "How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, erodes trust in body signals, and how autism traits collide with chronic illness demands.",
+     "scope": "How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, including a first-person FND illness story of harmful versus helpful doctor behaviour, how it erodes trust in body signals, and how autism traits collide with chronic illness demands.",
      "themes": [
       "medical"
      ],
@@ -833,20 +849,22 @@
      ],
      "concepts": [
       "medical-gaslighting",
-      "trauma-and-nervous-system",
       "chronic-illness",
+      "trauma-and-nervous-system",
       "ehlers-danlos-hypermobility",
+      "patient-advocacy",
       "neurodiversity"
      ],
      "ids": [
       106,
+      256,
       378,
       508,
       666,
       766,
       780
      ],
-     "count": 6
+     "count": 7
     },
     {
      "title": "Anxiety and panic: CBT and body-based coping",
@@ -1267,11 +1285,6 @@
    "gist": "Poll on attending the Wednesday 11 Sept 18:00 MSK online meeting"
   },
   {
-   "id": 192,
-   "kind": "promo",
-   "gist": "Forwarded from На спектре: link to a telegra.ph article on why brain scans (MRI, CT) are still not used to diagnose mental disorders"
-  },
-  {
    "id": 194,
    "kind": "logistics",
    "gist": "Forwarded programme with timetable of talks for the Нейроотличники conference (masking, hyperfocus, anxiety in ASD, friendships, noise sensitivity, sensory diet) and Zoom link"
@@ -1327,11 +1340,6 @@
    "gist": "Poll on topics for the 22 Sept 14:00 MSK online meeting (burnout and accommodations, sensory overload, interoception training, neurodivergence and physical health)"
   },
   {
-   "id": 217,
-   "kind": "promo",
-   "gist": "Forwarded from На спектре: link to a telegra.ph article on autism and traumatic experience"
-  },
-  {
    "id": 218,
    "kind": "announcement",
    "gist": "Forwarded report on the St Petersburg '[НЕ]Конференция' session on post-COVID and ME/CFS, with a listener quote that anyone suffering deserves support regardless of psychosomatic vs biological cause"
@@ -1350,11 +1358,6 @@
    "id": 255,
    "kind": "promo",
    "gist": "Forwarded from Autentik AI: Toximeter message-toxicity bot now on WhatsApp with experimental text-from-image recognition"
-  },
-  {
-   "id": 256,
-   "kind": "personal-update",
-   "gist": "Forwarded from ФНР channel: links to the five-part personal story of falling ill with functional neurological disorder"
   },
   {
    "id": 258,
@@ -2395,6 +2398,11 @@
    "id": 836,
    "kind": "announcement",
    "gist": "Forward from Outsiderville: free online webinar on loneliness, creativity and art on 10 October with psychologists and resident artists"
+  },
+  {
+   "id": 321,
+   "kind": "announcement",
+   "gist": "Forwarded from Нейр∞тлично: title post of neurodivergent_lou series on autistic traits she thought she lacked and how they actually showed up"
   }
  ]
 }

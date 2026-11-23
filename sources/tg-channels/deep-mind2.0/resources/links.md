@@ -225,10 +225,13 @@ Links to products and shops (including book store pages), courses and programmes
 ## Organizations & Corporate Culture → [Self-management and new organization models](../topics/organizations-corporate-culture/self-management-org-models.md)
 
 - ★ **Frederic Laloux — Reinventing Organizations (Открывая организации будущего / Новый взгляд на организации)** (book) — Book proposing turquoise organisation model with horizontal management; publisher page. [msg #875] → <https://www.mann-ivanov-ferber.ru/books/novyj-vzglyad-na-organizacii/>
+- ★ **Otto Scharmer — Теория U (Theory U), Mann, Ivanov and Ferber** (book) — The main book on Theory U, listed first among key books. [msg #226] → <https://www.mann-ivanov-ferber.ru/books/teoriya-u/>
 - ★ **Reed Hastings and Erin Meyer — No Rules Rules: Netflix and the Culture of Reinvention (Никаких правил)** (book) — Book on the Netflix culture and managing by context; Litres page. [msg #442] → <https://www.litres.ru/rid-hastings/nikakih-pravil-unikalnaya-kultura-netflix/?utm_source=google&utm_medium=cpc&utm_campaign=search_dsa_ohvat_f%7C2087774395&utm_term=&utm_content=433453034319%7Bphrase_id%7D_%7Bsource%7D_%7Bsource_type%7D_%7Bregion_name%7D_9047117&param_2=987239&gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6iThivHd0okp8-_ov9rRvTsDmn_2XGZ0lxYTQnrMx1KUPAuQzQNSIUaAu3gEALw_wcB>
+- ★ **Салим Исмаил и др. — Взрывной рост (Exponential Organizations)** (book) — Book on why exponential organizations are tens of times more productive; the author calls it a future classic of management and a must-read for entrepreneurs and leaders. Link to the Alpina store page. [msg #226] → <https://www.alpinabook.ru/catalog/book-115583/>
 - ★ **Sociocracy 3.0 practitioners community channel (Telegram)** (channel) — Community channel recommended for following S3. [msg #875] → <https://t.me/sociocracy3>
 - ★ **IAPOP: Глубинная демократия (Deep Democracy, Arnold Mindell)** (website) — Institute page on the philosophy of deep democracy by physicist and facilitator Arnold Mindell, recommended for conflict work in teams. [msg #383] → <https://iapop.com/ru/%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F/>
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #116] → <https://t.me/mindfulleadersrussia>
+- **Salim Ismail — personal website** (profile) — Personal site of the author of Exponential Organizations and head of Singularity University; shared as background on the book's author. [msg #226] → <http://www.salimismail.com/>
 
 ## Organizations & Corporate Culture → [Founder lessons from building a meaning-driven company](../topics/organizations-corporate-culture/founder-lessons-meaning-driven-business.md)
 
@@ -497,9 +500,11 @@ Links to products and shops (including book store pages), courses and programmes
 - ★ **Light Phone (minimalist phone)** (product) — Minimalist phone that filters distractions; the author is considering buying it as part of the focused-tools trend. [msg #1042] → <https://www.thelightphone.com/>
 - ★ **reMarkable 2 e-paper notebook-tablet** (product) — Norwegian e-ink notebook tablet the author loves and bought twice (one as a gift); presented as a focused, distraction-free digital tool. [msg #1042] → <https://remarkable.com/>
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1386, #1542, #1745, #1753] → <https://t.me/mindfulleadersrussia>
+- **РБК Pro — Deep Mind author tag page** (channel) — RBC Pro tag page with the author's columns, including the JOMO piece; paywalled publication listing. [msg #1579] → <https://pro.rbc.ru/tags/?tag=deep%20mind>
 - **deep mind asynchronous programme (emotion regulation)** (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [msg #795] → <https://bit.ly/3aqOYlI>
 - **Mike Yan (itsmikeyan), Telegram channel** (profile) — Telegram channel of a Silicon Valley entrepreneur acquaintance whose method for reducing attention load the author borrowed. [msg #1548] → <https://t.me/itsmikeyan>
 - **deep mind consulting (b2b site)** (website) — Company website for corporate offers, footer link. [msg #795] → <http://deepmindconsulting.ru/>
+- **deep mind consulting (company website)** (website) — The author's company website with mindfulness leadership programmes; linked beside the deep mind 4-level model of mindfulness. [msg #1579] → <https://deepmindconsulting.ru/>
 
 ## Attention & Digital Wellbeing → [Neurodiversity: ADHD, autism and masking](../topics/attention-digital-wellbeing/neurodiversity-adhd-autism.md)
 
@@ -509,7 +514,7 @@ Links to products and shops (including book store pages), courses and programmes
 
 - ★ **Jason Fried and David Heinemeier Hansson — Remote: Office Not Required (Russian edition, MIF)** (book) — Recommended as the basic book on remote work; link to publisher's store page. [msg #161] → <https://www.mann-ivanov-ferber.ru/books/paperbook/remote-office-not-required/>
 - ★ **Lynda Gratton — Redesigning Work: How to Transform Your Organization and Make Hybrid Work for Everyone** (book) — Book by the London Business School professor whose research underlies the post's trends in employee demands; link to Amazon. [msg #797] → <https://www.amazon.com/Redesigning-Work-Transform-Organization-Management/dp/0262544989>
-- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1014, #1734] → <https://t.me/mindfulleadersrussia>
+- **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #619, #1014, #1734] → <https://t.me/mindfulleadersrussia>
 - **deep mind asynchronous programme (emotion regulation)** (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [msg #797] → <https://bit.ly/3aqOYlI>
 - **Ивент от наших парнетров - 21.03. 15:00** (profile) [msg #161] → <https://www.facebook.com/events/664773847675205/>
 - **Инна Лалетина** (profile) [msg #396] → <https://www.instagram.com/inna_processwork/>
@@ -545,6 +550,8 @@ Links to products and shops (including book store pages), courses and programmes
 - **Vilya, Telegram channel (post 369)** (channel) — Author who wrote about trauma work and psychotherapy boom in Russia; named as a related reading. [msg #1028] → <https://t.me/vilyahere/369>
 - **deep mind asynchronous programme (emotion regulation)** (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [msg #846] → <https://bit.ly/3aqOYlI>
 - **/ Даниэла Довганич** (profile) [msg #828] → <https://instagram.com/daniela__may?igshid=YmMyMTA2M2Y=>
+- **Психотерапевт Андрей Юдин:** (profile) [msg #611] → <https://www.facebook.com/yudin.andrei>
+- **психотерапевтки Ирины Катин-Ярцевой:** (profile) [msg #611] → <https://www.facebook.com/katinyartseva>
 - **deep mind consulting (b2b site)** (website) — Company website for corporate offers, footer link. [msg #846] → <http://deepmindconsulting.ru/>
 - **Max Rodin (personal site)** (website) — Personal site of Maxim Rodin, footer of the deep mind ecosystem links. [msg #1860, #1876, #1942] → <https://maxrodin.vercel.app/>
 
@@ -596,6 +603,7 @@ Links to products and shops (including book store pages), courses and programmes
 
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The authors' own Telegram channel, used as footer link. [msg #1651] → <https://t.me/mindfulleadersrussia/>
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1699, #1727] → <https://t.me/mindfulleadersrussia>
+- **Telegram channel of the article's author (Хрупкие боги)** (channel) — Private invite link to the Telegram channel of the author of «Террор этики и этика террора»; listed as the author's channel. [msg #1331] → <https://t.me/+acPtgNmrObYwMDMy>
 - **их в такой луже** (profile) [msg #445] → <https://www.facebook.com/romasuper/posts/4779456685403501>
 - **пост в** (profile) [msg #1727] → <https://www.facebook.com/timofeevmi/posts/pfbid0WeUVpWcZAUzqNvNYtpCZzKeJvnSkNotZTTvvt3fxAPMPmGuiX5nqNCvpEQCLqmzNl>
 - **соседний** (profile) [msg #1727] → <https://www.facebook.com/timofeevmi/posts/pfbid0FPsb6uG5NJNiKsnefXfEgzUzC5KPzpwfEo9gKPSLs38xeceHCotF2CpBaeEH1QYal>
@@ -681,6 +689,7 @@ Registration and event logistics, cross-references to channel posts and broken l
 - гималайского путешествия — cross-reference to this channel's own post [msg #1635] · Self-regulation techniques for stress and anxiety → <https://t.me/mindfulleadersrussia/1619>
 - писал про гиперактивацию — cross-reference to this channel's own post [msg #1704] · Self-regulation techniques for stress and anxiety → <https://t.me/mindfulleadersrussia/1640>
 - продолжим — cross-reference to this channel's own post [msg #404] · Coping with anxiety, panic, depression and personal crisis → <https://t.me/mindfulleadersrussia/398>
+- Resonance — cross-reference to this channel's own post [msg #1285] · Qualities of mindful and compassionate leaders → <https://t.me/mindfulleadersrussia/1259>
 - Мастерхартах, — cross-reference to this channel's own post [msg #942] · Qualities of mindful and compassionate leaders → <https://t.me/mindfulleadersrussia/856>
 - [продолжение — cross-reference to this channel's own post [msg #919] · Toxic leadership, power and workplace ethics → <https://t.me/mindfulleadersrussia/918>
 - причиняем боль другим из-за собственной боли — cross-reference to this channel's own post [msg #919] · Toxic leadership, power and workplace ethics → <https://t.me/mindfulleadersrussia/828>
@@ -845,6 +854,8 @@ Registration and event logistics, cross-references to channel posts and broken l
 - работу с зависимостью от экрана — cross-reference to this channel's own post [msg #1753] · Digital detox and healthy screen habits → <https://t.me/mindfulleadersrussia/1689>
 - экрана, который встроился в мою систему регуляции состояний — cross-reference to this channel's own post [msg #1689, #1745, #1753] · Digital detox and healthy screen habits → <https://t.me/mindfulleadersrussia/1678>
 - Telegram post: Headlines for Traders on IMF forecasts — cross-reference [msg #365] · Remote, hybrid and the future of work → <https://t.me/headlines_for_traders/2722>
+- Как мы помогаем командам снизить стресс сотрудников и обрести эмоциональную устойчивость. — cross-reference to this channel's own post [msg #619] · Remote, hybrid and the future of work → <https://t.me/mindfulleadersrussia/607>
+- Про mindfulness и crypto сообщества deep mind — cross-reference to this channel's own post [msg #619] · Remote, hybrid and the future of work → <https://t.me/mindfulleadersrussia/613>
 - Ранее — cross-reference to this channel's own post [msg #645] · Remote, hybrid and the future of work → <https://t.me/mindfulleadersrussia/619>
 - Bot link to apply to the speaker lineup — logistics [msg #1707] · AI and the human transition → <https://t.me/deepmindco_bot?start=link_DJefA4R51O>
 - Registration for the AI workshop for psychotherapists+ (25 June) — logistics [msg #1819] · AI and the human transition → <https://t.me/deepmindco_bot?start=link_bNBZHk0wGg>

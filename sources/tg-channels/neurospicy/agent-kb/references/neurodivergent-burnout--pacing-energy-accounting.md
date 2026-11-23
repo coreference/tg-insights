@@ -5,8 +5,11 @@ topic: Pacing and energy accounting
 slug: pacing-energy-accounting
 messages: 8
 date_range: 2024-02-11..2025-04-03
-summary: How the channel teaches neurodivergent people to manage limited energy during and after burnout — the causes of burnout and the boom-bust cycle, pacing and energy accounting (spoons, energy "checkbook", traffic-light calendar), a do-or-don't flowchart for activity versus rest, a daily health tracker for chronic pain, the Mankoski 0–10 pain scale, and a note on why exercise can make things worse.
+summary: How the channel teaches neurodivergent people to manage limited energy during and after burnout — energy accounting as a budget (spoons, battery, physical/social/cognitive energy, the five-step recovery method with the 20–40% reserve rule), the causes of burnout and the boom-bust cycle, pacing and energy accounting (spoons, energy "checkbook", traffic-light calendar), a do-or-don't flowchart for activity versus rest, a daily health tracker for chronic pain, the Mankoski 0–10 pain scale, and a note on why exercise can make things worse.
 answers:
+  - What is energy accounting and how is it like a money budget?
+  - How much energy should I leave at the end of the day when recovering from autistic burnout?
+  - What kinds of energy are there, and how do I tell my 0%, 50% and 100% levels apart?
   - What is pacing and how does it help with neurodivergent burnout?
   - What is the boom-bust cycle and why does it make recovery from burnout slower?
   - Why do neurodivergent people burn out in the first place?
@@ -18,6 +21,11 @@ answers:
   - Why can exercise make me feel worse instead of better?
   - What ways of energy accounting exist besides spoon theory?
 frameworks:
+  - Energy accounting as an energy budget (spoon theory, battery, beans)
+  - Why autistic burnout needs energy accounting (five points)
+  - Kinds of energy: physical, social, cognitive (four benefits of distinguishing them)
+  - Five-step energy-accounting method for recovering from autistic burnout
+  - Energy-level table (0% / 50% / 100% by energy type)
   - Causes of neurodivergent burnout (three drivers)
   - Pacing (load distribution) against the boom-bust cycle
   - Traffic-light energy calendar (Lena Movshina's four-step setup)
@@ -32,7 +40,11 @@ themes:
   - autism
 terms:
   - пейсинг (пейсинг, система распределения нагрузки) | pacing — dosing and distributing load so that activity stays at a more stable level instead of alternating bursts and crashes; from English "pace" | 52, 132
-  - учёт энергии | energy accounting — tracking how much energy activities take and give, as a way to manage limited resources in autistic burnout | 30, 132
+  - учёт энергии | energy accounting — perceiving energy as a limited resource planned like a money budget; measuring how much energy you have and what tasks and stressors cost | 30, 132
+  - теория ложки | spoon theory — Christine Miserandino's model: each person has a personal number of energy "spoons" and tasks cost spoons | 30
+  - ложечники | spoonies — what people with limited energy sometimes call themselves | 30
+  - долг по энергии | energy debt — spending more than you have; the deficit autistic burnout keeps people in | 30
+  - физическая / социальная / когнитивная энергия | physical / social / cognitive energy — the article's three energy categories | 30
   - цикл "взлет-падение" | boom-bust cycle — periods of intense activity followed by a sharp drop in energy | 52, 132
   - цикл "пинок себя-падение" | "kick-yourself–crash" cycle — Lena Movshina's own variant of boom-bust: forcing oneself into activity, then crashing | 132
   - система ложек | spoon system (spoon theory) — one of the energy-accounting methods named in the pacing article | 132
@@ -42,6 +54,9 @@ terms:
   - мелтдаун / шатдаун | meltdown / shutdown — episodes logged in the health tracker with triggers, description and what helped | 123
   - шкала боли Манковски | Mankoski pain scale — 0–10 numeric pain scale with functional and medication descriptors | 425
 people:
+  - Dr Alice Nicholls (Доктор Элис Николлс) | clinical psychologist; author of the original energy-accounting article; quoted on change versus rest | 30
+  - Christine Miserandino (Кристин Мизерандино) | creator of spoon theory (butyoudontlooksick.com) | 30
+  - Рина (Rina) | co-translator/adapter of the energy-accounting article with Nastya | 30
   - Настя (Nastya) | channel author; translated the pacing article, co-translated the energy-management guide, designed the health tracker and the flowchart card | 52, 69, 123, 289
   - Настя (Фiу-фiу / Fiu-fiu) of Аутичные переводы | translator of the energy-management guide (with Nastya) and of the do-or-don't flowchart | 69, 289
   - Лена Мовшина (Lena Movshina) | author of the forwarded post from the channel Нейроотличные коллеги; describes trying the traffic-light energy calendar | 132
@@ -55,7 +70,9 @@ This topic gathers the channel's material on managing a limited supply of energy
 
 ## Core ideas
 
-- **Energy in burnout is a limited resource that has to be accounted for.** The channel frames energy accounting ("учёт энергии") as a way of consciously distributing scarce energy, adapted to the needs of autistic people, to overcome fatigue and recover from burnout [msg #30, img #30].
+- **Energy in burnout is a limited resource that has to be budgeted.** Energy accounting treats energy like a money budget: know what you have, what tasks cost, and finish days with something left (see *Energy accounting: energy as a budget*) [msg #30, article #30].
+- **Burnout means a long energy deficit; reserves must be rebuilt deliberately.** Keeping 20–40% of the day's starting energy is the article's rule of thumb; when that is impossible, aim for a very small overspend (see *Five-step energy-accounting method*) [article #30].
+- **There is more than one kind of energy.** Physical, social and cognitive (optionally sensory, emotional) energies drain separately, so one can rest while spending another (see *Adapting energy accounting*) [article #30].
 - **Burnout in neurodivergent people has identifiable drivers, and the boom-bust cycle is the one you can control.** Heightened sensitivity and constant strain from adapting are joined by the boom-bust pattern; living in that pattern makes recovery take longer and longer. Pacing is the counter-measure (see *Causes of neurodivergent burnout* and *Pacing*) [msg #52].
 - **Pacing means dosing load to keep activity stable.** Lena Movshina's gloss: pacing comes from English "pace", it is about dosing load so neurodivergent people keep a more stable level of activity and do not get hooked on the boom-bust cycle [msg #132].
 - **Decide each activity deliberately, weighing symptoms and recovery time.** The do-or-don't flowchart asks whether you can finish, whether it will worsen symptoms, and whether there is recovery time before the next thing; activity is not to be avoided entirely, but managed [msg #289, img #289].
@@ -64,6 +81,79 @@ This topic gathers the channel's material on managing a limited supply of energy
 - **Exercise can make things worse.** The channel shared a video on why one can feel worse after exercise (content not available) [msg #563].
 
 ## Frameworks, models and step-by-step methods
+
+### Energy accounting: energy as a budget (article)
+Source: the channel's longread "Учет энергии в состоянии выгорания у людей с аутизмом" (*Energy accounting in burnout in autistic people*), translated and adapted for the channel by Nastya and Rina from Dr Alice Nicholls' original "Energy accounting in autistic burnout" (dralicenicholls.com). The post introducing it presents it as a guide "от понимания основ учета энергии до его практического применения" (*from understanding the basics of energy accounting to its practical application*), with special emphasis on the needs of autistic people and on overcoming fatigue and recovering from burnout [msg #30, img #30]. The article announces four parts: what energy accounting is; how it applies to autistic fatigue; how to adapt it to autistic fatigue; how to use it to help recovery from autistic burnout [article #30].
+
+**Definition.** "Учет энергии – это способ восприятия энергии как ограниченного ресурса, который можно планировать так же, как бюджет денег." (*Energy accounting is a way of perceiving energy as a limited resource that can be planned just like a money budget.*) More operationally, it is a way of measuring how much energy you have and how much energy planned tasks and stressors will cost. The approach is popular in chronic-illness communities but, the article says, can also be a useful tool for fatigue in autistic people [article #30].
+
+**Spoon theory (the best-known version).** The article notes energy accounting is sometimes called "теорией ложки" (*spoon theory*), devised by Christine Miserandino (butyoudontlooksick.com) to help people living with chronic illness. In it, each person has a certain number of "spoons" of energy, unique to them and their situation; some tasks require more spoons than others, depending on the person. Example: a person with chronic pain might start the day with 15 spoons but spend 5 of them just on washing and dressing. People with limited energy often find it a useful way to visualise their energy levels and sometimes call themselves "ложечниками" (*spoonies*) [article #30].
+
+**Pick whatever unit works.** You can measure energy however suits you — use spoons if they fit. The author prefers a battery analogy, as in video games, where your energy level is a battery charge level. Her children like the idea of "бобов" (*beans*): they often start the day with hundreds, but realise they have used them all up when it is time to walk home from the park [article #30].
+
+**What the practice consists of.**
+- Start noticing your energy level and how that energy is spent each day; it can also help you notice when and where you *gain* energy [article #30].
+- By tracking your energy budget and expenses you begin to understand in advance how much certain tasks will cost you, and can plan that "expense", budgeting your energy across the day or week [article #30].
+- Following this theory, it makes sense to build reserves for hard times by ending as many days as possible with a little energy left over [article #30].
+
+### Why autistic burnout needs energy accounting (article)
+1. **Chronic deficit.** In autistic burnout people often exhaust all their energy and stay in an overall deficit for a long time. Getting out requires a period of substantially reduced daily energy spending, so as to leave the deficit and start building reserves for the future [article #30].
+2. **Low starting charge.** In burnout "мы не начинаем день с 100%, иногда даже не с 10%" (*we don't start the day at 100%, sometimes not even at 10%*), so starting to build reserves can be really hard [article #30].
+3. **Causes are not always traceable.** Because stress has often been chronic, we can't always tell why we woke up at 15% battery. It is useful to look for links between the previous day's events and the energy you wake with, but the cause will not always be clear [article #30].
+4. **The "use it while I have it" trap.** On days with more energy than usual we may be tempted to use all of it while we can; we may also struggle to stop a task once started, even knowing we are pushing ourselves into energy debt. "Этот паттерн поддерживает цикл истощения." (*This pattern sustains the cycle of exhaustion.*) [article #30]
+5. **Energy accounting as a rational justification for spending less.** Knowing that we need to get out of energy "debt", we can use energy accounting as a rational basis for cutting energy expenditure. The rule of thumb given: keep 20–40% of what you started the day with, whenever possible. (!) UNCLEAR: the translation attributes this to "Кристин" ("Кристин обычно предлагает своим клиентам" — *Christine usually suggests to her clients*); the only Christine named in the article is Christine Miserandino of spoon theory, while the article's author is a clinical psychologist (Dr Alice Nicholls), so who gives this advice to clients is ambiguous in the source [article #30].
+
+### Adapting energy accounting: several kinds of energy (article)
+- **Why adaptation is needed.** Much energy-accounting material comes from the literature on chronic physical conditions, so it emphasises physical energy. To make it relevant to autistic burnout we must think more broadly about different kinds of energy [article #30].
+- **Everyday evidence that energies differ.** Some days you don't want to talk to anyone but can focus on a book or do exercises; at other times you feel physically tired without even getting out of bed, yet feel lonely and want company [article #30].
+- **Author's example (lesson: you can rest one energy while spending another).** Years ago, with two small children, by the end of each week she felt completely socially and cognitively drained. She wanted to lie down, but there was housework. She agreed with her partner that he would look after the children on Saturday mornings while she cleaned the whole house. She noticed that, although she was not resting, she felt renewed after it: she was moving her body, doing tasks she didn't have to think about, and didn't have to talk to anyone. The lesson drawn: "мы можем отдыхать и пополнять один источник энергии, тем временем расходуя другой" (*we can rest and replenish one source of energy while spending another*) [article #30].
+- **The benefit: decisions that respect different energy levels.** It can be hard to justify spending time on fitness when you are too tired to go to work or look after children; likewise it may feel insincere to write a blog when you haven't answered friends' texts. Understanding that you have different kinds of energy, which can be depleted to different degrees, can help you [article #30]:
+  1. Plan activities that make the best use of the energy you actually have.
+  2. Allow yourself to do what you want despite being tired from one kind of activity.
+  3. Find more ways to recharge different energy levels during the day.
+  4. Communicate your needs to others in a way they can understand.
+- **Interoception caveat.** Noticing different kinds of energy can be hard for neurodivergent people, especially with interoception difficulties; even a simple request to rate your energy on a 0–10 scale may feel overwhelmingly hard [article #30].
+
+### Five-step energy-accounting method for recovering from autistic burnout (article)
+Purpose: to use energy accounting to help recovery from autistic burnout. The article lists five steps: (1) categorise your kinds of energy; (2) define your levels of each energy; (3) track your energy levels; (4) plan energy spending; (5) start building energy "savings" [article #30].
+
+1. **Categorise your different kinds of energy.**
+   - *How:* think about what categories of energy you have or can be aware of. Go through the activities of a typical day and ask yourself: which of them have a similar effect on me? Which would feel overwhelming if they came straight after one another? Which feel easier if one follows the other? It may help to keep notes on how you feel after each activity for a few days, to make the kinds of energy easier to identify [article #30].
+   - *The author's three categories* (created for the article):
+     - **Physical energy** — any energy needed to move your body or perform physical tasks. She usually also puts here "поиск стимула и регуляцию чувств" (*stimulus seeking and regulation of the senses/feelings*) [article #30].
+     - **Social energy** — energy used when we are around other people and subject to social demands, even if it is just being in someone's presence or answering a text message [article #30].
+     - **Cognitive energy** — any energy used for thinking, planning, organising or processing information. She includes executive-function skills and emotion regulation here [article #30].
+   - *Flexibility:* you may want to add categories such as sensory or emotional energy. Not everything fits perfectly into one category, so put things where they fit best for you or add categories that match your experience of energy [article #30].
+2. **Define your different energy levels.**
+   - *How:* once you know which categories you experience, reflect on how you are at different levels of each. For each type of energy, ask yourself one or more of these questions [article #30]:
+     1. How do I feel at 100%, 50% and 0% energy?
+     2. How do I behave at 100%, 50% and 0% energy?
+     3. What do other people notice about me (you can ask them) at 100%, 50% and 0% energy?
+     4. What do I want to do at 100%, 50% and 0% energy?
+   - Some questions will be easier to answer than others, and that is fine: choose the one easiest for you and work with it [article #30].
+   - *The article's example table* [article #30]:
+     - **0% — Physical:** very hard to get out of bed; simple movements feel exhausting; no desire to eat.
+     - **0% — Social:** don't want to see or talk to anyone; avoid social media; don't want to read messages.
+     - **0% — Cognitive:** can't figure out how to do basic tasks; get upset by changes; can't concentrate on anything; lack of problem-solving skills.
+     - **50% — Physical:** normal movements happen easily; want to do a limited amount of light exercise; feel regulated.
+     - **50% — Social:** enjoy time with close friends; need time alone too; use social media moderately.
+     - **50% — Cognitive:** need routine, limited problem-solving skills; concentration depends on the level of interest.
+     - **100% — Physical:** want to do intense exercise; feel restless if not moving; could keep going for hours.
+     - **100% — Social:** interested in meeting new people; happy to spend the whole day with loved ones; feel lonely when alone.
+     - **100% — Cognitive:** good problem-solving skills, confidence in decision-making, want to learn.
+3. **Track your energy levels.**
+   - *How:* once you know how you measure energy and how low, medium and high levels look, feel or behave, track your levels through the day — e.g. a diary of energy levels, checking in during and/or after different activities [article #30].
+   - *What you learn:* you will start noticing fluctuations. In autistic burnout these fluctuations may be very small, but even the slightest ones carry useful information. You will begin to picture the energy costs and benefits of different activities [article #30].
+4. **Plan energy spending.**
+   - *How:* using before/after tracking data, start predicting how much energy a type of task or situation will cost you — or, conversely, how much energy you will gain from it. It may help to measure your energy at the start of the day and plan how you will spend or conserve it [article #30].
+   - *If you risk going into debt:* build in activities or rest periods that replenish your energy. If an activity is not urgent and would cost too much energy, consider cancelling, postponing, or reducing its intensity or duration [article #30].
+   - *Target:* plan the day's activities so that 20–40% of what you started the day with remains; over time this helps build reserves for the future [article #30].
+   - *Change can be rest — or not.* The article quotes clinical psychologist Dr Alice Nicholls: "Иногда изменение полезно, как и отдых... а иногда вовсе и нет." (*Sometimes a change is as good as a rest… and sometimes not at all.*) [article #30]
+5. **Start building energy "savings".**
+   - The 20–40% reserve target (step 4) is the mechanism by which savings accumulate over time [article #30].
+   - *When saving is impossible:* in autistic burnout you may have very little or no energy at the start of the day, so saving energy for another day may be impossible — the article acknowledges this is genuinely hard. If you have no choice but to overspend, a more realistic goal may be "сверхмаленькое превышение уровня энергии" (*an extra-small overspend of energy*). Try to be kind to yourself about it: sometimes stressors are outside our control or can't easily be controlled. Even then, being aware of your energy levels, cutting costs where possible and thinking about what you need for the future still help you plan recovery from autistic burnout [article #30].
+   - "Даже самые маленькие шаги к более устойчивому образу жизни могут помочь увеличить чувство надежды и уменьшить чувство перегрузки." (*Even the smallest steps toward a more sustainable life can help increase the sense of hope and reduce the sense of overload.*) [article #30]
+   - (!) INCOMPLETE: step 5 is listed in the article's overview but has no section of its own; its content above is taken from the end of step 4 [article #30].
 
 ### Causes of neurodivergent burnout (three drivers)
 From the article Nastya translated on pacing. Burnout is described as a serious problem in the lives of many neurodivergent people, often accompanied by chronic fatigue, exhaustion and chronic pain, which make the situation even harder. The article's answer to "Почему это происходит?" (*Why does this happen?*) lists three drivers [msg #52]:
@@ -76,7 +166,7 @@ The article states that understanding the causes and recognising the boom-bust c
 ### Pacing (load distribution) against the boom-bust cycle
 - **What it is.** Pacing ("пейсинг") is translated as a system of load distribution ("система распределения нагрузки"). Lena Movshina explains the word comes from English "pace" (temp) and describes it as the dosing of load that neurodivergent people need to keep a more stable level of activity and not get hooked on the boom-bust cycle [msg #52, #132].
 - **What it is combined with.** The pacing article says that pacing, self-care practices and seeking support together will help you take burnout under control and recover much faster [msg #52].
-- **Ways of keeping the energy account named in the article.** According to Lena Movshina's summary, the pacing article offers several methods of energy accounting: the spoon system ("система ложек"), the energy "checkbook" (energy "чековая книжка") and the traffic light ("светофор"). (!) INCOMPLETE: the spoon system and the energy checkbook are only named; how they work is in the full article, whose text is not part of the source [msg #132].
+- **Ways of keeping the energy account named in the article.** According to Lena Movshina's summary, the pacing article offers several methods of energy accounting: the spoon system ("система ложек"), the energy "checkbook" (energy "чековая книжка") and the traffic light ("светофор"). Spoon theory itself is explained in the energy-accounting article (see *Energy accounting: energy as a budget*). (!) INCOMPLETE: how the pacing article presents these methods, and how the energy "checkbook" works, is not in the source — the pacing article's text was not saved [msg #132].
 - **Supportive messages closing the article summary.** "Вы не одиноки" (*You are not alone*), "Вы не виноваты" (*It is not your fault*), "Вы можете изменить ситуацию" (*You can change the situation*) [msg #52].
 - Nastya added a "Summary" column ("Резюме") under each section of the translated article for easier reading [msg #52].
 
@@ -163,9 +253,6 @@ Caveat attached by the channel: "Вежливое напоминание: аут
 
 ## Detailed insights
 
-### Energy accounting in autistic burnout (article)
-The channel published an article "Учет энергии в состоянии аутистического выгорания" (*Energy accounting in autistic burnout*). Its stated content: the concept of energy accounting as a strategy for managing limited energy resources, especially relevant to people with autistic burnout; how to distribute energy effectively; concrete ways to adapt the approach to overcome fatigue and recover from burnout, with special emphasis on the needs of autistic people; from the basics of energy accounting to its practical application, as a guide for improving quality of life through conscious management of energy resources [msg #30, img #30]. (!) INCOMPLETE: the post gives only this description; the article body (on telegra.ph) is not part of the source, so its specific methods cannot be reproduced here.
-
 ### Managing fatigue from illness or chronic conditions (guide)
 Nastya, together with Nastya (Fiu-fiu) of Аутичные переводы, translated and adapted the guide "Как управлять своим уровнем энергии" (*How to manage your energy level*). Points stated in the post [msg #69, img #69]:
 - **Audience and aim.** It is meant for people experiencing fatigue due to illness or a chronic condition; its aim is to help people manage their energy as well as possible so they can cope with more tasks.
@@ -180,7 +267,8 @@ In a post titled "Почему спорт нам не всегда помога�
 
 ## Tools and resources mentioned
 
-- **Article "Учет энергии в состоянии аутистического выгорания"** (telegra.ph) — channel article on energy accounting in autistic burnout; presented as an essential guide [msg #30].
+- **Article "Учет энергии в состоянии выгорания у людей с аутизмом"** (telegra.ph) — the channel's translation/adaptation (Nastya and Rina) of Dr Alice Nicholls' "Energy accounting in autistic burnout" (dralicenicholls.com); the post presents it as an indispensable guide; its full content is reproduced above [msg #30, article #30].
+- **But You Don't Look Sick (butyoudontlooksick.com)** — Christine Miserandino's site, cited as the origin of spoon theory [article #30].
 - **Article "Как использовать пейсинг для борьбы с выгоранием у людей с нейроотличием"** (teletype, translated by Nastya, with summary columns added) — on pacing, the boom-bust cycle and energy-accounting methods (spoons, checkbook, traffic light); Lena Movshina called it "крутую статью" (*a great article*) [msg #52, #132].
 - **Guide "Как управлять своим уровнем энергии"** (teletype, translated with Аутичные переводы) — fatigue and energy management for people with illness or chronic conditions, developed with occupational therapists [msg #69].
 - **Neurodivergent health tracker** — free printable/tablet daily sheet by Nastya, downloadable from her Patreon or the channel's Discord [msg #123].
@@ -189,6 +277,12 @@ In a post titled "Почему спорт нам не всегда помога�
 - **Video on why exercise can make you worse** — not available in the export [msg #563].
 
 ## Notable quotes
+
+> "Учет энергии – это способ восприятия энергии как ограниченного ресурса, который можно планировать так же, как бюджет денег." (*Energy accounting is a way of perceiving energy as a limited resource that can be planned just like a money budget.*) — energy-accounting article [article #30]
+
+> "Следуя этой теории, имеет смысл накапливать резервы на трудные времена, заканчивая как можно больше дней с небольшим остатком энергии." (*Following this theory, it makes sense to build reserves for hard times by ending as many days as possible with a little energy left.*) — energy-accounting article [article #30]
+
+> "Стремитесь к тому, чтобы планировать ваши запланированные мероприятия так, чтобы у вас оставалось 20-40% от того, с чего вы начали день." (*Aim to plan your scheduled activities so that you have 20–40% of what you started the day with left.*) — energy-accounting article [article #30]
 
 > "Цикл "взлет-падение":** периоды бурной активности отнимают много сил и сменяются резким спадом энергии." (*The boom-bust cycle: periods of intense activity take a lot of energy and are replaced by a sharp drop in energy.*) — pacing article translated by Nastya [msg #52]
 
@@ -202,10 +296,13 @@ In a post titled "Почему спорт нам не всегда помога�
 
 ## Caveats, disagreements and open questions
 
+- The energy-accounting article's tools are flexible by design: any unit (spoons, battery, beans), any categories, and whichever level question is easiest; the cause of a low-energy morning will not always be clear [article #30].
+- In deep burnout saving energy may be impossible; the article lowers the goal to a very small overspend and asks for self-kindness [article #30].
+- (!) UNCLEAR: attribution of the 20–40% advice to "Кристин" (see *Why autistic burnout needs energy accounting*, point 5) [article #30].
 - The flowchart is explicitly a simplified version; the process may differ from person to person, and experimentation is acceptable while the approach changes over time [img #289].
 - Activity may intensify symptoms; the stated goal is to learn to manage symptoms, not avoid them entirely — the flowchart's stop outcome still allows urgent or special cases, as long as they do not become routine [img #289].
 - Pain self-rating has a limit for autistic people because of interoception difficulties [msg #425].
-- (!) INCOMPLETE: the full texts of the energy-accounting article [msg #30], the pacing article [msg #52] and the energy-management guide [msg #69] are external and not in the source; the spoon system and energy checkbook are named without explanation [msg #132]; the exercise video is unavailable [msg #563].
+- (!) INCOMPLETE: the full texts of the pacing article [msg #52] and the energy-management guide [msg #69] are external and not in the source; the spoon system and energy checkbook are named without explanation [msg #132]; the exercise video is unavailable [msg #563].
 - Lena Movshina's traffic-light rules are her own reading of the article; her description of yellow is hedged ("видимо все остальное", *apparently everything else*) [msg #132].
 
 ## Resources and links
@@ -214,6 +311,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ### Resources
 
+- ★ **Dr Alice Nicholls — Energy accounting in autistic burnout** (article) — Original English article that the channel translated into Russian; explains tracking energy spent and gained to pace yourself during burnout. [msg #30] → <https://www.dralicenicholls.com/energy-accounting-in-autistic-burnout/>
 - ★ **Как использовать пейсинг... (How to use pacing, teletype)** (article) — Article on pacing, i.e. dosing activity to avoid boom-and-bust cycles, translated and reformatted by the channel for easier reading. [msg #52, #132] → <https://teletype.in/@neurospicyru/Mh-q6ChwmeT>
 - ★ **Учет энергии в состоянии аутистического выгорания (Energy accounting during autistic burnout)** (article) — Translated article on managing energy resources consciously during burnout to improve quality of life. Offered in full. [msg #30] → <https://telegra.ph/Uchet-ehnergii-v-sostoyanii-vygoraniya-u-lyudej-s-autizmom-02-11>
 - ★ **Трэкер состояния здоровья для нейроотличных людей с хроническими болями (health state tracker, Patreon)** (file) — Free downloadable health tracker made by the author for neurodivergent people with chronic pain; helps spot triggers and patterns, supports pacing and gives records for doctors. [msg #123] → <https://www.patreon.com/posts/treker-zdorovia-110104977?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link>
@@ -223,7 +321,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 ### External links
 
 - **@autichnieperevodii — канал Насти (Фiу-фiу) (translation channel)** (channel) — Telegram channel of the co-translator of the energy management guide; credited as partner in the translation. [msg #69] → <https://t.me/autichnieperevodii>
-- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #132, #289] → <https://t.me/neurospicyru>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #30, #132, #289] → <https://t.me/neurospicyru>
 - **Discord-сервер сообщества (community Discord server invite)** (other) — Invite to the authors' Discord server, where the free health tracker can also be downloaded and the community meets. [msg #123] → <https://discord.gg/nfyW2ghcYK>
 
 ## Source messages

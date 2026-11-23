@@ -3,9 +3,9 @@ kb: neyropryanost
 domain: Trauma, Anxiety and Medical Gaslighting
 topic: Complex trauma (C-PTSD) in neurodivergent lives
 slug: complex-trauma-neurodivergent
-messages: 8
-date_range: 2024-11-08..2025-12-16
-summary: How complex PTSD (C-PTSD) differs from PTSD, what emotional flashbacks are and how to recognise them, why late-diagnosed autistic/ADHD people so often carry C-PTSD (masking, people-pleasing, hypervigilance, unbelieved pain in childhood), how trauma can erase memory, and a full practical guide to recognising and answering gaslighting, plus a therapist's reframe of what C-PTSD therapy is for.
+messages: 9
+date_range: 2024-09-22..2025-12-16
+summary: How complex PTSD (C-PTSD) differs from PTSD, what emotional flashbacks are and how to recognise them, why late-diagnosed autistic/ADHD people so often carry C-PTSD (masking, people-pleasing, hypervigilance, unbelieved pain in childhood), how trauma can erase memory, and a full practical guide to recognising and answering gaslighting, plus a therapist's reframe of what C-PTSD therapy is for. Why autistic people are more vulnerable to trauma and to PTSD, explained through Brewin's dual representation model of traumatic memory (verbally accessible vs situationally accessible memory) and through working-memory, sensory, amygdala/prefrontal and stress-hormone (HPA axis) differences; also what separates trauma from stress and which symptoms define PTSD.
 answers:
   - What is the difference between PTSD and complex PTSD (C-PTSD)?
   - What extra symptoms does C-PTSD have beyond PTSD, and how does trauma show up in everyday behaviour?
@@ -17,6 +17,13 @@ answers:
   - How do I recognise gaslighting and what can I say back?
   - What should I do if I am being gaslighted?
   - What is the goal of C-PTSD therapy?
+  - What is the difference between stress and trauma?
+  - Does every trauma lead to PTSD, and what are the core PTSD symptoms?
+  - What is the dual representation model of traumatic memory (BAM and SAM)?
+  - Why do autistic people get more vivid and persistent flashbacks?
+  - Why are autistic people more vulnerable to trauma and PTSD?
+  - Can events that do not meet the DSM-5 definition of trauma still cause PTSD in autistic people?
+  - How do the amygdala, prefrontal cortex and HPA axis relate to autism and PTSD?
 frameworks:
   - PTSD vs C-PTSD comparison (shared symptoms, C-PTSD additional symptoms, trauma manifestations)
   - Emotional flashback recognition (emotions, triggers, worked example)
@@ -27,12 +34,18 @@ frameworks:
   - Five classic gaslighting phrases with decoding and ready-made answers
   - Gaslighting self-check questions
   - Six steps for what to do when facing gaslighting
+  - Dual representation model of traumatic memory (Brewin, 1996): BAM vs SAM
+  - Five factors of autistic vulnerability to PTSD (memory, wider range of traumatic events, emotional-processing neurology, hormones, sensory and social processing)
 themes:
   - trauma
   - c-ptsd
   - gaslighting
   - masking
   - late-diagnosis
+  - ptsd
+  - autism
+  - memory
+  - sensory-processing
 terms:
   - к-ПТСР / кПТСР (комплексное посттравматическое стрессовое расстройство) | complex post-traumatic stress disorder; trauma from prolonged, systematically repeated events that accumulate over time | #301, #648
   - ПТСР | PTSD; life was broadly fine until one traumatic event changed things | #301
@@ -45,6 +58,12 @@ terms:
   - маскинг / маскировка | masking; suppressing one's real self and discomfort to fit in | #648, #785
   - газлайтинг | gaslighting; covert manipulation that makes a person doubt their reality and sanity | #785
   - двойная уязвимость | double vulnerability of neurodivergent women (being women + being neurodivergent) | #785
+  - травма (vs стресс) | trauma; a painful experience whose intensity substantially exceeds a person's capacity to cope with it, as opposed to ordinary distress | #217
+  - ПТСР | PTSD; a specific psychiatric condition with persistent symptoms (intrusive memories, avoidance, mood swings, constant nervous-system tension) | #217
+  - модель двойной системы | dual representation model (Brewin, 1996); traumatic memories are encoded through two separate memory systems | #217
+  - словесно доступная память (BAM) | verbally accessible memory; integrates the trauma into the person's "here and now" life story and supports recovery | #217
+  - ситуативно доступная память (SAM) | situationally accessible memory; holds the sensory and emotional aspects of trauma and produces involuntary vivid memories (flashbacks) | #217
+  - ГГН ось | hypothalamic-pituitary-adrenal (HPA) axis; the basis of the body's stress-response system | #217
 people:
   - Нейропряность (channel author) | autistic author with alexithymia and C-PTSD, in psychotherapy; wrote the C-PTSD posts and shared the therapist's reframe | #301, #305, #787
   - status-quo-hater (tumblr) | autistic author of the first-person account of unrecognised pain; translated by Anne Green Moon (Аутичные переводы) | #466
@@ -52,8 +71,12 @@ people:
   - Neurotribe | source of the post on C-PTSD after late neurodivergent diagnosis | #648
   - Caleb Mulenga | original author (TikTok) of the post on trauma-related memory loss | #650
   - Где моё внимание? | ADHD support project; authors of the gaslighting guide for neurodivergent people | #785
+  - Яна J | author of the Telegraph long-read "Аутизм и травматичный опыт", forwarded from the channel «На спектре» | #217
+  - Prof. Brewin | developer of the dual representation model of traumatic memory (1996), as cited in the article | #217
+  - Attwood & Garnett Events | publisher of the English original "Autism and PTSD" that the article adapts | #217
 excluded:
   - none | every member message carries knowledge; logistics inside #528, #785 and #787 dropped
+  - none | the single member message carries knowledge
 ---
 # Complex trauma (C-PTSD) in neurodivergent lives
 
@@ -62,6 +85,12 @@ excluded:
 This topic gathers what the channel taught about complex post-traumatic stress disorder (C-PTSD): how it differs from single-event PTSD, what emotional flashbacks are, what trauma looks like in everyday behaviour (people-pleasing, hypervigilance, extreme independence, suppressed needs), and why it is so common among autistic, ADHD and gifted people, especially those diagnosed late. It also covers trauma-related memory loss, the way autistic children's pain goes unbelieved, why neurodivergent women are especially exposed to abuse and gaslighting (with a full practical guide to recognising and countering gaslighting), and a therapist's statement of what C-PTSD therapy aims at [msg #301, #305, #466, #528, #648, #650, #785, #787].
 
 According to the source, naming C-PTSD correctly matters because it shows that these patterns are trauma responses rather than character traits, and that you are not "overdoing it", not dramatising and not a failure [msg #648]. The channel adds that both PTSD and C-PTSD can substantially lower quality of life, so professional help is strongly advised when symptoms are noticed [msg #305].
+
+This part adds one forwarded post (from the channel «На спектре») and the long-read it links, "Аутизм и травматичный опыт" (*Autism and traumatic experience*) by Яна J, which states it is based on an Attwood & Garnett article on autism and PTSD. It explains what turns stress into trauma, what defines PTSD, how the brain stores traumatic memories (the dual representation model), and five reasons autistic people are more vulnerable to trauma and to PTSD [article #217].
+
+**Relation to the existing topic file.** The existing file deals mainly with *complex* PTSD (C-PTSD), emotional flashbacks, late diagnosis and gaslighting. This part is about PTSD in autistic people in general and adds a memory-and-neurobiology mechanism that the existing file lacks. It *extends* the existing PTSD symptom list (flashbacks, hypervigilance, avoidance) with a fourth element, marked mood swings, and frames the symptoms as "persistent". It *supports* the existing material on unrecognised pain (#466) and the "neurocomplex childhood" list (#528) by arguing that the range of events that can traumatise autistic people is wider than standard criteria allow. It does not use the term C-PTSD and does not deal with repeated-versus-single trauma beyond saying that PTSD risk grows with each new trauma [article #217].
+
+According to the article, understanding these neurocognitive differences matters most because it widens the concept of trauma to include sensory and social experiences that "многие нейротипичные люди никогда в принципе не воспримут как травматические" (*many neurotypical people would never in principle perceive as traumatic*) [article #217].
 
 ## Core ideas
 
@@ -72,6 +101,12 @@ According to the source, naming C-PTSD correctly matters because it shows that t
 - **Trauma can erase memory, and this is protection, not lying.** Forgetting dates, events or whole years can be how the mind coped with unbearable pain (see *Eight principles for treating people whose memory was damaged by trauma*) [msg #650].
 - **Neurodivergent women face double vulnerability to abuse.** Gaslighting, which destroys trust in one's own perception, can prepare the ground for harsher violence (see the gaslighting frameworks) [msg #785].
 - **C-PTSD therapy aims at quality of life, not productivity.** This is a therapist's reframe quoted by the author [msg #787].
+
+- **Trauma means pain that is more than you can cope with.** Distress becomes trauma when the intensity of the painful experience substantially exceeds the person's ability to cope with it [article #217].
+- **The same event affects different people very differently.** The impact depends on the person's sensory sensitivity and communication style. This is why autistic people can be traumatised by events others shrug off [article #217].
+- **Trauma is common, but most of it does not become PTSD.** PTSD is a specific psychiatric condition. Risk rises with each new trauma, especially with interpersonal trauma [article #217].
+- **Where a memory is stored decides whether it heals.** Memories integrated into a verbal narrative (BAM) support recovery. Memories stuck in sensory-emotional memory (SAM) drive PTSD symptoms. Autistic sensory and working-memory differences push memories toward SAM (see *Dual representation model*) [article #217].
+- **Autistic vulnerability to PTSD has several causes at once:** memory, a wider pool of traumatic events, emotional-processing neurology, stress hormones, and sensory/social processing (see *Five factors*) [article #217].
 
 ## Frameworks, models and step-by-step methods
 
@@ -252,6 +287,36 @@ Purpose: to judge a relationship by the overall pattern, not by single phrases [
 5. **Take distance, physical and emotional.** If possible, take a pause, leave the room and regulate your state. Gaslighting intensifies in long dialogues [file #785].
 6. **Seek support and help.** Talking with someone you trust helps restore clarity and the sense that you have not gone mad [file #785].
 
+### Stress, trauma and PTSD: definitions
+1. **Distress.** When we go through a painful experience or strong emotional pain, it knocks the psyche off balance and we fall into a state of distress [article #217].
+2. **Trauma.** Often the intensity of an overly painful experience greatly exceeds our ability to cope with it; "именно в таком случае мы говорим не просто о стрессе, а о травме" (*it is precisely in that case that we speak not just of stress but of trauma*). Painful experiences range widely, from interpersonal conflicts to life-threatening situations [article #217].
+3. **PTSD.** Traumatic experience is not rare, but far from every trauma leads to PTSD. PTSD is a specific psychiatric condition marked by persistent symptoms. The article lists four:
+   1. Intrusive memories of the trauma (for example, nightmares).
+   2. Active avoidance of any reminders of it.
+   3. Marked mood swings.
+   4. Constant heightened tension of the nervous system [article #217].
+4. **What raises PTSD risk.** The probability of PTSD grows with each new trauma. Interpersonal traumas such as physical violence or bullying raise it most, because their especially intimate and intrusive nature does severe psychological damage [article #217].
+
+### Dual representation model of traumatic memory (Brewin, 1996)
+Purpose: to explain PTSD through how the brain processes traumatic memories. The article says the model ("модель двойной системы") was developed in 1996 by Prof. Brewin. It holds that traumatic memories are encoded and stored through two different systems [article #217]:
+1. **BAM, verbally accessible memory («словесно доступная память»).** It helps integrate the trauma memory into the person's current life ("здесь и сейчас", *here and now*). This helps build a coherent story (narrative) of the events and supports recovery from the traumatic experience without developing PTSD [article #217].
+2. **SAM, situationally accessible memory («ситуативно доступная память»).** It processes the sensory and emotional aspects of the trauma. It often leads to vivid, involuntary memories known as flashbacks [article #217].
+
+**The key mechanism.** When traumatic memories get stuck in SAM, PTSD symptoms become more likely: heightened anxiety, negative appraisals of what happened, and intrusive memories [article #217].
+
+**Application to autistic people.**
+- Heightened sensory sensitivity can strengthen the sensory and emotional encoding of memories. This leads to flashbacks that are both more vivid and longer-lasting [article #217].
+- Difficulties with working memory and social communication can make it even harder to integrate traumatic memories into a coherent experience. That complicates their processing and storage and gets in the way of recovery [article #217].
+
+### Five factors of autistic vulnerability to PTSD
+The article first explains why autistic people are more vulnerable to *trauma*. Difficulties in social communication and sensory processing raise that vulnerability considerably. For example, trouble interpreting social signals and interactions can lead to frequent misunderstandings, bullying and social isolation. These can count as traumatic events, and they happen to autistic people more often than to their neurotypical peers [article #217]. It then gives five factors that make autistic people more vulnerable to *PTSD*:
+
+1. **Memory problems.** Working-memory problems often come with autism. They play a mediating role in the chain "traumatic experience >> PTSD symptom severity". They affect how traumatic memories are processed and later recalled, and they make it harder to encode context-rich, verbally accessible trauma memories (that is, BAM). Many autistic people also have a detailed, sensory-rich processing style. This amplifies the emotional and sensory parts of traumatic memories and can produce overly vivid, emotionally charged memories. These are set off "по щелчку пальца" (*at the snap of a finger*) by surrounding stimuli, making flashbacks and intrusive thoughts more likely [article #217].
+2. **A wider range of potentially traumatic events.** For autistic people the "pool" of life events that can be experienced as traumatic is much wider. These events often fall outside what the DSM-5 criteria count as traumatic. Even events that do not meet the DSM definition of trauma can cause PTSD symptoms in autistic people. Because autistic people tend to experience various adverse events as traumatic, the article says screening and intervention methods need to be specially adapted for the autistic population [article #217].
+3. **Different neurology of emotional processing.** Changes in key neural circuits, especially the amygdala and the prefrontal cortex, play a central role in regulating emotions and perceiving fear. In autistic people the amygdala may be more active, which strengthens their reactions to stress and traumatic events. The prefrontal cortex helps control the amygdala and matters for managing emotions. It often works less efficiently in both PTSD and autism [article #217].
+4. **The role of hormones.** Both PTSD and autism are linked to differences in how the hypothalamic-pituitary-adrenal (HPA) axis works. This axis is the basis of the body's stress-response system. In autistic people it may be activated chronically or inappropriately, producing atypical cortisol output that weakens the body's ability to cope with stress effectively. The article says these differences make stressful events feel more vivid and overwhelming, which raises the risk of PTSD after a trauma [article #217].
+5. **Differences in sensory and social processing.** Neurobiological features of autism, such as heightened sensory sensitivity and different processing of social signals, complicate these interactions further. Autistic people perceive the world somewhat differently: sensory stimuli are excessive for them and social communication is too hard to interpret. This raises their vulnerability to traumatic experiences. Difficulty integrating personal experience into a coherent narrative can affect how trauma memories are processed and recalled, often leading to more vivid and distressing memories [article #217].
+
 ## Detailed insights
 
 ### Unrecognised pain in autistic childhood as a source of trauma
@@ -305,6 +370,12 @@ The channel author shares a phrase from her psychotherapist that calmed her: "Т
 
 > "Терапия кПТСР не нацелена на то, чтобы сделать тебя работоспособной. Наша цель улучшить твое качество жизни" (*C-PTSD therapy is not aimed at making you able to work. Our goal is to improve your quality of life.*) — the author's psychotherapist [msg #787]
 
+> "одни и те же ситуации будут иметь кардинально разное воздействие на разных людей, в зависимости от сенсорной чувствительности человека и особенностей общения" (*the same situations will have radically different effects on different people, depending on the person's sensory sensitivity and communication style*) — Яна J [article #217]
+
+> "Когда травматические воспоминания застревают в SAM, симптомы ПТСР … становятся более вероятными." (*When traumatic memories get stuck in SAM, PTSD symptoms … become more likely.*) — Яна J [article #217]
+
+> "даже события, не подпадающие под определение травматических по DSM, могут вызывать симптомы ПТСР у аутичных людей" (*even events that do not meet the DSM definition of traumatic can cause PTSD symptoms in autistic people*) — Яна J [article #217]
+
 ## Caveats, disagreements and open questions
 
 - (!) INCOMPLETE: the 16 reasons in Lindsey Mackereth's list are only in the linked article, not in the message [msg #528].
@@ -315,6 +386,11 @@ The channel author shares a phrase from her psychotherapist that calmed her: "Т
 - #305 stresses that both PTSD and C-PTSD warrant professional help; the channel's descriptions are not a diagnosis [msg #305].
 - The PDF transcription is broken into fragments at line ends; the content above is reconstructed from it without additions [file #785].
 
+- The article's neurobiological claims (amygdala activity, prefrontal efficiency, HPA axis, cortisol) are hedged in the source ("может быть", *may be*; "часто", *often*). No individual studies are cited apart from Brewin's 1996 model and the English original the article is based on [article #217].
+- (!) UNCLEAR: the article says the HPA axis "may" be activated chronically "or" inappropriately in autistic people, but does not say which applies when, or how this was measured [article #217].
+- The article covers PTSD, not C-PTSD. It mentions that risk grows with repeated and interpersonal trauma but does not link this to the C-PTSD concept in the existing topic file. It also describes SAM flashbacks as *vivid* sensory-emotional memories, whereas the existing file (#305, #648) describes C-PTSD emotional flashbacks that can come *without* clear images. The two descriptions concern different phenomena and are not stated as contradictory by the source [article #217].
+- The article says autism-adapted screening and intervention methods are needed but does not describe any [article #217].
+
 ## Resources and links
 
 Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
@@ -322,7 +398,9 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 ### Resources
 
 - ★ **16 дней активных действий против гендерного насилия — post 'How neurodivergent women can recognise gaslighting' (pure_cognitions_adhd)** (article) — Original Telegram post by the partner channel Pure Cognitions ADHD with the campaign material on gaslighting and violence against neurodivergent women, which the post republishes; a practical guide. [msg #785] → <https://t.me/pure_cognitions_adhd/958>
+- ★ **Attwood & Garnett Events — Autism and PTSD** (article) — English original of the translated article on autism and trauma. [msg #217] → <https://attwoodandgarnettevents.com/autism-and-ptsd/>
 - ★ **Lindsey Mackereth — checklist: why your neurocomplex childhood may have been traumatic** (article) — Full list by therapist Lindsey Mackereth (MA, LPCC, LADC), written for gifted, autistic and ADHD adults and youth, to support the inner, possibly wounded neurodivergent child; the post translates it and links the full list. [msg #528] → <https://teletype.in/@neurospicyru/bUwylR5bjKE>
+- ★ **Аутизм и травматичный опыт (Autism and traumatic experience)** (article) — Telegra.ph article on how autistic people process trauma and why memories can be vivid and painful. [msg #217] → <https://telegra.ph/Autizm-i-travmatichnyj-opyt-09-21>
 - ★ **Колесо чувств: Как распознать свои чувства (The feelings wheel: how to recognise your feelings)** (article) — The channel's own article explaining the feelings wheel as a tool for naming emotions; also reused in the trauma topic. Offered to readers. [msg #305] → <https://teletype.in/@neurospicyru/S3yKDUWQTXi>
 - ★ **Полный пост про к-ПТСР (Full post on C-PTSD)** (article) — The channel's own full teletype article on complex PTSD in neurodivergent people, which the post summarises; offered to readers. [msg #301] → <https://teletype.in/@neurospicyru/z7PBEuARASH>
 - ★ **Газлайтинг: как распознать и противостоять — практическое руководство для нейроотличных людей (PDF guide)** (file) — Free guide with definition of gaslighting, typical signs with examples and ready answers, self-check questions, what to do and where to seek help. Issued by the channel with partners for the 16 Days campaign; the post asks to save and share it. [msg #785] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Газлайтинг_как_распознать_и_противостоять_ГМВ.pdf`
@@ -339,4 +417,4 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ## Source messages
 
-#301, #305, #466, #528, #648, #650, #785, #787
+#217, #301, #305, #466, #528, #648, #650, #785, #787

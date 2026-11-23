@@ -1,0 +1,28 @@
+# Overload, meltdowns and burnout — routing table (Читаю мысли)
+
+Pick every topic whose *Answers* or *Frameworks* match the request, then read its reference file in full.
+
+## Meltdowns, shutdowns and acute overload
+- File: `../references/overload-meltdowns-burnout--meltdowns-shutdowns-overload.md` · 7 msgs · 2024-01-10..2025-12-11
+- Light version (NotebookLM study text, whole domain part): `notebooklm/overload-meltdowns-burnout.md` in the channel folder
+- What meltdowns, shutdowns and "empty head" states are in autistic and ADHD adults, why neurodivergent people recover from acute stress more slowly, and the author's concrete prevention and coping kits for new places, films/books and airports.
+- Answers: What is an autistic meltdown and why does it happen? · How do meltdowns look in adults, especially high-functioning women, compared with the "classic" child picture? · What is a shutdown and what are its non-obvious signs? · Why does acute stress hit neurodivergent people harder and last longer? · What helps during an acute stress reaction or overload? · Why does my head sometimes feel completely empty, and what should I do about it? · How can an autistic person prepare to go to a new place? · Why do films, series or books cause emotional overload for autistic people? · What should I pack and do to avoid or survive a meltdown at an airport or on a flight?
+- Frameworks: Preparing to go to a new place (hypercontrol kit) · Acute stress in neurodivergent people — what changes, how it looks, what helps · Four causes of an empty head and what helps · Airport and flight meltdown kit (7 items) · Extra travel tips for unfamiliar places (4 items)
+- Concepts (cross-channel tags): meltdowns-shutdowns, sensory-processing, stress-and-anxiety, emotional-regulation, relocation · also relevant to areas: Mind & Emotions
+
+## Autistic and ADHD burnout, fatigue and limited energy
+- File: `../references/overload-meltdowns-burnout--neurodivergent-burnout-fatigue.md` · 12 msgs · 2023-12-30..2025-12-19
+- Light version (NotebookLM study text, whole domain part): `notebooklm/overload-meltdowns-burnout.md` in the channel folder
+- Why autistic and ADHD people tire faster (constant attention switching, sensory processing, social load), what autistic burnout is and how it differs from depression, the five-stage ADHD work-burnout cycle with the research the channel cites, the author's own experience of living on the edge of burnout, a five-step ChatGPT setup for offloading executive function during burnout, and the rule to plan by energy rather than by task count.
+- Answers: Why do neurodivergent people feel tired all the time? · What is autistic burnout and how is it different from depression? · How can I tell autistic burnout from a depressive episode? · Why do people with ADHD burn out at work and change jobs so often? · How can ChatGPT help me during burnout when executive functions are down? · What should I pay attention to first with autism plus ADHD and high fatigue? · What is "internal sensory imbalance" in autistic people and what do I do about it? · How do autistic people with active careers cope with social and work load? · Is multitasking a good strategy with ADHD?
+- Frameworks: Why neurodivergent people tire faster (ADHD switching + autistic sensory processing) · Autistic burnout — definition, course and differential from depression · The ADHD work-burnout cycle (5 stages) · ChatGPT project setup for offloading executive function during burnout (5 steps) · Three things to check first with ASD + ADHD + high fatigue
+- Concepts (cross-channel tags): autistic-burnout, burnout, fatigue, energy-management, executive-function, large-language-models · also relevant to areas: Rest & Burnout, Energy & Resource, Technology & AI
+
+## How neurodivergent people rest and recover
+- File: `../references/overload-meltdowns-burnout--neurodivergent-rest-recovery.md` · 10 msgs · 2024-05-01..2026-01-14
+- Light version (NotebookLM study text, whole domain part): `notebooklm/overload-meltdowns-burnout.md` in the channel folder
+- How the author (a psychologist writing for people with ADHD and autism) teaches rest — three kinds of rest and the order to combine them, how to learn to "do nothing" in small steps, why rest must be planned, how to recover socially after holidays, how to return to work gradually, resilience as flexibility and recovery rather than endurance, and a full year-review workbook ritual done with a close friend.
+- Answers: Why is it hard for people with ADHD or autism to rest, and is procrastination rest? · What are the three kinds of rest and in what order should I use them? · How do I learn to do nothing without anxiety or guilt? · Should rest be planned, and doesn't planning kill spontaneity? · How do I recover after a socially intense New Year or holiday period? · How do I go back to work after a long break or post-vacation blues? · What does resilience mean and why do Russian translations miss the point? · How do I do a year review, and what questions and exercises does the workbook contain? · What kind of retreat or rest suits a hyper-controlling person?
+- Frameworks: Three kinds of rest (stillness, process activity, resource activity) · Graduated practice of doing nothing · Seasonal rest and resource-activity lists · Gradual return to work after a long break · Year-review workbook (four tasks: 10 events per life sphere, wheel of balance, letter to the future, questions of the year) · Letter to your future self (5 steps plus storage)
+- Concepts (cross-channel tags): rest-and-recovery, self-reflection-tools, uncertainty-resilience, calendar-planning, future-orientation · also relevant to areas: Rest & Burnout, Balance & Life Philosophy
+

@@ -303,7 +303,7 @@ This topic collects the channel's posts on experiences that are specific to (or 
 
 - RSD shows up as a wide pattern of avoidance, monitoring and self-criticism, not just as hurt feelings. The translated cards list 24 signs ranging from people-pleasing and over-apologising to perfectionism and quitting jobs or friendships to avoid rejection (full checklist below) [#267, #268, #269, #270, #271, #272].
 - Maladaptive daydreaming and hyperphantasia are two related phenomena — absorbing fantasy that can disrupt life, and unusually vivid mental imagery — which the channel says are more common in women and in people with ADHD, and are double-edged: a source of creativity and sometimes a protective mechanism, but also a drain on concentration [#155].
-- ADHD can significantly affect how a person reacts to arguments and confrontation, producing overload from thoughts and emotions; the author's framing is that conflict is a normal part of life and nobody resolves every problem perfectly [#42].
+- ADHD can significantly affect how a person reacts to arguments and confrontation, producing overload from thoughts and emotions through impulsivity, emotional dysregulation and communication problems; the article answers with nine practical strategies, from stepping back before responding to setting boundaries such as breaks; the author's framing is that conflict is a normal part of life and nobody resolves every problem perfectly [#42].
 - Body doubling lets people with ADHD/AuDHD borrow external momentum and structure instead of relying on willpower: it is easier to start acting by mirroring someone else who is working [#431, #830].
 - AuDHD combines contradictory needs — the ADHD side needs stimulation (music) to focus, while the autistic side needs that stimulation to be very specific and predictable [#818].
 
@@ -379,6 +379,31 @@ Purpose: a method for people with ADHD/AuDHD («СДВГ/РАСДВГ») to cope
 - What it can be used for. Anything: work, cleaning, sport, or anything else [#830]. The target is specifically the tasks «которые ты вроде бы знаешь как сделать, но просто не можешь начать» (that you seemingly know how to do but just can't start) — sometimes work or study, sometimes taking a shower or even (not) simply getting out of bed [#830].
 - Conditions that matter. The channel stresses it is very important that this happens without pressure and in an atmosphere of acceptance. In the example space described (see *Tools and resources mentioned*), nothing is demanded of participants, each person always decides how much and how to participate, and care toward oneself and each other is a core value [#830].
 
+#### Why conflict is hard with ADHD (six features)
+Purpose: in the article «СДВГ и управление конфликтами» (ADHD and conflict management), Настя lists six features characteristic of people with ADHD that explain why conflict management is difficult; understanding them, she says, can help people with ADHD find effective conflict-management strategies [#42].
+
+1. Overload of thoughts and emotions («Перегрузка мыслей и эмоций»). During conflicts people with ADHD may experience an overload of thoughts and emotions, which leaves them feeling overwhelmed and unable to concentrate on the present moment [#42].
+2. Difficulty concentrating («Трудности с концентрацией»). A fast stream of thoughts can make it hard to stay focused on the present moment, which can lead to misunderstanding and to conflict [#42].
+3. Forgetfulness («Забывчивость»). Memory problems — forgetting important details or past events — can make conflicts harder to resolve [#42].
+4. Fast speech and non-verbal communication («Быстрый разговор и невербальное общение»). People with ADHD may speak too fast or struggle to get their message across effectively, which can cause misunderstanding [#42].
+5. Emotional dysregulation («Эмоциональная дисрегуляция»). During conflicts reactions can be extreme, creating additional problems in the relationship [#42].
+6. Running through every scenario («Перебор всех сценариев»). This one is double-edged: people with ADHD can be good at resolving conflicts thanks to innate creativity and a grasp of critical problem-solving, but they may also lean toward excessive planning, which can lead to losing focus on the original issue [#42].
+
+#### Nine conflict-management strategies for ADHD
+Purpose: strategies Настя offers to help people with ADHD cope with conflicts, presented in the article in this order [#42].
+
+1. Step back («Отступите на шаг назад»). Give yourself time to process your emotions before responding. Why: it can prevent impulsive reactions that would make the situation worse [#42].
+2. Practise active listening («Практикуйте активное слушание»). Concentrate on actively listening to the other person's point of view without interrupting; avoid jumping to conclusions or making assumptions. Why: listening without judgement or defensiveness helps you understand their perspective and supports better communication [#42].
+3. Use visual reminders («Используйте визуальные напоминания»). Use visual cues or reminders to stay focused during the discussion — as simple as writing key points on paper or in a notes app on your phone. Why: it helps you keep track of what you want to say while still taking in what the other person has told you [#42].
+4. Break the conflict into parts («Разбейте конфликт на части»). If a conflict feels overwhelming, split it into smaller, manageable parts and resolve each issue in turn. Why: this avoids the feeling of overload and keeps concentration better [#42].
+5. Ask for clarification («Ищите уточнения»). Don't hesitate to ask for explanations when you are unsure of something; seeking extra information to make sure you fully understand the situation is normal [#42].
+6. Practise empathy («Практикуйте эмпатию»). Try to enter into the other person's experience and see the situation through their eyes. Why: it helps you understand their motives and actions and find more effective and kinder ways to resolve the conflict; the author calls empathy «ключ к глубокому и искреннему пониманию, которое является основой любых здоровых и гармоничных отношений» (the key to deep and sincere understanding, which is the foundation of any healthy and harmonious relationship) [#42].
+7. Use first-person statements («Используйте утверждения от первого лица»). Express your feelings or concerns in "I" statements to avoid an accusatory tone. Example script: «Я чувствую обиду, когда…» (I feel hurt when…) instead of «Ты всегда…» (You always…) [#42].
+8. Seek support («Ищите поддержку»). Turn to a trusted friend, family member or therapist who can support you and help you process the emotions that come up during conflict. If you keep having conflicts with a partner or spouse, consider couples therapy with a therapist experienced in ADHD [#42].
+9. Set boundaries («Установите границы»). Set boundaries for conflict-resolution discussions, such as taking breaks if emotions become unbearable, and tell the other person about these boundaries. Why: to ensure respectful and productive communication [#42].
+
+After the conflict: once it is resolved, take time to reflect on what happened and what you learned from the experience; this supports personal growth and better conflict-resolution skills in the future [#42].
+
 #### Body-double request format
 When looking for a body-doubling partner (the channel's "Поиск бадди" / "find a buddy" thread), a request should state four things [#431]:
 1. The desired activity — what you want to work on.
@@ -391,12 +416,18 @@ When looking for a body-doubling partner (the channel's "Поиск бадди" 
 #### ADHD and conflict
 The channel author Настя writes that managing conflicts can be a difficult task for adults with ADHD, because ADHD can significantly affect our reaction to arguments and confrontations, creating an overload of thoughts and emotions in these situations [#42]. Her stance: «конфликт - это нормальная часть жизни, и никто не совершенен в разрешении каждой проблемы» (conflict is a normal part of life, and no one is perfect at resolving every problem). She advises being patient with yourself and focusing on improving your skills if you feel you are lacking in this area [#42]. Conflict avoidance also appears as one of the RSD signs (sign 16 above) [#270].
 
+In the linked longread she names three underlying sources of the difficulty: impulsivity, problems with emotional regulation, and problems with communication. These can lead adults with ADHD to say hurtful things that upset the people close to them [#42]. The difficulties and unpredictable reactions are not limited to romantic relationships with a partner or spouse — they also affect how we interact with friends, family and colleagues. Many couples in which at least one partner has ADHD face particular difficulties resolving their conflicts, which can strain the relationship [#42]. Her framing is hopeful: there are ways to cope with these challenges and improve conflict-resolution skills (see the two frameworks *Why conflict is hard with ADHD* and *Nine conflict-management strategies for ADHD* above) [#42].
+
+The strategies, she stresses, are not just ways to avoid or resolve conflicts: they are tools for improving self-understanding, empathy and effective communication, which can improve relationships and strengthen self-confidence. Applying them takes practice and patience; done consistently, it lets you not only resolve conflicts successfully but build deeper and healthier relationships [#42]. She also notes that every person is unique and what works for one may not work for another — so do not be afraid to experiment with different strategies and approaches to find what suits you best [#42].
+
+Conclusion of the article. If you have been diagnosed with ADHD and have to deal with conflicts, it is quite natural to experience a range of emotions; what matters is not giving in to impulsive actions. By taking time to make sense of your feelings and their causes, you can approach the situation with more clarity and calm. Conflicts are an ordinary part of life, no one resolves all problems perfectly, so be patient with yourself — with time and practice you can develop effective skills that improve your relationships with others [#42].
+
 #### AuDHD focus quirk: music
 A humorous post illustrates how ADHD and autism combine in one person. The ADHD side says: «Мы не можем фокусироваться без музыки, нам нужна музыка» (We can't focus without music, we need music). Once the music is on, the autistic side answers: «Замечательно, но нам нужна определенная музыка с определенным ритмом» (Great, but we need specific music with a specific rhythm) — and demands that endless YouTube live stream with a single melody on repeat [#818]. The lesson the joke carries is that in AuDHD the ADHD need for stimulation to focus is satisfied only within the autistic need for sameness and predictability.
 
 ### Tools and resources mentioned
 
-- Mini-article «СДВГ и управление конфликтами» (ADHD and conflict management) by the channel author Настя on Telegraph. It is said to set out several strategies that can help people with ADHD cope with conflicts [#42]. (!) INCOMPLETE: the strategies themselves are only in the linked article, which is not part of the source, so they cannot be reproduced here.
+- Mini-article «СДВГ и управление конфликтами» (ADHD and conflict management) by the channel author Настя on Telegraph, written for Нейропряность. It explains six ADHD features that make conflict hard and nine strategies for handling it, all reproduced in full above (Why conflict is hard with ADHD*, *Nine conflict-management strategies for ADHD) [#42, article #42].
 - The channel's own Discord server — offered as a place for voice/video body-doubling sessions arranged through the "find a buddy" thread [#431].
 - «Больше, чем чат» ("More than a chat") by Никита from the project «Всё об СДВГ» ("All about ADHD") — a paid space for neurodivergent people built around body doubling, with a schedule and recurring routines so participants can rely on external structure instead of willpower. As Никита describes it, it helps people start tasks and stick to routines, its core idea is to give external structure and support instead of relying on willpower, it respects participants' autonomy (nothing is required, you decide how much and how to take part), and gentle care for oneself and each other is one of its main values. The channel presents it approvingly, stressing that it works without pressure and in an atmosphere of acceptance [#830]. The promo code and discount in the post are logistics and are omitted.
 - neurodivergent_lou — the original author of the RSD signs cards, translated into Russian by Нейр∞тлично [#267].
@@ -404,6 +435,8 @@ A humorous post illustrates how ADHD and autism combine in one person. The ADHD 
 ### Notable quotes
 
 > «Помните, что конфликт - это нормальная часть жизни, и никто не совершенен в разрешении каждой проблемы. Будьте терпеливы к себе» (Remember that conflict is a normal part of life, and no one is perfect at resolving every problem. Be patient with yourself) — Настя [#42]
+
+> «Однако важно не поддаваться импульсивным действиям» (However, it is important not to give in to impulsive actions) — Настя [#42]
 
 > «Дезадаптивное мечтание - интенсивное, захватывающее фантазирование, которое может мешать повседневной жизни» (Maladaptive daydreaming is intense, absorbing fantasising that can interfere with everyday life) — Нейропряность [#155]
 
@@ -415,7 +448,7 @@ A humorous post illustrates how ADHD and autism combine in one person. The ADHD 
 
 ### Caveats, disagreements and open questions
 
-- (!) INCOMPLETE: the conflict-management strategies for adults with ADHD are only in the linked Telegraph article, which was not included in the source; the post itself gives only the framing (overload of thoughts and emotions; conflict is normal; be patient with yourself) [#42].
+- The conflict article hedges throughout («может», "may/can") and cites no studies; the author herself says what works for one person may not work for another and encourages experimenting [#42].
 - The facts about maladaptive daydreaming and hyperphantasia are hedged in the source («Возможна связь», «Может быть связано» — "a link is possible", "may be connected") and no specific studies are named; the oestrogen, DMN and dopamine/serotonin links should be read as tentative [#155].
 - The RSD checklist is a translated social-media card set, not a diagnostic instrument; the cards give no threshold or scoring [#267, #272].
 - The body-doubling space post contains a promotional element (a discount for the channel's subscribers); only the description of the method and the space's principles is kept here [#830].
@@ -432,5 +465,6 @@ Every link and file shared in this topic's posts. Resources can be used directly
 #### External links
 
 - @bchch_channel — Telegram channel of a paid body-doubling programme (channel) — Channel describing a paid product (group participation, with a 15% discount on the first month) where body doubling is practised; shared as the place to learn how it works. [#830] → <https://t.me/bchch_channel>
+- Telegram-канал «Нейропряность» (the channel itself) (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [#42] → <https://t.me/neurospicyru>
 - Discord-сервер сообщества (community Discord server invite) (other) — Invite to the authors' Discord server, where the free health tracker can also be downloaded and the community meets. [#431] → <https://discord.gg/nfyW2ghcYK>
 

@@ -7,6 +7,7 @@ Cross-channel domain index: every knowledge base's topics on this subject. Open 
 - `sources/tg-channels/na-balanse/notebooklm/change-1.md` — На балансе с Катей Стрельниковой · Behavior Change & Coaching (part 1 of 3) (~12,529 words): Why change is hard
 - `sources/tg-channels/na-balanse/notebooklm/change-2.md` — На балансе с Катей Стрельниковой · Behavior Change & Coaching (part 2 of 3) (~7,882 words): Tools and reflection practices
 - `sources/tg-channels/na-balanse/notebooklm/change-3.md` — На балансе с Катей Стрельниковой · Behavior Change & Coaching (part 3 of 3) (~11,842 words): Coaching practice and client stories; Dictionary of change: paired concepts (Словарь изменений)
+- `sources/tg-channels/this-is-too-much/notebooklm/motivation-procrastination.md` — This is too much · Motivation and procrastination (~5,038 words): Procrastination, motivation and the vacation brain
 
 ## На балансе с Катей Стрельниковой  (`na-balanse`) — domain “Behavior Change & Coaching”
 
@@ -47,6 +48,19 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/na-balan
 - Frameworks: Control vs Choice — 3 self-tests · Self-compassion vs Pity — 4 differences plus the consequences prompt · Pleasant vs Necessary — 3 distinguishing signs · Faith vs Expectations — 4 differences with paired examples · Refusal vs Moderation — 5 differences with paired examples · Control–rebellion–breakdown cycle · Refusal swing (marathon–rollback–guilt–new marathon)
 - Concepts: `habit-formation`, `self-compassion`, `motivation`, `intuitive-eating` · also relevant to: Mind & Emotions, Nutrition
 - Resources and links: 0 resources, 4 external links (section *Resources and links* of the file) · ★ Katya Strelnikova's bot — about me and coaching (healthcoach_katya_bot); Katya Strelnikova's bot: about her and working with her; Reminder (@justakindreminder); Пема Чодрон — «Как жить и как умирать» (How to Live and How to Die)
+
+## This is too much  (`this-is-too-much`) — domain “Motivation and procrastination”
+
+Channel skill (adopt its persona and constraints): `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+
+### Procrastination, motivation and the vacation brain
+- File: `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md` · 4 msgs · 2023-05-23..2026-11-11
+- Light version: `sources/tg-channels/this-is-too-much/notebooklm/motivation-procrastination.md`
+- How to analyze one concrete procrastination episode to find what it does for you and design a better replacement behavior; how self-determination theory separates intrinsic, identified and introjected motivation from amotivation, why an intention can stall without any lack of motivation, and which questions help diagnose it; and what a break from habitual work (rest, softer attention, novelty) does to stress systems, attention and the sudden appearance of new wants.
+- Answers: How do I figure out what my procrastination is actually doing for me? · What is a step-by-step exercise for replacing procrastination with a better behavior? · Why do different people procrastinate on the same thing for different reasons? · What does self-determination theory say about why we do things? · What is the difference between intrinsic, identified, introjected motivation and amotivation? · Is guilt-driven productivity a burnout risk? · Why can't I start something even though I understand why it matters? · What happens in the brain and body when regular work disappears for a while, e.g. on vacation? · What is Attention Restoration Theory and soft fascination? · Why do I suddenly want strange new things (beading, old TV series) on vacation?
+- Frameworks: Procrastination function analysis (episode diary → feelings → benefit → alternatives → mental rehearsal → real-world test) · Self-Determination Theory — four motivational positions (intrinsic, identified, introjected, amotivation) · Reasons an intention stalls without lack of motivation · SDT three basic psychological needs (autonomy, competence, relatedness) · Four self-diagnostic motivation questions for a stalled task · Attention Restoration Theory (directed attention vs soft fascination) · The vacation "wants" formula (less stress/habit load + less directed attention + more novelty)
+- Concepts: `procrastination`, `motivation`, `rest-and-recovery`, `focus-attention` · also relevant to: Rest & Burnout, Attention & Digital Wellbeing
+- Resources and links: 8 resources, 0 external links (section *Resources and links* of the file) · ★ Лонгрид: почему одни берут и делают, а другие не могут начать (telegra.ph)
 
 ## Also relevant — topics filed under another area
 
@@ -102,6 +116,11 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How the "willpower is a muscle" (ego depletion) theory rose from Baumeister's 1998 cookie-and-radish experiment, spread into decision-fatigue lore, and then failed bias-corrected meta-analysis and a 36-lab preregistered replication; what the channel proposes instead (motivation/attention shift, habits and fewer temptations, intention, conative intelligence, attention training) and why to distrust attractive scientific explanations.
 - Concepts: `willpower`, `habit-formation`, `motivation`
 
+### Digital detox and healthy screen habits  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Attention & Digital Wellbeing
+- File: `sources/tg-channels/deep-mind2.0/topics/attention-digital-wellbeing/digital-detox-screens.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
+- How the deep mind channel understands screens as a source of stress, a self-regulation "anaesthetic" and a designed addiction, and what it recommends instead — an information-detox task list, the 4-parameter digital-activity check, phone-free mornings and evenings, a 4-step social-media break, the Breathe-Blink-Break-Boundaries answer to screen apnea, and the mindfulness-based (MBRP) way of working with craving instead of bans. It also covers digital fatigue, JOMO, the critique of the "cheap dopamine" myth, the 2026 US court verdict on platform design, and why chosen versus imposed disconnection have opposite effects. The author's RBC-pro article on JOMO (joy of missing out) as a new stage of digital maturity — where the term comes from, the three reasons it is trending now, what JOMO looks like in everyday behaviour, and three small steps to start with if missing out does not yet feel joyful.
+- Concepts: `digital-hygiene`, `habit-formation`, `focus-attention`, `meditation-mindfulness`, `emotional-regulation`, `stress-and-anxiety`
+
 ### Self-blame, overcontrol and the inner critic  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Psychotherapy & Inner Work
 - File: `sources/tg-channels/human-machine/topics/psychotherapy-relationships/self-blame-overcontrol.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
 - How the brain's prediction and error-correction programs turn hindsight into self-blame, why "I did my best" fails as self-consolation under limited resources, what overcontrol costs (as the author found it described in RO DBT), how the "good daughter" false self forms, why "good enough" can beat "optimal", why a habit-replacement cue can backfire, and three drivers of creators' restlessness after a release.
@@ -115,5 +134,20 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 ### Executive dysfunction, ADHD skills training and daily-life strategies  — *also relevant* · (нейро)разнообразная психология (`neurodiv-psy`) · primary area: Neurodiversity
 - File: `sources/tg-channels/neurodiv_psy/topics/executive-function-daily-life/executive-function-adhd-strategies.md` · channel skill: `sources/tg-channels/neurodiv_psy/agent-kb/SKILL.md`
 - What CBT skills training for adults with ADHD (the Safren protocol) is, how it is run and what skills it trains; why executive dysfunction makes people avoid even wanted tasks; and why people with ADHD overspend, with a four-block set of strategies for managing money (visualization and external cues, self-regulation, asking for help, limiting spending and saving). The ADHD Foundation (UK) adult ADHD guide in Russian translation (self-screening, diagnosis route, DSM-5 criteria, executive functions, five externalisation strategies, sleep, diet, exercise, stress, relationships, medication, CBT), plus the channel's own posts on cleaning hacks, why starting is hard for the ADHD brain and what motivates it, and time blindness in ADHD and autism with practical aids.
-- Concepts: `executive-function`, `cognitive-behavioral-therapy`, `money-management`, `motivation`, `calendar-planning`
+- Concepts: `executive-function`, `cognitive-behavioral-therapy`, `procrastination`, `money-management`, `psychiatric-diagnosis`, `motivation`
+
+### ADHD skills training, coaching and organization tools  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/adhd-self-management/adhd-skills-training-tools.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- How the author's CBT skills-training groups for adult ADHD (Young-Bramham protocol) are structured, what the pre-group interview is for, why there are no ASD+ADHD groups, what ADHD coaching is and why it is scarce, which capture and planning tools the author uses and recommends, how she returned to reading with ADHD, and why ADHD skills fade and have to be relearned.
+- Concepts: `cognitive-behavioral-therapy`, `executive-function`, `health-coaching`, `habit-formation`, `focus-attention`
+
+### Lowering emotional vulnerability: routines, food and boring basics  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychotherapy & Inner Work
+- File: `sources/tg-channels/this-is-too-much/topics/dbt-skills/emotional-vulnerability-self-care-basics.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- How the channel teaches lowering emotional vulnerability through the body and daily life — the DBT ЗАБОТА (PLEASE-style) skill and how to actually follow it, which foods are linked to mood swings, a 7-step method for building a daily routine with BPD, a 5-point self-care protocol after a shocking event, and why boring evidence-based basics beat searching for a "magic pill".
+- Concepts: `self-care`, `dialectical-behavior-therapy`, `emotional-regulation`, `habit-formation`, `nutrition-basics`
+
+### Boredom, boring tasks and mindfulness for ADHD  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Neurodiversity
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/attention-executive-function/boredom-mindfulness-adhd.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- How boredom feels and works in ADHD and autism (more frequent, longer, painful; agitated vs apathetic boredom), how to make boring tasks bearable through acceptance and gamification, and what research and practice say about mindfulness for ADHD, including six concrete adaptations of mindfulness practice for ADHD.
+- Concepts: `boredom`, `focus-attention`, `meditation-mindfulness`, `procrastination`, `motivation`
 

@@ -39,6 +39,13 @@ frameworks:
   - Seven ways emotional dysregulation can look in autistic people
   - Alexithymia — what it is, what it is not, what helps
   - Misattribution of arousal and four reasons it matters for ASD/ADHD
+  - Homeostasis–interoception–self-regulation model (article "Autism, ADHD and homeostasis")
+  - Nine ways interoceptive difficulties disrupt homeostasis
+  - Interoception → action → result chain (hunger and anxiety diagrams)
+  - Emotion matrix (arousal × valence)
+  - Suspension bridge study (Dutton and Aron, 1974)
+  - Adrenaline study (Schachter and Singer, 1962) and two-factor theory of emotion
+  - Misattribution of arousal FAQ (eight questions)
   - List of feelings in six families (printable PDF)
   - Feelings wheel (Gloria Willcox, 1982), printable PDF
 themes:
@@ -62,11 +69,20 @@ terms:
   - Индикатор чувств | feelings indicator — 1–10 intensity thermometers for six key emotions | #381
   - эмоциональная дисрегуляция | emotional dysregulation | #640
   - мелтдаун / шатдаун | meltdown / shutdown — outcomes of overload that was not noticed in time | #47
+  - хеморецепторы | chemoreceptors — sensory cells distributed through the body through which interoception senses internal states | #37
+  - саморегуляция | self-regulation — the ability to (1) identify what the body needs and (2) respond to those needs | #37
+  - Возбуждение / Валентность | arousal (energy, autonomic activation) and valence (pleasantness) — the two axes of the emotion matrix | #38
+  - Эффект подвесного моста | suspension bridge effect — another name for misattribution of arousal, after Dutton and Aron's 1974 study | #38
+  - двухфакторная теория эмоций | two-factor theory of emotion (Schachter and Singer) — emotion = physiological arousal + cognitive interpretation | #38
+  - эмоциональное заражение | emotional contagion — taking on the emotions of people around when one has no explanation for one's arousal | #38
   - Список чувств | list of feelings: a vocabulary handout with feeling words grouped under six core feelings | #383
   - Колесо чувств | feelings wheel by Gloria Willcox (1982): six core feelings in the centre, an inner ring and an outer ring of more specific feelings | #384
 people:
-  - Настя (Nastya) | channel co-author; wrote the alexithymia and feelings-wheel posts and translated the autismservicesgroup text | #47, #49, #799
-  - Megan Anna Neff (Меган Анна Нефф, Neurodivergentinsights.com) | author of the article "Interoception" on which the channel's presentation is based | #186
+  - Настя (Nastya) | channel co-author; wrote the alexithymia and feelings-wheel posts and translated the autismservicesgroup text and Megan Anna Neff's articles on homeostasis and misattribution | #37, #38, #47, #49, #799
+  - Megan Anna Neff (Меган Анна Нефф, Dr. Neff, Neurodivergentinsights.com) | autistic psychologist-author of the article "Interoception" on which the channel's presentation is based, and of the two articles translated by Nastya on autism/ADHD/homeostasis and on misattribution of arousal | #37, #38, #186
+  - Lisa Feldman Barrett | author of "How Emotions Are Made" ("Как создаются эмоции: Тайная жизнь мозга"); her stomach-flu first-date story is cited as an example of misattribution | #38
+  - Donald Dutton and Arthur Aron | authors of the 1974 suspension bridge study | #38
+  - Schachter and Singer | authors of the 1962 adrenaline study and the two-factor theory of emotion | #38
   - Kelly Mahler (Келли Малер) | author of the book "Восьмая сенсорная система" (The eighth sensory system); quoted on sense of self; source of the nervous-system stabilization exercise | #186
   - Gloria Willcox | creator of the feelings wheel (1982) | #379
   - neurodivergent_lou | author of the alexithymia and emotional-dysregulation card series (forwarded via Нейр∞тлично) | #604, #640
@@ -95,12 +111,54 @@ Part 2 covers two posts from 12 December 2024. Each one is a printable PDF. #383
 - **Regulate the nervous system first.** Since overload is hard to notice, an early step in managing alexithymia is nervous-system regulation, including sensory regulation, to create safety and leave fight/flight/freeze [msg #47].
 - **Alexithymia is not absence of emotion or empathy**; it is a feature of emotional awareness and of brain–body connection that becomes easier with understanding and support [msg #799].
 - **Visual aids and own-language descriptions help name feelings**: the feelings wheel, list of feelings and intensity indicator; and allowing people to describe emotions as textures, colours, body sensations or energy rather than forcing "standard" terms [msg #49, #284, #379, #380, #381, #799].
-- **Arousal can be misattributed** to the wrong cause (e.g. post-run heartbeat read as attraction), which is especially relevant to people who already find emotions hard to identify [msg #38].
+- **Interoception is how the body keeps homeostasis through non-automatic action**: signals like hunger, thirst or cold call us to act, and "identify the need + respond" is the basis of self-regulation; when the first link fails, neurodivergent people risk dehydration, burns, sleep problems, UTIs and missed pain (see *Nine ways interoceptive difficulties disrupt homeostasis*) [article #37].
+- **Arousal can be misattributed** to the wrong cause (e.g. post-run heartbeat read as attraction), which is especially relevant to people who already find emotions hard to identify; emotion = arousal + the story we tell about it (bridge and adrenaline studies), and for neurodivergent people sensory overload is a common unrecognized source of irritability [msg #38] [article #38].
 
 - **Naming an emotion goes from general to specific.** Both handouts group feeling words under the same six core feelings: anger (Злость / Гнев), strength (Сила), sadness (Грусть), happiness (Счастье), fear (Страх) and calm (Спокойствие). You first pick the broad family and then a more precise word inside it (see *Feelings wheel*) [file #383, #384].
 - **The wheel is a starting point, not a full catalogue.** Its caption says it "не охватывает все возможные чувства" ("does not cover all possible feelings"). It is still an excellent starting point for identifying and describing your emotions [file #384].
 
 ## Frameworks, models and step-by-step methods
+
+### Homeostasis–interoception–self-regulation model (article "Autism, ADHD and homeostasis")
+Source: the article "Аутизм, СДВГ и гомеостаз" ("Autism, ADHD and homeostasis: what you should know") by Megan Anna Neff, translated by Nastya for the channel [msg #37] [article #37].
+
+**Entry self-check.** The post and article open with three questions: do you forget to eat or drink water because you don't feel hunger or thirst; have you ever realised you are not breathing and need to take a breath; have you overheated because you didn't notice you were too hot? If so, "Возможно, у вас есть трудности с интероцепцией" ("Perhaps you have difficulties with interoception"). The article sets out to connect autism, ADHD and homeostasis through interoception, defining the two terms first [msg #37] [article #37].
+
+**1. Homeostasis — definition and example.** "Гомеостаз - это способность организма поддерживать постоянную внутреннюю среду." ("Homeostasis is the body's ability to maintain a constant internal environment.") Example: an adult's resting core body temperature is widely known to be 36.1–36.6 °C. If it rises just one degree above that range we have a fever; if it drops just one degree below, we become hypothermic. The body must stay within a specific range to perform the functions needed for survival, and it keeps core temperature there by maintaining homeostasis [article #37].
+
+**2. What the body keeps in balance.** Besides temperature, the organs regulate (the article's list, which ends "and much more"): (1) body temperature; (2) water and moisture levels; (3) CO2 and O2 levels; (4) blood sugar; (5) blood pressure; (6) mineral and nutrient levels; (7) hormone levels; (8) circadian rhythms [article #37].
+
+**3. Why balance in both directions matters.** Too-low blood sugar means cells do not get enough energy to function, but too-high blood sugar can damage cells. Too-low blood pressure does not let blood circulate to all parts of the body, but too-high pressure can rupture vessels. Maintaining equilibrium is therefore essential for survival [article #37].
+
+**4. Automatic vs non-automatic mechanisms — where interoception comes in.** The body has automatic mechanisms for homeostasis — sweating when hot, releasing insulin after a heavy meal. But it also depends on *non-automatic* processes: it sends signals such as hunger or thirst to indicate it needs food or water. Responding to these signals and making sure the body gets what it needs is how interoceptive perception connects to homeostasis. The article's framing question: if the body maintains so many balanced systems, how does it know when balance is disturbed? Answer: through interoception [article #37].
+
+**5. Interoception — one of eight sensory systems.** "Интероцепция - одна из восьми основных чувственных систем." ("Interoception is one of the eight main sensory systems.") Everyone knows the five senses (sight, hearing, touch, taste, smell), but there are three hidden ones many people overlook: balance (the ability to sense gravity), proprioception (knowing where our body is in space) and interoception (the ability to track internal states such as hunger and thirst). Interoception senses internal states of being: hunger, thirst, temperature, discomfort, pain, the need to use the toilet, breathing rate, sleepiness, wakefulness and even emotional states such as stress, fear and sadness. The body does this through many kinds of sensory cells called chemoreceptors distributed throughout the organism, so interoception is critical for the body to understand what it must do to stay in homeostatic balance [article #37].
+
+**6. Link to autism and ADHD.** Neurodivergence often brings sensory-processing difficulties; sensitivity to light, sound and touch in autistic and ADHD people is well known — but interoception is one of the three overlooked systems. Neurodivergent people can have difficulty processing input from all senses, including interoception, so autistic and ADHD people may struggle to tell whether they are hungry, thirsty, tired, hot, cold, uncomfortable or in pain, whether they are breathing properly, when they need the toilet, what emotions they are feeling, and even whether their leg has "fallen asleep" or that they might be hurting themselves [article #37].
+
+**7. Self-regulation = identify + respond.** When it is hard to understand what the body needs, we cannot act to support it. The ability to (1) identify what the body needs and (2) respond to those needs is, per the article, the basis of self-regulation. So difficulties with interoception and homeostasis mean difficulties self-regulating both body and emotions — one reason why interoception and building interoceptive awareness are such important components of support for many autistic and ADHD children and adults. Interoceptive signals "call us to act": thirst moves a person to drink, keeping the ideal hydration/electrolyte balance; hunger moves them to eat, keeping blood sugar balanced; cold moves them to put on a coat, keeping them in the ideal temperature range [article #37].
+
+**8. Self-regulation without interoception.** "Без осознания интероцепции это похоже на поход по горам без карты и компаса." ("Without interoceptive awareness it is like hiking in the mountains without a map and compass.") Without it we hardly know what the body needs here and now, which makes it hard to care for the body in ways that help us self-regulate and calm down. Interoceptive difficulty makes it harder to regulate emotions, attention and behaviour and can cause problems with eating, toileting and other physical aspects. "Понимание сигналов тела является основой гомеостаза, саморегуляции и самозащиты." ("Understanding body signals is the foundation of homeostasis, self-regulation and self-protection.") When interoceptive awareness is poor, the true source of discomfort cannot be pinpointed, so we cannot act to meet unmet needs and regulate our bodies [article #37].
+
+**9. Summary of the article.** Interoception — awareness of internal sensations like hunger, thirst and temperature — is key to responding to the body's signals and keeping balance and homeostasis; noticing these sensations and acting on them is the basis of self-regulation. With interoceptive difficulties it is harder to give the body what it needs; knowing what interoception is makes it easy to see how autism and ADHD can affect homeostasis and self-regulation [article #37].
+
+### Nine ways interoceptive difficulties disrupt homeostasis
+From the same article, introduced as "an incomplete list" ("неполный список") of how interoceptive problems can affect homeostasis. People with interoception problems may have difficulty [article #37]:
+1. **Knowing whether they are hungry** — so they may eat too much, too little, or not enough of what the body needs, which can disturb blood sugar and micronutrient levels.
+2. **Knowing whether they are thirsty** — usually leading to dehydration, but it can also lead to fluid overload.
+3. **Sensing temperature, both surface and internal** — raising the risk of hypothermia and hyperthermia, and making burns more likely.
+4. **Knowing when and how fast to breathe** — which the article suggests may be behind the high rate of apnoea in autistic people.
+5. **Regulating blood pressure according to physical activity** — the article suggests neurodivergence may play a role in conditions such as postural orthostatic tachycardia syndrome (POTS).
+6. **Regulating stress and anxiety** — leading to greater susceptibility to anxiety disorders, burnout, PTSD and other mental illnesses.
+7. **Knowing when they are tired and need to go to bed** — making neurodivergent people more prone to sleep disorders.
+8. **Sensing internal pain or discomfort** — so neurodivergent people may not realise when they need medical help or, conversely, think they need it when they don't.
+9. **Knowing when they need the toilet** — which can lead to urinary tract infections and constipation.
+
+### Interoception → action → result chain (two diagrams)
+Two translated diagrams in the homeostasis article, titled "Интероцепция, Гомеостаз и Саморегуляция" ("Interoception, homeostasis and self-regulation"), with the caption: interoception provides information that helps us act in ways that create stability. Each runs through the same five stages: feel a sensation → body state or emotion → called to action → action → result [article #37].
+- **Diagram 1 (hunger):** sensation — rumbling stomach; body state — hunger; called to action; action — eat; result — the unpleasant sensations go away and the body returns to balance. Explanation on the card: the body is out of balance (it needs food); it transmits this via an interoceptive signal, which mobilizes the person to meet the body's need so it can return to equilibrium (homeostasis) [article #37].
+- **Diagram 2 (anxiety):** sensation — trembling, tightness in the chest, fast heartbeat; emotion — anxiety; called to action; action — stimming, breathing exercises, using sensory calming tools; result — reduced anxiety. Explanation: here interoceptive signals help the person recognize their anxiety, which gives them the opportunity to act to bring the body back to balance [article #37].
+The article presents the two diagrams as examples of how interoceptive awareness is the key to homeostasis and self-regulation: in the first, perceiving hunger moves the person to behaviour that regulates the body's needs; in the second, interoceptive signals prompt the person to notice their anxiety [article #37].
 
 ### Two components of interoception
 Source: the channel's presentation "Интероцепция и как ее улучшить" ("Interoception and how to improve it"), based on Megan Anna Neff's article "Interoception" (Neurodivergentinsights.com), shared after an online meeting on interoception [file #186].
@@ -113,7 +171,7 @@ Source: the channel's presentation "Интероцепция и как ее ул
 ### Six consequences of poor interoceptive awareness
 The presentation says autistic people face interoceptive difficulties more often than the general population, and that some traits usually attributed to autism itself are in fact the result of interoceptive difficulties: difficulty processing emotions (linked to increased anxiety); alexithymia (difficulty identifying and describing emotions); and empathy and perspective-taking (difficulty understanding another's viewpoint when we struggle to understand our own bodily experience). Interoceptive difficulties also make it hard to identify pain, hunger and thirst, which disrupts homeostasis, self-regulation and physical wellbeing and can leave an unclear sense of self and others, affecting health, relationships and emotion regulation [file #186]. It then lists six consequences:
 
-1. **Difficulty maintaining homeostasis.** Homeostasis is a system's striving to remain in balance; its hallmark is feedback loops, like a thermostat regulating room temperature, and the body runs thousands of them. Examples: glucose homeostasis regulated by insulin; thermoregulation through sweating and evaporation when overheated. The body responds automatically (signalling hunger or thirst), but interoceptive *awareness* — listening to those signals and acting on them — is also needed. Interoceptive signals mobilize us to act: thirst makes us drink (hydration and electrolyte balance), hunger makes us eat (blood sugar), cold makes us put on clothes (body temperature). Interoceptive difficulties make it harder to give the body what it needs [file #186]. The channel's homeostasis article opens with the matching self-check questions: do you forget to eat or drink because you don't feel hunger or thirst; have you ever realised you weren't breathing and needed to take a breath; have you overheated because you didn't notice you were too hot — if so, "Возможно, у вас есть трудности с интероцепцией" ("Perhaps you have difficulties with interoception"), and the article links autism, ADHD and homeostasis through interoception [msg #37].
+1. **Difficulty maintaining homeostasis.** Homeostasis is a system's striving to remain in balance; its hallmark is feedback loops, like a thermostat regulating room temperature, and the body runs thousands of them. Examples: glucose homeostasis regulated by insulin; thermoregulation through sweating and evaporation when overheated. The body responds automatically (signalling hunger or thirst), but interoceptive *awareness* — listening to those signals and acting on them — is also needed. Interoceptive signals mobilize us to act: thirst makes us drink (hydration and electrolyte balance), hunger makes us eat (blood sugar), cold makes us put on clothes (body temperature). Interoceptive difficulties make it harder to give the body what it needs. The fuller treatment of this point is the article in *Homeostasis–interoception–self-regulation model* above [file #186].
 2. **Self-regulation.** Problems with homeostasis are directly tied to problems with self-regulation, described as "поход в горы без карты и компаса" ("a hike in the mountains without a map and compass"). Interoceptive awareness is the virtual map telling us what the body needs right now; without it, it is hard to recognize signals and therefore to care for and soothe the body. Interoceptive difficulties directly affect regulation of emotions, attention and behaviour, with knock-on problems in eating habits and physical wellbeing. Body signals are a foundation of self-care and self-protection; when awareness is poor, the true source of discomfort becomes unclear, so one cannot respond effectively [file #186].
 3. **Emotion regulation.** Defined as an important subset of self-regulation: the ability to be aware of one's emotions and intervene to calm the body; any activity that reduces the intensity of an emotion counts as emotion regulation. Its effectiveness depends on perceiving one's emotional states, and interoception supplies awareness of the physical signals that *precede* emotional reactions. Regulation skills work better when one can recognize early signs of rising intensity. Because interoceptive difficulty breaks the link between physical signals and emotions, the presentation concludes that resolving interoception problems is the first step in building effective emotion-regulation skills [file #186].
 4. **Health and wellbeing.** Health depends on responding adequately to body signals and judging their meaning. People with limited interoception may face: (a) *hydration* — not noticing thirst leads to drinking too little, causing headaches and digestive problems; (b) *temperature regulation* — misreading body signals leads to wrong responses to temperature change, raising the risk of frostbite or heat stroke; (c) *nutrition* — trouble sensing hunger leads to irregular meals and an uneven diet; (d) *pain and injury awareness* — weakened pain signals slow the reaction to physical problems and raise the risk of complications. Managing health therefore needs not only knowledge about the body but the ability to respond to its needs [file #186].
@@ -240,6 +298,64 @@ Four reasons the post gives for why this is especially important for people with
 4. **Self-regulation** — awareness of how physiological arousal can be misidentified helps develop strategies for better self-regulation and managing one's own behaviour.
 Understanding these aspects, the post says, can improve quality of life and make social interactions easier [msg #38].
 
+### Emotions and the emotion matrix (arousal × valence)
+The linked article "Раскрывая эмоции: Наука о мисатрибуции в социальной психологии" ("Unpacking emotions: the science of misattribution in social psychology") is by Megan Anna Neff, translated by Nastya [article #38].
+
+**What emotions are.** The article defines emotions as complex phenomena that interweave psychological states with physical sensations, spanning the joy of happiness, the depths of sadness, the intensity of anger, the acceleration of fear, the spark of surprise and the recoil of disgust. They are "much more than fleeting feelings": powerful forces that shape decisions, guide behaviour, influence interactions with others and play a critical role in overall health and wellbeing. The interdisciplinary study of emotions (psychology, neuroscience) tries to take their mechanisms apart [article #38].
+
+**The author's autistic stance.** Neff writes that, as an autistic person, digging into the mechanics of emotions — "заглядывание под капот" ("looking under the hood") — has always been critically important to her: it is about demystifying these complex feelings to engage with them more effectively. For her this is "not just academic interest" but a necessary tool for navigating the emotional landscape as an autistic person. She names two key studies in the psychology of emotion — the adrenaline study and the "suspension bridge study" — and focuses the piece on the latter and on what misattribution means for understanding emotions, especially attraction [article #38].
+
+**The emotion matrix.** To understand emotions deeply, the article says it helps to consider two key elements: **arousal (energy)** and **valence (pleasantness)**. Arousal involves activation of the autonomic nervous system and plays a key role in shaping emotions: it determines whether we feel excited and energetic or slow and sluggish. Because arousal shapes emotional experience so strongly, misattributing it matters. The translated "Матрица эмоций" (emotion matrix) card by Dr. Neff (Neurodivergent Insights) arranges emotions in four quadrants [article #38]:
+1. **High arousal, unpleasant:** бешенство (fury), ярость (rage), злость (anger), ужас (horror), паника (panic), разочарование (disappointment), страх (fear), раздражение (irritation), встревоженность (alarm/anxiousness).
+2. **High arousal, pleasant:** взволнованность (excitement), гордость (pride), счастье (happiness), определенность (certainty), радость (joy), изумление (amazement), восторг (delight), ожидание (anticipation), любопытство (curiosity).
+3. **Low arousal, unpleasant:** меланхолия (melancholy), отчаяние (despair), апатия (apathy), скука (boredom), депрессия (depression), хмурость (gloominess), грусть (sadness), скорбь (grief), безразличие (indifference), усталость (tiredness).
+4. **Low arousal, pleasant:** удовлетворение (satisfaction), благодарность (gratitude), довольство (contentment), умиротворенность (peacefulness), уют (cosiness), расслабление (relaxation), спокойствие (calm).
+
+### Misattribution of arousal — the full article
+**Definition.** Misattribution of arousal happens when we misidentify the cause of our emotional arousal; it illuminates the interplay between mind and body in forming emotions. "История, которую мы приписываем нашему возбуждению, значительно влияет на наш конечный эмоциональный опыт" ("The story we attribute to our arousal significantly influences our final emotional experience"). The theory explores how people can misread physiological arousal (a state of physiological alertness and activity) as caused by something else, such as sexual attraction, which often leads to distorted emotional experiences [article #38].
+
+**Example — Lisa Feldman Barrett.** In her book "Как создаются эмоции: Тайная жизнь мозга" ("How Emotions Are Made: The Secret Life of the Brain"), Barrett describes a first date on which she had a stomach flu: she did not realise how ill she was until the end of the date and attributed the butterflies in her stomach to attraction. The article calls this a great example of arousal and sensation being mistaken for attraction [article #38].
+
+**Historical background.** The study of misattribution dates to the 1970s, a significant period for research on human emotion. In a foundational 1974 study, Donald Dutton and Arthur Aron examined whether attraction becomes more likely in anxiety-provoking (arousing) situations. The phenomenon is therefore also called the "Эффект подвесного моста" ("suspension bridge effect"): environments that provoke high physiological arousal can lead to misinterpretation of emotions [article #38].
+
+### Suspension bridge study (Dutton and Aron, 1974)
+The article notes that the study reflects certain heteronormative biases of its 1970s design but still gave useful insight into emotional psychology [article #38]. Procedure, step by step:
+1. **Two bridges.** Male participants were asked to cross one of two bridges: a stable, modern bridge close to the ground, or a high, 450-foot (about 137 m), unstable suspension bridge that naturally provoked fear [article #38].
+2. **Story task.** After crossing, each man met a woman who asked him to write a story about a non-sexual, ambiguous picture; the stories were then analysed for sexual content [article #38].
+3. **Contact offer.** The woman then gave the men her contact details, supposedly for follow-up questions about her project [article #38].
+**Results.** Men who crossed the stable low bridge showed less interest in contacting the woman and wrote stories with less erotic material. Those who crossed the high unstable bridge, experiencing more arousal from its instability, more often expressed interest in the woman and often decided to call her later. Their adrenaline-raised arousal was misattributed to the woman's attractiveness — visible both in their greater willingness to initiate contact and in their more erotic stories. In essence they attributed the arousal from the bridge (faster heartbeat, an adrenaline "rush") to her attractiveness [article #38].
+**Lessons the article draws.** Our minds interpret physical sensations in fascinating ways; misattribution obscured the true source of the men's arousal, showing the power of context over emotional experience — the narratives we build around physical states can deeply shape emotional reactions and perceptions. The study highlights the link between physiological arousal, the narrative formed while experiencing it, and our emotional responses; external stimuli (crossing a shaky bridge) can strongly shape how we interpret internal emotions. Emotional reactions are therefore not entirely dependent on internal states but are also shaped by the environment, and the body's reactions can intertwine with and even transform emotional experience, leading us to interpret situations in unexpected ways [article #38].
+
+### Consequences and the role in emotion regulation
+**Consequences.** Understanding misattribution is described as vital because it strongly affects how we interpret emotions, with deep consequences for relationships and decision-making. It helps us see that emotional reactions are sometimes more about our immediate physical reactions to the environment than about the people or events in it. It also underlines the importance of self-awareness in regulating emotions — recognizing the true sources of feelings and responding more appropriately — which can lead to healthier relationships and more conscious choices [article #38].
+
+**Role in regulation.** "Распознавание истинного источника нашего возбуждения является ключом к более здоровому регулированию эмоций и более подлинным взаимодействиям." ("Recognizing the true source of our arousal is the key to healthier emotion regulation and more authentic interactions.") It helps distinguish emotions caused by external factors from those arising within us [article #38].
+
+**The author's own example (sensory irritability).** Neff writes that when she is sensorily overloaded she often feels heightened irritability. Before she understood this as sensory overload, she wrongly attributed the irritation to the people or situations around her. Now, with a better understanding of sensory regulation, she can identify the real cause of her discomfort more accurately: for example, the irritation she feels at the sound of her spouse crunching cereal comes from her sensory sensitivity — not from having suddenly developed a dislike of him (though before her "sensory enlightenment" she might have thought so). The lesson she draws: the theory is especially relevant to neurodivergent people, who often face many sensory triggers that cause unpleasant arousal; applying it lets us examine our emotional reactions more critically, which fosters emotional growth and improves our ability to communicate in both personal and professional life [article #38].
+
+### Adrenaline study (Schachter and Singer, 1962) and the two-factor theory
+The article places misattribution within a wider body of attribution theories — research on how people interpret and assign causes to their emotions and actions, which helps explain why people think, feel and behave as they do — and presents a second study that sheds light on misattribution [article #38]. Procedure:
+1. **Injection.** Participants were injected with epinephrine (adrenaline), producing physical arousal symptoms: rapid heartbeat, trembling, fast breathing. They did not know the true nature of the injection and believed it was a test of a vision drug [article #38].
+2. **Informed vs uninformed groups.** One group was told about possible side effects; the others were not [article #38].
+3. **Confederate.** Each participant was then placed in a room with a "confederate" (an actor playing a role in the experiment) who behaved either euphorically or irritably [article #38].
+**Result.** Participants' interpretation of their physical symptoms depended largely on the confederate's behaviour: those with the euphoric confederate perceived their arousal as happiness, those with the irritable one felt anger. Those who knew to expect side effects were less influenced by the confederate's emotions [article #38].
+**Two critical conclusions** the article draws:
+1. **Emotional contagion.** Participants' emotional reactions to adrenaline shifted with the behaviour of the person in the room, and the unwarned were especially susceptible. When people have no explanation for their emotions, they tend to label feelings from their immediate context and are more open to the emotions of those around them [article #38].
+2. **Beliefs shape the interpretation of emotions.** Our beliefs or labels about bodily sensations shape emotional experience; the narrative the mind builds around physical sensations plays a significant role in how we ultimately interpret and live those emotions [article #38].
+Like the bridge study, this underlines the complexity of emotional processing and the importance of context and cognition [article #38].
+
+### Misattribution of arousal FAQ (eight questions)
+The article closes with a question-and-answer section offered as its summary [article #38]:
+1. **What is the theory?** When people experience physiological arousal they may misattribute its source, leading to wrong ideas about their emotions and behaviour.
+2. **What are its consequences?** Significant: it can affect how people perceive their emotions and influence their decision-making and behaviour.
+3. **How are arousal and attraction connected?** This link is a key element of the concept: people may confuse sensations of arousal with romantic or sexual attraction and change their emotional experience and behaviour accordingly.
+4. **How does this research add to our understanding of emotion?** It shows the complexity of emotional experience and how people assign their arousal to specific emotional states, highlighting the role of cognitive processes in forming emotional reactions.
+5. **What is the two-factor theory of emotion?** Proposed by Schachter and Singer: emotional experience depends both on physiological arousal and on cognitive interpretation; it is closely linked to misattribution because it stresses the role of interpretation.
+6. **Why is it relevant to love and relationships?** People may misread arousal as signs of romantic attraction, which has consequences for how romantic connections are formed and evaluated.
+7. **How does it relate to cognitive dissonance?** Both involve a mismatch between physiological arousal and cognitive interpretation; people may experience dissonance when they misattribute arousal and then try to reconcile the conflicting emotional and cognitive experiences.
+8. **What are the key findings on arousal and attraction?** Arousal can influence perceived attractiveness and emotional experience in complex ways, giving insight into the interplay of physiological arousal and emotional interpretation.
+**Conclusion.** Studies like the bridge experiment remind us of the complex nature of emotions: "Эмоции - это не только то, что мы чувствуем внутри; это также о том, как мы интерпретируем эти чувства в отношении к нашему окружению." ("Emotions are not only what we feel inside; they are also about how we interpret those feelings in relation to our surroundings.") Understanding this interplay helps us navigate our emotional world with more awareness and authenticity — a path of continuous learning [article #38].
+
 ### List of feelings in six families (printable PDF)
 Purpose: a one-page vocabulary sheet to use when you cannot find the word for what you feel. It has six coloured boxes, one per family, and each box has a small face icon showing the mood. The box titles and word counts (verified against the rendered PDF) are [file #383]:
 1. **Злость (anger)**: 24 words, beginning with гнев, ярость, разочарование (anger, rage, disappointment) and ending with истощение, злоба (exhaustion, malice). The box sits on an orange background with a frowning face [file #383].
@@ -289,19 +405,26 @@ In the feelings-wheel post Nastya writes that if you are confused when asked "ho
 - If standard words don't fit, describe the emotion by texture, colour, body sensation, facial expression, "chemistry", energy movement or an image [msg #284].
 - When supporting someone with alexithymia: give time for the feeling to ripen, use visual aids and body maps, ask gently instead of demanding an immediate answer [msg #799].
 - After physical exertion or stress, check whether arousal is being attributed to the wrong cause (e.g. a person rather than the run you just did) [msg #38].
+- When irritated by a person, ask whether the real source is sensory overload (Neff's cereal-crunching example) before attributing it to them [article #38].
+- Place a feeling on the emotion matrix by asking two questions: how much energy (high/low arousal) and how pleasant (valence) [article #38].
 
 ## Evidence and numbers
 
 - About 50% of autistic people are thought to experience alexithymia (Milosavijevic et al., 2016, cited on the neurodivergent_lou card) [msg #605].
 - Cook, Brewer, Shah and Bird (2013), cited in the presentation: difficulty understanding and distinguishing one's own emotions leads to significant difficulty understanding others' emotions [file #186].
 - Research cited in the presentation (no authors given): autistic people show lower accuracy on heartbeat-detection tests but report higher interoceptive awareness; higher interoceptive awareness goes with a more developed insula; the insula activates during self-reflection (mirror, photos) [file #186].
+- Normal resting adult core temperature 36.1–36.6 °C; one degree above = fever, one below = hypothermia (article #37's illustration of homeostasis) [article #37].
+- Dutton and Aron (1974): men crossing a 450-ft (~137 m) unstable suspension bridge wrote more erotic stories and more often contacted the woman they met than men on a low stable bridge [article #38].
+- Schachter and Singer (1962): adrenaline-injected participants read their arousal as happiness or anger depending on a confederate's behaviour; those told about side effects were less influenced [article #38].
 - Thresholds used in the methods: check-ins of 10 seconds or longer; 30–50 seconds of activity to raise the pulse; 60 seconds to lower it; 2 timers a day [file #186].
 
 ## Tools and resources mentioned
 
 - **Article "Аутизм и Интероцепция" (teletype)** — the channel's article on interoception in autism/neurodivergence and how to improve it [msg #20].
-- **Article "Аутизм, СДВГ и гомеостаз" (telegra.ph)** — on autism, ADHD, homeostasis and interoception [msg #37].
-- **Article "Раскрытие эмоций: Наука об ошибочной атрибуции в социальной психологии" (telegra.ph)** — misattribution of arousal [msg #38].
+- **Article "Аутизм, СДВГ и гомеостаз" (telegra.ph)** — Megan Anna Neff's article translated for the channel on autism, ADHD, homeostasis and interoception; its full content is reproduced above [msg #37] [article #37].
+- **Article "Раскрывая эмоции: Наука о мисатрибуции в социальной психологии" (telegra.ph)** — Megan Anna Neff's article on misattribution of arousal, the bridge and adrenaline studies, with the emotion matrix card; full content reproduced above [msg #38] [article #38].
+- **Lisa Feldman Barrett, "Как создаются эмоции: Тайная жизнь мозга" ("How Emotions Are Made")** — cited for her stomach-flu first-date example of misattribution [article #38].
+- **Emotion matrix card (Dr. Neff, Neurodivergent Insights, translated for the channel)** — arousal × valence grid of emotion words [article #38].
 - **Article "Исследование интероцепции и алекситимии: в чем связь?" (teletype)** — the link between interoception and alexithymia with more detailed tips and reading recommendations [msg #47].
 - **Article "Колесо чувств: Как распознать свои чувства" (teletype)** — visual tools for identifying emotions and exercises, with a summary column per section and PDF tools in the comments [msg #49].
 - **Presentation PDF "Интероцепция и как ее улучшить"** — slides from the channel's online meeting, based on Megan Anna Neff's "Interoception" article on Neurodivergentinsights.com; its full content is reproduced in the frameworks above [file #186].
@@ -318,6 +441,8 @@ In the feelings-wheel post Nastya writes that if you are confused when asked "ho
 > "позволяя изъясняться на привычном, понятном человеку языке" (*letting a person speak in a language familiar and clear to them*) — Кораблик Леськи [msg #284]
 > "Это не отсутствие эмоций, а особенность эмоциональной осознанности." (*It is not an absence of emotions but a feature of emotional awareness.*) — autismservicesgroup, transl. Nastya [msg #799]
 > "смотреть телевизор в черно-белом цвете" (*watching TV in black and white*) — neurodivergent_lou [msg #610]
+> "Понимание сигналов тела является основой гомеостаза, саморегуляции и самозащиты." (*Understanding body signals is the foundation of homeostasis, self-regulation and self-protection.*) — Megan Anna Neff, transl. Nastya [article #37]
+> "Распознавание истинного источника нашего возбуждения является ключом к более здоровому регулированию эмоций и более подлинным взаимодействиям." (*Recognizing the true source of our arousal is the key to healthier emotion regulation and more authentic interactions.*) — Megan Anna Neff, transl. Nastya [article #38]
 
 > "Это колесо чувств поможет вам точнее описывать свои эмоции." (*This feelings wheel will help you describe your emotions more precisely.*) — caption on the feelings-wheel PDF [file #384]
 > "Заметьте, оно не охватывает все возможные чувства, но служит отличной" (*Note that it does not cover all possible feelings, but serves as an excellent [starting point]*) — caption on the feelings-wheel PDF [file #384]
@@ -329,7 +454,9 @@ In the feelings-wheel post Nastya writes that if you are confused when asked "ho
 - The presentation itself warns that brain-imaging findings on the insula in autism can be contradictory, and that calming strategies do not always work as well for autistic people [file #186].
 - The "own terms" approach rests on the forwarded author's personal inquiries ("Личные изыскания") among people with difficulties naming emotions, not on cited research [msg #284].
 - The misattribution-of-arousal post's four reasons are general claims without cited studies [msg #38].
-- (!) INCOMPLETE: posts #20, #37, #38, #47 and #49 are teasers for longer articles; only the content stated in the posts (and, for interoception, the presentation #186) is available here. The emotional-awareness exercises from the #49 article are not in the source.
+- The article itself flags that the 1974 bridge study reflects heteronormative biases of its design (only male participants, a female interviewer) [article #38].
+- Several health links in the homeostasis article are hedged as possibilities: breathing difficulty "может быть причиной" (may be a cause) of apnoea in autistic people, and neurodivergence "может играть роль" (may play a role) in POTS; the list of nine is explicitly "неполный" (incomplete) [article #37].
+- (!) INCOMPLETE: posts #20, #47 and #49 are teasers for longer teletype articles that were not saved; only the content stated in the posts (and, for interoception, the presentation #186) is available here. The emotional-awareness exercises from the #49 article are not in the source. (The linked articles of #37 and #38 are available and fully covered above.)
 - The ~50% prevalence figure is a single citation on a forwarded card ("Считается" — "it is believed"), spelled there as Milosavijevic et al., 2016 [msg #605].
 
 - No contradiction with the existing topic file. The two PDFs repeat the content of the cards in #379 and #380 and add only the printable format [file #383, #384].
@@ -354,6 +481,10 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - ★ **Интероцепция и как ее улучшить (PDF slides)** (file) — Slides from the channel's online meeting on interoception, based on Megan Anna Neff's article on Neurodivergentinsights.com: definition, why it matters and ways to improve it. Shared free with readers. [msg #186] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Интероцепция_и_как_можно_ее_улучшить.pdf`
 - ★ **Колесо чувств (Feelings wheel, after Gloria Willcox, 1982, PDF)** (file) — Attached PDF of Gloria Willcox's feelings wheel, which moves from basic emotions to finer shades. It is a visual aid for naming emotions in the interoception and alexithymia topic; shared by the channel as a free working aid. [msg #384] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Koleso_chuvstv.pdf`
 - ★ **Список чувств (List of feelings, PDF)** (file) — Attached PDF listing emotion words grouped by basic feeling (anger, sadness, fear, calm, happiness and others). It helps people with alexithymia find words for what they feel; shared by the channel as a free working aid. [msg #383] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Spisok_chuvstv.pdf`
+
+### External links
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #37, #38] → <https://t.me/neurospicyru>
 
 ## Source messages
 

@@ -90,6 +90,41 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 
 ### Reading autism and ADHD research critically  — *also relevant* · Нейропряность (`neyropryanost`) · primary area: Neurodiversity
 - File: `sources/tg-channels/neurospicy/topics/diagnosis-research/autism-research-critique.md` · channel skill: `sources/tg-channels/neurospicy/agent-kb/SKILL.md`
-- What the channel taught about the biology of autism (under- and over-connectivity theories, the salience network in infants, four fMRI-based connectivity subtypes, genetics and incomplete penetrance) and how it critically takes apart popular claims and studies — the Z944 mouse "cure", the autism / vulnerable-narcissism study, the paracetamol claim, and Ozempic for ADHD.
-- Concepts: `scientific-thinking`, `brain-connectivity`, `biomedical-research`, `neurodiversity`
+- What the channel taught about the biology of autism (under- and over-connectivity theories, the salience network in infants, four fMRI-based connectivity subtypes, genetics and incomplete penetrance) and how it critically takes apart popular claims and studies — the Z944 mouse "cure", the autism / vulnerable-narcissism study, the paracetamol claim, and Ozempic for ADHD. Why brain scans (MRI, CT, fMRI, EEG) are still not used to diagnose psychiatric conditions or neurodivergence — the three standardization criteria (sensitivity, standardization, specificity) that neuroimaging does not yet meet, the failed replication of a PTSD brain-biomarker study, the validity limits of DSM categories, and three possible future paths for biomarker-based diagnosis.
+- Concepts: `scientific-thinking`, `brain-connectivity`, `psychiatric-diagnosis`, `behavioral-genetics`, `biomedical-research`, `neurodiversity`
+
+### Executive dysfunction, environment and work  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/adhd-self-management/executive-dysfunction-work.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- What executive dysfunction is and which four neural circuits ("What", "When", "Why", "Who") it involves in ADHD; autistic inertia; the "ADHD tax" and failures of long-term planning shown through the author's own cases; why self-identification is unstable in ADHD/ASD (DMN, Salience and Executive networks); how changing environment and context helps; and the author's basic criteria for choosing a profession and work format with ADHD/ASD.
+- Concepts: `executive-function`, `brain-connectivity`, `workplace-inclusion`, `career-change`, `remote-work`, `consciousness-and-self`
+
+### Neurobiology of trauma and trauma memory  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychiatry & Mental Health Care
+- File: `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- Why traumatic events are remembered in fragments, distorted or not at all — the defence mechanisms, the stress hormones and brain structures involved (hippocampus, amygdala, prefrontal cortex, cerebellar vermis), the role of the endogenous opioid and endocannabinoid systems in freezing, dissociation and fear extinction, why children "forget" more easily, how gaslighting rewrites memory, and how exposure work helps integrate trauma memory.
+- Concepts: `trauma-and-nervous-system`, `fear-extinction`, `dissociation`, `complex-ptsd`
+
+### Understanding emotions and emotional dysregulation  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Mind & Emotions
+- File: `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/understanding-emotional-dysregulation.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- What emotional dysregulation and emotion regulation are, how dysregulation shows up (overt signs, indirect warning signs, consequences, common causes), why emotions hurt (the "smoke detector" model), why emotions can only be changed indirectly, why they cost energy, and how frustrative non-reward explains outsized anger.
+- Concepts: `emotional-regulation`, `emotional-intelligence`, `energy-management`, `stress-and-anxiety`
+
+### PTSD nightmares and sleep disturbances  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Sleep
+- File: `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- How trauma (PTSD and complex PTSD) disrupts sleep — hypervigilance, insomnia, nightmares, the disturbed cortisol rhythm (the "cup of tea" metaphor) and the brain mechanisms behind them; how ordinary nightmares differ from cPTSD nightmares; the neurobiology of the two nightmare scenarios (waking in terror vs being stuck in the nightmare); what polysomnography shows about sleep architecture and REM fragmentation in PTSD; and which methods (sleep hygiene for PTSD, the 20-minute rule, IRT, the DBT nightmare protocol, CBT-I, Lucid Dream Therapy) help and how to combine them.
+- Concepts: `nightmares`, `sleep-hygiene`, `complex-ptsd`, `trauma-and-nervous-system`, `fear-extinction`, `cognitive-behavioral-therapy`
+
+### Sensory processing differences in autism: senses, profiles and theories  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Neurodiversity
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/sensory-processing-regulation/sensory-processing-differences.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- How autistic sensory processing differs (eight senses, processing rather than registration, hyper- and hyposensitivity, proprioceptive seeking), how to map it with a sensory profile and Dunn's four-quadrant model, related conditions (Irlen syndrome, gravitational insecurity with its neurobiology, signs and support), the brain-level theories the channel discusses (predictive coding, habituation, disrupted connectivity), and the step-by-step method for overcoming discomfort while respecting sensory differences.
+- Concepts: `sensory-processing`, `sensory-perception`, `brain-connectivity`, `neurodiversity`
+
+### Executive function, autistic inertia, time perception and object permanence  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Neurodiversity
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/attention-executive-function/executive-function-inertia-time.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- What executive function is and how it breaks down in autism and ADHD, how ADHD attention and time perception differ by component, what sluggish cognitive tempo is, what autistic inertia feels like and what helps, how (emotional) object permanence affects relationships and conflicts, and why rest alone does not repair self-organisation.
+- Concepts: `executive-function`, `focus-attention`, `relationships-family`, `neurodiversity`
+
+### Research on autism and ADHD: brain, genetics, diagnosis trends and reading  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Neurodiversity
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/understanding-diagnosing-neurodivergence/autism-adhd-research-reading.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- Channel retellings of research on autism and ADHD — the amygdala and hippocampus in autism, gene regulatory networks (CHD8, REST, ZFX, lncRNA), the Cambridge two-trajectory finding (early vs late diagnosed autism), the Swedish CATSS study showing rising diagnoses without rising symptoms, a Reddit discourse study on ADHD and autism — plus reviews of a clinical textbook on adult autism and a list of recent books by autistic authors.
+- Concepts: `behavioral-genetics`, `psychiatric-diagnosis`, `brain-connectivity`, `scientific-thinking`, `neurodiversity`
 

@@ -38,6 +38,9 @@ messages*.html
 # the original posts the channel library's citations open (kept next to library.html locally)
 /sources/*/*/library-messages.js
 
+# saved copies of the Telegraph longreads the posts link to (raw source, like the exports)
+/sources/*/*/linked/
+
 # pipeline intermediate data, work orders and state
 /sources/*/*/parsed/
 /sources/*/*/work/

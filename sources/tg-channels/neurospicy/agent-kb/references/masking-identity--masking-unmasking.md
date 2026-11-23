@@ -17,7 +17,10 @@ answers:
   - What does the unmasking process actually feel like over time?
   - Why can autism go unnoticed even when it seriously affects someone's life?
   - What did people mistake for depression, panic attacks or anxiety that was actually autism?
+  - Why do autistic people mask in the first place?
+  - How can I start masking less safely, and with whom?
 frameworks:
+  - Masking and autistic burnout article — 14 forms of masking, 9 reasons for masking, 4 costs, 4 strategies (be safe, trusted people, start small, increase connection)
   - Social camouflaging model (Hull et al., 2018) — compensation, masking, assimilation
   - Camouflaging/masking self-assessment workbook (Lindsey Mackereth) — Part A checklist and 5 reflection questions
   - Neurodivergent social differences checklist (Part B) and 4 reflection questions
@@ -41,10 +44,16 @@ terms:
   - аутистическое выгорание (autistic burnout) | burnout to which the cost of masking leads | #24, #156
   - мелтдаун (meltdown) | what was mistaken for panic attacks | #525
   - стимминг (stimming) | self-stimulatory behaviour; its return is a sign of unmasking | #73, #660
+  - препятствованное принадлежание (thwarted belongingness) | absence of the universal need to belong, linked to higher suicide risk and to high CAT-Q camouflaging scores | #24
+  - CAT-Q | camouflaging questionnaire whose high scores were associated with thwarted belongingness (Cassidy et al., 2020) | #24
+  - ABA | behavioural therapy, widespread in the USA as a "treatment" for autism, cited as a formal way autistic people are trained to mask | #24
 people:
   - Настя | channel author/translator; wrote the personal essay on her failed and then reframed unmasking; translated #660 | #73, #660
   - Lindsey Mackereth | autistic-informed coach/therapist; author of the masking workbook, the unmasking-as-emergence text and the "emotional marathon" quote | #496, #660, #696
-  - Hull et al. | researchers behind the social camouflaging model (2017, 2018) | #156
+  - Hull et al. | researchers behind the social camouflaging model (2017, 2018); participants quoted in the #24 article | #156, #24
+  - Miller, Rees and Pearson (2021) | authors of the masking definition quoted in the #24 article | #24
+  - Cassidy et al. (2020) | study linking high CAT-Q scores with thwarted belongingness | #24
+  - Dr Alice Nicholls (dralicenicholls.com) | site of the original article translated as #24 | #24
   - Alaghband-Rad et al. (2023) | study linking camouflaging with burnout, depression and anxiety | #156
   - Cook et al. (2021) | study on camouflaging and mental health | #156
   - Livingston et al. (2019) | study finding masked autistic people are often disbelieved and poorly supported | #156
@@ -62,7 +71,9 @@ This topic gathers what the channel Нейропряность (Neurospicy) publ
 
 ## Core ideas
 
-- **Masking is survival, and it has a price.** In a world that expects conformity, masking autistic traits and imitating neurotypical behaviour is an everyday survival practice for autistic people, and the cost is autistic burnout. The channel's own introductory article set out to explain the essence of masking, its consequences, and strategies that reduce the *need* to mask, making communication and finding connection easier "в мире, где быть "своим" часто кажется роскошью" (*in a world where being "one of us" often feels like a luxury*) [msg #24, img #24].
+- **Masking is survival, and it has a price.** In a world that expects conformity, masking autistic traits and imitating neurotypical behaviour is an everyday survival practice for autistic people, and the cost is autistic burnout. The channel's own introductory article set out to explain the essence of masking, its consequences, and strategies that reduce the *need* to mask, making communication and finding connection easier "в мире, где быть "своим" часто кажется роскошью" (*in a world where being "one of us" often feels like a luxury*); its full content is under *"Masking and autistic burnout"* [msg #24, img #24].
+- **Masking can be unconscious and is often taught.** It may run so long that you no longer notice it; it is learned through ABA, scolding, or simply watching which children get positive attention, and is internalised as shame [article #24].
+- **Reducing masking is gradual and relational.** Start with safety, with the most trusted person, with small changes, and widen what counts as connection beyond neurotypical standards [article #24].
 - **Camouflaging is the umbrella; masking is one part of it.** Camouflaging = compensation + masking + assimilation (Hull et al.); in everyday speech "masking" is used as a synonym, but clinically masking is a subset (see *Social camouflaging model*) [msg #156].
 - **Camouflaging costs energy and harms mental health.** It requires time, effort and energy, is linked to burnout, depression and anxiety, and raises the risk of autistic burnout starting or worsening [msg #156, #696].
 - **Good masking produces disbelief and lack of support.** People who camouflage well are often not believed when they disclose autism, so they receive poor support, and exhaustion and burnout become frequent [msg #156, #403, #404, #519].
@@ -70,6 +81,66 @@ This topic gathers what the channel Нейропряность (Neurospicy) publ
 - **Unmasking is emergence, not return.** For people who masked from early childhood, a fully formed self may never have had a chance to develop; unmasking lets it appear for the first time, non-linearly and in the body (see *Unmasking as emergence*) [msg #660].
 
 ## Frameworks, models and step-by-step methods
+
+### "Masking and autistic burnout" — the channel's foundational article
+Purpose and provenance: the longread «Маскинг и аутистическое выгорание» (*Masking and autistic burnout*) was translated specially for the channel (byline "Настя"; the original article is at dralicenicholls.com, "Unmasking with the people we are closest to"). It is written in the first person by an autistic author ("мы", *we*) addressed to autistic readers, and sets out five aims: define masking; explore why autistic people mask; discuss the cost of masking and its link to autistic burnout; offer ideas on how and with whom to try masking less; and offer other ideas on how to meet one's need for connection [article #24].
+
+The author's starting point: masking is changing one's appearance or behaviour in order to fit in, and "Каждый это делает в той или иной степени" (*Everyone does it to some degree*). "Но для людей с аутизмом это нечто большее" (*But for autistic people it is something more*): living in a predominantly neurotypical society, autistic people learned to hide their autistic traits and imitate neurotypical ones — either through formal training programmes such as ABA, or in less explicit ways [article #24].
+
+#### Part 1 — What masking is (definition)
+The article quotes Miller, Rees and Pearson (2021): masking is "термин, используемый аутичным сообществом для описания подавления аспектов себя и своей идентичности с целью "остаться незамеченным" или "казаться нормальным"" (*a term used by the autistic community to describe suppressing aspects of oneself and one's identity in order to "pass" or "appear normal"*), by conscious means (e.g. imitating facial expressions) or unconscious ones (e.g. unintentionally suppressing aspects of one's identity). Both the cited authors and the article use "masking" as an umbrella that includes camouflaging strategies and compensation strategies [article #24].
+
+Two key points the author draws from the definition:
+1. **The aim is to seem neurotypical** — or at least not to stand out among neurotypical people [article #24].
+2. **It can be conscious or unconscious** — "Так что вы даже можете не заметить, что делаете это. Особенно, если вы делаете это уже долгое время." (*So you may not even notice you are doing it. Especially if you have been doing it for a long time.*) [article #24].
+
+Voices of research participants quoted in the article: "Притворяюсь максимально 'нормальным'" (*I pretend to be as 'normal' as possible*) (participant, Hull et al., 2017); "Я скрываюсь за тем, что хочу, чтобы люди видели" (*I hide behind what I want people to see*) (Hull et al., 2017); and a participant of Miller et al. (2021): masking is "язык НТ (нейротипичных людей), это не прямой язык, а автоматический, которому аутичным людям приходится учиться, это занимает годы, и даже тогда к нему невозможно достичь совершенства" (*the language of NTs (neurotypical people); not a direct language but an automatic one that autistic people have to learn; it takes years, and even then it can never be perfected*) [article #24].
+
+How masking shows up, as the article describes it: suppressing or hiding stimming and self-soothing behaviours in certain situations, or finding more socially acceptable ways to stim or calm down. Some people report feeling as if they are playing the role of an entirely different person — "Поэтому неудивительно, что многие актеры на самом деле аутичны" (*So it is no surprise that many actors are actually autistic*), the author remarks. People hide or minimise their response to overstimulation or difficult sensory input; consciously work to produce the "right" facial expression or tone of voice; control how much eye contact they make, forcing themselves to hold it or using tricks such as looking between the other person's eyes; control how they hold their body and what they do with hands and feet. They monitor how long they talk and consciously work at "turn-taking"; rehearse conversations and interactions in advance, preparing questions. Some build personal rules for interaction — the article's examples: always ask the other person a question if they have been talking for more than two minutes, or try not to speak unless asked. Some take on a role in a group: tea-maker, listener, or "душа компании (!)" (*life of the party (!)*). People may avoid talking about their interests if these feel outside the norm or if they fear that once they start they won't be able to stop; wear clothes they dislike or find uncomfortable in order to fit in; and pretend to like things in order to fit in [article #24].
+
+The article's own summary list — different autistic people have different masking experiences; masking can include [article #24]:
+1. Suppressing stims [article #24].
+2. Hiding stims [article #24].
+3. Using more socially acceptable stims [article #24].
+4. Performing a "role" in a given situation [article #24].
+5. Hiding or minimising one's reaction to overstimulation or difficult sensory input [article #24].
+6. Putting effort into producing the "right" facial expression [article #24].
+7. Forcing oneself to control, make and/or maintain eye contact [article #24].
+8. Controlling and adjusting body language to "fit in" [article #24].
+9. Monitoring how long one talks, making sure not to talk too much, and consciously working to take part in "turn-taking" [article #24].
+10. Planning in advance which questions to ask the other person and how to steer the conversation [article #24].
+11. Developing rules for conversations or group settings [article #24].
+12. Avoiding talking about one's interests for fear of talking too much or being seen as strange [article #24].
+13. Wearing uncomfortable clothing in order to "fit in" [article #24].
+14. Pretending to like things one does not actually like [article #24].
+
+#### Part 2 — Why autistic people mask
+The author's framing: masking starts as adaptive behaviour and sometimes stays adaptive. There is a real risk of discrimination; it is not always safe to take the mask off. Masking may also be so well practised or entrenched that "мы не можем снять маску, даже когда пытаемся!" (*we cannot take the mask off even when we try!*). The narrative behind it: being seen as different has led to exclusion from friendships, groups or organisations; being read as uninterested, lacking empathy, indifferent, aloof or arrogant, with fear it will happen again; masking being needed to work with colleagues and to get and keep a job; bullying and harassment that left people frightened. Masking is also taught: ABA therapy, widespread especially in the USA as a "treatment" for autism, tries to make a person behave less autistically by withholding things they like until they stop stimming, start talking, make eye contact (the source itself closes this list with "и т. д."). People not diagnosed in childhood may still have been trained out of behaviours others found odd — scolded for stimming, told they were making social mistakes and that people would not like them unless they behaved a certain way. Children may also notice that neurotypical children get more positive feedback from other children and adults and imitate them to get the same positive attention. All this training is internalised as shame and self-criticism ("я недостаточно хорош, меня не любят" — *I'm not good enough, I'm not liked*) [article #24].
+
+The article's summary list of reasons autistic people mask [article #24]:
+1. Risk of being discriminated against [article #24].
+2. Fear of being seen as different and excluded [article #24].
+3. Fear of being interpreted as uninterested, lacking empathy, indifferent, aloof or arrogant [article #24].
+4. To make and keep friendships and relationships [article #24].
+5. To work with colleagues [article #24].
+6. To get and keep employment [article #24].
+7. To avoid bullying or harassment [article #24].
+8. Training — explicit (e.g. ABA therapy or being scolded) or implicit (noticing that others don't respond well to us, don't like us, think we are strange) [article #24].
+9. Shame and self-criticism [article #24].
+
+#### Part 3 — The cost of masking and its link to autistic burnout
+1. **Effort and drain.** Masking takes significant effort, which makes social interactions even more demanding than they would otherwise be. Research on autistic burnout consistently points to masking as a source of stress contributing to autistic burnout [article #24].
+2. **Reduced processing capacity.** When you are controlling your facial expression and trying not to say too much, too little or the wrong thing, your ability to process information drops — because you are already attending to so much information, monitoring yourself and checking against social rules, so little cognitive capacity is left for anything else [article #24].
+3. **Self-esteem, shame and feeling fake.** Masking has been linked to low self-esteem and shame: people who feel they will not be accepted as they are internalise this belief as shame. Autistic people report feeling insincere or fake in their interactions [article #24].
+4. **Poor mental-health outcomes and suicide risk.** There is growing evidence that masking is linked to poor mental-health outcomes in autistic adults generally. A recent study the article cites (Cassidy et al., 2020) found an association between high scores on the CAT-Q (a camouflaging questionnaire) and high scores on "thwarted belongingness" («препятствованное принадлежание») — a concept based on the theory that all people need a sense of belonging; when it is absent, suicide risk rises [article #24].
+
+#### Part 4 — What we can do: four strategies
+The article's answer to "Что мы можем с этим поделать?" (*What can we do about it?*) is four steps [article #24]:
+
+1. **Be safe («Будьте в безопасности»).** The author states what is needed at the societal level: a society that values every person as they are; autism seen as a neurotype with its own strengths and difficulties rather than a disorder; neurodiversity accepted and people's support needs met. But as the world currently is, it is not always safe to unmask. Some people have learned or been trained to mask so thoroughly that even starting to consider unmasking triggers huge anxiety, and unmasking can reactivate or expose shame and self-criticism. Therefore, if you decide to mask less, it is very important to take care of yourself while you do it [article #24].
+2. **Identify your most trusted person/people.** Masking less around trusted people can help you show up more authentically in close relationships, which the author calls potentially "невероятно полезным" (*incredibly helpful*). Reflection prompts given: think of the person with whom you feel most accepted and safe in your life. Do you mask in their presence? How do you think they would react to you masking less? How could you be less masked with them? [article #24].
+3. **Start small.** Concrete options the article lists: allow yourself to stim more; control your facial expression less or stop altogether; start taking what people say at face value rather than trying to interpret it; stop forcing or faking eye contact; if you usually don't let people know what you think or really feel about a situation, start doing so more often; if aids such as headphones or sunglasses would help but you avoid them for fear of standing out, start using them more; stop wearing uncomfortable clothes or make-up; start telling people what you need in situations where you previously did not; let yourself talk about or show your emotions, thoughts and interests even if others may find them strange; start asking for clarification, plans or information where previously you would not have dared for fear of seeming strange [article #24].
+4. **Increase your experience of connection («Укрепление связи»).** Being less hidden with someone close will probably improve the relationship and give a greater sense of connection; it is an opportunity to think about how you want to connect with that person, what you really enjoy when you are around them and what you really want to do together. If being less masked with key people feels too hard for now, look for connection another way. The author warns: "Мы часто случайно применяем нейротипичные стандарты к нашим ощущениям связи" (*We often accidentally apply neurotypical standards to our sense of connection*). Alternatives the article names: research shows autistic people can feel a strong sense of community connecting with other autistic people; some feel deep connection with nature, animals, music and art; connection needs can be met by working on an important cause or project together with others; communities of people with the same interests let you connect through those interests without having to talk much about anything else; and online connection can be as valuable as, or more valuable than, in-person contact. Closing prompt: think about how you could start moving towards the animals, things, places, people and activities that let you express yourself and be valued as your more authentic, less masked, autistic self — "Пожалуйста, заботьтесь о себе" (*Please take care of yourself*) [article #24].
 
 ### Social camouflaging model (Hull et al., 2018)
 Purpose: a research model, translated by the channel from an autistic burnout guide, describing how some autistic people use a set of actions and strategies to navigate the neurotypical social world better, fit in, build connections, prevent rejection and social ostracism, or gain acceptance from others (Hull et al., 2017; 2018). The three forms:
@@ -215,11 +286,15 @@ Livingston et al. (2019) report that autistic people who camouflage their traits
 - Hull et al., 2017; 2018 — define camouflaging and the three-form social camouflaging model [msg #156].
 - Alaghband-Rad et al., 2023 — camouflaging associated with burnout, depression and anxiety in autistic people; negative effect on mental health [msg #156].
 - Cook et al., 2021 — cited for camouflaging's negative effect on overall mental health [msg #156].
+- Cassidy et al., 2020 — high CAT-Q camouflaging scores associated with high thwarted-belongingness scores, a factor linked to raised suicide risk [article #24].
+- Miller, Rees and Pearson, 2021; Hull et al., 2017; Miller et al., 2021 — source of the masking definition and the participant quotes in the #24 article [article #24].
+- "more than two minutes" — the example interaction rule some autistic people adopt: ask the other person a question if they have talked longer than that [article #24].
 - "9 out of 10" — MtfoxX3's impression (not a measured statistic) of how often the "gifted child" label stems from the listed unhealthy patterns [img #521].
 
 ## Tools and resources mentioned
 
-- **"Маскинг и аутистическое выгорание" (Masking and autistic burnout)** — the channel's own Telegraph article on what masking is, its consequences, and strategies to reduce the need to mask (https://telegra.ph/Masking-02-10) [msg #24].
+- **"Маскинг и аутистическое выгорание" (Masking and autistic burnout)** — the channel's translated Telegraph article (https://telegra.ph/Masking-02-10), fully reproduced above; original: https://www.dralicenicholls.com/unmasking-with-the-people-we-are-closest-to/ [msg #24, article #24].
+- **CAT-Q** — camouflaging questionnaire used in Cassidy et al. (2020) [article #24].
 - **"Смещение моего анмаскинга: от Раскрытия к Раскопкам"** — Настя's full essay on Teletype (https://teletype.in/@neurospicyru/hKApHnwNt4M) [msg #73].
 - **Autistic burnout guide** — the source of the translated camouflaging excerpt in #156 (title not given) [msg #156].
 - **"Стратегии маскинга" PDF (Lindsey Mackereth, translated by Нейропряность)** — the printable Part A/Part B workbook described above; recommended by the channel as useful for self-exploration or work with a therapist, coach, partner or friend. Its references: Part A — Neff, M. A. (n.d.), "What is Autistic Masking? Insights of a Neurodivergent Clinician" (neurodivergentinsights.com); Part B — Kooij & Francken (2007), Diagnostic Interview for ADHD in adults (DIVA); Monteiro & Stegall (2018), Monteiro Interview Guidelines for Diagnosing the Autism Spectrum, 2nd ed. (MIGDAS-2) [msg #496, file #496].
@@ -238,7 +313,9 @@ Livingston et al. (2019) report that autistic people who camouflage their traits
 
 ## Caveats, disagreements and open questions
 
-- (!) INCOMPLETE: #24, #73 and #660 are teasers for longer articles (Telegraph/Teletype); the strategies for reducing the need to mask (#24), the full excavation method (#73) and the self-reflection questions (#660) are not in the source.
+- (!) INCOMPLETE: #73 and #660 are teasers for longer Teletype articles that were not saved; the full excavation method (#73) and the self-reflection questions (#660) are not in the source. (The Telegraph article linked from #24 is available and is covered in full above.)
+- Terminology differs between sources: the #24 article uses "masking" as the umbrella term including camouflaging and compensation strategies (following Miller, Rees and Pearson), while #156 (following Hull et al.) uses "camouflaging" as the umbrella and treats masking as a subset [article #24, msg #156].
+- The #24 article's remark that "many actors are actually autistic" is the author's inference, not a cited finding [article #24].
 - The "9 out of 10" figure about gifted children is the tweet author's impression ("Кажется" — *it seems*), not research; the author explicitly says not every gifted child has these patterns [img #521, #524].
 - The Part B checklist repeats the "special interests" item twice and has a garbled final item ("Вам трудно Другое: поддерживать течение разговора на отвлеченные темы") in the translated PDF; the intended item appears to be difficulty keeping conversation going on abstract topics. (!) UNCLEAR: exact wording [file #496].
 - Part B items are neurodivergent social differences in general (autism, ADHD, giftedness), not autism-specific diagnostic criteria; ticking items identifies areas of difference from neurotypical norms, not a diagnosis [file #496].
@@ -250,6 +327,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ### Resources
 
+- ★ **Dr Alice Nicholls — Unmasking with the people we are closest to** (article) — Original English article that the channel translated into Russian; on unmasking with close people and its link to burnout. [msg #24] → <https://www.dralicenicholls.com/unmasking-with-the-people-we-are-closest-to/>
 - ★ **Линдси Маккерет — Анмаскинг: появление подлинного «я» (Lindsey Mackereth, Unmasking as the emergence of an authentic self)** (article) — Translated text, with self-reflection questions, on unmasking as becoming rather than returning to a self. Offered in full. [msg #660] → <https://teletype.in/@neurospicyru/YRHLHQQUKYL>
 - ★ **Маскинг и аутистическое выгорание (Masking and autistic burnout)** (article) — Translated article linking masking to burnout and explaining why masking feels necessary. Offered in full. [msg #24] → <https://telegra.ph/Masking-02-10>
 - ★ **Смещение моего анмаскинга: от Раскрытия к Раскопкам (My shifting unmasking: from disclosure to excavation)** (article) — Translated personal essay on rethinking unmasking and the new 'bad/wrong' beliefs that can replace old ones. Offered in full. [msg #73] → <https://teletype.in/@neurospicyru/hKApHnwNt4M>
@@ -259,6 +337,10 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - **Hull et al. (2017) — камуфлирование аутичных черт (PubMed)** (study) — Research paper on social camouflaging in autism, cited as the basis for the description of why autistic people mask. [msg #156] → <https://pubmed.ncbi.nlm.nih.gov/28527095/>
 - **Hull et al. (2018) — модель социального камуфлирования (PubMed)** (study) — Paper presenting the model of three forms of camouflaging (compensation, masking, assimilation) used in the post. [msg #156] → <https://pubmed.ncbi.nlm.nih.gov/30361940/>
 - **Livingston et al. (2019) — камуфлирование и неверие окружающих (PubMed)** (study) — Study reporting that camouflaging autistic people are often not believed when they disclose and so get poorer support. [msg #156] → <https://pubmed.ncbi.nlm.nih.gov/31350208/>
+
+### External links
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #24] → <https://t.me/neurospicyru>
 
 ## Source messages
 

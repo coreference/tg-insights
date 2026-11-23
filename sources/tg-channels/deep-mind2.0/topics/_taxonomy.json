@@ -384,17 +384,21 @@
     {
      "title": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
-     "scope": "What makes a conscious leader: Dalio and Potential Project qualities, compassion in hard decisions, vulnerability, adult communication, ego, presence over 'fix it' neurosis.",
+     "scope": "What makes a conscious leader: Dalio and Potential Project qualities, compassion in hard decisions, vulnerability, healthy ego and a witness practice, adult communication, body and intuition in decisions (the Zolotukhina case), and practices for leading under uncertainty (dopamine fasting, empathic listening, Theory U, check-ins).",
      "themes": [
       "leadership"
      ],
      "also_areas": [
-      "Mind & Emotions"
+      "Mind & Emotions",
+      "Meditation & Contemplative Practice"
      ],
      "concepts": [
       "mindful-leadership",
       "ego-narcissism",
-      "emotional-intelligence"
+      "emotional-intelligence",
+      "uncertainty-resilience",
+      "team-trust-feedback",
+      "nonviolent-communication"
      ],
      "ids": [
       26,
@@ -421,11 +425,12 @@
       942,
       958,
       1024,
+      1285,
       1305,
       1809,
       1979
      ],
-     "count": 27
+     "count": 28
     },
     {
      "title": "Toxic leadership, power and workplace ethics",
@@ -739,7 +744,8 @@
      "concepts": [
       "self-managing-organizations",
       "corporate-culture",
-      "mindful-leadership"
+      "mindful-leadership",
+      "adult-development"
      ],
      "ids": [
       116,
@@ -932,13 +938,15 @@
      ],
      "also_areas": [
       "Energy & Resource",
-      "Sleep"
+      "Meditation & Contemplative Practice"
      ],
      "concepts": [
       "rest-and-recovery",
+      "burnout",
       "fatigue",
+      "energy-management",
       "digital-hygiene",
-      "energy-management"
+      "meditation-mindfulness"
      ],
      "ids": [
       27,
@@ -1524,20 +1532,23 @@
     {
      "title": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
-     "scope": "Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design and mindful craving work.",
+     "scope": "Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design, mindful craving work, and JOMO (joy of missing out) as chosen disconnection.",
      "themes": [
       "digital detox",
       "screens"
      ],
      "also_areas": [
       "Mind & Emotions",
-      "Rest & Burnout"
+      "Rest & Burnout",
+      "Behavior Change & Coaching"
      ],
      "concepts": [
       "digital-hygiene",
+      "habit-formation",
       "focus-attention",
-      "stress-and-anxiety",
-      "habit-formation"
+      "meditation-mindfulness",
+      "emotional-regulation",
+      "stress-and-anxiety"
      ],
      "ids": [
       400,
@@ -1550,13 +1561,14 @@
       1495,
       1542,
       1548,
+      1579,
       1678,
       1689,
       1745,
       1753,
       1788
      ],
-     "count": 15
+     "count": 16
     },
     {
      "title": "Neurodiversity: ADHD, autism and masking",
@@ -1602,8 +1614,10 @@
      ],
      "concepts": [
       "remote-work",
+      "team-trust-feedback",
+      "uncertainty-resilience",
       "work-life-balance",
-      "uncertainty-resilience"
+      "career-change"
      ],
      "ids": [
       48,
@@ -1676,7 +1690,7 @@
     {
      "title": "Collective trauma, propaganda and society",
      "slug": "collective-trauma-propaganda",
-     "scope": "How collective trauma and wounded narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, and healing through communities.",
+     "scope": "How collective trauma, public powerlessness and wounded collective narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, dissociation, and healing through communities and a felt sense of safety.",
      "themes": [
       "collective trauma",
       "propaganda"
@@ -1686,8 +1700,11 @@
      ],
      "concepts": [
       "collective-trauma",
+      "politics-authoritarianism",
       "trauma-and-nervous-system",
-      "shame"
+      "dissociation",
+      "shame",
+      "ego-narcissism"
      ],
      "ids": [
       452,
@@ -1869,7 +1886,7 @@
     {
      "title": "Public ethics, abuse scandals and media responsibility",
      "slug": "public-ethics-media",
-     "scope": "Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise.",
+     "scope": "Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise, and public harassment (травля) as displaced aggression.",
      "themes": [
       "ethics",
       "media"
@@ -1880,7 +1897,9 @@
      "concepts": [
       "media-ethics",
       "ego-narcissism",
-      "wellness-industry-critique"
+      "toxic-leadership",
+      "wellness-industry-critique",
+      "mindful-leadership"
      ],
      "ids": [
       445,
@@ -2938,11 +2957,6 @@
    "gist": "Max Timofeev's introduction: Deep mind mission and a directory of links to articles, podcast, interview and communities"
   },
   {
-   "id": 620,
-   "kind": "announcement",
-   "gist": "Announcement of 3 April Zoom open broadcast supporting journalists and media professionals, hosts Balandina, Kravchenko, Timofeev; registration"
-  },
-  {
    "id": 622,
    "kind": "other",
    "gist": "Speaker card image: Maxim Timofeev, creator of Deep mind, mindfulness teacher and embodiment facilitator"
@@ -3808,11 +3822,6 @@
    "gist": "Digest of the channel's main posts of the last two months, grouped by topic (psychedelic therapy, tantra, stress, USA notes, etc.)."
   },
   {
-   "id": 1199,
-   "kind": "logistics",
-   "gist": "Invitation to open deep listening workshop on Oct 17 (Theory U Empathy Walk by Ed Schein, pair practice), with benefits of deep listening, format, zoom/calendar links and suggested donation."
-  },
-  {
    "id": 1200,
    "kind": "other",
    "gist": "Photo album opener on Naropa University's 50th anniversary (history slides and lojong mind-training chart), no text from the author."
@@ -3936,11 +3945,6 @@
    "id": 1283,
    "kind": "promo",
    "gist": "Pointer to Rating Runeta's 2025 trends overview (AI, culture, crypto, leadership transformation, meaning work) with Maxim as contributor"
-  },
-  {
-   "id": 1285,
-   "kind": "announcement",
-   "gist": "Announces RBC Pro article on practices for new leadership in unpredictable world, co-authored with Elena Stupina; summary of 4 practices linked"
   },
   {
    "id": 1287,
@@ -4146,11 +4150,6 @@
    "id": 1578,
    "kind": "announcement",
    "gist": "Poll asking subscribers which topic to write about next (capitalism, freedom, mindfulness on Twitter, IFS Self, millennials, Harvard meditation research)"
-  },
-  {
-   "id": 1579,
-   "kind": "announcement",
-   "gist": "Author's RBC-Pro article on JOMO (joy of missing out) as a more mature stage of digital culture after FOMO; links only"
   },
   {
    "id": 1583,
@@ -4476,6 +4475,16 @@
    "id": 1982,
    "kind": "promo",
    "gist": "Sponsored recommendation of Kleos employer-of-record platform, with a cost example (4,000 EUR gross senior costs 4,834 EUR in Ireland vs 6,478 EUR in Spain) and a calculator link"
+  },
+  {
+   "id": 620,
+   "kind": "announcement",
+   "gist": "Announcement of a free Zoom open session (3 April) with trauma-oriented stabilization practices for journalists and media workers during the information war"
+  },
+  {
+   "id": 1199,
+   "kind": "announcement",
+   "gist": "Announcement of an open deep listening workshop in pairs (17 Oct, Resonance, Theory U Empathy Walk) with donation details"
   }
  ]
 }

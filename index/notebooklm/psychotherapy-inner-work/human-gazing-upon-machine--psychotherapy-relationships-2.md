@@ -14,7 +14,7 @@ According to the author, these matter because humans are a social species for wh
 
 ### Core ideas
 
-- Every refusal is a choice in favour of something else that is more important to us at that moment; refusals hurt because they are perceived as a threat to cooperation and to helping, by both sides. Full treatment in *Refusal as a choice for something else* [#3].
+- Every refusal is a choice in favour of something else that is more important to us at that moment; refusals hurt because they are perceived as a threat to cooperation and to helping, by both sides. The author's four-step algorithm (pick a moderately charged case, map the needs you sacrifice and the needs you choose, phrase a brief / motivated one-sided / motivated interactive refusal, practise aloud) turns a regretted refusal into a conscious choice. Full treatment in *Refusal as a choice for something else* and *Refusal algorithm — four steps* [#3, article #3].
 - Familiarity feels good because the brain's prediction system confirms we were right — and the same mechanism draws us to "toxic" partners who resemble significant people from our past: "both a bug and a feature" [#229].
 - A relationship is a mutual exchange sustained by expectation of reward; when we lose the belief in reward, meaning and motivation go and we let the connection go [#281].
 - We only know a person in the facets where we interact, so losing a connection may mean losing only some facets; whether to continue depends on whether something valuable remains [#281, #286].
@@ -38,7 +38,51 @@ The exercise. It consists of two parts, which can be practised in life together 
 1. Understanding your motivation to refuse — how to understand what, and why, you are saying "yes" to at this moment (the refusal reframed as a "yes" to something more important) [#3].
 2. Communicating it — how to tell the other person about it in the language of nonviolent communication (ненасильственное общение) [#3].
 
-(!) INCOMPLETE: the actual algorithm of the exercise (the steps of each part, the NVC phrasing) is in an external Telegraph article ("Otkazy - algoritm uprazhneniya") that was not provided; the post itself only names the two parts [#3].
+#### Refusal algorithm — four steps (from the linked longread)
+The full algorithm is in the author's Telegraph longread «Отказы: от сожаления к пониманию мотивации и осознанному выбору» (Refusals: from regret to understanding motivation and conscious choice), which she presents as the algorithm accompanying the post and a practice for training these abilities. The title itself states the aim: to move from regretting a refusal to understanding one's motivation and choosing consciously [#3].
+
+Step 1. Choose a case. Take a situation in which it is important for you, or you want, or it is hard for you to refuse another person [#3].
+
+Safety rule («Техника безопасности», *safety precautions*). If any of these holds [#3]:
+- you are doing this for the first time;
+- you are feeling emotionally vulnerable right now;
+- you currently have no tools in reserve for quickly getting out of a heavy emotional state;
+
+then it is important to pick a situation emotionally charged at 4–6 out of 10, on a scale where 1 = «я маленькое белое пёрышко, мирно наблюдающее за происходящим» (I am a small white feather peacefully watching what is happening) and 10 = «хочется бегать по потолку и орать, разрушая всё вокруг» (I want to run on the ceiling and scream, destroying everything around). The point is to train on a moderately charged case, not on the most painful one [#3].
+
+Step 2. Understand your motivation. Make two columns (three, if you do the starred task *️⃣) and write into the corresponding column [#3]:
+1. «Отказывая сейчас, какие нужды я не удовлетворяю» (By refusing now, which needs am I not meeting) — the needs the refusal frustrates (these feed the first half of the "motivated interactive" refusal in Step 3) [#3].
+2. «Отказывая сейчас, какие нужды я выбираю удовлетворить» (By refusing now, which needs do I choose to meet) — what the refusal is actually a "yes" to [#3].
+3. *️⃣ (optional, starred) «При удовлетворении каких нужд я сказал(а) бы: «Да»» (If which needs were met would I say "Yes") — the conditions under which you would agree [#3].
+
+As an orientation, support and inspiration you can use a list of needs (the article links to one; its contents are not part of the source) [#3].
+
+Step 3. Formulate the message. Once we have become aware of our needs, we can speak about them. Depending on how close the interlocutor is, how important it is to keep contact with them, and the context of the situation, different kinds of refusal may suit us. The author distinguishes three main types [#3]:
+1. Brief (Краткий): «Нет, я сейчас не готов(а)/не могу» (No, I'm not ready / can't right now) [#3].
+2. Motivated one-sided (Мотивированный односторонний) — clarifies the reasons for the refusal to the other person through your own needs: «Нет, потому что мне сейчас важно… [нужды из второго столбика]» (No, because right now it is important to me… [needs from the second column]) [#3].
+3. Motivated interactive (Мотивированный взаимодействующий) — names both what you value in the other/the relationship and what you need now: «Мне важно сохранить с тобой…/мне ценно… [нужды из первого столбика] при этом сейчас мне необходимо… [нужды из второго столбика]» (It is important to me to keep with you… / I value… [needs from the first column], at the same time right now I need… [needs from the second column]) [#3].
+
+Additional support phrases (📜 «Дополнительные фразы-опоры»), usable separately or combined [#3]:
+- «К сожалению, сейчас не могу.» (Unfortunately, I can't right now.)
+- «Можем в другой раз/попозже/после того, как я...?» (Can we another time / later / after I…?)
+- «Мне бы хотелось, в первую очередь,…» (I would like, first of all, …)
+- «Мне необходимо…/мне сейчас *эмоция*…, поэтому прямо сейчас у меня нет возможности…» (I need… / right now I feel *emotion*…, so right now I don't have the possibility…)
+- «Спасибо, что обращаешься ко мне — мне ценно, что ты… /твоё… При этом мне сейчас нужно…» (Thank you for turning to me — I value that you… / your… At the same time right now I need…)
+- «Я понимаю, что тебе хочется… при этом мне комфортнее делать…/мне больше подходит.../я бы предпочёл/предпочла здесь…» (I understand that you want… at the same time it is more comfortable for me to do… / suits me better… / I would prefer here…)
+
+If you did the starred task, you can voice the needs from the third column with any of the three refusal types [#3]:
+- «Я готов(а) это сделать, если/когда мне будет хватать...» (I'm ready to do it if/when I have enough…)
+- «Можешь тогда ты, пожалуйста, сделать для меня вот это — это мне нужно, чтобы…» (Could you then please do this for me — I need it in order to…)
+
+Author's example (starred variant — a conditional yes). "Could you please cook something to eat? I'm wildly hungry." — "Mm… okay, then please get the dishes ready for it. Or give me a little massage, please, while it cooks :-)" The request is accepted, but on the condition that the asker meets a need of the person agreeing [#3].
+
+Step 4. Practice. Train saying aloud what you formulated in the previous step [#3]:
+- a) choose a person with whom you would feel comfortable trying it, or
+- b) record yourself on video/audio addressing your interlocutor, then rewatch/relisten to the message as if it were addressed to you.
+
+Afterwards it can be useful to note which feelings arose in you while listening to the message, or to ask your live interlocutor how it was for them [#3].
+
+Closing rule. «чем чаще мы практикуемся, тем легче нам удаётся это делать» (the more often we practise, the easier it becomes), and «мы всегда можем сделать по-другому в следующий раз» (we can always do it differently next time) [#3].
 
 #### Contact of facets — three things to understand when a relationship cracks
 Context: the author wrote this text on 15.07.2021 and republished it in March 2024 as "Контакт граней. Как быть, когда в отношениях — трещина" (Contact of facets. What to do when there is a crack in a relationship), in two parts [#281, #286].
@@ -146,7 +190,7 @@ Author's illustration (energy from the familiar). She wrote the post "in one bre
 
 ### Tools and resources mentioned
 
-- Telegraph article Otkazy - algoritm uprazhneniya (Refusals: exercise algorithm) — the author's own write-up of the two-part NVC refusal exercise; content not available here [#3].
+- Telegraph longread «Отказы: от сожаления к пониманию мотивации и осознанному выбору» (Refusals: from regret to understanding motivation and conscious choice) — the author's own four-step refusal algorithm, fully reproduced above in *Refusal algorithm — four steps*; it also links to a list of needs for orientation (that list is not part of the source) [#3].
 - SciShow video on conversation rules — from the author's "favourite" SciShow; the part on Grice's rules starts at 3:20 [#190].
 - LessWrong.ru wiki entry on Bayesianism — linked as the explanation of being an "inveterate Bayesian" who updates the image of a person flexibly [#281].
 - Impett et al. (January 2024), Current Directions in Psychological Science (SAGE) — the review testing Chapman's love-language claims [#395].
@@ -175,12 +219,13 @@ Author's illustration (energy from the familiar). She wrote the post "in one bre
 
 ### Caveats, disagreements and open questions
 
-- (!) INCOMPLETE: the NVC refusal algorithm itself (steps of both parts) is only in an external article that was not available [#3].
+- (!) INCOMPLETE: the list of needs the refusal article recommends for Step 2 is only linked; its contents are not in the source [#3].
+- The post announces two parts (understanding motivation, communicating it); the article organises them into four steps (choose a case, understand motivation, formulate, practise) — Steps 1–2 correspond to the first part, Steps 3–4 to the second [#3, article #3].
 - The claim that humans are born "without instincts", the dopamine-anticipation explanation, and the roots of belief in justice in the give-take balance are presented as the author's views ("на мой взгляд" — *in my view*), not sourced [#281].
 - The author hints that the "keep a connection through what you value" mechanism has a dark side but does not say what it is — (!) INCOMPLETE [#286].
 - Both "thoughts" on supporting hurt people are framed tentatively by the author ("Я полагаю", "Мне кажется" — *I suppose*, *it seems to me*); restorative justice working better is something she "has heard", and the imagination-punishment technique is a commenter's claim. She invited readers to discuss both [#499].
 - (!) UNCLEAR: the author attributes the Belarus youth programme to UNESCO, while the link points to UNICEF [#499].
-- The webinar presentation was shared in a comment and is not part of the source [#498].
+- The webinar presentation was shared in a comment and is not part of the source; the post's image carries only the name "Brian Avery" (apparently a photo credit) and no other content [#498, img #498].
 - The pancake-dialogue examples and verses are the author's own invented illustrations, not Grice's [#190].
 
 ### Resources and links
@@ -192,6 +237,7 @@ Every link and file shared in this topic's posts. Resources can be used directly
 - ★ L. Mikaelyan — The role of secure attachment in trauma therapy: an emotionally focused approach (article) — Article on emotionally focused therapy (EFT) that the post summarises; published on familypsychology.ru. [#499] → <http://familypsychology.ru/mikae-lyan-l-l-rol-nadezhnoj-privyazannosti-v-terapii-travmy-e-motsional-no-fokusirovanny-j-podhod>
 - ★ Yudkowsky — Pretending to be Wise (LessWrong.ru) (article) — Essay the author likes on false balance and 'pretending to be wise' in debates; shared for further reading. [#499] → <https://lesswrong.ru/w/%D0%9F%D1%80%D0%B8%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D1%8C>
 - ★ Refusals: algorithm and exercises (telegra.ph) (guide) — Guide with a two-part exercise: understanding your motivation for refusing and communicating the refusal; the author offers it for practice. [#3] → <https://telegra.ph/Otkazy-algoritm-uprazhneniya-03-20>
+- ★ Список нужд (needs list, Carespace) (guide) — Needs list from Carespace used in step 2 of the article on refusals to identify which needs a «yes» would satisfy. Offered as a reference and inspiration for naming one's needs. [#3] → <https://carespace.ru/circles#needs>
 - ★ Impett et al. (2024) study on love languages, Current Directions in Psychological Science (study) — Review by Emily Impett and colleagues testing the love-languages idea against people's own words about love preferences; main source of the post. [#395] → <https://journals.sagepub.com/doi/10.1177/09637214231217663>
 - ★ SciShow video on conversation and Grice's maxims (video) — Free video about conveying your inner world in conversation; the author's favourite, with the Grice rules from 3:20. [#190] → <https://youtu.be/G30m6XDBTh4>
 - Consultant.Plus entry on emotionally focused therapy (article) — Legal-reference site that, unexpectedly, has a decent write-up on EFT; the author notes it as a surprisingly good source. [#499] → <https://www.consultant.ru/document/cons_doc_LAW_166695/df18283019432dc987dbb6c1ec9c4b094e90abac>

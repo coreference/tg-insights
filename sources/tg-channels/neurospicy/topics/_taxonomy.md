@@ -16,7 +16,7 @@ ids: #28, #193, #459, #460, #461, #462, #463, #464, #465, #589, #790
 
 ### Recovering from neurodivergent burnout  (`burnout-recovery`, 13 msgs)
 
-Recovery from autistic/neurodivergent burnout: the two tasks of recovery, why plain rest fails, nervous-system tools (breathing, PMR, completing the stress cycle, sleep), sensory inventories and soothing kits, relearning boundaries after masking, and self-advocacy scripts and accommodation requests.
+Recovery from autistic/neurodivergent burnout: the two phases of recovery, why plain rest fails, recovery plans and demand reduction, nervous-system tools, sensory inventories, soothing kits and restorative activities by sense, relearning boundaries after masking, deep recovery (unmasking, internalized ableism, grief), and self-advocacy scripts and accommodation requests.
 
 ids: #40, #167, #434, #495, #503, #511, #512, #513, #514, #515, #516, #532, #613
 
@@ -66,11 +66,11 @@ How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar diso
 
 ids: #43, #44, #50, #58, #297, #298, #299, #300, #387, #482, #544, #592, #593, #594, #595, #596, #597, #598, #599, #600, #601, #626, #663, #734, #736
 
-### Reading autism and ADHD research critically  (`autism-research-critique`, 7 msgs)
+### Reading autism and ADHD research critically  (`autism-research-critique`, 8 msgs)
 
-Brain connectivity and genetics of autism, fMRI subtypes, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable narcissism, paracetamol, Ozempic for ADHD).
+Brain connectivity and genetics of autism, fMRI subtypes, why brain scans cannot yet diagnose psychiatric conditions or neurodivergence, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable narcissism, paracetamol, Ozempic for ADHD).
 
-ids: #57, #130, #317, #658, #718, #725, #755
+ids: #57, #130, #192, #317, #658, #718, #725, #755
 
 ## Nervous System, Senses and Emotions
 
@@ -120,17 +120,17 @@ ids: #42, #155, #267, #268, #269, #270, #271, #272, #431, #818, #830
 
 ## Trauma, Anxiety and Medical Gaslighting
 
-### Complex trauma (C-PTSD) in neurodivergent lives  (`complex-trauma-neurodivergent`, 8 msgs)
+### Complex trauma (C-PTSD) in neurodivergent lives  (`complex-trauma-neurodivergent`, 9 msgs)
 
-C-PTSD versus PTSD, emotional flashbacks, people-pleasing and hypervigilance, trauma from a misunderstood neurodivergent childhood or late diagnosis, trauma-related memory loss, gaslighting in relationships and therapy goals.
+C-PTSD versus PTSD, emotional flashbacks, why autistic and late-diagnosed neurodivergent people are more vulnerable to trauma and PTSD (dual representation model, sensory and stress-system differences), people-pleasing and hypervigilance, trauma-related memory loss, gaslighting in relationships and therapy goals.
 
-ids: #301, #305, #466, #528, #648, #650, #785, #787
+ids: #217, #301, #305, #466, #528, #648, #650, #785, #787
 
-### Medical gaslighting and medical trauma  (`medical-gaslighting-trauma`, 6 msgs)
+### Medical gaslighting and medical trauma  (`medical-gaslighting-trauma`, 7 msgs)
 
-How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, erodes trust in body signals, and how autism traits collide with chronic illness demands.
+How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, including a first-person FND illness story of harmful versus helpful doctor behaviour, how it erodes trust in body signals, and how autism traits collide with chronic illness demands.
 
-ids: #106, #378, #508, #666, #766, #780
+ids: #106, #256, #378, #508, #666, #766, #780
 
 ### Anxiety and panic: CBT and body-based coping  (`anxiety-panic-coping`, 4 msgs)
 

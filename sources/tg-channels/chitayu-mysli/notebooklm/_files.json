@@ -1,0 +1,206 @@
+{
+ "channel": "Читаю мысли",
+ "slug": "chitayu-mysli",
+ "files": [
+  {
+   "file": "understanding-diagnosing-neurodivergence-1.md",
+   "domain": "Understanding and diagnosing neurodivergence",
+   "domain_slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 2,
+   "title": "Understanding and diagnosing neurodivergence (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "adult-adhd-autism-diagnosis",
+     "title": "How adult ADHD and autism are diagnosed"
+    },
+    {
+     "slug": "neurodivergence-differential-diagnosis",
+     "title": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD"
+    },
+    {
+     "slug": "women-adhd-autism",
+     "title": "ADHD and autism in women: phenotype, masking and hormones"
+    }
+   ],
+   "words": 9871
+  },
+  {
+   "file": "understanding-diagnosing-neurodivergence-2.md",
+   "domain": "Understanding and diagnosing neurodivergence",
+   "domain_slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Understanding and diagnosing neurodivergence (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "neurodivergence-myths-stigma",
+     "title": "Self-diagnosis, myths and stigma around neurodivergence"
+    },
+    {
+     "slug": "autism-support-levels-genetics",
+     "title": "Autism spectrum: support levels, genetics and history"
+    }
+   ],
+   "words": 6450
+  },
+  {
+   "file": "overload-meltdowns-burnout.md",
+   "domain": "Overload, meltdowns and burnout",
+   "domain_slug": "overload-meltdowns-burnout",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Overload, meltdowns and burnout",
+   "topics": [
+    {
+     "slug": "meltdowns-shutdowns-overload",
+     "title": "Meltdowns, shutdowns and acute overload"
+    },
+    {
+     "slug": "neurodivergent-burnout-fatigue",
+     "title": "Autistic and ADHD burnout, fatigue and limited energy"
+    },
+    {
+     "slug": "neurodivergent-rest-recovery",
+     "title": "How neurodivergent people rest and recover"
+    }
+   ],
+   "words": 9084
+  },
+  {
+   "file": "sensory-processing-body.md",
+   "domain": "Sensory processing and the body",
+   "domain_slug": "sensory-processing-body",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Sensory processing and the body",
+   "topics": [
+    {
+     "slug": "sensory-profile",
+     "title": "Building and using your sensory profile"
+    },
+    {
+     "slug": "stimming-special-interests",
+     "title": "Stimming, special interests and repetitive behaviours"
+    },
+    {
+     "slug": "neurodivergent-physical-comorbidities",
+     "title": "Physical comorbidities: sleep, pain, migraine and eating"
+    }
+   ],
+   "words": 9755
+  },
+  {
+   "file": "masking-social-life.md",
+   "domain": "Masking and social life",
+   "domain_slug": "masking-social-life",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Masking and social life",
+   "topics": [
+    {
+     "slug": "masking-unmasking",
+     "title": "Masking, compensation and unmasking"
+    },
+    {
+     "slug": "autistic-communication-belonging",
+     "title": "Autistic communication, belonging and being misread"
+    }
+   ],
+   "words": 4203
+  },
+  {
+   "file": "adhd-self-management.md",
+   "domain": "ADHD self-management and skills",
+   "domain_slug": "adhd-self-management",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "ADHD self-management and skills",
+   "topics": [
+    {
+     "slug": "executive-dysfunction-work",
+     "title": "Executive dysfunction, environment and work"
+    },
+    {
+     "slug": "adhd-skills-training-tools",
+     "title": "ADHD skills training, coaching and organization tools"
+    },
+    {
+     "slug": "neurodivergent-emotions-relationships",
+     "title": "Emotional dysregulation, rejection sensitivity and relationships"
+    }
+   ],
+   "words": 9011
+  },
+  {
+   "file": "psychiatric-treatment-care.md",
+   "domain": "Psychiatric treatment and mental health care",
+   "domain_slug": "psychiatric-treatment-care",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 1,
+   "parts": 1,
+   "title": "Psychiatric treatment and mental health care",
+   "topics": [
+    {
+     "slug": "psychiatric-medication",
+     "title": "Psychiatric medication: ADHD drugs and antidepressants"
+    },
+    {
+     "slug": "choosing-mental-health-care",
+     "title": "Choosing specialists and evidence-based mental health care"
+    },
+    {
+     "slug": "health-policy-systems",
+     "title": "Health policy and healthcare systems"
+    }
+   ],
+   "words": 10412
+  },
+  {
+   "file": "anxiety-mood-coping.md",
+   "domain": "Anxiety, mood and coping",
+   "domain_slug": "anxiety-mood-coping",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 1,
+   "title": "Anxiety, mood and coping",
+   "topics": [
+    {
+     "slug": "anxiety-exposure-ocd",
+     "title": "Anxiety, phobias, panic and OCD: exposure and self-observation"
+    },
+    {
+     "slug": "coping-collective-tragedy",
+     "title": "Coping with terror attacks and collective tragedy"
+    },
+    {
+     "slug": "mood-activation-mindfulness",
+     "title": "Behavioral activation, movement and mindfulness for mood"
+    }
+   ],
+   "words": 7013
+  },
+  {
+   "file": "inner-critic-self-relationship.md",
+   "domain": "Inner critic and self-relationship",
+   "domain_slug": "inner-critic-self-relationship",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 1,
+   "title": "Inner critic and self-relationship",
+   "topics": [
+    {
+     "slug": "inner-critic-schema-therapy",
+     "title": "Inner critic, schema therapy and soothing the threat system"
+    }
+   ],
+   "words": 3103
+  }
+ ]
+}

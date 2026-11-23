@@ -3,9 +3,9 @@ kb: deep-mind-2-0
 domain: Attention & Digital Wellbeing
 topic: Digital detox and healthy screen habits
 slug: digital-detox-screens
-messages: 15
+messages: 16
 date_range: 2021-03-07..2026-05-07
-summary: How the deep mind channel understands screens as a source of stress, a self-regulation "anaesthetic" and a designed addiction, and what it recommends instead — an information-detox task list, the 4-parameter digital-activity check, phone-free mornings and evenings, a 4-step social-media break, the Breathe-Blink-Break-Boundaries answer to screen apnea, and the mindfulness-based (MBRP) way of working with craving instead of bans. It also covers digital fatigue, JOMO, the critique of the "cheap dopamine" myth, the 2026 US court verdict on platform design, and why chosen versus imposed disconnection have opposite effects.
+summary: How the deep mind channel understands screens as a source of stress, a self-regulation "anaesthetic" and a designed addiction, and what it recommends instead — an information-detox task list, the 4-parameter digital-activity check, phone-free mornings and evenings, a 4-step social-media break, the Breathe-Blink-Break-Boundaries answer to screen apnea, and the mindfulness-based (MBRP) way of working with craving instead of bans. It also covers digital fatigue, JOMO, the critique of the "cheap dopamine" myth, the 2026 US court verdict on platform design, and why chosen versus imposed disconnection have opposite effects. The author's RBC-pro article on JOMO (joy of missing out) as a new stage of digital maturity — where the term comes from, the three reasons it is trending now, what JOMO looks like in everyday behaviour, and three small steps to start with if missing out does not yet feel joyful.
 answers:
   - How do I do an information detox on my phone, step by step?
   - Why should I not pick up the phone in the first hour after waking and the last hour before sleep?
@@ -17,6 +17,12 @@ answers:
   - Why do I reach for the phone when I feel bad, and what is wrong with that?
   - What is JOMO and how is it different from avoidance?
   - Does switching off mobile internet improve mental health, and does it matter whether it is chosen or imposed?
+  - What is JOMO and where does the term come from?
+  - Why is JOMO becoming a trend right now?
+  - What does JOMO look like in practice in everyday life?
+  - How can I start practising JOMO if I still feel FOMO?
+  - Is JOMO just escapism or loneliness?
+  - How is the shift from FOMO to JOMO a sign of digital maturity?
 frameworks:
   - Information detox task list (8 actions)
   - 4-parameter check for any digital activity (Intention, Time limit, Mindfulness, Enrichment)
@@ -26,12 +32,17 @@ frameworks:
   - Mindful work with screen craving (MBRP-inspired attention instead of struggle)
   - The pause between impulse and action (one sec app / noticing why we go to the screen)
   - Three questions about screen-as-regulator (anaesthesia, what we train, effectiveness)
+  - Three reasons JOMO is trending now (overload, mental-health focus, new idea of success)
+  - JOMO in action (4 everyday behaviours)
+  - Start small with JOMO (3 first steps)
 themes:
   - digital-wellbeing
   - attention
   - addiction
   - stress
   - self-regulation
+  - fomo-jomo
+  - boundaries
 terms:
   - майндстрим / поток ума | mindstream, "stream of mind": continuous stream that keeps memories of all lived experience, including consumed content (author calls it not quite a scientific term) | 470
   - дешевый дофамин | "cheap dopamine": quick easy stimulation from phones, sugar, chats; used by the author in early posts, later criticised as an unscientific myth | 400, 795, 1042, 1253, 1542
@@ -46,6 +57,9 @@ terms:
   - MBRP (mindfulness-based relapse prevention approach) | contemplative, mindfulness-based approach to addiction used by the author to make the whole addiction cycle conscious | 1689
   - переменное соотношение вознаграждений | variable-ratio reward schedule: irregular, unpredictable reward that forms the most persistent addiction (slot-machine principle, Skinner) | 1753
   - ко-регуляция | co-regulation: being seen, confirmed and shared by others, which the internet provides | 1745
+  - JOMO (joy of missing out) | joy that you are not in the know, not taking part, not reachable; conscious disconnection from the superfluous in favour of the present; presented here as a stage of digital maturity | 1579
+  - FOMO (fear of missing out) | fear of missing something important — a message, opportunity, trend, event or insight; called one of the central emotions of the era of hyperconnectivity | 1579
+  - цифровая зрелость | digital maturity: a new stage of digital culture in which people distinguish what nourishes from what merely fills | 1579
 people:
   - Max (channel author, deep mind) | psychologist / mindfulness practitioner writing all posts; self-experiments with phone-free mornings, deleting Telegram, social-media break, MBRP on retreat | 400, 795, 1042, 1253, 1294, 1678, 1689, 1745
   - Pavel Durov | wrote a post on mindstream and content that the author uses as a starting point | 470
@@ -56,6 +70,8 @@ people:
   - B. F. Skinner | described the variable-reward principle (1950) cited by plaintiffs' lawyers | 1753
   - Jonathan Haidt | NYU social psychologist who argues heavy-use teen girls show effects comparable to alcohol | 1753
   - Adrian Ward | co-author of the 2025 mobile-internet blocking study | 1788
+  - Max Rodin (Макс Родин) | founder of deep mind, channel author; wrote the RBC-pro article on JOMO | 1579
+  - Cal Newport | technology writer named by the author as the popularizer of JOMO; author of Digital Minimalism and Deep Work | 1579
 ---
 # Digital detox and healthy screen habits
 
@@ -64,6 +80,10 @@ people:
 This file collects everything the deep mind channel taught about screens and the phone as a source of stress, a habitual way of regulating emotions and a deliberately engineered addiction — and about how to change one's relationship with them: information-detox checklists, a framework for weighing any digital activity, phone-free mornings and evenings, social-media breaks, the screen-apnea phenomenon, persuasive design, and a mindfulness-based way of working with craving instead of prohibitions. It also contains the author's critical counterpoints: that "cheap dopamine" is a myth, that bans tend to strengthen addiction, that the science on social media harm is not unanimous, and that imposed disconnection works opposite to chosen disconnection. [msg #400, #795, #1253, #1495, #1542, #1548, #1678, #1689, #1753, #1788]
 
 According to the source, this matters because information arriving through the phone screen is "one of the main causes of stress today", because the smartphone has become a person's main source of stress triggers, and because a dysregulated attention and dopamine system stops us from going deep, reflecting and moving toward important but slow goals. [msg #400, #795, #1253]
+
+This part covers one new post (#1579): the author's article for RBC-pro (republished on Telegraph) on JOMO — "joy of missing out" — as an emerging, more mature stage of digital culture. It explains the origin of the term, three reasons it is trending now, four everyday behaviours that make up JOMO, the cultural shift behind it and three small first steps. [msg #1579, article #1579]
+
+**How it relates to the existing topic file.** The existing file already describes JOMO from post #1386 through the lens of attachment psychology (FOMO as a trace of anxious attachment, JOMO as an expression of secure attachment, the "avoidance mask" pitfall). This new post **extends** it with a different framing — cultural and historical: JOMO as a collective transition to "digital maturity", its attribution to Cal Newport and digital minimalism, a numeric claim about daily external signals, the three drivers of the trend, a concrete behaviour list and starter steps. It does not contradict #1386; both insist JOMO is not detachment or isolation. One minor tension is noted in *Caveats*. [msg #1579]
 
 ## Core ideas
 
@@ -76,6 +96,10 @@ According to the source, this matters because information arriving through the p
 - **"Cheap dopamine" is a reductionist myth.** Dopamine codes prediction error, not pleasure; behaviour comes from many interacting systems. [msg #1542]
 - **Chosen limits help; imposed limits harm.** Voluntarily blocking mobile internet improved attention and wellbeing in a large study, but the same limit imposed from outside produces anxiety and helplessness. [msg #1788, #1745]
 - **Balance, not Luddism.** The author owes a lot to screens and rejects nihilism, but sees that 50–70% of his screen time does not move him toward what matters. [msg #1689]
+
+- **FOMO has not disappeared, but conscious people are moving to JOMO.** FOMO was long "one of the central emotions of the era of hyperconnectivity": switching off from the flow felt like leaving the game. Now a new word is heard increasingly often — JOMO, the joy of not being in the know, not participating, not being reachable. [article #1579]
+- **JOMO is a sign of digital maturity.** The author compares the transition to the huge tables (feasts) of the 2000s that eventually gave way to more moderate consumption focused on quality rather than quantity: after a decade of hyper-involvement people have "eaten their fill" of digital abundance and start to distinguish what nourishes from what merely fills. [msg #1579, article #1579]
+- **JOMO is about directing attention, not about not knowing.** It is a question of what exactly you want to point your attention at — and therefore about a greater degree of freedom, "the very freedom" for which people came into the world of smartphones and the absence of borders. [article #1579]
 
 ## Frameworks, models and step-by-step methods
 
@@ -166,6 +190,28 @@ Purpose: once the screen-as-anaesthetic pattern (see Detailed insights) is seen 
 1. **Do we want to live in constant anaesthesia?** It lowers overall sensitivity and makes it harder to digest experiences — to live through them and naturally move into another state. [msg #1678]
 2. **What are we training?** Through reading we develop reflection; through meeting friends, presence and contact; constant regulation through the screen rather trains switching off. We become less aware and understand worse what is really happening with us — not because something is wrong with us, but because there is simply no room left for it. [msg #1678]
 3. **Is it effective?** The screen can really help short-term, but regulation that supports more deeply and reliably usually lies not in distraction but in the body, breath and contact with what is. That, not information noise, really helps the nervous system return to balance. [msg #1678]
+
+### Three reasons JOMO is trending now
+Context: the author states that every day we receive on average 6,000 to 10,000 external signals — from notifications to digital conversations — so skipping things has become "an act of survival", and recently also an act of culture. He gives three drivers: [article #1579]
+
+1. **Overfatigue from constant presence.** Research by the American Psychological Association, as cited by the author, shows that constant involvement in messengers, Zoom calls and news streams lowers cognitive functions, worsens sleep and contributes to anxiety. People began to feel that life slips away in the attempt to be everywhere — and almost nowhere for real. Conclusion: JOMO is an attempt to adapt to overload. [article #1579]
+2. **Sharper attention to mental health.** The pandemic and post-pandemic overload led people to place greater value on a healthy body, boundaries and personal ecology; words like «цифровая гигиена» ("digital hygiene"), «информационный детокс» ("information detox") and «психоэмоциональный ресурс» ("psycho-emotional resource") are heard ever more often. Conclusion: JOMO is a new form of caring for health. [article #1579]
+3. **A changed idea of success and engagement.** FOMO comes from old career thinking: be everywhere, take part, do, don't fall behind. JOMO comes from a new value — attention, depth and inner engagement. If "missing everything" used to look like failure, today it can be a choice of maturity and of tuning in to what is your own. Conclusion: JOMO is a new form of identity in which success looks different. [article #1579]
+
+### JOMO in action (4 everyday behaviours)
+What JOMO looks like in practice, per the author — each item pairs a behaviour with the absence of the usual negative feeling: [article #1579]
+
+1. **Switch the phone off in the evening — and feel no anxiety.** [article #1579]
+2. **Don't open a chat with 238 messages — and feel no guilt.** [article #1579]
+3. **Don't answer instantly** — because you are in a meeting or simply want to be alone with yourself; and **not be in the know — without treating that as a threat to your competence**. [article #1579]
+4. **Don't go to a meeting even if you were invited** — simply because your "no" has become possible. [article #1579]
+
+### Start small with JOMO (3 first steps)
+Purpose: for readers who do not yet manage to enjoy missing out. (If you already notice yourself rejoicing at what you missed, the author says "congratulations": your attention is coming back to you; it is not a sign of lost opportunities but a sign that you can choose again.) [article #1579]
+
+1. **Unsubscribe from notifications of channels that bring neither joy nor meaning.** The filter is joy or meaning — anything that gives neither goes. [article #1579]
+2. **Allow yourself not to answer right away.** [article #1579]
+3. **Try to spend at least one evening a week without internet access** — and treat it "not as a feat but as rest". [article #1579]
 
 ## Detailed insights
 
@@ -275,6 +321,16 @@ Why such studies cannot justify forced disconnection: there is no direct data on
 
 What the numbers mean for practice: mobile internet is clearly not a neutral technology; it is an environment that keeps the nervous system all day in micro-switching and anticipation of reward. From such hyper-involvement and activation it is impossible to listen attentively to another person, notice tension rising in a room, or stop and ask oneself what is guiding me right now. Constructive contact and presence — the basis of leadership mastery and any quality interaction — need an attention resource that constant network access spends. However, the decision about restrictions must be made by the person themselves; otherwise the effect not only disappears but becomes its opposite, and forced shutdowns breed growing insecurity, irritation and anger. The problems of technology's impact still have to be dealt with, but that is secondary if a person is deprived of freedom of choice and their agency is under attack. [msg #1788]
 
+### Origin of the term
+According to the author, JOMO first appeared as the opposite of FOMO in the context of digital minimalism and was popularized by technology writer Cal Newport, author of *Digital Minimalism: Choosing a Focused Life in a Noisy World* and *Deep Work: Rules for Focused Success in a Distracted World*. In these books Newport writes about how multitasking and constant digital presence fragment attention and make experience meaningless. JOMO offers a radically different vector: conscious disconnection from the superfluous in favour of the present. [article #1579]
+
+Contrast drawn by the author: FOMO is about the anxiety "what if I'm missing something", while JOMO is about the silence in which there is finally everything you need and nothing is missed. [article #1579]
+
+### The cultural shift: from feasting to eating when hungry
+The author insists JOMO is "neither a whim nor an escape" but part of a new stage of digital maturity. We lived through a decade of hyper-involvement; the digital abundance became not nourishing but exhausting, and now we start to distinguish what saturates from what merely fills. His image: it is like learning to eat when you are hungry, not when everyone around is eating. [article #1579]
+
+Closing thesis: JOMO is not loneliness and not detachment; it is the joy of being in life — your own life, not everyone's at once. [article #1579]
+
 ## Evidence and numbers
 
 - People switch between activities on average every 20 seconds (study cited by the author). [msg #795]
@@ -292,6 +348,9 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - Oxford researchers (2022, one of the largest analyses): the link between social media and adolescent mental health exists statistically, but its size is roughly that of regularly eating potatoes. Jonathan Haidt (NYU) disputes this: averaging dilutes the effect, but among those spending 5–6 hours a day on social media — especially teenage girls — the association with depression and anxiety is comparable to that of alcohol. [msg #1753]
 - February 2025 study: 467 people blocked all mobile internet on their iPhones for 2 weeks via an app; attention, mental health and subjective wellbeing improved significantly; 91% improved on at least 1 of 3 measures; the effect on depression symptoms was larger than the typical effect of antidepressants; the gain in attention was equivalent to turning back about 10 years. [msg #1788]
 
+- On average we receive 6,000–10,000 external signals a day, from notifications to digital conversations (figure given by the author without a named source). [article #1579]
+- American Psychological Association research (as cited): constant involvement in messengers, Zoom and news streams lowers cognitive function, worsens sleep and contributes to anxiety. [article #1579]
+
 ## Tools and resources mentioned
 
 - **reMarkable 2** — e-ink paper-like tablet for reading, handwriting and annotation; author's "favourite gadget", verdict: a game-changer for slow reading and focus; downsides: price, limited functions, no Russian handwriting recognition or Russian keyboard. [msg #1042]
@@ -303,6 +362,10 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - **The New York Times article on screen apnea (2023)** — extended "email apnea" to "screen apnea"; its comments generated the Breathe-Blink-Break-Boundaries formula. [msg #1495]
 - **Deloitte study on digital fatigue (connected consumers, 2023)** and a report on digital fatigue at the workplace — sources for the digital-fatigue post. [msg #1294, img #1294]
 - **MBRP (mindfulness-based relapse prevention)** — the contemplative approach the author relied on for working with screen craving. [msg #1689]
+
+- **Cal Newport, *Digital Minimalism: Choosing a Focused Life in a Noisy World*** (Russian edition «Цифровой минимализм. Фокус и осознанность в шумном мире») — book on how constant digital presence fragments attention; named as the context in which JOMO was popularized. No explicit verdict. [article #1579]
+- **Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*** (Russian edition «В работу с головой. Паттерны успеха от IT-специалиста») — book on multitasking and fragmented attention; named alongside *Digital Minimalism*. No explicit verdict. [article #1579]
+- **The author's RBC-pro article "JOMO: why we started to rejoice at missing things"** — the longread this post shares, published in RBC-pro and mirrored on Telegraph; it is the source of everything in this part. [msg #1579, img #1579]
 
 ## Notable quotes
 
@@ -334,6 +397,16 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 
 > "Радостно, что мы коллективно сделали еще один шаг к тому, чтобы перестать системно газлайтить свой реальный опыт." (*It's joyful that we collectively took another step toward stopping the systemic gaslighting of our real experience.*) — author [msg #1753]
 
+> "Мы наелись цифрового изобилия, которое стало не питательным, а утомляющим." (*We have eaten our fill of digital abundance, which has become not nourishing but exhausting.*) — Max Rodin [article #1579]
+
+> "Это как научиться есть, когда голоден. А не когда просто все вокруг едят." (*It's like learning to eat when you're hungry. And not just when everyone around is eating.*) — Max Rodin [article #1579]
+
+> "Если FOMO — это про тревогу «а вдруг я что-то упускаю», то JOMO — про тишину, в которой наконец есть все, что нужно, и ничего не упускается." (*If FOMO is about the anxiety "what if I'm missing something", JOMO is about the silence in which there is finally everything you need and nothing is missed.*) — Max Rodin [article #1579]
+
+> "По сути, JOMO — это не про «не знать», а про на что именно ты хочешь направить свое внимание." (*In essence, JOMO is not about "not knowing" but about what exactly you want to direct your attention to.*) — Max Rodin [article #1579]
+
+> "JOMO — это не одиночество и не отстраненность. Это радость от того, что ты в жизни. В своей, а не во всех сразу." (*JOMO is not loneliness and not detachment. It is the joy of being in life. Your own, not everyone's at once.*) — Max Rodin [article #1579]
+
 ## Caveats, disagreements and open questions
 
 - (!) CONTRADICTION: early posts rely on the notion of «дешевый дофамин» ("cheap dopamine") as an explanation for phone stickiness (#400, #795, #1042, #1253 — e.g. "overloaded dopamine system", "harmful dopamine loop of quick pleasure"), while #1542 (written under a clinical psychologist's supervision) calls "cheap dopamine" a non-scientific, reductionist myth and lists "dopamine detox" among pseudo-practices. [msg #400, #795, #1042, #1253, #1542]
@@ -347,12 +420,18 @@ What the numbers mean for practice: mobile internet is clearly not a neutral tec
 - (!) INCOMPLETE: the MBRP method in #1689 continues in a comment not included in the source; only the first two steps (craving, needs) are available. [msg #1689]
 - The author is not anti-technology: he stresses how much he owes to screens and rejects nihilism or Luddism (#1689), and argues the internet is a basic environment and space of co-regulation whose forced loss is a serious stressor (#1745, #1788). [msg #1689, #1745, #1788]
 
+- The 6,000–10,000 daily signals figure and the APA findings are stated without specific study references in the article. [article #1579]
+- (!) UNCLEAR: the post frames JOMO as something "conscious people have already moved to" and as a broad cultural trend; the article gives no data on how widespread it is. [article #1579]
+- Tension with #1386 (existing file): #1386 calls JOMO a "new trend" grounded in secure attachment and warns that JOMO can mask an avoidant style; #1579 presents declining an invitation "simply because your 'no' has become possible" as JOMO without repeating that avoidance check. The two framings are compatible but #1579 omits the pitfall. [msg #1579]
+- Tension with #1689 (existing file): #1689 warns that self-imposed bans like "no screen before sleep" tend to backfire, while #1579's starter step of one internet-free evening a week is framed explicitly as rest rather than a feat — which may be the author's way of avoiding a ban framing, but the source does not connect the two. [article #1579]
+
 ## Resources and links
 
 Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
 
 ### Resources
 
+- ★ **JOMO: почему мы стали радоваться тому, что что-то пропустили (JOMO: why we enjoy missing out)** (article) — The author's own free telegra.ph article on JOMO (joy of missing out) and a move toward more moderate, quality-focused consumption. [msg #1579] → <https://telegra.ph/JOMO-pochemu-my-stali-radovatsya-tomu-chto-chto-to-propustili-10-20>
 - ★ **The Guardian: reading print improves comprehension far more than digital text (2023)** (article) — News report on research showing print reading yields much better comprehension than digital; cited by the author to support reading on paper. [msg #1042] → <https://www.theguardian.com/books/2023/dec/15/reading-print-improves-comprehension-far-more-than-looking-at-digital-text-say-researchers>
 - ★ **deep mind programmes for teams (Notion page)** (guide) — The authors' Notion overview of their practice-based programmes for team development, built on small repeated exercises. [msg #795] → <https://dmcom.notion.site/Deep-Mind-049547592013465487a9fbab21e8f55d>
 - ★ **Welcome to Deep mind Mindfulness Community (Notion page)** (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [msg #795] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
@@ -385,10 +464,12 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - ★ **Light Phone (minimalist phone)** (product) — Minimalist phone that filters distractions; the author is considering buying it as part of the focused-tools trend. [msg #1042] → <https://www.thelightphone.com/>
 - ★ **reMarkable 2 e-paper notebook-tablet** (product) — Norwegian e-ink notebook tablet the author loves and bought twice (one as a gift); presented as a focused, distraction-free digital tool. [msg #1042] → <https://remarkable.com/>
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #1386, #1542, #1745, #1753] → <https://t.me/mindfulleadersrussia>
+- **РБК Pro — Deep Mind author tag page** (channel) — RBC Pro tag page with the author's columns, including the JOMO piece; paywalled publication listing. [msg #1579] → <https://pro.rbc.ru/tags/?tag=deep%20mind>
 - **deep mind asynchronous programme (emotion regulation)** (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [msg #795] → <https://bit.ly/3aqOYlI>
 - **Mike Yan (itsmikeyan), Telegram channel** (profile) — Telegram channel of a Silicon Valley entrepreneur acquaintance whose method for reducing attention load the author borrowed. [msg #1548] → <https://t.me/itsmikeyan>
 - **deep mind consulting (b2b site)** (website) — Company website for corporate offers, footer link. [msg #795] → <http://deepmindconsulting.ru/>
+- **deep mind consulting (company website)** (website) — The author's company website with mindfulness leadership programmes; linked beside the deep mind 4-level model of mindfulness. [msg #1579] → <https://deepmindconsulting.ru/>
 
 ## Source messages
 
-#400, #470, #795, #1042, #1253, #1294, #1386, #1495, #1542, #1548, #1678, #1689, #1745, #1753, #1788
+#400, #470, #795, #1042, #1253, #1294, #1386, #1495, #1542, #1548, #1579, #1678, #1689, #1745, #1753, #1788

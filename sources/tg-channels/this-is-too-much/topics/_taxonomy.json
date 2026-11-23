@@ -1,0 +1,1053 @@
+{
+ "domains": [
+  {
+   "domain": "Borderline personality disorder",
+   "slug": "borderline-personality-disorder",
+   "area": "Psychiatry & Mental Health Care",
+   "topics": [
+    {
+     "title": "BPD: definition, causes and explanatory models",
+     "slug": "bpd-definition-causes-models",
+     "scope": "What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its 21-sign checklist and self-questions.",
+     "themes": [
+      "bpd",
+      "biosocial model",
+      "impulsivity"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "borderline-personality-disorder",
+      "dialectical-behavior-therapy",
+      "emotional-validation",
+      "emotional-regulation",
+      "psychiatric-diagnosis",
+      "stigma-and-acceptance"
+     ],
+     "ids": [
+      7,
+      14,
+      17,
+      55,
+      103,
+      130,
+      191
+     ],
+     "count": 7
+    },
+    {
+     "title": "BPD in relationships: rejection sensitivity, mentalization and loneliness",
+     "slug": "bpd-interpersonal-hypersensitivity",
+     "scope": "Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP relationships and what can change.",
+     "themes": [
+      "interpersonal hypersensitivity",
+      "mentalization",
+      "loneliness"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "borderline-personality-disorder",
+      "rejection-sensitivity",
+      "mentalization",
+      "attachment-theory",
+      "community-belonging",
+      "empathy"
+     ],
+     "ids": [
+      3,
+      11,
+      66,
+      113,
+      190,
+      198,
+      228,
+      251,
+      267
+     ],
+     "count": 9
+    },
+    {
+     "title": "Self-image, identity and emptiness in BPD",
+     "slug": "bpd-self-image-emptiness",
+     "scope": "Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately built (building blocks of self-awareness, brain basis, practical strategies).",
+     "themes": [
+      "identity",
+      "emptiness",
+      "self-esteem"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "self-identity",
+      "borderline-personality-disorder",
+      "self-esteem",
+      "psychiatric-diagnosis",
+      "meditation-mindfulness"
+     ],
+     "ids": [
+      6,
+      64,
+      65,
+      85,
+      86,
+      87,
+      91,
+      197
+     ],
+     "count": 8
+    },
+    {
+     "title": "Suicidal thinking and self-harm",
+     "slug": "suicidal-thinking-self-harm",
+     "scope": "Suicide myths and prevention, passive versus active suicidal ideation and warning signs, suicidal thoughts as an escape habit, and research on what predicts and precedes self-harm in BPD.",
+     "themes": [
+      "suicide",
+      "self-harm",
+      "warning signs"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "suicide-and-self-harm",
+      "borderline-personality-disorder",
+      "emotional-regulation",
+      "cognitive-biases"
+     ],
+     "ids": [
+      12,
+      46,
+      106,
+      177,
+      178
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "DBT skills",
+   "slug": "dbt-skills",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "Crisis survival skills: STOP, TIPP and distraction",
+     "slug": "dbt-crisis-survival-skills",
+     "scope": "DBT distress-tolerance skills for peak emotions: the STOP skill, cold-water dive reflex, intense exercise, paced breathing and muscle relaxation, the distraction acronym, and steps out of helplessness.",
+     "themes": [
+      "distress tolerance",
+      "stop skill",
+      "crisis"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "distress-tolerance",
+      "dialectical-behavior-therapy",
+      "somatic-regulation",
+      "emotional-regulation",
+      "emotional-avoidance"
+     ],
+     "ids": [
+      15,
+      18,
+      20,
+      41,
+      42,
+      104,
+      107,
+      109,
+      134
+     ],
+     "count": 9
+    },
+    {
+     "title": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing",
+     "slug": "dbt-mindfulness-skills",
+     "scope": "Why mindfulness matters in DBT, the observe/describe/participate and non-judgmental skills, effectiveness, urge surfing for cravings, odd sensations in meditation and criticisms of mindfulness.",
+     "themes": [
+      "mindfulness",
+      "non-judgment",
+      "urge surfing"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "dialectical-behavior-therapy",
+      "emotional-regulation",
+      "self-compassion"
+     ],
+     "ids": [
+      4,
+      35,
+      36,
+      39,
+      43,
+      50,
+      153
+     ],
+     "count": 7
+    },
+    {
+     "title": "Radical acceptance and validation",
+     "slug": "radical-acceptance-validation",
+     "scope": "The DBT radical acceptance skill with reflection questions, the six levels of validation for supporting loved ones, and combining acceptance, mindfulness and self-compassion when life is hard.",
+     "themes": [
+      "radical acceptance",
+      "validation"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "impermanence-acceptance",
+      "emotional-validation",
+      "dialectical-behavior-therapy",
+      "self-compassion",
+      "relationships-family"
+     ],
+     "ids": [
+      75,
+      76,
+      88,
+      171
+     ],
+     "count": 4
+    },
+    {
+     "title": "Lowering emotional vulnerability: routines, food and boring basics",
+     "slug": "emotional-vulnerability-self-care-basics",
+     "scope": "PLEASE-style care of the body to reduce emotional vulnerability, foods linked to mood swings, building a daily routine with BPD, self-care after shocking events, and why evidence-based basics beat magic fixes.",
+     "themes": [
+      "self-care",
+      "routine",
+      "habits"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Nutrition"
+     ],
+     "concepts": [
+      "self-care",
+      "dialectical-behavior-therapy",
+      "emotional-regulation",
+      "habit-formation",
+      "nutrition-basics"
+     ],
+     "ids": [
+      32,
+      33,
+      99,
+      108,
+      136
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Trauma, PTSD and complex PTSD",
+   "slug": "trauma-ptsd-cptsd",
+   "area": "Psychiatry & Mental Health Care",
+   "topics": [
+    {
+     "title": "Recognizing PTSD and complex PTSD",
+     "slug": "ptsd-cptsd-recognition",
+     "scope": "Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response cascade, medical PTSD and links to chronic pain.",
+     "themes": [
+      "ptsd",
+      "cptsd",
+      "invalidation"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "complex-ptsd",
+      "trauma-and-nervous-system",
+      "psychiatric-diagnosis",
+      "emotional-validation",
+      "chronic-pain",
+      "dialectical-behavior-therapy"
+     ],
+     "ids": [
+      23,
+      24,
+      96,
+      110,
+      165,
+      195,
+      208,
+      253
+     ],
+     "count": 8
+    },
+    {
+     "title": "Coping with trauma, ongoing threat and post-traumatic growth",
+     "slug": "trauma-coping-ongoing-threat",
+     "scope": "Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an information diet and urge surfing.",
+     "themes": [
+      "trauma recovery",
+      "ongoing threat",
+      "post-traumatic growth"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychotherapy & Inner Work",
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "trauma-and-nervous-system",
+      "post-traumatic-growth",
+      "uncertainty-resilience",
+      "digital-hygiene",
+      "relationships-family",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      77,
+      78,
+      81,
+      111,
+      112,
+      258,
+      263
+     ],
+     "count": 7
+    },
+    {
+     "title": "Dissociation, depersonalization and out-of-body experiences",
+     "slug": "dissociation-depersonalization",
+     "scope": "What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.",
+     "themes": [
+      "dissociation",
+      "grounding"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "dissociation",
+      "trauma-and-nervous-system",
+      "somatic-regulation",
+      "complex-ptsd",
+      "borderline-personality-disorder",
+      "emotional-avoidance"
+     ],
+     "ids": [
+      26,
+      45,
+      105,
+      146,
+      192,
+      193
+     ],
+     "count": 6
+    },
+    {
+     "title": "Neurobiology of trauma and trauma memory",
+     "slug": "trauma-neurobiology-memory",
+     "scope": "How trauma affects memory (hippocampus, amygdala, fragmentation), the cerebellar vermis and freezing, and the opioid and endocannabinoid systems in PTSD, dissociation and fear extinction.",
+     "themes": [
+      "neurobiology",
+      "trauma memory",
+      "freeze"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "trauma-and-nervous-system",
+      "fear-extinction",
+      "dissociation",
+      "complex-ptsd"
+     ],
+     "ids": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      209,
+      231,
+      232
+     ],
+     "count": 13
+    },
+    {
+     "title": "How religions and spiritual traditions made sense of trauma",
+     "slug": "religion-spiritual-traditions-trauma",
+     "scope": "How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.",
+     "themes": [
+      "trauma history",
+      "religion",
+      "meaning-making"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Balance & Life Philosophy",
+      "Meditation & Contemplative Practice"
+     ],
+     "concepts": [
+      "trauma-and-nervous-system",
+      "meaning-purpose",
+      "loving-kindness-metta",
+      "meditation-mindfulness",
+      "psychotherapy"
+     ],
+     "ids": [
+      230
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "domain": "Emotions and emotional dysregulation",
+   "slug": "emotions-dysregulation",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Understanding emotions and emotional dysregulation",
+     "slug": "understanding-emotional-dysregulation",
+     "scope": "What emotional dysregulation is and its warning signs, emotions as a smoke detector, constructed emotions, frustrative non-reward and anger, changing emotions indirectly, and why emotions cost energy.",
+     "themes": [
+      "emotions",
+      "dysregulation",
+      "anger"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "emotional-regulation",
+      "emotional-intelligence",
+      "energy-management",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      27,
+      40,
+      49,
+      56,
+      57,
+      61,
+      62,
+      187,
+      260
+     ],
+     "count": 9
+    },
+    {
+     "title": "Avoidance, rumination, anxiety and exposure",
+     "slug": "avoidance-rumination-exposure",
+     "scope": "Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its four-factor model (intolerance of uncertainty, worry as cognitive avoidance).",
+     "themes": [
+      "avoidance",
+      "rumination",
+      "exposure"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "emotional-avoidance",
+      "rumination",
+      "stress-and-anxiety",
+      "fear-extinction",
+      "uncertainty-resilience",
+      "psychiatric-diagnosis"
+     ],
+     "ids": [
+      63,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      114,
+      115,
+      127,
+      129,
+      237,
+      238,
+      250
+     ],
+     "count": 14
+    },
+    {
+     "title": "Self-criticism, people-pleasing and social comparison",
+     "slug": "self-criticism-people-pleasing",
+     "scope": "How self-criticism harms and techniques to soften the inner critic, roots of people-pleasing in cPTSD and BPD, and why others' good news stings through upward social comparison.",
+     "themes": [
+      "self-criticism",
+      "people pleasing",
+      "comparison"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "self-compassion",
+      "social-comparison",
+      "rejection-sensitivity",
+      "complex-ptsd"
+     ],
+     "ids": [
+      48,
+      135,
+      262
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "domain": "Diagnosis, comorbidity and mood disorders",
+   "slug": "diagnosis-mood-disorders",
+   "area": "Psychiatry & Mental Health Care",
+   "topics": [
+    {
+     "title": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
+     "slug": "differential-diagnosis-classification",
+     "scope": "Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.",
+     "themes": [
+      "differential diagnosis",
+      "comorbidity",
+      "hitop"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "borderline-personality-disorder",
+      "bipolar-disorder",
+      "complex-ptsd",
+      "patient-advocacy"
+     ],
+     "ids": [
+      5,
+      25,
+      30,
+      47,
+      131,
+      133,
+      172,
+      196,
+      202,
+      211,
+      212
+     ],
+     "count": 11
+    },
+    {
+     "title": "Depression, seasonal depression and grief",
+     "slug": "depression-seasonal-grief",
+     "scope": "Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.",
+     "themes": [
+      "depression",
+      "seasonal depression",
+      "grief"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "depression",
+      "grief-and-loss",
+      "supplements",
+      "sleep-hygiene",
+      "circadian-rhythm"
+     ],
+     "ids": [
+      83,
+      84,
+      102,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      264
+     ],
+     "count": 13
+    },
+    {
+     "title": "Bipolar disorder: routines, caffeine and pregnancy",
+     "slug": "bipolar-disorder-management",
+     "scope": "Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.",
+     "themes": [
+      "bipolar",
+      "ipsrt",
+      "circadian rhythm"
+     ],
+     "also_areas": [
+      "Women's Health",
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "bipolar-disorder",
+      "circadian-rhythm",
+      "psychiatric-medication",
+      "caffeine",
+      "emotional-regulation",
+      "womens-health"
+     ],
+     "ids": [
+      100,
+      151,
+      154,
+      220
+     ],
+     "count": 4
+    },
+    {
+     "title": "Antisocial personality disorder: signs, myths and therapy",
+     "slug": "antisocial-personality-disorder",
+     "scope": "Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.",
+     "themes": [
+      "antisocial personality disorder",
+      "psychopathy",
+      "personality disorders"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "antisocial-personality-disorder",
+      "psychiatric-diagnosis",
+      "stigma-and-acceptance",
+      "mentalization",
+      "dialectical-behavior-therapy"
+     ],
+     "ids": [
+      229
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "domain": "Trauma and sleep",
+   "slug": "trauma-and-sleep",
+   "area": "Sleep",
+   "topics": [
+    {
+     "title": "PTSD nightmares and sleep disturbances",
+     "slug": "ptsd-nightmares-sleep",
+     "scope": "How trauma disrupts sleep, ordinary versus cPTSD nightmares, the neurobiology of the two nightmare scenarios, REM and sleep architecture in PTSD, treatments (IRT, CBT-I, lucid dream therapy) and sleep hygiene.",
+     "themes": [
+      "nightmares",
+      "rem sleep",
+      "sleep hygiene"
+     ],
+     "also_areas": [
+      "Psychiatry & Mental Health Care",
+      "Neuroscience & Cognitive Science",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "nightmares",
+      "sleep-hygiene",
+      "complex-ptsd",
+      "trauma-and-nervous-system",
+      "fear-extinction",
+      "cognitive-behavioral-therapy"
+     ],
+     "ids": [
+      147,
+      149,
+      175,
+      176,
+      241,
+      243,
+      244,
+      245,
+      255,
+      256,
+      257
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Motivation and procrastination",
+   "slug": "motivation-procrastination",
+   "area": "Behavior Change & Coaching",
+   "topics": [
+    {
+     "title": "Procrastination, motivation and the vacation brain",
+     "slug": "procrastination-motivation-vacation",
+     "scope": "Analyzing a procrastination episode for its function and alternatives, self-determination theory and why intentions stall, and what rest and novelty on vacation do to stress, attention and wants.",
+     "themes": [
+      "procrastination",
+      "motivation",
+      "vacation"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Attention & Digital Wellbeing"
+     ],
+     "concepts": [
+      "procrastination",
+      "motivation",
+      "rest-and-recovery",
+      "focus-attention"
+     ],
+     "ids": [
+      44,
+      247,
+      248,
+      266
+     ],
+     "count": 4
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 9,
+   "kind": "logistics",
+   "gist": "Forwarded from Dmitrii Pushkarev: BPD peer-support community 'Волны' recruits group moderators (requirements, training by NGO, application form)"
+  },
+  {
+   "id": 10,
+   "kind": "announcement",
+   "gist": "Clarification that the 'Волны' support groups are a peer initiative, not DBT, therapy or professional help"
+  },
+  {
+   "id": 13,
+   "kind": "other",
+   "gist": "Shares an English-language DBT skills workbook for neurodivergent people (meltdowns, sensory retreat corner, explaining sound sensitivity); file not available"
+  },
+  {
+   "id": 16,
+   "kind": "announcement",
+   "gist": "Advert for DBT skills training group (Zoom, Thursdays 18:00 MSK, 3000 RUB) with description of what DBT skills training does, entry conditions and session structure"
+  },
+  {
+   "id": 19,
+   "kind": "announcement",
+   "gist": "Poll asking new subscribers why they joined the channel (BPD diagnosis, professional interest, relatives)"
+  },
+  {
+   "id": 21,
+   "kind": "promo",
+   "gist": "Forwarded from samodobrota_tut: free multilingual self-help crisis chatbot AVAMind with self-regulation techniques"
+  },
+  {
+   "id": 22,
+   "kind": "personal-update",
+   "gist": "Channel apology for irregular posting and New Year greetings"
+  },
+  {
+   "id": 28,
+   "kind": "other",
+   "gist": "Shares Russian translation of 'Loving Someone with Borderline Personality Disorder' for relatives; file not available"
+  },
+  {
+   "id": 29,
+   "kind": "other",
+   "gist": "Apology and re-upload of the truncated book file"
+  },
+  {
+   "id": 31,
+   "kind": "announcement",
+   "gist": "Enrollment for 5-month online cPTSD group therapy program (symptom criteria, three phases, twice weekly, experimental)"
+  },
+  {
+   "id": 34,
+   "kind": "other",
+   "gist": "Shares a recommended self-help book for BPD (Chapman, coping with borderline personality disorder); file not available"
+  },
+  {
+   "id": 38,
+   "kind": "logistics",
+   "gist": "Announcement of DBT skills training start on 30 March (Thursdays 18:00 MSK, 24 weeks, 3000 RUB per session, leaders, contacts, who it suits)"
+  },
+  {
+   "id": 58,
+   "kind": "announcement",
+   "gist": "Announcement of second cohort of group therapy for complex PTSD (DBT-PTSD by Bohus, GBET) and a free webinar on Sept 1 CET"
+  },
+  {
+   "id": 59,
+   "kind": "announcement",
+   "gist": "Channel renamed to 'This is too much' to widen scope beyond BPD to complex trauma and general emotion-regulation topics"
+  },
+  {
+   "id": 74,
+   "kind": "announcement",
+   "gist": "Q&A opening with clinical psychologist Evgenia Chmutova on emotion regulation in children and teens; comments opened for questions"
+  },
+  {
+   "id": 80,
+   "kind": "other",
+   "gist": "Photo-only teaser post with spoiler warning for the following Sex Education post"
+  },
+  {
+   "id": 82,
+   "kind": "logistics",
+   "gist": "Pointer to EMDR-help volunteer project for Israel-related distress, with a brief explanation of EMDR and Friday group sessions"
+  },
+  {
+   "id": 92,
+   "kind": "other",
+   "gist": "Follow-up meme image (choose your pokemon: 'I don't need nerve cells, I need calm ones')"
+  },
+  {
+   "id": 94,
+   "kind": "promo",
+   "gist": "Lena Foer promotes her second book 'Death in a Big City' (fear of death, coping) and shares a demo excerpt PDF"
+  },
+  {
+   "id": 97,
+   "kind": "personal-update",
+   "gist": "New Year greeting with a meme about moving from 'everything is fucked' to 'everything is fucked lol'"
+  },
+  {
+   "id": 98,
+   "kind": "logistics",
+   "gist": "Announces a 4-5 month online DBT skills group for complex PTSD (Wednesdays 19:30 MSK, start Feb 14, 3500 RUB per session) with symptoms list and skills taught"
+  },
+  {
+   "id": 101,
+   "kind": "logistics",
+   "gist": "Reminder that a few places remain in the complex trauma therapy group; free screening interview, sign up via Telegram and details on website"
+  },
+  {
+   "id": 116,
+   "kind": "announcement",
+   "gist": "Katya Klimochkina announces her Wonderzine interview on memory after multiple trauma and the book on complex PTSD in progress"
+  },
+  {
+   "id": 128,
+   "kind": "promo",
+   "gist": "Self-promo for a DBT skills training for bipolar disorder, listing its skills: mood tracking, routine, behavioral activation, crisis planning, medication education"
+  },
+  {
+   "id": 132,
+   "kind": "announcement",
+   "gist": "Poll asking readers which kinds of posts they want more of (longreads, short posts, skills, BPD, bipolar, trauma, genetics, environment)"
+  },
+  {
+   "id": 148,
+   "kind": "logistics",
+   "gist": "Introduces Dasha Bobrova's low-cost DBT skills training project for BPD clients: 500-1000 rub per session, eligibility criteria, application via form"
+  },
+  {
+   "id": 150,
+   "kind": "promo",
+   "gist": "Recommends 'Pogranichnaya zona', a peer support group for women who had a hard experience in psychiatric hospitals"
+  },
+  {
+   "id": 152,
+   "kind": "announcement",
+   "gist": "Launch of the Floritas ('Tsvetochki') project with nine training programs for clients and specialists (cPTSD, bipolar, ADHD, impulsivity), start dates autumn onwards"
+  },
+  {
+   "id": 155,
+   "kind": "announcement",
+   "gist": "Shares a Takie Dela article on complex PTSD (diagnosis, effective therapies, personal stories) and announces a new enrollment for cPTSD groups after vacation"
+  },
+  {
+   "id": 160,
+   "kind": "announcement",
+   "gist": "Announces a live stream on 16 Sept at 18:00 MSK about flashbacks and intrusions in PTSD and cPTSD"
+  },
+  {
+   "id": 161,
+   "kind": "logistics",
+   "gist": "Enrollment for two cPTSD DBT skills programs (5-month from 18 Sept, 10-month with prolonged exposure from 30 Sept), with symptom checklist, schedule and price of 3500 rub per session"
+  },
+  {
+   "id": 164,
+   "kind": "logistics",
+   "gist": "Link to the recording of the previous day's stream on re-experiencing symptoms in cPTSD"
+  },
+  {
+   "id": 166,
+   "kind": "promo",
+   "gist": "Recommends the Telegram channel Psyhosova by psychologist Lyudmila Molchanova (CBT, REBT, ACT, schema therapy), highlighting its rumination post"
+  },
+  {
+   "id": 167,
+   "kind": "announcement",
+   "gist": "Launches a Google form for readers to submit questions, which will be answered in posts, anonymously or signed"
+  },
+  {
+   "id": 168,
+   "kind": "announcement",
+   "gist": "Announcement of 4 Oct Zoom webinar 'Is it really ADHD?' on ADHD types, diagnostics and links with emotional disorders"
+  },
+  {
+   "id": 169,
+   "kind": "promo",
+   "gist": "Recommends Telegram channel ПРЛ СОК on borderline personality disorder, with two favorite posts (symptom classification chart, willpower-building list)"
+  },
+  {
+   "id": 170,
+   "kind": "announcement",
+   "gist": "Announces start of 10-month (full) and 5-month (seats left) trauma programs, with enrollment link"
+  },
+  {
+   "id": 173,
+   "kind": "announcement",
+   "gist": "Teaser for 4 Oct ADHD stream with Alina Safi (types of ADHD, differential diagnosis); image shows Safren's cognitive-behavioral model of ADHD (neurophysiological deficits, failures, negative thoughts, mood problems)"
+  },
+  {
+   "id": 174,
+   "kind": "logistics",
+   "gist": "Link to the YouTube recording of the ADHD webinar"
+  },
+  {
+   "id": 179,
+   "kind": "other",
+   "gist": "Title slide of an infographic series: universal, conceptual-level instruction for managing your emotions"
+  },
+  {
+   "id": 186,
+   "kind": "announcement",
+   "gist": "Announces 6 Dec Zoom conference on neurodivergence where people with autism and ADHD share experience and coping, announced in another channel"
+  },
+  {
+   "id": 188,
+   "kind": "announcement",
+   "gist": "Announces paid webinar (950 RUB live, 2500 RUB recording) on 27 Dec by Katya Klimochkina on neurodivergent burnout in ADHD and ASD, with CBT/DBT self-help"
+  },
+  {
+   "id": 189,
+   "kind": "announcement",
+   "gist": "Year-end roundup of the channel's top and most-read posts (cPTSD, BPD, rejection dysphoria, dissociation, impulsivity, self-harm) with links"
+  },
+  {
+   "id": 194,
+   "kind": "announcement",
+   "gist": "Announcement of free 10 April online round table for professionals on BPD and trauma, with program, speakers and live interview with Melanie Harned (DBT-PE)"
+  },
+  {
+   "id": 199,
+   "kind": "announcement",
+   "gist": "Announces the authors' book on complex PTSD (contents, where to buy, 6 June launch stream)"
+  },
+  {
+   "id": 201,
+   "kind": "announcement",
+   "gist": "Invitation to 6 June 18:00 Moscow live stream celebrating the cPTSD book: behind the scenes, cut material, Q&A"
+  },
+  {
+   "id": 210,
+   "kind": "announcement",
+   "gist": "Announces a free online conference 'Dark and light sides of personality' and the authors' 22 July talk on how cPTSD affects personality traits"
+  },
+  {
+   "id": 214,
+   "kind": "promo",
+   "gist": "Promotes Polina Yaltonskaya's course for psychologists on personality disorders (starts 11 Sept), link"
+  },
+  {
+   "id": 217,
+   "kind": "announcement",
+   "gist": "Katya announces her first in-person public talk on trauma and cPTSD at the Moscow International Book Fair, Sept 7"
+  },
+  {
+   "id": 218,
+   "kind": "personal-update",
+   "gist": "Katya's anxiety coping is over-preparation (notes, deep reading); links PTSD vs cPTSD article and asks for religious/mythic descriptions of trauma"
+  },
+  {
+   "id": 219,
+   "kind": "announcement",
+   "gist": "Launch of a self-made Telegram bot running the Emotional Empathy Scale (EES, -132 to 132), with anonymised data collection"
+  },
+  {
+   "id": 221,
+   "kind": "announcement",
+   "gist": "Forwarded from Alpina Publisher: intro to Katya's selection of films and series showing PTSD and cPTSD symptoms (items follow as images)"
+  },
+  {
+   "id": 227,
+   "kind": "promo",
+   "gist": "Lena Foer and Katya invite therapists to a three-module course on cognitive therapy for PTSD and cPTSD, with reasons why the method works"
+  },
+  {
+   "id": 239,
+   "kind": "announcement",
+   "gist": "Katya joins a Dec 5 Moscow conference discussion on safely interacting with people in intense emotional arousal, aggression or PTSD reactions"
+  },
+  {
+   "id": 240,
+   "kind": "announcement",
+   "gist": "Announcement of a February group programme for PTSD/cPTSD using prolonged exposure (real-life avoidance plus memory work), with who it suits, format and price"
+  },
+  {
+   "id": 242,
+   "kind": "announcement",
+   "gist": "Rundown of upcoming events: February cPTSD exposure group, March DBT for bipolar training, Feb 13 mini-conference on love, spring loneliness webinar"
+  },
+  {
+   "id": 246,
+   "kind": "announcement",
+   "gist": "Launch of a 12-week DBT skills training for adults with bipolar disorder (van Dijk protocol), starting March 23, 2026, with skills blocks, price and entry interview"
+  },
+  {
+   "id": 252,
+   "kind": "announcement",
+   "gist": "Announcement of a live stream on 29 Sept 20:00 MSK about medical PTSD and chronic pain with Olya Sazonova and Lena Foer"
+  },
+  {
+   "id": 259,
+   "kind": "promo",
+   "gist": "Channel recommendation: Dasha Bobrova's \"Так легче жить\" about DBT skills and mindfulness materials"
+  },
+  {
+   "id": 261,
+   "kind": "promo",
+   "gist": "Katya Klimochkina announces open online therapy slots (CBT, DBT) with contact details"
+  },
+  {
+   "id": 89,
+   "kind": "announcement",
+   "gist": "Celebrates 500 subscribers and introduces the two authors (Katya Klimochkina, Lena Foer) via mini-interviews about their coping habits and tastes"
+  },
+  {
+   "id": 213,
+   "kind": "announcement",
+   "gist": "Enrollment for DBT skills training group for complex PTSD: 12 weekly Zoom sessions, 3500 rub each, interview required"
+  },
+  {
+   "id": 235,
+   "kind": "promo",
+   "gist": "Channel authors Katya Klimochkina and Lena Foer announce open therapy spots (CBT/DBT) with links to therapist profiles and prices"
+  },
+  {
+   "id": 249,
+   "kind": "announcement",
+   "gist": "Autumn announcement: DBT skills training with exposure for cPTSD (26 weeks, online from Oct 2026) and in-person DBT group for bipolar disorder in Moscow from Sept 24"
+  }
+ ]
+}

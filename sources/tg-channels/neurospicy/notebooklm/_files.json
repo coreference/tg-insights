@@ -20,7 +20,7 @@
      "title": "Autistic burnout versus depression"
     }
    ],
-   "words": 8372
+   "words": 11485
   },
   {
    "file": "neurodivergent-burnout-2.md",
@@ -36,7 +36,7 @@
      "title": "Recovering from neurodivergent burnout"
     }
    ],
-   "words": 17341
+   "words": 20968
   },
   {
    "file": "neurodivergent-burnout-3.md",
@@ -56,16 +56,16 @@
      "title": "Internalized capitalism, ableism and self-worth"
     }
    ],
-   "words": 6738
+   "words": 11646
   },
   {
-   "file": "masking-identity.md",
+   "file": "masking-identity-1.md",
    "domain": "Masking, Identity and the Neurodiversity Paradigm",
    "domain_slug": "masking-identity",
    "area": "Neurodiversity",
    "part": 1,
-   "parts": 1,
-   "title": "Masking, Identity and the Neurodiversity Paradigm",
+   "parts": 2,
+   "title": "Masking, Identity and the Neurodiversity Paradigm (part 1 of 2)",
    "topics": [
     {
      "slug": "masking-unmasking",
@@ -74,13 +74,25 @@
     {
      "slug": "neurodiversity-paradigm",
      "title": "What autism is: the neurodiversity paradigm"
-    },
+    }
+   ],
+   "words": 11296
+  },
+  {
+   "file": "masking-identity-2.md",
+   "domain": "Masking, Identity and the Neurodiversity Paradigm",
+   "domain_slug": "masking-identity",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Masking, Identity and the Neurodiversity Paradigm (part 2 of 2)",
+   "topics": [
     {
      "slug": "autistic-identity-community",
      "title": "Autistic identity, community and disability pride"
     }
    ],
-   "words": 11382
+   "words": 2496
   },
   {
    "file": "diagnosis-research-1.md",
@@ -88,15 +100,15 @@
    "domain_slug": "diagnosis-research",
    "area": "Neurodiversity",
    "part": 1,
-   "parts": 2,
-   "title": "Recognizing Autism and ADHD: Diagnosis and Research (part 1 of 2)",
+   "parts": 3,
+   "title": "Recognizing Autism and ADHD: Diagnosis and Research (part 1 of 3)",
    "topics": [
     {
      "slug": "autism-recognition-adults",
      "title": "Recognizing autism in adults: criteria, hidden traits and late diagnosis"
     }
    ],
-   "words": 8377
+   "words": 10811
   },
   {
    "file": "diagnosis-research-2.md",
@@ -104,19 +116,31 @@
    "domain_slug": "diagnosis-research",
    "area": "Neurodiversity",
    "part": 2,
-   "parts": 2,
-   "title": "Recognizing Autism and ADHD: Diagnosis and Research (part 2 of 2)",
+   "parts": 3,
+   "title": "Recognizing Autism and ADHD: Diagnosis and Research (part 2 of 3)",
    "topics": [
     {
      "slug": "differential-diagnosis",
      "title": "Differential diagnosis: autism, ADHD and look-alike conditions"
-    },
+    }
+   ],
+   "words": 8985
+  },
+  {
+   "file": "diagnosis-research-3.md",
+   "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
+   "domain_slug": "diagnosis-research",
+   "area": "Neurodiversity",
+   "part": 3,
+   "parts": 3,
+   "title": "Recognizing Autism and ADHD: Diagnosis and Research (part 3 of 3)",
+   "topics": [
     {
      "slug": "autism-research-critique",
      "title": "Reading autism and ADHD research critically"
     }
    ],
-   "words": 11818
+   "words": 7404
   },
   {
    "file": "nervous-system-senses-1.md",
@@ -124,19 +148,15 @@
    "domain_slug": "nervous-system-senses",
    "area": "Neurodiversity",
    "part": 1,
-   "parts": 2,
-   "title": "Nervous System, Senses and Emotions (part 1 of 2)",
+   "parts": 4,
+   "title": "Nervous System, Senses and Emotions (part 1 of 4)",
    "topics": [
     {
      "slug": "nervous-system-regulation",
      "title": "Regulating the neurodivergent nervous system"
-    },
-    {
-     "slug": "sensory-processing-overload",
-     "title": "Sensory processing, overload and sensory regulation"
     }
    ],
-   "words": 8749
+   "words": 9631
   },
   {
    "file": "nervous-system-senses-2.md",
@@ -144,19 +164,47 @@
    "domain_slug": "nervous-system-senses",
    "area": "Neurodiversity",
    "part": 2,
-   "parts": 2,
-   "title": "Nervous System, Senses and Emotions (part 2 of 2)",
+   "parts": 4,
+   "title": "Nervous System, Senses and Emotions (part 2 of 4)",
+   "topics": [
+    {
+     "slug": "sensory-processing-overload",
+     "title": "Sensory processing, overload and sensory regulation"
+    }
+   ],
+   "words": 8381
+  },
+  {
+   "file": "nervous-system-senses-3.md",
+   "domain": "Nervous System, Senses and Emotions",
+   "domain_slug": "nervous-system-senses",
+   "area": "Neurodiversity",
+   "part": 3,
+   "parts": 4,
+   "title": "Nervous System, Senses and Emotions (part 3 of 4)",
    "topics": [
     {
      "slug": "interoception-alexithymia",
      "title": "Interoception, alexithymia and naming emotions"
-    },
+    }
+   ],
+   "words": 11140
+  },
+  {
+   "file": "nervous-system-senses-4.md",
+   "domain": "Nervous System, Senses and Emotions",
+   "domain_slug": "nervous-system-senses",
+   "area": "Neurodiversity",
+   "part": 4,
+   "parts": 4,
+   "title": "Nervous System, Senses and Emotions (part 4 of 4)",
+   "topics": [
     {
      "slug": "meltdowns-shutdowns",
      "title": "Meltdowns and shutdowns"
     }
    ],
-   "words": 10708
+   "words": 3310
   },
   {
    "file": "daily-life-communication.md",
@@ -180,7 +228,7 @@
      "title": "ADHD traits: rejection sensitivity, daydreaming and body doubling"
     }
    ],
-   "words": 9253
+   "words": 10307
   },
   {
    "file": "trauma-anxiety-1.md",
@@ -188,19 +236,15 @@
    "domain_slug": "trauma-anxiety",
    "area": "Mind & Emotions",
    "part": 1,
-   "parts": 2,
-   "title": "Trauma, Anxiety and Medical Gaslighting (part 1 of 2)",
+   "parts": 3,
+   "title": "Trauma, Anxiety and Medical Gaslighting (part 1 of 3)",
    "topics": [
     {
      "slug": "complex-trauma-neurodivergent",
      "title": "Complex trauma (C-PTSD) in neurodivergent lives"
-    },
-    {
-     "slug": "medical-gaslighting-trauma",
-     "title": "Medical gaslighting and medical trauma"
     }
    ],
-   "words": 8744
+   "words": 7304
   },
   {
    "file": "trauma-anxiety-2.md",
@@ -208,8 +252,24 @@
    "domain_slug": "trauma-anxiety",
    "area": "Mind & Emotions",
    "part": 2,
-   "parts": 2,
-   "title": "Trauma, Anxiety and Medical Gaslighting (part 2 of 2)",
+   "parts": 3,
+   "title": "Trauma, Anxiety and Medical Gaslighting (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "medical-gaslighting-trauma",
+     "title": "Medical gaslighting and medical trauma"
+    }
+   ],
+   "words": 8957
+  },
+  {
+   "file": "trauma-anxiety-3.md",
+   "domain": "Trauma, Anxiety and Medical Gaslighting",
+   "domain_slug": "trauma-anxiety",
+   "area": "Mind & Emotions",
+   "part": 3,
+   "parts": 3,
+   "title": "Trauma, Anxiety and Medical Gaslighting (part 3 of 3)",
    "topics": [
     {
      "slug": "anxiety-panic-coping",
@@ -224,8 +284,8 @@
    "domain_slug": "comorbid-chronic-conditions",
    "area": "Chronic Illness & Disability",
    "part": 1,
-   "parts": 2,
-   "title": "Comorbid Chronic Conditions (part 1 of 2)",
+   "parts": 3,
+   "title": "Comorbid Chronic Conditions (part 1 of 3)",
    "topics": [
     {
      "slug": "comorbidity-cluster",
@@ -234,13 +294,9 @@
     {
      "slug": "ehlers-danlos-hypermobility",
      "title": "Ehlers-Danlos syndrome and hypermobility"
-    },
-    {
-     "slug": "mast-cell-activation",
-     "title": "Mast cell activation syndrome (MCAS)"
     }
    ],
-   "words": 11854
+   "words": 8305
   },
   {
    "file": "comorbid-chronic-conditions-2.md",
@@ -248,19 +304,35 @@
    "domain_slug": "comorbid-chronic-conditions",
    "area": "Chronic Illness & Disability",
    "part": 2,
-   "parts": 2,
-   "title": "Comorbid Chronic Conditions (part 2 of 2)",
+   "parts": 3,
+   "title": "Comorbid Chronic Conditions (part 2 of 3)",
    "topics": [
+    {
+     "slug": "mast-cell-activation",
+     "title": "Mast cell activation syndrome (MCAS)"
+    },
     {
      "slug": "pots-mecfs-postcovid",
      "title": "POTS, dysautonomia, ME/CFS and post-COVID"
-    },
+    }
+   ],
+   "words": 8628
+  },
+  {
+   "file": "comorbid-chronic-conditions-3.md",
+   "domain": "Comorbid Chronic Conditions",
+   "domain_slug": "comorbid-chronic-conditions",
+   "area": "Chronic Illness & Disability",
+   "part": 3,
+   "parts": 3,
+   "title": "Comorbid Chronic Conditions (part 3 of 3)",
+   "topics": [
     {
      "slug": "patient-self-advocacy",
      "title": "Talking to doctors and patient self-advocacy"
     }
    ],
-   "words": 7802
+   "words": 3825
   }
  ]
 }

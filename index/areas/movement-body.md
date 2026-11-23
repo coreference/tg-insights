@@ -86,3 +86,13 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - What Ehlers-Danlos syndrome (EDS) and hypermobility spectrum disorder (HSD) are, the 13 EDS subtypes with their genes, the full 2017 hEDS diagnostic checklist (Beighton score, Criteria 1-3), a hypermobility symptom questionnaire, the typical comorbidities with prevalence figures (pain, dislocations, GI, dysautonomia, venous outflow), a candidate blood biomarker, and the state of EDS care in Russia.
 - Concepts: `ehlers-danlos-hypermobility`, `chronic-illness`, `chronic-pain`, `dysautonomia-pots`
 
+### Building and using your sensory profile  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/sensory-processing-body/sensory-profile.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- What a sensory profile is in autism (hyper-, hypo- and mixed sensitivity across vision, hearing, touch, smell/taste, proprioception, vestibular sense, interoception and temperature), a four-step method to map your own profile, and system-by-system adaptations — lighting, glasses, clothing, weighted blankets, smell protection, scheduled meals and breaks, sensory kits — plus sensory seeking and the "autism tax".
+- Concepts: `sensory-processing`, `self-advocacy-accommodations`, `emotional-regulation`, `self-care`
+
+### Behavioral activation, movement and mindfulness for mood  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Mind & Emotions
+- File: `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/mood-activation-mindfulness.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- How the author (a CBT/ACT-oriented psychotherapist) uses behavioral activation, walks and regular movement to lift mood, especially in ADHD; her three-step plan against the November slump; sleep, movement and safety as conditions for neuroplasticity; why mindfulness for ADHD should start very short and be anchored in an enjoyable activity such as photography; and research on the heritability of happiness and why you should not compare your happiness with others'.
+- Concepts: `physical-activity`, `depression`, `meditation-mindfulness`, `happiness-wellbeing`, `brain-development`, `behavioral-genetics`
+

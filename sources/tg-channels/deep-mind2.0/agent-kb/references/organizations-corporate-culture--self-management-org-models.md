@@ -16,6 +16,7 @@ answers:
   - How does Netflix-style management by context differ from management by control, and when should each be used?
   - Why did the hype around Teal organizations fade, and why might self-management come back?
   - What does a leader need to do internally before building an organic company?
+  - What are the key components of an exponential organization according to Salim Ismail's book?
 frameworks:
   - Mechanistic vs organic company (chair vs hand metaphor)
   - Two key misunderstandings about Teal
@@ -25,6 +26,7 @@ frameworks:
   - Choosing a management model by talent density
   - Three reasons self-management may return
   - Logic of simplification/division/reduction vs logic of living systems
+  - Seven key components of an exponential organization's success
 themes:
   - self-management
   - organizational-culture
@@ -43,6 +45,8 @@ terms:
   - контроль | management by control: the leader approves and directs initiatives or installs control procedures | 442
   - Социократия 3.0 | Sociocracy 3.0, one of the self-management models | 875
   - логика живых систем | logic of living systems, contrasted with the logic of simplification/division/reduction | 875
+  - экспоненциальные организации | exponential organizations: fast-growing companies built for the information economy (Ismail et al.) | 226
+  - Большая трансформирующая цель (MTP) | Massive Transformative Purpose: a large purpose that transforms a field, e.g. Google's "organize all the world's information" | 226
 people:
   - Frederic Laloux (Фредерик Лалу) | author of the Teal (бирюзовые) organizations concept and book | 205, 875
   - Andrey Grigoriev (Андрей Григорьев) | founder of the modern marketing lab Deep Up; asked the author to expand on Laloux | 205
@@ -53,6 +57,9 @@ people:
   - Salim Ismail (Салим Исмаил) | head of Singularity University, author of Exponential Organizations | 226
   - Peter Diamandis (Питер Диамандис) | entrepreneur, co-author of Exponential Organizations | 226
   - Ivan Molchanov (Иван Молчанов) | speaker at deep mind community on Sociocracy 3.0 | 875
+  - Maxim Timofeev (Максим Тимофеев) | author of the linked Telegraph longread on exponential organizations | 226
+  - Otto Scharmer (Отто Шармер) | author of Theory U; Presencing Institute, where the longread's author studied | 226
+  - Chris Anderson (Крис Андерсон) | founder of the DIY Drones community (50,000+ members), example of community involvement | 226
 ---
 # Self-management and new organization models
 
@@ -68,6 +75,7 @@ This topic gathers the channel's posts on moving away from machine-like, control
 - **Structures without the "living component" suppress life.** Rules give stability, but ignoring emotions, feelings, trust and openness makes organizations depressive, aggressive and unproductive; deep democracy adds awareness of feelings and atmosphere to existing rules [msg #383].
 - **Self-organization fails because of transference.** People confuse present relationships with past ones (bosses, parents); declaring "no hierarchy" is insufficient without long experience in a new environment and work on awareness of transference [msg #418].
 - **Context instead of control, if talent is dense.** Management by context gives far more autonomy and trains decision-making, but is harder; which model to choose depends first on the concentration of talent in the team [msg #442].
+- **Exponential organizations follow different rules.** In the information economy old barriers, USPs and business models become a burden; success rests on seven components — a transformative purpose, community, a balanced founding team, a 10x technology, Lean iteration, outsourcing infrastructure to the community and maximum flexibility. Full detail in *Seven key components of an exponential organization's success* [msg #226, article #226].
 - **The Teal wave was a false start.** Many founders were disappointed, but possibly because few had the personal integrity, skills and support for the transition; three trends may bring a stronger return of self-management [msg #875].
 
 ## Frameworks, models and step-by-step methods
@@ -145,15 +153,140 @@ To refresh understanding of the topic, deep mind community invited Ivan Molchano
 
 (!) INCOMPLETE: the post itself does not explain the principles or practices of Sociocracy 3.0 or the details of the Oil Energy case; that content is in the lecture recording, which was not available [msg #875].
 
-### Exponential organizations
-The channel recommends the book *Взрывной рост. Почему экспоненциальные организации в 100 раз эффективнее вашей (и что с эти [sic] делать)* (*Exponential Organizations: why they are 100 times more effective than yours, and what to do about it*) by Salim Ismail, head of Singularity University, and several entrepreneurs including Peter Diamandis. It came out in Russian five years late, like much other business literature. The author nevertheless believes it will become a management classic and is absolutely mandatory reading for all entrepreneurs and leaders who want to be part of the new world [msg #226].
+### Exponential organizations: the book and why the author rates it
+The channel recommends the book *Взрывной рост. Почему экспоненциальные организации в 100 раз эффективнее вашей (и что с эти [sic] делать)* (*Explosive growth: why exponential organizations are 100 times more effective than yours, and what to do about it*; the linked longread gives the subtitle as "в десятки раз продуктивнее вашей" — *tens of times more productive than yours*) by Salim Ismail, head of Singularity University, and several entrepreneurs including Peter Diamandis. It came out in Russian five years late, like much other business literature. The author nevertheless believes it will become a management classic and is absolutely mandatory reading for all entrepreneurs and leaders who want to be part of the new world [msg #226].
 
-(!) INCOMPLETE: the summary of the main distinguishing features of exponential organizations is in an external Telegraph article that was not provided [msg #226].
+The longread, written by Maxim Timofeev (Максим Тимофеев), frames the book personally: "Есть книги, которые меня сильно торкают" (*There are books that really hit me*). Last year such a book for him was Otto Scharmer's *Theory U*, after which he went to study with Scharmer in Germany at the Presencing Institute (spelled "Presenceing" in the source); this year *Взрывной рост* "однозначно претендует" (*clearly claims*) that status, and he now aims to go study at Singularity University [article #226].
+
+Why he considers it important [article #226]:
+- **An upgrade of thinking.** The book is "важный апгрейд нашей системы мышления" (*an important upgrade of our system of thinking*): it sheds light on many hidden processes of fast-growing startups — exponential organizations [article #226].
+- **The contours of a new organizational world.** The authors explain why many barriers and unique selling propositions (УТП) stop working in the information economy. More than that, many business models and USPs of the past no longer provide an advantage but become a "killing load" ("убивающим грузом") under the changed conditions [article #226].
+- **Practical, not just theoretical.** The book contains concrete recommendations for building an organization for the new economy — for startups, for large corporations and for leaders [article #226].
+
+### Seven key components of an exponential organization's success
+Purpose: the longread's list of "Ключевые поинты- составляющие успеха организации в новой экономике" (*key points — components of an organization's success in the new economy*), each with the book's example and, for several, how deep mind applies it to itself [article #226].
+
+1. **Massive Transformative Purpose (Большая трансформирующая цель, MTP).** A large purpose that transforms the field. Example: Google's goal is "Организовать всю имеющуюся в мире информацию" (*To organize all the information available in the world*). deep mind's own purpose "for now" is "Создать здоровое и осмысленное общество" (*To create a healthy and meaningful society*) [article #226].
+2. **Building and actively involving a community in the company's development.** Example: Chris Anderson's community DIY Drones, devoted to building drones, with more than 50,000 participants. The author says deep mind is moving in this direction "slowly but surely" [article #226].
+3. **A balanced founding team** of four roles: a visionary, an expert in customer interaction, a chief technologist and an experienced financier [article #226].
+4. **A breakthrough idea or technology** that improves the situation in some area at least tenfold ("в 10 раз и более"). For deep mind this is technologies for working with a person's state, based on mindfulness and body practices, which the author believes can greatly improve people's state and communication in companies many times over [article #226].
+5. **A flexible business model of fast iterations that welcomes mistakes (Lean).** In the fast economy, strategies and long-term planning will work worse and worse; what matters more is live and constant customer feedback. deep mind's practice: they analyze feedback after every contact with a client and adapt all products for each new launch [article #226].
+6. **Shifting important infrastructure processes to the community, customers or external staff.** Example: at Uber, matching a driver to a passenger happens outside the core structure [article #226].
+7. **Maximum flexibility.** The fewer employees on staff and the more non-key operations outsourced, the faster and the more flexible the company [article #226].
+
+### Top exponential organizations list (per "WIERD")
+The longread includes a ranking captioned "ТОП 50 экспоненциальных организаций по версии WIERD" (*Top 50 exponential organizations according to WIERD* [sic]); the two attached images actually list 100 companies [article #226]:
+
+1. GitHub
+2. Airbnb
+3. Uber
+4. Indiegogo
+5. Google
+6. Kaggle
+7. Quirky
+8. Tumblr
+9. Reddit
+10. Etsy
+11. Kiva.org
+12. Shapeways
+13. Pinterest
+14. Waze
+15. Cloudera
+16. Kickstarter
+17. BlaBlaCar
+18. Medium
+19. 3D Hubs
+20. Podio
+21. Twitch
+22. Prezi
+23. Duolingo
+24. Local Motors
+25. Wikimedia
+26. Coursera
+27. Valve
+28. GoodData
+29. Topcoder
+30. Xiaomi
+31. Gustin
+32. Zappos
+33. Yammer
+34. Peerby
+35. Yelp
+36. TaskRabbit
+37. Khan Academy
+38. Automattic
+39. SoundCloud
+40. DonorsChoose
+41. Soylent
+42. Haier
+43. Netflix
+44. Salesforce
+45. Springest
+46. HomeJoy
+47. Amazon
+48. Twitter
+49. Karma
+50. Getaround
+51. Facebook
+52. Instagram
+53. Snapchat
+54. YPlan
+55. Square
+56. Groupon
+57. Alibaba
+58. Evernote
+59. Slack
+60. HomeAway
+61. Supercell
+62. Flipkart
+63. 99 Designs
+64. Linkedin
+65. Coinbase
+66. Blendle
+67. Creads
+68. Skype
+69. eLance/oDesk
+70. Palantir Technologies
+71. Transferwise
+72. Threadless
+73. Zynga
+74. Adyen
+75. Tongal
+76. Instacart
+77. Zenefits
+78. Apple
+79. WhatsApp
+80. Box
+81. Eventbrite
+82. Lending Club
+83. Yik Yak
+84. Dropbox
+85. Stripe
+86. The Guardian
+87. Freelancer
+88. Spotify
+89. Splunk
+90. General Electric
+91. Enevo
+92. Zillow
+93. Shazam Entertainment
+94. Craigslist
+95. WeTransfer
+96. Wolfram Research
+97. Studio Roosegaarde
+98. TED
+99. GoPro
+100. Tesla
+
+[article #226]
 
 ## Tools and resources mentioned
 
 - **Frederic Laloux's book on Teal organizations** (the Russian edition, linked from the post, is titled in its URL as a "new look at organizations") — presents the Teal model; the channel considers it widely misunderstood (see *Two key misunderstandings about Teal*) [msg #205, #875].
-- **Salim Ismail et al., Exponential Organizations** — verdict: future management classic, mandatory for entrepreneurs and leaders (see *Exponential organizations*) [msg #226].
+- **Salim Ismail et al., Exponential Organizations** — verdict: future management classic, mandatory for entrepreneurs and leaders, an "upgrade" of thinking with practical recommendations (see *Exponential organizations: the book and why the author rates it*) [msg #226, article #226].
+- **Otto Scharmer, Theory U / Presencing Institute** — the book that "hit" the longread's author the previous year; he went to study at the Presencing Institute in Germany afterwards [article #226].
+- **Singularity University** — headed by Salim Ismail; the longread's author says he now aims to study there [article #226].
+- **DIY Drones (Chris Anderson)** — drone-building community of 50,000+ members, the book's example of community involvement [article #226].
 - **Arnold Mindell's deep democracy / Open Forums** — process for organizations and communities (see *Deep democracy*) [msg #383].
 - **Manfred Kets de Vries, clinical approach to leadership and organizations** — recommended for digging deeper into transference in organizations [msg #418].
 - **Reed Hastings, book on the unique Netflix culture ("no rules", per its link)** — linked as "read more" for management by context; the post itself is based on a Forbes summary [msg #442].
@@ -176,6 +309,10 @@ The channel recommends the book *Взрывной рост. Почему экс�
 
 > "Управлять с помощью контекста намного сложнее, однако сотрудники получают куда большую автономию." (*Managing with context is much harder, but employees get much more autonomy.*) — Forbes summary shared by deep mind [msg #442]
 
+> "многие бизнес-модели и УТП прошлого больше не обеспечивают преимущества, а становятся убивающим грузом в изменившихся условиях" (*many business models and USPs of the past no longer provide an advantage but become a killing load in the changed conditions*) — Maxim Timofeev [article #226]
+
+> "В быстрой экономике стратегии и долгосрочное планирование работать будет все хуже." (*In the fast economy, strategies and long-term planning will work worse and worse.*) — Maxim Timofeev [article #226]
+
 > "Не у многих хватило личной целостности, навыков и поддержки для такого важного перехода." (*Not many had enough personal integrity, skills and support for such an important transition.*) — deep mind [msg #875]
 
 ## Caveats, disagreements and open questions
@@ -186,7 +323,10 @@ The channel recommends the book *Взрывной рост. Почему экс�
 - The management-by-context material is a second-hand summary of a Forbes article about Netflix, not the channel's own research [msg #442].
 - The forecast of a return of self-management is explicitly tentative ("возможно") [msg #875].
 - The deep mind posts promote deep mind's own community courses, retreats and company projects as transitional spaces; readers should note this interest [msg #418].
-- (!) INCOMPLETE: Open Forum procedure, Sociocracy 3.0 content and the exponential organizations summary are not in the provided source [msg #383, #875, #226].
+- (!) INCOMPLETE: the Open Forum procedure and the Sociocracy 3.0 content are not in the provided source [msg #383, #875].
+- (!) CONTRADICTION: the post's book title says exponential organizations are "в 100 раз эффективнее" (*100 times more effective*), while the longread gives the subtitle as "в десятки раз продуктивнее" (*tens of times more productive*) [msg #226, article #226].
+- (!) CONTRADICTION: the ranking is captioned "ТОП 50" but the attached images list 100 companies; the source of the ranking is written "WIERD" (possibly a misspelling of Wired — (!) UNCLEAR) [article #226].
+- The applications of the seven components to deep mind (its MTP, mindfulness/body-practice technology as a 10x idea, feedback analysis after every client contact) are the author's statements about his own company [article #226].
 
 ## Resources and links
 
@@ -201,14 +341,20 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - ★ **Welcome to Deep mind Mindfulness Community (Notion page)** (guide) — The authors' own Notion welcome page for their practice community, where people learn to practise with a teacher; offered to readers. [msg #875] → <https://dmcom.notion.site/Welcome-to-Deep-mind-Mindfulness-Community-27dbca2ff1d049c2912ca7737b44eab7>
 - ★ **Sociocracy 3.0 lecture at Oil Energy (YouTube, 26 min)** (video) — Lecture part on applying Sociocracy 3.0 in a chemical-engineering company, shared by the authors. [msg #875] → <https://youtu.be/6p-akXl7pqA>
 - **Holloway: What is D&I (diversity and inclusion)** (article) — Definition page shared for diversity and inclusion. [msg #383] → <http://www.holloway.com/g/technical-recruiting-hiring/sections/what-is-di#:~:text=Diversity%20and%20Inclusion%20>
+- **Wired (2015): Here are the secrets of unicorn companies** (article) — Wired article summarising the key traits of exponential organizations, cited as the source for the key points of success in the new economy. [msg #226] → <https://www.wired.com/2015/04/here-are-the-secrets-of-unicorn-companies/#.9qdks31jm>
+- **Peter Diamandis — Our next giant leap (TED talk)** (video) — TED talk by Peter Diamandis, one of the book's co-authors, linked as an introduction to him; Russian subtitles. [msg #226] → <https://www.ted.com/talks/peter_diamandis_our_next_giant_leap?language=ru>
+- **Singularity University (su.org)** (website) — Website of the university headed by Salim Ismail, where the author says he intends to study; mentioned as context for the book. [msg #226] → <https://su.org/>
 
 ### External links
 
 - ★ **Frederic Laloux — Reinventing Organizations (Открывая организации будущего / Новый взгляд на организации)** (book) — Book proposing turquoise organisation model with horizontal management; publisher page. [msg #875] → <https://www.mann-ivanov-ferber.ru/books/novyj-vzglyad-na-organizacii/>
+- ★ **Otto Scharmer — Теория U (Theory U), Mann, Ivanov and Ferber** (book) — The main book on Theory U, listed first among key books. [msg #226] → <https://www.mann-ivanov-ferber.ru/books/teoriya-u/>
 - ★ **Reed Hastings and Erin Meyer — No Rules Rules: Netflix and the Culture of Reinvention (Никаких правил)** (book) — Book on the Netflix culture and managing by context; Litres page. [msg #442] → <https://www.litres.ru/rid-hastings/nikakih-pravil-unikalnaya-kultura-netflix/?utm_source=google&utm_medium=cpc&utm_campaign=search_dsa_ohvat_f%7C2087774395&utm_term=&utm_content=433453034319%7Bphrase_id%7D_%7Bsource%7D_%7Bsource_type%7D_%7Bregion_name%7D_9047117&param_2=987239&gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6iThivHd0okp8-_ov9rRvTsDmn_2XGZ0lxYTQnrMx1KUPAuQzQNSIUaAu3gEALw_wcB>
+- ★ **Салим Исмаил и др. — Взрывной рост (Exponential Organizations)** (book) — Book on why exponential organizations are tens of times more productive; the author calls it a future classic of management and a must-read for entrepreneurs and leaders. Link to the Alpina store page. [msg #226] → <https://www.alpinabook.ru/catalog/book-115583/>
 - ★ **Sociocracy 3.0 practitioners community channel (Telegram)** (channel) — Community channel recommended for following S3. [msg #875] → <https://t.me/sociocracy3>
 - ★ **IAPOP: Глубинная демократия (Deep Democracy, Arnold Mindell)** (website) — Institute page on the philosophy of deep democracy by physicist and facilitator Arnold Mindell, recommended for conflict work in teams. [msg #383] → <https://iapop.com/ru/%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F/>
 - **deep mind (Telegram channel @mindfulleadersrussia)** (channel) — The author's own Telegram channel, used as the signature link in posts. [msg #116] → <https://t.me/mindfulleadersrussia>
+- **Salim Ismail — personal website** (profile) — Personal site of the author of Exponential Organizations and head of Singularity University; shared as background on the book's author. [msg #226] → <http://www.salimismail.com/>
 
 ## Source messages
 

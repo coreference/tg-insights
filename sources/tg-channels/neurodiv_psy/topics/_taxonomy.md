@@ -20,6 +20,12 @@ Autism heterogeneity and coexisting opposites, PDA (demand avoidance), 'injustic
 
 ids: #63, #64, #196, #228, #264, #299, #311, #312, #313, #314, #315, #318, #319, #386, #387
 
+### Stimming: functions, types, stim toys and responding to harmful stims  (`stimming-functions-stim-toys`, 1 msgs)
+
+What stimming is and why autistic and ADHD people stim (self-regulation, communication, sensory joy), examples by sense, stim toys, how stims differ from tics and fidgeting, and how to respond to self-injurious stimming.
+
+ids: #60
+
 ## Diagnosis and neurodivergent identity
 
 ### Screening and diagnosis of adult ADHD and autism  (`screening-diagnosis-adhd-autism`, 18 msgs)
@@ -66,17 +72,17 @@ ids: #46, #47, #48, #49, #50, #51, #74, #89, #90, #91, #92, #93, #94, #120, #121
 
 ### Executive dysfunction, ADHD skills training and daily-life strategies  (`executive-function-adhd-strategies`, 18 msgs)
 
-CBT skills training for adult ADHD (Safren protocol), the UK ADHD Foundation adult ADHD guide's executive-function strategies, task initiation and motivation, time blindness aids, ADHD money management and impulsive spending, and cleaning hacks like body doubling.
+Executive dysfunction in adult ADHD and how to work with it: the Safren CBT skills-training protocol, the UK ADHD Foundation adult guide (ASRS self-screening, assessment route, DSM-5 criteria, externalisation strategies, sleep, diet, medication), task initiation and motivation, time blindness aids, money management and impulsive spending, and cleaning hacks like body doubling.
 
 ids: #53, #54, #55, #56, #57, #58, #173, #174, #175, #176, #177, #178, #209, #302, #323, #324, #340, #341
 
 ## Work, study and relocation
 
-### Neurodivergent people at work and university: job fit and accommodations  (`work-study-accommodations`, 18 msgs)
+### Neurodivergent people at work and university: job fit and accommodations  (`work-study-accommodations`, 19 msgs)
 
-Employment research, jobs that suit ADHD/autistic people, autistic women's workplace needs pyramid, values as motivation, accommodations without disclosure, and university adaptations.
+Autistic and ADHD people in higher education and employment: graduation and unemployment research, why interviews fail and reasonable interview adjustments, jobs and principles for choosing work, autistic women's workplace needs pyramid, values/special interests as motivation, accommodations with and without disclosure, and university adaptations.
 
-ids: #200, #201, #202, #203, #204, #205, #206, #207, #306, #371, #372, #373, #374, #375, #376, #377, #406, #413
+ids: #193, #200, #201, #202, #203, #204, #205, #206, #207, #306, #371, #372, #373, #374, #375, #376, #377, #406, #413
 
 ### Autism and emigration  (`autism-emigration`, 5 msgs)
 

@@ -156,25 +156,33 @@ Every link and file shared in this topic's posts. Resources can be used directly
 
 ### What this covers
 
-This topic covers two linked phenomena of overload in autistic people. First, meltdowns and shutdowns: what they are, what they are not, how the outward meltdown differs from the inward shutdown, and the early distress signals that a meltdown is near. Second, "social hangover" (социальное похмелье): the day-after exhaustion that follows socializing in groups, its autistic-specific symptoms, its causes (more interactions, social anxiety, masking, sensory overload) and five strategies for preparing and recovering. According to the source, it matters because these reactions are common for autistic people, are often misread as tantrums or manipulation, and are hard to see coming; understanding one's own traits and defending boundaries is presented as the main help [#128, #129, #167].
+This topic covers two linked phenomena of overload in autistic people. First, meltdowns and shutdowns: what they are, what they are not (tantrums, panic attacks, manipulation), how the outward meltdown differs from the inward shutdown, who has them and why, what triggers them, the early distress signals, how to prevent them, how to support someone during one (including the one 'help' method that must never be used — restraint) and how to recover afterwards. This material comes from a short post with a comparison card, a Telegraph longread the post links to (described by the channel as "статья от нейросети", an article from a neural network) and a translated card of early warning signs. Second, "social hangover" (социальное похмелье): the day-after exhaustion that follows socializing in groups, its autistic-specific symptoms, causes (more interactions, social anxiety, masking, sensory overload) and five strategies for preparing and recovering. According to the source, it matters because these reactions are common for autistic people, are often misread as tantrums, weakness or manipulation, are hard to see coming, and are surrounded by shame; understanding one's own traits and defending boundaries is presented as the main help [#128, #129, #167, article #128].
 
 ### Core ideas
 
-- Meltdowns and shutdowns are stress reactions of an overloaded psyche, not panic attacks, sulking, hysterics or manipulation; they pursue no goal and are nothing shameful or frightening [#128].
-- A meltdown is directed outward and is easy to notice; a shutdown is directed inward, the person closes off from the world. Both are triggered by sensory and/or emotional overload and/or abrupt changes [#128].
-- Autistic people often find it hard to notice an approaching meltdown, but there are recognizable distress signs that a breakdown is close [#129].
-- Group socializing can produce a "social hangover" the next day; in autistic people its symptoms differ somewhat from the introvert version and its causes include more separate interactions, social anxiety, the effort of masking autistic traits, and sensory overload [#163, #164, #167].
-- What helps with social hangover is, "as always", understanding one's own traits and defending one's boundaries, made concrete in five strategies [#167].
+- Meltdowns and shutdowns are stress reactions of an overloaded psyche, not panic attacks, sulking, hysterics or manipulation; they pursue no goal, cannot be controlled, and are nothing shameful or frightening [#128, article #128].
+- A meltdown is directed outward and is easy to notice; a shutdown is a meltdown redirected inward — equally intense but hard to see. Both are triggered by sensory and/or emotional overload and/or abrupt changes, often by several stressors accumulating [#128, article #128].
+- What identifies the state is its cause, not its appearance — there is no single universal presentation [#128].
+- Shutdowns replacing meltdowns are considered a result of psychological trauma: learning that showing emotions is unsafe [#128].
+- Meltdowns are technically preventable but in practice an unavoidable part of autistic life; knowing triggers and early signs, leaving, and arranging help in advance reduce them [#129, article #128].
+- Restraint during a meltdown can be lethal and must never be used; support means patience, no bargaining/manipulating/threatening, no touching without request, and reassurance afterwards [#128].
+- Group socializing can produce a "social hangover" the next day; in autistic people its causes include more separate interactions, social anxiety, masking, and sensory overload; what helps is understanding one's own traits and defending boundaries [#163, #164, #167].
 
 ### Frameworks, models and step-by-step methods
 
 #### Meltdown vs shutdown comparison
 Purpose: to distinguish the two forms an autistic stress reaction can take. The channel's card defines both as "реакции аутичного мозга на сенсорную, эмоциональную перегрузку и/ или резкие изменения" (reactions of the autistic brain to sensory, emotional overload and/or abrupt changes) [#128].
 
-1. Meltdown (мелтдаун, срыв) — "Реакция направленная наружу, легко заметить" (a reaction directed outward, easy to notice). It may show as: aggression; shouting; throwing things around; tears; attempts to push the other person away; self-harm (attempts to hurt oneself); repeating the same thing over and over; running away [#128].
-2. Shutdown (шатдаун) — a reaction directed inward ("внутрь"). The person seems to close themselves off from the world, may become nonverbal, stop answering, and feel exhausted and sleepy [#128].
+1. Meltdown (мелтдаун, срыв) — "Реакция направленная наружу, легко заметить" (a reaction directed outward, easy to notice). It may show as: aggression; shouting; throwing things around; tears; attempts to push the other person away; self-harm (attempts to hurt oneself); repeating the same thing over and over; running away [#128]. The article defines it as "реакция человека на накопившееся напряжение, срыв, направленный наружу" (a person's reaction to accumulated tension, a breakdown directed outward), during which the person may cry, shout and try to avoid those around them in every possible way [#128].
+2. Shutdown (шатдаун) — a reaction directed inward ("внутрь"). The person seems to close themselves off from the world, may become nonverbal, stop answering, and feel exhausted and sleepy [#128]. The article: "Шатдаун (shutdown) – это мелтдаун, перенаправленный внутрь. Он ничуть не менее интенсивен, но внешне его куда тяжелее заметить." (A shutdown is a meltdown redirected inward. It is no less intense, but it is much harder to notice from the outside.) [#128]
 
-The accompanying post adds that both occur in children and in adults, and that although they are typical of autistic people, they also happen in non-autistic people, only more rarely. They are "просто реакции перегруженной психики на стресс" (simply reactions of an overloaded psyche to stress) [#128].
+The post adds that both occur in children and in adults, and that although they are typical of autistic people, they also happen in non-autistic people, only more rarely. They are "просто реакции перегруженной психики на стресс" (simply reactions of an overloaded psyche to stress) [#128].
+
+#### Meltdown vs tantrum vs panic attack distinctions
+Purpose: the article addresses the common habit of calling an autistic person's state "истерика" (tantrum/hysterics) and the confusion with panic attacks [#128].
+
+1. Meltdown vs tantrum (истерика). These are not synonyms. A tantrum most often pursues a specific goal — to get something or to avoid something. A meltdown is a natural reaction to irritants (stimuli), not an attempt to attract attention or manipulate others, and it cannot be controlled. Example from the article: if a child throws a tantrum because they were not given sweets, they calm down as soon as the parent gives in or makes clear they will not agree to the demand. A meltdown cannot be ended by persuasion, threats or appeasement — it will go on regardless of whether the person wants it to or not [#128].
+2. Meltdown/shutdown vs panic attack. Meltdowns and shutdowns arise from overloads: meltdowns look like inappropriate displays of frustration, anger and rage; shutdowns look like an inability to move, speak or respond. Panic attacks are linked to sudden fear or terror, sometimes impossible to explain by external circumstances, and usually show as an inability to function and an overwhelming urge to run away or hide. Key differences: panic attacks arise suddenly rather than accumulating, and are often linked to specific events rather than to many factors [#128].
 
 #### Early signs of an autistic meltdown (8-item checklist)
 Purpose: autistic people often struggle to recognize that a meltdown is approaching; these distress signs help to track that "срыв близко" (a breakdown is near). The card is by Thomas Henley (@ThomasHenleyUK), translated by the channel [#129, img #129]. The signs:
@@ -187,6 +195,35 @@ Purpose: autistic people often struggle to recognize that a meltdown is approach
 6. Heightened sensitivity to sensory triggers [#129].
 7. Paranoia, a feeling of being judged by the people around you [#129].
 8. You feel that the breakdown is approaching [#129].
+
+#### Four steps to prevent meltdowns and shutdowns
+Purpose: the article says prevention is "технически да" (technically possible), but in practice these states are an unavoidable part of autistic people's lives; still, these steps can help you or your loved ones prevent them in the future [#128].
+
+1. Know your triggers (Знайте свои триггеры). Ask what leads you to meltdowns/shutdowns fastest or most often. Analyse the reasons you entered these states in the past and be ready when you meet them again [#128].
+2. Start noticing your sensations shortly before a meltdown/shutdown. Pre-states differ: some people become irritable, some feel an urge to cry or scream, some start withdrawing into themselves more. Try to recall what your state was like before previous episodes so you can notice it next time (the *Early signs* checklist above lists such signals) [#128].
+3. Leave situations that cause these states. If you are in a loud, noisy place and feel an imminent sensory overload that will trigger a meltdown/shutdown, do not be shy about leaving. You are not obliged to stay in a triggering situation for the comfort of others; "ваше благополучие куда важнее мнения других людей" (your well-being is far more important than other people's opinions) [#128].
+4. Ask for help in advance (Просите о помощи заранее). Many people need support in this hard situation. Think about what help you might need and talk about it with loved ones — would you feel calmer if someone hugged you? Do you need to be taken to a dark place or given noise-cancelling headphones? Don't be afraid to ask; most people, especially those close to you, will be glad to support you [#128].
+   - You don't have to name or explain it. If you haven't told a person about your neurotype and fear they won't understand, describe the meltdown/shutdown without the official names. Script from the article: «Иногда [список триггеров] вводят меня в какую-то странную перегрузку, я не знаю, как это объяснить, но в этом состоянии мне очень плохо. Можешь ли ты помочь мне, сделав [вещи, которые вам помогают]?» (Sometimes [list of triggers] put me into some strange overload; I don't know how to explain it, but I feel very bad in that state. Could you help me by doing [things that help you]?) [#128]
+   - If you need no help, tell people what not to do. Some people get worse when touched during a meltdown; others feel bad if left alone. Decide what is unpleasant for you, or recall negative past episodes to understand what triggers you [#128].
+   - It's fine not to know yet. It is absolutely normal if you cannot answer these questions right now; understanding yourself is a process, and you are not to blame for not yet knowing your needs [#128].
+
+#### How to support a person during and after a meltdown/shutdown
+Purpose: guidance for others, built on the principle "не забывайте суть этих состояний" (don't forget the essence of these states) — they are responses to stress, not attempts to get something [#128].
+
+1. Never use restraint. The article calls restraint (сдерживание) the one 'help' method that must never be used, by anyone, ever: "от него ежегодно умирают аутичные люди" (autistic people die from it every year). The method consists of pressing one's whole weight onto the person to stop them harming themselves — and, unsurprisingly, also stopping them from breathing. Cases given (the article warns the reader beforehand and offers to skip the paragraph): 13-year-old Max Benson, restrained for two hours at a school for children with special needs, and 16-year-old Eric Parsa, restrained by police officers who sat on him one after another for nine minutes. Max Benson's mother, Stacia Langley, wrote: «Всю жизнь Макса я умоляла людей меня выслушать, заботиться о нём, относиться хорошо, ведь его жизнь имеет значение. Эти мольбы в основном не были услышаны, очевидно, с трагическими результатами» (All of Max's life I begged people to listen to me, to care for him, to treat him well, because his life matters. These pleas were mostly not heard, obviously with tragic results). The article notes dangerous restraint is still promoted in media, e.g. in singer Sia's film 'Music' («Мьюзик»), and asks readers to remember forever that restraint during meltdowns can be fatal and to spread this information so autistic people do not become victims of others' ignorance [#128].
+2. Don't bargain, manipulate or threaten. Because the state is not goal-directed, do not try to negotiate («Если перестанешь кричать, я куплю тебе вот это!» — "If you stop shouting, I'll buy you this!"), manipulate («Хватит плакать, мне за тебя стыдно» — "Stop crying, I'm ashamed of you") or threaten («Если не перестанешь брыкаться, я тебя накажу!» — "If you don't stop kicking, I'll punish you!") [#128].
+3. Be patient, even if the person's behaviour irritates or upsets you [#128].
+4. Don't touch them unless they asked you to, and try to make sure they don't hurt themselves or others [#128].
+5. Afterwards, reassure and ask. After the meltdown/shutdown, remind the person that this behaviour does not make them bad, that you are on their side and ready to support them. Ask what their needs are and be ready to help [#128].
+
+#### Recovery after a meltdown/shutdown
+Purpose: what to expect afterwards and how to cope [#128].
+
+- Aftereffects. After a meltdown or shutdown a person may feel emptied, broken and very tired. Other consequences are nonverbal episodes and greater sensitivity to sensory stimuli [#128].
+1. Give yourself breaks. Put tasks aside at least for a while, let yourself exhale. If possible treat yourself to something, even small: a cup of nice tea, a favourite video, time with loved ones or a pet [#128].
+2. Don't force yourself to do hard things. What counts as 'hard' depends on you. If you are invited to a meeting, asked to do something for work or to do housework and it is too hard right now, refuse if possible — in most cases these things can be done another day, or at least an hour after the meltdown/shutdown [#128].
+3. Address specific aftereffects. For a nonverbal episode the article refers to strategies in the channel's article on non- and semi-verbality; for worsened sensory problems, to self-help options listed in another piece. (!) INCOMPLETE: those referenced articles are not part of this source, so their strategies are not available here [#128].
+4. Let go of shame — "самое главное" (the most important thing). Getting over embarrassment after a meltdown/shutdown is often much harder than living through it; many autistic people, especially adults, find it very unpleasant to realise they cried or shouted in public. Remember that your actions during meltdowns and shutdowns say nothing about your personal qualities, and moments of weakness do not make you a weak person. "С какими бы трудностями вы ни сталкивались, вы заслуживаете понимания, поддержки и помощи." (Whatever difficulties you face, you deserve understanding, support and help.) [#128]
 
 #### Symptoms of social hangover in autistic people (8-item list)
 The author says the autistic version of social hangover can look somewhat different from the introvert definition. Symptoms listed (card and post give the same list) [#165, msg #167]:
@@ -220,7 +257,19 @@ The author frames the help as understanding your traits and defending your bound
 ### Detailed insights
 
 #### What meltdowns and shutdowns are not
-The channel stresses that meltdowns and shutdowns are "не панические атаки, не обиды, не истерики и не манипуляции" (not panic attacks, not taking offence, not hysterics and not manipulation). They do not pursue any goal, occur in both children and adults, and are simply the overloaded psyche's reactions to stress — "в них нет ничего стыдного и страшного" (there is nothing shameful or frightening in them) [#128].
+The channel stresses that meltdowns and shutdowns are "не панические атаки, не обиды, не истерики и не манипуляции" (not panic attacks, not taking offence, not hysterics and not manipulation). They do not pursue any goal, occur in both children and adults, and are simply the overloaded psyche's reactions to stress — "в них нет ничего стыдного и страшного" (there is nothing shameful or frightening in them) [#128]. The article adds that, contrary to common myths, they occur in both children and adults; open expression of negative emotions by an adult is often seen as weakness, but there is nothing shameful in this natural reaction of the body [#128].
+
+#### Who has them and why autistic people more often
+Technically meltdowns and shutdowns can happen to anyone, but in practice autistic people face them most often. The article's explanation: it is not that autistic people go into overload and allistics (non-autistic people) do not; rather, autistic people end up in more situations that push them into overload because of autism. The same sensory problems that frequently cause meltdowns can be present in allistics, but people on the spectrum are much more sensitive to sensory stimuli [#128].
+
+#### What they look like: no universal presentation
+Presentation varies from person to person: someone may cry, someone may actively fight off people nearby. There is no single, universal presentation. People often don't realise they are dealing with meltdowns/shutdowns because they carry a fixed image of how one 'should' look, and if their experience doesn't fit, they don't recognise it. Not every meltdown looks outwardly like a tantrum, and a shutdown can be completely invisible to others, especially if the observer doesn't know what shutdowns are. Rule: "Главное – причины состояния, а не то, как именно оно выглядит" (what matters is the causes of the state, not exactly how it looks), because presentation varies from case to case [#128].
+
+#### Triggers and accumulation
+Since autistic people experience these states most often, the most common triggers are the things that bring autistic people the most discomfort: sensory overload, long stretches in company, an abrupt change of routine, a sense of injustice, "ЧОД" and so on (the article's own "и так далее") [#128]. (!) UNCLEAR: the abbreviation "ЧОД" is not expanded in the source. Meltdowns/shutdowns are not always caused by one thing. The article's example: a person faced an unexpected change of plans while also socializing for a long time and felt relatively okay, but at the end of the day went into a meltdown because of bright light and loud music — the last stimulus tipped an accumulated load [#128].
+
+#### Why some people have shutdowns rather than meltdowns
+"Считается" (it is believed) that shutdowns happen in people for whom showing emotions was (or still is) unsafe. In essence, the replacement of meltdowns by shutdowns is the result of psychological trauma. If a child is shouted at every time they go into a meltdown, they soon learn that outward expression of emotions is unsafe for them — "Вот только сами чувства никуда не уйдут – лишь начнут проявляться внутри." (But the feelings themselves won't go anywhere — they will just start to manifest inside.) [#128]
 
 (!) Note on scope: the post says these reactions happen to autistic people often and to non-autistic people too, though more rarely, whereas the card speaks of "реакции аутичного мозга" (reactions of the autistic brain) [#128, img #128].
 
@@ -228,31 +277,41 @@ The channel stresses that meltdowns and shutdowns are "не панические
 The title card of the carousel is "Аутизм и социальное похмелье" (Autism and social hangover) [#162]. Social hangover is a term originally used for introverts, describing "усталость, раздражительность и недомогание" (fatigue, irritability and malaise) on the day after a person spent all their energy socializing in company — a state similar to a hangover, but without alcohol [#163]. In the post the same original introvert definition is rendered as "усталость, раздражительность, туман в голове" (fatigue, irritability, brain fog) [#167].
 
 #### The author's own case
-The author describes herself as an autistic person with ADHD who loves socializing. She usually prefers one-on-one interaction or small groups in a sensorily comfortable setting (for example, at home), but sometimes does not want to miss café gatherings or parties — especially "now", when people are leaving the country and every moment feels especially precious. She noticed that the day after gatherings in large groups (more than 4 people) she experienced something like a hangover: headaches, fatigue, brain fog, low mood — really like the morning after drinking too much, although she had not drunk at these meetings. Searching online whether autistic people can have something like a hangover after socializing, she was surprised to find a lot of information, which became the basis of the symptom, cause and strategy lists above. Lesson: a hangover-like state after group socializing can be a recognizable autistic overload pattern, with a threshold the author places at groups larger than 4 people for herself [#167].
+The author describes herself as an autistic person with ADHD who loves socializing. She usually prefers one-on-one interaction or small groups in a sensorily comfortable setting (for example, at home), but sometimes does not want to miss café gatherings or parties — especially 'now', when people are leaving the country and every moment feels especially precious. She noticed that the day after gatherings in large groups (more than 4 people) she experienced something like a hangover: headaches, fatigue, brain fog, low mood — really like the morning after drinking too much, although she had not drunk at these meetings. Searching online whether autistic people can have something like a hangover after socializing, she was surprised to find a lot of information, which became the basis of the symptom, cause and strategy lists above. Lesson: a hangover-like state after group socializing can be a recognizable autistic overload pattern, with a threshold the author places at groups larger than 4 people for herself [#167].
 
 ### Tools and resources mentioned
 
-- Telegraph article "Мелтдауны и шатдауны" (https://telegra.ph/meltdauny-i-shatdauny-02-21) — described by the channel as "статья от нейросети" (an article from a neural network, i.e. AI-generated), for reading in more detail why meltdowns and shutdowns happen and how to support a person during a breakdown. The channel offers it without further verdict; its content is not included in the source [#128].
-- Noise-cancelling headphones — suggested as a sensory accommodation to filter part of the noise at gatherings [#167].
+- Telegraph article "мелтдауны и шатдауны" (https://telegra.ph/meltdauny-i-shatdauny-02-21) — described by the channel as "статья от нейросети" (an article from a neural network), for reading in more detail why meltdowns and shutdowns happen and how to support a person during a breakdown; its content is extracted throughout this file [#128, article #128].
+- Article's listed sources — psychcentral.com (autism meltdowns: what they look like), jamesmw.com/meltdown.htm, and vergeofindependenceproject.org ("Crushed to death: the issue with restraining autism meltdowns") [#128].
+- Noise-cancelling headphones — suggested as a sensory accommodation to filter part of the noise at gatherings, and as advance-arranged help during a meltdown [#167, article #128].
 - Thomas Henley (@ThomasHenleyUK) — source of the early meltdown signs card [#129].
+- Sia's film 'Music' — cited as a negative example: media that still promotes dangerous restraint [#128].
 
 ### Notable quotes
 
 > "Мелтдауны и шатдауны - это не *панические атаки, не обиды, не истерики и не манипуляции*, они не преследуют никакой цели" (Meltdowns and shutdowns are not panic attacks, not taking offence, not hysterics and not manipulation; they pursue no goal) — channel author [#128]
 
+> "Мелтдаун же не закончить уговорами, угрозами и задабриванием, он будет происходить вне зависимости от того, хочет этого человек или нет." (A meltdown cannot be ended by persuasion, threats and appeasement; it will happen regardless of whether the person wants it or not.) — article [#128]
+
+> "Помните, что ваши действия во время мелт- и шатдаунов не говорят о ваших личностных качествах, а моменты слабости не делают вас слабым человеком." (Remember that your actions during meltdowns and shutdowns say nothing about your personal qualities, and moments of weakness do not make you a weak person.) — article [#128]
+
 > "Чаще всего аутичным людям непросто понять, что приближается мелтдаун." (Most often it is not easy for autistic people to understand that a meltdown is approaching.) — channel author [#129]
 
 > "Действительно похоже на ощущения наутро после того, как переберешь с алкоголем… Но на этих встречах я не пила" (It really is like the feeling the morning after you drink too much… But I didn't drink at these meetings) — channel author [#167]
 
-> "как всегда, понимание своих особенностей и отстаивание границ" (What can help, as always, is understanding your traits and defending your boundaries.) — channel author [#167]
+> "как всегда, понимание своих особенностей и отстаивание границ" (as always, understanding your traits and defending your boundaries) — channel author [#167]
 
 > "Я знаю, что я могу относительно комфортно провести в компании около 1-1.5 часов." (I know I can spend about 1–1.5 hours in company relatively comfortably.) — channel author [#167]
 
 ### Caveats, disagreements and open questions
 
+- The linked longread is labelled by the channel as written by a neural network ("статья от нейросети"); the article names its sources (psychcentral, jamesmw.com, Verge of Independence Project) [#128, article #128].
+- The trauma explanation for shutdowns is hedged in the source with "Считается" (it is believed) [#128].
+- (!) UNCLEAR: the trigger "ЧОД" is not expanded in the article [#128].
+- (!) INCOMPLETE: the article's recovery advice refers to separate channel articles on non-/semi-verbality and on sensory self-help, which are not part of this source [#128].
 - (!) CONTRADICTION (minor): the original introvert definition of social hangover is given as "fatigue, irritability and malaise" on the card [#163] but as "fatigue, irritability, brain fog" in the post [#167].
-- (!) CONTRADICTION (minor): the card says meltdowns/shutdowns are reactions of "the autistic brain" [#128], while the post says they also occur in non-autistic people, though more rarely [#128].
-- (!) INCOMPLETE: the details on why meltdowns/shutdowns happen and how to support someone during one are delegated to an external AI-generated article whose text is not in the source [#128].
+- (!) CONTRADICTION (minor): the card says meltdowns/shutdowns are reactions of "the autistic brain" [#128], while the post and article say they also occur in non-autistic people, though more rarely [#128, article #128].
+- Prevention is described as only technically possible; in practice the article calls these states an unavoidable part of autistic life [#128].
 - Both the symptom list and the meltdown signs card are presented as non-exhaustive ("и др.") [#129, msg #167].
 - The 1–1.5 hour limit and the >4 people threshold are the author's personal experience, not general rules [#167].
 - The symptom list is hedged: symptoms "могут выглядеть несколько по-другому" (may look somewhat different) in autistic people [#167].
@@ -264,6 +323,13 @@ Every link and file shared in this topic's posts. Resources can be used directly
 #### Resources
 
 - ★ Meltdowns and shutdowns (telegra.ph article written by a neural network) (article) — AI-generated article explaining why meltdowns and shutdowns happen and how to support a person during a breakdown. Offered by the post for further reading. [#128] → <https://telegra.ph/meltdauny-i-shatdauny-02-21>
+- ★ Невербальность и семивербальность (telegra.ph) (article) — Channel article on non- and semi-verbal states with coping strategies; recommended after a non-verbal episode following a meltdown or shutdown. [#128] → <https://telegra.ph/neverbalnost-i-semiverbalnost-08-01>
+- ★ Репрезентация нейроотличности (telegra.ph), в т.ч. разбор фильма «Мьюзик» (article) — Channel article on neurodivergent representation, including a detailed discussion of Sia's film «Music» and its depiction of dangerous restraint during meltdowns. [#128] → <https://telegra.ph/reprezentaciya-nejrootlichnosti-12-16>
+- ★ Сенсорное восприятие и сенсорная перегрузка (telegra.ph) (article) — Channel article on sensory perception and overload, linked as background: stimming can keep overload from turning into a meltdown. [#128] → <https://telegra.ph/Sensornoe-vospriyatie-i-sensornaya-peregruzka-02-10>
+- ★ Чувствительность к отказу и дисфория (ЧОД) (telegra.ph) (article) — Channel article on rejection sensitivity dysphoria, named as one of the triggers of meltdowns and shutdowns. [#128] → <https://telegra.ph/chuvstvitelnaya-k-otkazu-disforiya-01-25>
+- James Williams: Meltdown (jamesmw.com) (article) — Personal page of an autistic author describing his meltdown experience; listed among the sources of the article. [#128] → <http://www.jamesmw.com/meltdown.htm>
+- Psych Central: Autism meltdowns (article) — Psych Central article on what autism meltdowns look like; listed as a source for the meltdown/shutdown article. [#128] → <https://psychcentral.com/autism/autism-meltdowns#what-does-it-look-like>
+- Verge of Independence Project: Crushed to death — the issue with restraining autism meltdowns (article) — Article on deaths caused by physically restraining autistic people during meltdowns; source for the warning that restraint can be lethal. [#128] → <https://www.vergeofindependenceproject.org/post/crushed-to-death-the-issue-with-restraining-autism-meltdowns>
 
 
 ## Neurodivergent burnout and chronic fatigue

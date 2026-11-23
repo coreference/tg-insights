@@ -63,3 +63,8 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - Why autistic people often reject the phrase "don't let autism define you", the core norms of the autistic community (self-diagnosis accepted, no functioning labels, no "Asperger's", identity-first language, unmasking, no single right way to be autistic, "you are not broken"), the meaning of Disability Pride Month and its flag, and the "6C hexagon" of autistic needs.
 - Concepts: `stigma-and-acceptance`, `ableism`, `neurodiversity`, `community-belonging`, `masking-camouflaging`
 
+### Autistic communication, belonging and being misread  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/masking-social-life/autistic-communication-belonging.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- How the channel author explains autistic communication difficulties as a two-sided problem (double empathy), why autistic people are misread when their inner feelings and nonverbal signals do not match, why a trusted companion makes public places easier, why even a tiny "tribe" matters, and how to handle limited social energy at work.
+- Concepts: `double-empathy`, `neurodivergent-communication`, `community-belonging`, `stress-and-anxiety`, `empathy`
+

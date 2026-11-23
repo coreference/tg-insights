@@ -1,0 +1,246 @@
+{
+ "channel": "Аутизм и СДВГ в опыте и книжках",
+ "slug": "autizm-i-sdvg-v-opyte-i-knizhkah",
+ "files": [
+  {
+   "file": "sensory-processing-regulation-1.md",
+   "domain": "Sensory processing and regulation",
+   "domain_slug": "sensory-processing-regulation",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 2,
+   "title": "Sensory processing and regulation (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "sensory-processing-differences",
+     "title": "Sensory processing differences in autism: senses, profiles and theories"
+    }
+   ],
+   "words": 8428
+  },
+  {
+   "file": "sensory-processing-regulation-2.md",
+   "domain": "Sensory processing and regulation",
+   "domain_slug": "sensory-processing-regulation",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Sensory processing and regulation (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "sensory-regulation-safety-plans",
+     "title": "Sensory regulation, stimming and sensory safety plans"
+    }
+   ],
+   "words": 8780
+  },
+  {
+   "file": "overload-demands-burnout.md",
+   "domain": "Overload, demands and burnout",
+   "domain_slug": "overload-demands-burnout",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Overload, demands and burnout",
+   "topics": [
+    {
+     "slug": "meltdowns-shutdowns",
+     "title": "Meltdowns and shutdowns: triggers, differences and recovery"
+    },
+    {
+     "slug": "autistic-burnout-pacing",
+     "title": "Autistic and ADHD burnout, boom-or-bust and pacing"
+    },
+    {
+     "slug": "pathological-demand-avoidance",
+     "title": "Pathological demand avoidance (PDA) and the PANDA approach"
+    }
+   ],
+   "words": 11370
+  },
+  {
+   "file": "masking-communication-social-1.md",
+   "domain": "Masking, communication and social life",
+   "domain_slug": "masking-communication-social",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 2,
+   "title": "Masking, communication and social life (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "masking-camouflaging",
+     "title": "Masking and camouflaging: forms, costs and measurement"
+    }
+   ],
+   "words": 8063
+  },
+  {
+   "file": "masking-communication-social-2.md",
+   "domain": "Masking, communication and social life",
+   "domain_slug": "masking-communication-social",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Masking, communication and social life (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "autistic-communication-friendship",
+     "title": "Autistic communication, empathy and friendship"
+    }
+   ],
+   "words": 6124
+  },
+  {
+   "file": "attention-executive-function-1.md",
+   "domain": "Attention, executive function and ADHD",
+   "domain_slug": "attention-executive-function",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 2,
+   "title": "Attention, executive function and ADHD (part 1 of 2)",
+   "topics": [
+    {
+     "slug": "executive-function-inertia-time",
+     "title": "Executive function, autistic inertia, time perception and object permanence"
+    },
+    {
+     "slug": "hyperfocus-special-interests-monotropism",
+     "title": "Hyperfocus, special interests and monotropism"
+    }
+   ],
+   "words": 8589
+  },
+  {
+   "file": "attention-executive-function-2.md",
+   "domain": "Attention, executive function and ADHD",
+   "domain_slug": "attention-executive-function",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 2,
+   "title": "Attention, executive function and ADHD (part 2 of 2)",
+   "topics": [
+    {
+     "slug": "boredom-mindfulness-adhd",
+     "title": "Boredom, boring tasks and mindfulness for ADHD"
+    }
+   ],
+   "words": 4372
+  },
+  {
+   "file": "understanding-diagnosing-neurodivergence-1.md",
+   "domain": "Understanding and diagnosing neurodivergence",
+   "domain_slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 3,
+   "title": "Understanding and diagnosing neurodivergence (part 1 of 3)",
+   "topics": [
+    {
+     "slug": "autism-lesser-known-traits",
+     "title": "Autism traits beyond the stereotypes: lesser-known features and aphantasia"
+    }
+   ],
+   "words": 3640
+  },
+  {
+   "file": "understanding-diagnosing-neurodivergence-2.md",
+   "domain": "Understanding and diagnosing neurodivergence",
+   "domain_slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 2,
+   "parts": 3,
+   "title": "Understanding and diagnosing neurodivergence (part 2 of 3)",
+   "topics": [
+    {
+     "slug": "audhd-differential-diagnosis",
+     "title": "AuDHD, differential diagnosis and self-report questionnaires"
+    }
+   ],
+   "words": 10023
+  },
+  {
+   "file": "understanding-diagnosing-neurodivergence-3.md",
+   "domain": "Understanding and diagnosing neurodivergence",
+   "domain_slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "part": 3,
+   "parts": 3,
+   "title": "Understanding and diagnosing neurodivergence (part 3 of 3)",
+   "topics": [
+    {
+     "slug": "autism-adhd-research-reading",
+     "title": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading"
+    }
+   ],
+   "words": 3947
+  },
+  {
+   "file": "emotions-alexithymia.md",
+   "domain": "Emotions and alexithymia",
+   "domain_slug": "emotions-alexithymia",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 1,
+   "title": "Emotions and alexithymia",
+   "topics": [
+    {
+     "slug": "alexithymia-interoception",
+     "title": "Alexithymia and interoception in autism"
+    }
+   ],
+   "words": 4401
+  },
+  {
+   "file": "therapy-coping-skills.md",
+   "domain": "Therapy and coping skills for neurodivergent adults",
+   "domain_slug": "therapy-coping-skills",
+   "area": "Psychotherapy & Inner Work",
+   "part": 1,
+   "parts": 1,
+   "title": "Therapy and coping skills for neurodivergent adults",
+   "topics": [
+    {
+     "slug": "dbt-for-autism",
+     "title": "DBT for autistic adults: rationale, adaptations and evidence"
+    },
+    {
+     "slug": "distress-tolerance-self-care",
+     "title": "Distress tolerance and self-care skills for neurodivergent people"
+    }
+   ],
+   "words": 7681
+  },
+  {
+   "file": "co-occurring-mental-health.md",
+   "domain": "Co-occurring mental health conditions",
+   "domain_slug": "co-occurring-mental-health",
+   "area": "Psychiatry & Mental Health Care",
+   "part": 1,
+   "parts": 1,
+   "title": "Co-occurring mental health conditions",
+   "topics": [
+    {
+     "slug": "anxiety-ptsd-ocd-autism",
+     "title": "Anxiety, PTSD and OCD in autistic people"
+    }
+   ],
+   "words": 5401
+  },
+  {
+   "file": "physical-health-body.md",
+   "domain": "Physical health and the neurodivergent body",
+   "domain_slug": "physical-health-body",
+   "area": "Chronic Illness & Disability",
+   "part": 1,
+   "parts": 1,
+   "title": "Physical health and the neurodivergent body",
+   "topics": [
+    {
+     "slug": "physical-comorbidities-sleep-hormones",
+     "title": "Physical comorbidities, sleep and hormones in autism and ADHD"
+    }
+   ],
+   "words": 6320
+  }
+ ]
+}

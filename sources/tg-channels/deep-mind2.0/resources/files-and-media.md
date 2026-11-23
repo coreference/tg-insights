@@ -367,7 +367,7 @@ All media referenced in the export with message context and relative path.
 - [msg #1276] 2025-01-17 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_348@17-01-2025_03-10-27.jpg`
 - [msg #1280] 2025-01-22 · Retreats and the deeper contemplative path · `raw-exports/ChatExport_2026-07-16/photos/photo_349@22-01-2025_09-27-49.jpg`
 - [msg #1283] 2025-01-31 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_350@31-01-2025_04-30-58.jpg` · text transcribed
-- [msg #1285] 2025-02-03 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_351@03-02-2025_04-45-15.jpg` · text transcribed
+- [msg #1285] 2025-02-03 · Qualities of mindful and compassionate leaders · `raw-exports/ChatExport_2026-07-16/photos/photo_351@03-02-2025_04-45-15.jpg` · text transcribed
 - [msg #1287] 2025-02-07 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_352@07-02-2025_06-48-22.jpg`
 - [msg #1290] 2025-02-09 · Freedom, capitalism and contemporary culture · `raw-exports/ChatExport_2026-07-16/photos/photo_353@09-02-2025_06-12-01.jpg` · text transcribed
 - [msg #1293] 2025-02-14 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_354@14-02-2025_14-12-51.jpg`
@@ -530,7 +530,7 @@ All media referenced in the export with message context and relative path.
 - [msg #1575] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_511@18-10-2025_05-24-48.jpg`
 - [msg #1576] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_512@18-10-2025_05-24-48.jpg`
 - [msg #1577] 2025-10-18 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_513@18-10-2025_05-24-48.jpg`
-- [msg #1579] 2025-10-20 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_514@20-10-2025_23-58-02.jpg` · text transcribed
+- [msg #1579] 2025-10-20 · Digital detox and healthy screen habits · `raw-exports/ChatExport_2026-07-16/photos/photo_514@20-10-2025_23-58-02.jpg` · text transcribed
 - [msg #1580] 2025-10-21 · Metta, compassion and the four immeasurables · `raw-exports/ChatExport_2026-07-16/photos/photo_515@21-10-2025_18-42-14.jpg`
 - [msg #1581] 2025-10-21 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_516@21-10-2025_18-42-15.jpg`
 - [msg #1583] 2025-10-25 · (unassigned) · `raw-exports/ChatExport_2026-07-16/photos/photo_517@25-10-2025_18-50-35.jpg` · text transcribed

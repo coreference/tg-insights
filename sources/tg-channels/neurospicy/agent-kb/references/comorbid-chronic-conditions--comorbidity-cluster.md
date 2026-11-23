@@ -12,6 +12,8 @@ answers:
   - Why is MCAS often misdiagnosed as psychosomatic, and can it be treated?
   - What is binocular vision dysfunction (BVD), what does it feel like, and who diagnoses it?
   - What is the MTHFR mutation and which conditions is it linked to?
+  - How does MTHFR affect methylation, homocysteine and anxiety, and what can I do about it?
+  - Why can't people with MTHFR use ordinary folic acid, and what are methylated vitamins?
   - How can I help myself when everything is very bad with autism, ADHD, CPTSD, hEDS, MCAS, POTS and autistic burnout?
   - What are the stroke symptoms in women that differ from the classic ones?
   - What does "neurocomplexity" mean?
@@ -21,6 +23,8 @@ frameworks:
   - Autism comorbidity statistics card (12 items)
   - BVD everyday-difficulty and symptom checklists
   - Stroke warning signs in women
+  - MTHFR methylation chain and oil-to-petrol analogy
+  - What to do about MTHFR (5 action steps)
 themes:
   - comorbidity
   - chronic-illness
@@ -35,12 +39,16 @@ terms:
   - ДСТ | дисплазия соединительной ткани, connective tissue dysplasia (hEDS is described as a variant of it) | 349, 779
   - BVD | binocular vision dysfunction: the eyes do not work together as one system | 349
   - MTHFR | a gene with a key role in folate (folic acid) metabolism; a common mutation in it | 36
+  - метилирование | methylation: converting a vitamin into its active form the body can use; here homocysteine → methionine via active folate | 36
+  - метилированные витамины | methylated vitamins: B vitamins in active form, usable directly by people with MTHFR | 36
+  - гомоцистеин | homocysteine, lowered by MTHFR-dependent conversion to methionine | 36
+  - катехоламины | catecholamines: fight-or-flight mediators/hormones that active folate helps clear | 36
   - кПТСР | complex PTSD | 509
   - окно толерантности | window of tolerance | 509
   - пейсинг | pacing (energy-management strategy) | 509
   - дисавтономия | dysautonomia, a disorder of the autonomic nervous system | 509
 people:
-  - Nastya (Настя) | channel author/admin, posted the autism comorbidity statistics card | 64
+  - Nastya (Настя) | channel author/admin, posted the autism comorbidity statistics card and wrote the MTHFR article | 64, 36
   - Sharon Stone | actress, example of a woman who survived a severe stroke | 767, 768
   - Emilia Clarke | actress, survived two strokes, founded SameYou | 767, 769
   - Elena Proklova | actress, survived a stroke, speaks about body signals | 767, 770
@@ -49,7 +57,7 @@ people:
 
 ## What this covers
 
-This topic collects the channel's posts on conditions that tend to come together with autism and ADHD. It covers comorbidity statistics for autism, the "triad" of hypermobile Ehlers-Danlos syndrome (hEDS), mast cell activation syndrome (MCAS) and postural orthostatic tachycardia syndrome (POTS), binocular vision dysfunction (BVD) and the MTHFR gene mutation. It also includes the author's visual self-help map for "neurocomplexity" and a forwarded awareness post on how stroke can look different in women. The source says these conditions matter because they strongly affect quality of life and daily functioning, are often misdiagnosed (BVD as "other conditions", MCAS as "psychosomatic"), and need a comprehensive approach, often with several specialists [msg #349, #779, #509, #767].
+This topic collects the channel's posts on conditions that tend to come together with autism and ADHD. It covers comorbidity statistics for autism, the "triad" of hypermobile Ehlers-Danlos syndrome (hEDS), mast cell activation syndrome (MCAS) and postural orthostatic tachycardia syndrome (POTS), binocular vision dysfunction (BVD) and the MTHFR gene mutation. It also includes the author's visual self-help map for "neurocomplexity" and a forwarded awareness post on how stroke can look different in women. The source says these conditions matter because they strongly affect quality of life and daily functioning, are often misdiagnosed (BVD as "other conditions", MCAS as "psychosomatic"), and need a comprehensive approach, often with several specialists [msg #349, #779, #509, #767, #36].
 
 ## Core ideas
 
@@ -57,6 +65,7 @@ This topic collects the channel's posts on conditions that tend to come together
 - **hEDS, MCAS and POTS form a triad.** These three conditions often occur with autism and ADHD and with each other. Diagnosing and treating them needs a comprehensive approach, often with several specialists [msg #779].
 - **Some conditions are hidden or misdiagnosed.** A standard eye exam may miss BVD, and doctors often misdiagnose it as other conditions. MCAS is often labelled "psychosomatic" or "somatoform disorder", yet unlike those labels it can and should be treated [msg #349, #779].
 - **Self-help in neurocomplexity works on several fronts at once.** The author's map has six parallel branches: pain control, supportive strategies, mast cell stabilisation, medication for depression/anxiety/ADHD, nervous-system support and psychotherapy [img #509].
+- **MTHFR blocks vitamin activation.** The channel says a common MTHFR mutation stops the body converting folate into its active form, leading to B-vitamin deficiency, raised homocysteine and catecholamine build-up (anxiety, insomnia); its suggested response is testing plus methylated vitamins as part of a broader approach. Full detail under *MTHFR genetic mutation* [msg #36, article #36].
 - **Body signals should not be put down to stress.** In women, stroke may look like confusion, a sudden headache or a "panic attack". These signs are often mistaken for stress or overwork, which is dangerous [msg #767].
 
 ## Frameworks, models and step-by-step methods
@@ -159,17 +168,48 @@ A channel card titled "АУТИЗМ И НАИБОЛЕЕ РАСПРОСТРАНЕ
 **Diagnosis and treatment:** diagnosis needs a specialised examination, because a routine eye exam may not detect the problem. Treatment usually includes special prismatic lenses and vision therapy. People with such symptoms are advised to see an "офтальмологу, специализирующемуся на бинокулярном зрении" (ophthalmologist specialising in binocular vision) for an accurate diagnosis and effective treatment [msg #349].
 
 ### MTHFR genetic mutation
-The channel states that 44% of the world's population carry a mutation in the MTHFR gene, which plays a key role in folate (folic acid) metabolism. Problems with this gene are "связывают" (linked, the author's hedged wording) with these conditions [msg #36]:
-1. Anxiety.
-2. Depression.
-3. Gastrointestinal problems.
-4. Worsening of ADHD symptoms.
-5. OCD.
-6. Insomnia.
-7. Alzheimer's disease.
+**Scope and framing.** The channel's post and its linked Telegraph article (by Настя) introduce MTHFR "не научным языком" (in non-scientific language): what the mutation is, the conditions linked to it, and "что с этим можно сделать" (what can be done about it). The article opens with three framing points: a diagnosis requires a genetic test; with this mutation medication is not always needed, and "в некоторых случаях хватает восполнение недостатка витаминов в активной форме" (in some cases replenishing the deficiency with vitamins in their active form is enough); and you should consult a doctor before starting any drugs or supplements, prescription or not [msg #36, article #36].
 
-The source list ends with "🌟..." (an open ellipsis), meaning it is not exhaustive. The full explanation is in a separate Telegraph article. The post says the article introduces MTHFR in non-scientific language, covers related conditions and "что с этим можно сделать" (what can be done about it) [msg #36].
-(!) INCOMPLETE: the article's content, including testing and what can be done, was not provided, so this file holds only the post's summary [msg #36].
+**What the gene does.** The channel states that 44% of the world's population carry a mutation called MTHFR; the gene plays a key role in folate (folic acid) metabolism. The article explains the chain step by step [msg #36, article #36]:
+1. MTHFR takes part in converting 5,10-methylenetetrahydrofolate into the active form of folate, 5-methyltetrahydrofolate.
+2. That active folate is needed for the methylation of homocysteine into methionine.
+3. By turning homocysteine into methionine, the gene helps lower blood homocysteine, which the article says is important for preventing cardiovascular and other diseases.
+4. Because MTHFR is involved both in folate metabolism and in regulating homocysteine, it may affect the development of the nervous system and how the brain functions [article #36].
+
+**Conditions linked to a malfunctioning gene.** The post names seven conditions and then trails off with "🌟..." (an open ellipsis): anxiety, depression, GI problems, worsening of ADHD symptoms, OCD, insomnia and Alzheimer's [msg #36]. The article names all seventeen conditions that disruption of the gene is "связывают" with (linked with — the author's hedged wording) [article #36]:
+1. Anxiety (тревожность).
+2. Depression (депрессия).
+3. Gastrointestinal problems (проблемы ЖКТ).
+4. ADHD (СДВГ; the post phrases it as worsening of ADHD symptoms).
+5. OCD (ОКР).
+6. Insomnia (бессонница).
+7. Alzheimer's disease.
+8. Cardiovascular and thromboembolic diseases, in particular thromboses, stroke, embolism and heart attacks.
+9. Bipolar disorder.
+10. Schizophrenia.
+11. Colon cancer (рак толстой кишки).
+12. Acute leukaemia.
+13. Chronic pain and fatigue.
+14. Nerve pain (боли в нервах).
+15. Migraine.
+16. Recurrent miscarriages in women of childbearing age.
+17. Pregnancies with neural tube defects, such as spina bifida and anencephaly.
+
+**The methylation process explained by the "oil → petrol" analogy.** To be used by a car, crude oil must first be converted into the right form, petrol. The same normally happens with vitamins: we take in a vitamin, the body converts it into its active form, and only then can use it. With the MTHFR mutation we cannot convert our vitamins into the active form, because our gene lacks the "правильного рецепта" ("right recipe"). As a result we develop a deficiency of B-group vitamins, and the processes in which they are an important link are disrupted [article #36].
+
+**Mechanism linking MTHFR to anxiety and "tired but wired" sleep.** The article's causal chain:
+- Active folate is needed to break down and clear excess neurotransmitters — catecholamines, which are responsible for the "бей или беги" (fight or flight) response.
+- Catecholamines are normally produced in a state of fear. But because the body lacks the resources to break them down, "мы можем испытывать страх без наличия опасности" (we may feel fear with no danger present) — in other words, be anxious for no particular reason.
+- Definition given: catecholamines are physiologically active substances that act as mediators (noradrenaline, dopamine, serotonin) and hormones (adrenaline, noradrenaline). (As written in the source; the article lists serotonin among them.)
+- Example: the state when you are very tired and want to sleep but the brain keeps thinking and will not let you fall asleep — the article says this arises from a large build-up of catecholamines in the body [article #36].
+
+### What to do about MTHFR (the article's action steps)
+The article's "Что с этим делать?" (What to do about it?) section, in order [article #36]:
+1. **Get tested.** "Обязательно сделайте генетический тест" (be sure to do a genetic test) for the MTHFR mutation, plus blood tests for homocysteine and catecholamine levels. Why: identifying the right cause of homocysteine build-up in the blood is very important.
+2. **Do not rely on food alone, and know the folic-acid trap.** In the modern world it is very hard to get the needed nutrients from food only. Moreover, some foods — white flour, rice, bread, pasta, breakfast cereals — contain the synthetic version of folate, folic acid, which, like dietary folate, is not the active form and cannot be absorbed by people with this mutation.
+3. **Take methylated (active-form) vitamins** that the body can use immediately, to help it break down catecholamines and stabilise homocysteine. The article names a methylated B-vitamin complex, methionine, and DIM, and says they can improve symptoms such as insomnia, high blood pressure, anxiety, depression, poor sugar metabolism, estrogen dominance, ADHD symptoms, OCD and GI problems. No doses or products are given.
+4. **Treat it as one part of a comprehensive approach.** "Важно для понимания: это не панацея." (Important to understand: this is not a panacea.) There is no guarantee that starting a methylated B complex will make your condition magically improve and all symptoms disappear. As a rule, the best results need a comprehensive approach: further examinations, lifestyle change (following a diet, exercise) and work on restoring the nervous system. Still, taking the active form of folate "может стать хорошим началом" (can be a good start) if you have the MTHFR mutation.
+5. **Consult specialists first.** Always consult specialists before starting any supplements or drugs [article #36].
 
 ### Stroke warning signs in women (forwarded awareness post)
 The post was forwarded from the channel Женщины. Инвалидность. Феминизм (Women. Disability. Feminism) for Stroke Awareness Day (29 October), which the WHO set up in 2006 to raise awareness of the disease, its early signs and the importance of timely medical help. The post defines stroke as an acute disruption of blood circulation in the brain that "может произойти с каждым вне зависимости от возраста или образа жизни" (can happen to anyone regardless of age or lifestyle) [msg #767].
@@ -191,7 +231,9 @@ The post was forwarded from the channel Женщины. Инвалидность
 
 ## Tools and resources mentioned
 
-- **Telegraph article "Генетическая мутация MTHFR"** (MTHFR genetic mutation): the channel's own plain-language introduction to MTHFR, related conditions and what can be done [msg #36].
+- **Telegraph article "Генетическая мутация MTHFR"** (MTHFR genetic mutation): the channel's own plain-language longread by Настя; its content is written out under *MTHFR genetic mutation* and *What to do about MTHFR* [msg #36, article #36].
+- **Methylated B-vitamin complex, methionine, DIM**: supplements the article names as able to improve MTHFR-related symptoms; the author's verdict is "not a panacea, but a good start", to be taken only after consulting a specialist [article #36].
+- **Genetic test for MTHFR; blood tests for homocysteine and catecholamines**: the diagnostics the article says to do first [article #36].
 - **SameYou** (sameyou.org): a foundation set up by Emilia Clarke that helps women and young people with rehabilitation after stroke and brain injury [msg #767].
 - **Prismatic lenses and vision therapy**: the usual treatments for BVD, prescribed by an ophthalmologist who specialises in binocular vision [msg #349].
 
@@ -201,14 +243,18 @@ The post was forwarded from the channel Женщины. Инвалидность
 
 > "В отличие от этих неправильных диагнозов САТК можно и нужно лечить." (*Unlike these wrong diagnoses, MCAS can and should be treated.*) — channel author [msg #779]
 
+> "Однако, прием активной формы фолиевой кислоты может стать хорошим началом, если у вас есть MTHFR мутация." (*However, taking the active form of folic acid can be a good start if you have the MTHFR mutation.*) — Настя [article #36]
+
 > "Такие симптомы часто воспринимаются как стресс или переутомление, что опасно: инсульт требует немедленной медицинской помощи." (*Such symptoms are often taken for stress or overwork, which is dangerous: a stroke requires immediate medical help.*) — forwarded post [msg #767]
 
 ## Caveats, disagreements and open questions
 
 - The author says she is not a specialist: she collects and structures information and adds her own experience. Treat the self-help map and the condition descriptions as that, not as medical advice [msg #509].
 - (!) UNCLEAR: the autism comorbidity card gives no sources, sample populations or definitions. For example, it does not say which population the "57% higher diabetes risk" is compared with [img #64].
-- (!) UNCLEAR: the "44% of the planet's population" MTHFR figure has no source. The post does not say which variant it means, and the condition links are hedged as "связывают" (are linked) [msg #36].
-- (!) INCOMPLETE: the MTHFR article and the posts linked from #779 (connective-tissue disease, MCAS symptoms, POTS symptoms) were not provided [msg #36, #779].
+- (!) UNCLEAR: the "44% of the planet's population" MTHFR figure has no source. Neither the post nor the article says which variant it means, and the condition links are hedged as "связывают" (are linked) [msg #36, article #36].
+- (!) UNCLEAR: the article cites no studies for its mechanism (catecholamine build-up causing anxiety and sleeplessness) or for the claimed benefits of methylated B vitamins, methionine and DIM, and gives no doses. It hedges itself: "это не панацея" and always consult specialists first [article #36].
+- (!) UNCLEAR: the article lists serotonin among catecholamines and says food folic acid "как же как и фолат" (just like folate) is not the active form; these are reproduced as written [article #36].
+- (!) INCOMPLETE: the posts linked from #779 (connective-tissue disease, MCAS symptoms, POTS symptoms) are not part of this topic [msg #779].
 - (!) INCOMPLETE: the self-help map has no instructions, doses or priorities. It shows directions only [img #509].
 - The stroke post was forwarded from another channel. #768–#770 are its image cards and repeat the case texts. The card for Emilia Clarke leaves out the years (2011 and 2013) and the aneurysm detail that the post text gives [msg #767, img #768, img #769, img #770].
 
@@ -220,6 +266,10 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 - ★ **Генетическая мутация MTHFR (The MTHFR gene mutation)** (article) — The channel's own plain-language telegra.ph article on MTHFR, related conditions and what can be done; offered to readers. [msg #36] → <https://telegra.ph/Geneticheskaya-mutaciya-MTHFR-02-16>
 - **SameYou — charity for rehabilitation after stroke and brain injury** (website) — Website of the foundation founded by an actress after her own brain surgery; mentioned in a list of famous people who survived stroke or brain injury. [msg #767] → <https://www.sameyou.org/>
+
+### External links
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #36] → <https://t.me/neurospicyru>
 
 ## Source messages
 

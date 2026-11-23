@@ -6,6 +6,7 @@ Cross-channel domain index: every knowledge base's topics on this subject. Open 
 
 - `sources/tg-channels/na-balanse/notebooklm/sleep.md` — На балансе с Катей Стрельниковой · Sleep (~11,831 words): Sleep as the base; Sleep practice and gear
 - `sources/tg-channels/deep-mind2.0/notebooklm/sleep.md` — deep mind 2.0 · Sleep (~4,961 words): Sleep, sleep debt and caffeine
+- `sources/tg-channels/this-is-too-much/notebooklm/trauma-and-sleep.md` — This is too much · Trauma and sleep (~7,743 words): PTSD nightmares and sleep disturbances
 
 ## На балансе с Катей Стрельниковой  (`na-balanse`) — domain “Sleep”
 
@@ -42,6 +43,19 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/deep-min
 - Concepts: `sleep-hygiene`, `caffeine`, `circadian-rhythm` · also relevant to: Mind & Emotions, Nutrition
 - Resources and links: 18 resources, 4 external links (section *Resources and links* of the file) · ★ Biohacker's Handbook: Sleep (PDF); Bodyscan practice by deep mind, 15 min (SoundCloud); deep mind programmes for teams (Notion page); Jacobson progressive muscle relaxation (realmindfulness.ru); UPMC: What is sleep debt (and how it is calculated); Welcome to Deep mind Mindfulness Community (Notion page) …
 
+## This is too much  (`this-is-too-much`) — domain “Trauma and sleep”
+
+Channel skill (adopt its persona and constraints): `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+
+### PTSD nightmares and sleep disturbances
+- File: `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md` · 11 msgs · 2024-07-04..2026-10-08
+- Light version: `sources/tg-channels/this-is-too-much/notebooklm/trauma-and-sleep.md`
+- How trauma (PTSD and complex PTSD) disrupts sleep — hypervigilance, insomnia, nightmares, the disturbed cortisol rhythm (the "cup of tea" metaphor) and the brain mechanisms behind them; how ordinary nightmares differ from cPTSD nightmares; the neurobiology of the two nightmare scenarios (waking in terror vs being stuck in the nightmare); what polysomnography shows about sleep architecture and REM fragmentation in PTSD; and which methods (sleep hygiene for PTSD, the 20-minute rule, IRT, the DBT nightmare protocol, CBT-I, Lucid Dream Therapy) help and how to combine them.
+- Answers: How does trauma affect sleep and why can't traumatized people relax at night? · Why do people with PTSD wake up at 3 a.m. and can't fall back asleep? · How does disturbed sleep keep a trauma "current" and slow recovery? · How are nightmares in complex PTSD different from ordinary nightmares? · Why do some people wake up in terror from a nightmare while others get stuck in it until morning? · What happens in the brain during REM sleep and why does it matter for PTSD? · What does research show about sleep architecture, deep sleep and REM fragmentation in PTSD? · What is fear of sleep and why does avoiding sleep keep insomnia going? · What is Imagery Rehearsal Therapy and how does it work for nightmares? · What is Lucid Dream Therapy, how is it done and who should not use it? · How can IRT, DBT, CBT-I and lucid dreaming be combined to treat nightmares? · What can help someone with PTSD sleep better?
+- Frameworks: Five most common sleep problems in PTSD and cPTSD · Cortisol "cup of tea" metaphor · Three consequences of waking at 3 a.m. · Fear-conditioning and extinction-memory model of PTSD sleep · What helps to sleep with PTSD (12-point checklist incl. the 20-minute rule) · Five-dimension comparison of ordinary vs cPTSD nightmares · Two nightmare scenarios (terror-and-awakening vs stuck-in-the-nightmare) · Vicious circle of disrupted REM sleep · Imagery Rehearsal Therapy (IRT) · DBT nightmare protocol · CBT-I for insomnia in the context of nightmares · Lucid Dream Therapy (LDT) — four levels of action and five working components · Combined nightmare strategy (CBT-I + IRT/DBT + LDT) · Sleep hygiene "sleeping pills" card · Normal sleep cycle stages (N1, N2, N3, REM)
+- Concepts: `nightmares`, `sleep-hygiene`, `complex-ptsd`, `trauma-and-nervous-system`, `fear-extinction`, `cognitive-behavioral-therapy` · also relevant to: Psychiatry & Mental Health Care, Neuroscience & Cognitive Science, Psychotherapy & Inner Work
+- Resources and links: 11 resources, 1 external links (section *Resources and links* of the file) · ★ Review article on sleep and PTSD (Elsevier); Sleep problems after disasters (Journal of Traumatic Stress); Лонгрид: как травма влияет на сон и сон на травму (telegra.ph)
+
 ## Also relevant — topics filed under another area
 
 These topics' primary area is elsewhere, but they substantially teach this subject too. Read them like the topics above (same rules: the channel's skill first, then the file in full).
@@ -66,11 +80,6 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - What the channel teaches about living longer and aging well — Blue Zones and the debate over their data, Bryan Johnson and Don't Die (admiration plus skepticism toward "immortality sellers"), the KamaLama life-expectancy calculator and its factor estimates, a cohort study on genetics vs modifiable lifestyle factors after 80, the NYU finding that aging anxiety accelerates epigenetic aging, and the author's own stance of building a basic healthy lifestyle and practicing acceptance and impermanence. How the channel answers the classic "my grandfather smoked and lived to a hundred" argument — an Italian study of 148 Roman centenarians found that 83.8% never smoked, 13.5% had quit (on average at 65) and only 2.7% still smoked, and that those who kept smoking past 65 had more chronic diseases.
 - Concepts: `longevity`, `wellness-industry-critique`, `stress-and-anxiety`, `impermanence-acceptance`
 
-### Rest and recovery: vacations, year-end and weekends  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Rest & Burnout
-- File: `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/rest-recovery.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
-- Why the year-end "push through, then rest" crunch backfires, what fatigue is biologically, the 6 types of rest beyond sleep, how to design a vacation that actually restores (sandwich model rest-retreat-rest, dopamine fasting, the 4 stages of successful rest), how to make weekends work, and why "rest as a project" fails while letting go works.
-- Concepts: `rest-and-recovery`, `fatigue`, `digital-hygiene`, `energy-management`
-
 ### Brain maintenance: waste clearance, mental fatigue and Alzheimer's links  — *also relevant* · Human Gazing Upon Machine (`human-gazing-upon-machine`) · primary area: Neuroscience & Cognitive Science
 - File: `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md` · channel skill: `sources/tg-channels/human-machine/agent-kb/SKILL.md`
 - How the brain clears its metabolic waste (glymphatic flow driven by synchronized neuronal activity in deep sleep and by 40 Hz gamma stimulation), why hours of demanding mental work leave glutamate in the prefrontal cortex and tilt choices toward short-term rewards, and how the common fungus Candida albicans can enter the brain and generate amyloid-beta-like peptides linked to Alzheimer's disease.
@@ -78,6 +87,16 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 
 ### Regulating the neurodivergent nervous system  — *also relevant* · Нейропряность (`neyropryanost`) · primary area: Neurodiversity
 - File: `sources/tg-channels/neurospicy/topics/nervous-system-senses/nervous-system-regulation.md` · channel skill: `sources/tg-channels/neurospicy/agent-kb/SKILL.md`
-- How the channel explains the neurodivergent nervous system (window of tolerance, hyper- and hypoarousal, dorsal vagal shutdown, vagal tone, HRV) and the full set of up- and down-regulating practices it teaches — breathing, cold, movement, singing, touch, havening, grounding, bilateral stimulation via 8D audio — plus the author's own therapy experience of discharging hyperarousal.
-- Concepts: `trauma-and-nervous-system`, `emotional-regulation`, `somatic-regulation`, `neurodiversity`, `sleep-hygiene`
+- How the channel explains the neurodivergent nervous system (anatomy, sympathetic and parasympathetic states, ventral and dorsal vagal systems, vagal tone, HRV, window of tolerance, hyper- and hypoarousal, false regulation, dorsal vagal shutdown) and the full set of up- and down-regulating practices it teaches — breathing, cold, movement, singing, touch, havening, grounding, bilateral stimulation via 8D audio — plus the author's insomnia guide (physiological causes such as low melatonin, EDS, MCAS and MTHFR, an 8-point sleep plan and over-the-counter options to discuss with a doctor) and her therapy experience of discharging hyperarousal.
+- Concepts: `trauma-and-nervous-system`, `emotional-regulation`, `somatic-regulation`, `sleep-hygiene`, `neurodiversity`
+
+### Physical comorbidities: sleep, pain, migraine and eating  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/sensory-processing-body/neurodivergent-physical-comorbidities.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- What the channel author found and taught about the bodily problems that accompany autism (ASD/РАС) and ADHD (СДВГ): physical pain in nightmares and its link to PTSD, migraine and how to spot it in autistic people, three kinds of chronic muscle pain, connective tissue dysplasia, sleep problems and daytime sleepiness, ADHD sweet cravings and overeating, and sensory eating difficulties with medical nutrition drinks for bad days.
+- Concepts: `chronic-pain`, `sleep-hygiene`, `ehlers-danlos-hypermobility`, `eating-disorders`, `sugar-and-glucose`, `sensory-processing`
+
+### Physical comorbidities, sleep and hormones in autism and ADHD  — *also relevant* · Аутизм и СДВГ в опыте и книжках (`autizm-i-sdvg-v-opyte-i-knizhkah`) · primary area: Chronic Illness & Disability
+- File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/physical-health-body/physical-comorbidities-sleep-hormones.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
+- Which physical conditions research links to autism (GI problems, food allergies, hypermobility/hEDS, POTS, menstrual problems, fibromyalgia via central sensitization, eight kinds of sleep disorders and their causes), what a 2026 Edinburgh study found about autistic people with hypermobility, why supplements do not cure autism, how melatonin shifted delayed sleep phase in adults with ADHD, and what research says about ADHD in perimenopause.
+- Concepts: `ehlers-danlos-hypermobility`, `sleep-hygiene`, `circadian-rhythm`, `supplements`, `womens-health`, `chronic-pain`
 

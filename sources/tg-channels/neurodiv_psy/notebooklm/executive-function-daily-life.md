@@ -55,32 +55,34 @@ Skill modules trained (the full list from the card, supplemented by the text pos
 
 Outcome. Participants report that after skills training they cope better with everyday tasks and responsibilities. However, the author warns that ADHD is a complex condition that involves several parts of the brain and accompanies a person throughout life, so "улучшения не всегда линейны: бывают взлеты и падения" (improvements are not always linear: there are ups and downs) [#57].
 
-#### ADHD money-management strategies (card series "СДВГ и деньги")
-Purpose / why spending is hard with ADHD. The cover card asks "Почему мы столько тратим и как остановиться?" (Why do we spend so much and how do we stop?) [#173]. The author explains the mechanisms behind poor financial planning and unwise spending in ADHD [#173, #174]:
-- Impulsivity, difficulties with organization, forgetfulness and other problems mean people with ADHD more often end up without savings or even in debt — not to mention the difficulties of getting an education and keeping a job, which also affect income.
-- Weak non-verbal working memory — the working memory responsible for visual and any other non-speech images. Because of it a person with ADHD may find it hard to remember what their impulsive purchases led to in the past and to clearly imagine the consequences that may follow if they spend all their savings right now.
-- Emotional dysregulation — people with ADHD often suffer from it, and many unwise purchases are made under the influence of various emotions.
-The strategies below are grouped into four blocks, each addressing these mechanisms.
+#### ADHD money-management strategies ("СДВГ и деньги": card series and Telegraph longread)
+The topic was published twice in parallel: as a card carousel (#173–#178) and as a full-text Telegraph longread "СДВГ и деньги" by Юля Ан, offered for readers who prefer text to cards. The content is the same four-block set of strategies; the longread adds a few details (and the cards a few others), which are marked below [#173, article #173].
 
-Block 1 — Visualization and external cues (визуализация и внешние подсказки) — compensates for weak non-verbal working memory [#175]:
-1. Replay the past on an imagined screen. Recall situations in which it is hard for you to look ahead, and imagine some visual device — a TV, a monitor or the like. Try to picture a similar situation from the past as vividly and in as much detail as possible, and what it led to. The aim is to make the consequences of past impulsive spending concrete and visible.
-2. Use tangible visual and physical cues that help fight the urge to spend: keep a photo of the desired goal (what you are saving for), stick reminder stickers, or, conversely, find a picture that shows "не надо" (don't do it).
+Purpose / why spending is hard with ADHD. The cover card asks "Почему мы столько тратим и как остановиться?" (Why do we spend so much and how do we stop?) [#173]. The longread opens with a general framing: many people find it hard to control expenses, draw up a budget and manage finances in general, and ADHD "с его импульсивностью, сложностями с организацией и забывчивостью, не делает эту задачу легче" (with its impulsivity, organizational difficulties and forgetfulness does not make this task easier) [#173]. The author explains the mechanisms behind poor financial planning and unwise spending in ADHD [#173, #174, article #173]:
+- Impulsivity, difficulties with organization, forgetfulness and other problems mean people with ADHD more often end up without savings or even in debt — not to mention the difficulties of getting an education and keeping a job, which also affect income [#173].
+- Weak non-verbal working memory — the working memory responsible for visual and any other non-speech images. Because of it a person with ADHD may find it hard to remember what their impulsive purchases led to in the past and to clearly imagine the consequences that may follow if they spend all their savings right now. The longread restates this in Block 1 as a general difficulty: people with ADHD struggle to extract from past experience the knowledge of what will happen in the future and to picture consequences clearly [#173, #174, article #173].
+- Emotional dysregulation — people with ADHD often suffer from it, and many unwise purchases are made under the influence of various emotions; the longread names them: "радости, злости, тоски…" (joy, anger, longing/melancholy…) — i.e. not only negative emotions drive spending [#173, #174, article #173].
+The strategies below are grouped into four blocks; blocks 1 and 2 address the working-memory and emotional mechanisms respectively, blocks 3 and 4 address organization/forgetfulness and impulsivity through outside help and environmental restrictions.
 
-Block 2 — Self-regulation (саморегуляция) — addresses emotional spending [#176]:
-1. Track emotions and desires with different tools, for example a mood diary.
-2. Act when you notice the danger state. If you realize that right now your mood is gone and the desire to spend money is too strong, you can: seek support from close people; use emotional-regulation exercises (for example breathing techniques); talk to yourself and try to talk yourself out of it.
-3. Raise stress tolerance in general: sleep properly, eat properly, do physical exercise, limit caffeine, alcohol and other substances.
+Block 1 — Visualization and external cues (визуализация и внешние подсказки) — compensates for weak non-verbal working memory [#175, article #173]:
+1. Train visualization: replay the past on an imagined screen. Why: because people with ADHD find it hard to draw future-relevant knowledge from past experience, the longread says it is useful to practise visualization as a skill. How: (a) recall situations in which it is hard for you to look ahead; (b) find a calm place (the longread's step: "находим спокойное место"); (c) mentally imagine some visual device — a TV, a monitor or the like; (d) try to picture a similar situation from the past on it as vividly and in as much detail as possible, and what it led to. The longread adds the training logic: "Чем чаще визуализировать, тем легче потом будут всплывать эти образы в нужный момент" (The more often you visualize, the more easily these images will later surface at the right moment) — i.e. it is practised in advance so that the image of consequences appears automatically when the urge to buy comes [#175, article #173].
+2. Use tangible visual and physical cues that help fight the urge to spend. Keep a photo of the desired goal — the longread's examples: a holiday destination or the item you are saving for — and take it out every time you want to buy something. The cards add: stick reminder stickers. Or, conversely, find a picture that shows "не надо" (don't do it) — a deterrent image instead of a goal image [#175, article #173].
 
-Block 3 — Asking for help is not shameful (искать помощи не стыдно) [#177]:
-1. Involve a close person in budgeting. Perhaps someone close can help you draw up a budget (all monthly expenses and payments), or at least sit next to you while you do it, and remind you to pay bills. (Sitting next to someone while they do a task is the body-doubling idea named in the topic scope; the card describes it without using that term.)
+Block 2 — Self-regulation (саморегуляция) — addresses emotional spending, since because of difficulties with emotional regulation people with ADHD sometimes spend under the influence of emotions [#176, article #173]:
+1. Track emotions and urges with different tools, for example a mood diary (дневник настроения) — the point is learning to notice the emotional state and the spending urge before acting on it.
+2. Act when you notice the danger state. If you realize that right now your mood is already gone and the desire to spend money is too strong, you can: seek support from close people; use emotional-regulation exercises (for example breathing techniques); talk to yourself and try to talk yourself out of it ("говорить с собой и пытаться себя отговорить" in the longread; "пытаться переубедить" on the card).
+3. Raise stress tolerance in general: sleep properly, eat properly, do physical exercise, limit caffeine, alcohol and other substances — general resilience lowers the chance that an emotional state turns into a purchase.
+
+Block 3 — Seek help with financial planning / asking for help is not shameful (longread heading "Ищем помощи в финансовом планировании"; card heading "Искать помощи не стыдно") [#177, article #173]:
+1. Involve a close person in budgeting. Perhaps someone close can help you draw up a budget (all monthly expenses and payments), or at least sit next to you while you do it, and remind you to pay bills. (Sitting next to someone while they do a task is the body-doubling idea named in the topic scope; the source describes it without using that term.)
 2. Automate payments. Most payments can now be automated in online-banking apps, so they do not depend on memory.
-3. Look for free resources if you have financial problems: debt restructuring, credit counselling, budgeting help. The card itself ends this list with "и т.д." (an open-ended "etcetera"), so these three are the only ones the source names.
+3. Look for free resources if you have financial problems: debt restructuring, credit counselling, budgeting help. Both the card and the longread end this list with "и т.д." (an open-ended "etcetera"), so these three are the only ones the source names.
 
-Block 4 — Limiting spending and saving (ограничение расходов и сбережения) [#178]:
-1. Save at least 10% of income if possible. Create a forced-saving system: have the online-banking app debit a fixed amount every month or whenever the salary arrives.
+Block 4 — Limiting spending and saving (ограничение расходов и сбережения) [#178, article #173]:
+1. Save at least 10% of income (the card adds "если есть возможность" — *if possible*). Create a forced-saving system (система принудительного накопления): have the online-banking app debit a fixed amount every month or whenever the salary arrives, so saving happens before there is a chance to spend.
 2. Remove easy access to your card: turn off autofill and remove "default" cards in online shops, so that buying requires extra steps.
-3. Do not lend money to anyone — and if you did lend, consider it a gift from you.
-4. Unless absolutely necessary, decline offers to open a credit card, and all the more so to take a microloan (микрозайм).
+3. Do not lend money to anyone (the longread softens it: "По возможности" — *if possible*); and if you did lend, consider it a gift from you — i.e. don't count on getting it back.
+4. Unless absolutely necessary, decline offers to open a credit card; the card adds: and all the more so to take a microloan (микрозайм).
 
 #### Adult ADHD Self-Report Scale (ASRS) self-screening
 Purpose: a self-screening for adults who wonder whether they have ADHD; the guide's first part is aimed at such readers [#209]. Instructions: fill in parts A and B, marking the most fitting answer with a cross. Answer options: Никогда (never), Редко (rarely), Иногда (sometimes), Часто (often), Очень часто (very often). Scoring: if four or more marks fall into the blue cells of part A, you have signs characteristic of ADHD and further assessment is needed; part B can give additional information and context [#209].
@@ -416,7 +418,7 @@ The booklet was compiled by the ADHD Foundation independently with financial sup
 - Online skills-training groups by the channel author and Zhanna Zakharova — the author's own online ADHD skills training for adults (conflict of interest: the author's own service; enrollment details dropped as logistics) [#57].
 - Mood diary (дневник настроения) — suggested tool for tracking emotions and spending urges [#176].
 - Online-banking apps — for automating bill payments and setting up forced saving (automatic monthly or payday transfers) [#177, #178].
-- Telegraph text version of the money post — the author offers the full "ADHD and money" post as text for those who prefer text to cards [#173].
+- Telegraph longread "СДВГ и деньги" (telegra.ph/SDVG-i-dengi-09-22, by Юля Ан) — the full-text version of the money card series, offered for those who prefer text to cards; its content is reproduced in full in *ADHD money-management strategies* above [#173, article #173].
 
 - "СДВГ у взрослых" — Russian translation of the ADHD Foundation UK adult guide (PDF): self-screening, diagnosis route, executive functions, lifestyle strategies, relationships, medication, therapy; recommended by the channel for people noticing symptoms or newly diagnosed. Funded by Takeda UK [#209].
 - ASRS — self-screening questionnaire reproduced in the guide [#209].
@@ -439,6 +441,8 @@ The booklet was compiled by the ADHD Foundation independently with financial sup
 
 > "Не даем никому взаймы (если" … "дали, считайте что это подарок" (*We don't lend to anyone (if you did, consider it a gift)*) — @ia_psy [#178]
 
+> "Чем чаще визуализировать, тем легче потом будут всплывать эти образы в нужный момент." (The more often you visualize, the more easily these images will later surface at the right moment.) — Юля Ан [#173]
+
 > "СДВГ не определяет вас — это призма, через которую вы воспринимаете мир, в котором мы живем" (ADHD does not define you — it is the prism through which you perceive the world we live in) — Dr Tony Lloyd, ADHD Foundation guide [#209]
 
 > "Самый сложный и энергозатратный шаг для СДВГ мозга - это начать, сдвинуть дело “с мертвой точки”." (The hardest and most energy-consuming step for the ADHD brain is to start, to get the matter off dead centre.) — channel [#323]
@@ -459,6 +463,7 @@ The booklet was compiled by the ADHD Foundation independently with financial sup
 - The author's hedge: ADHD traits "могут лежать" (may underlie) money difficulties — presented as possible mechanisms, not certainties [#173].
 - Conflict of interest: the post on skills training ends with an advertisement for the author's own training groups [#57].
 - The saving advice is conditional: save at least 10% "если есть возможность" (if possible); decline credit cards "без крайней необходимости" (unless absolutely necessary) [#178].
+- Minor wording differences between the cards and the longread: the card puts the "if possible" hedge on saving 10% and adds the microloan warning and reminder stickers; the longread puts "По возможности" (if possible) on not lending money, adds the calm-place step and the practice rationale for visualization, and lists the emotions (joy, anger, longing) behind spending. These are not contradictions; both versions are reproduced above [#175, #178, article #173].
 
 - The guide was funded by Takeda UK (a pharmaceutical company) and reviewed by its specialists; one recommended website is Takeda-funded. The guide nevertheless repeatedly stresses that medication is only one strategy [#209].
 - The diagnosis route is UK-specific (NHS, GP referral); the translator notes other countries may differ [#209].

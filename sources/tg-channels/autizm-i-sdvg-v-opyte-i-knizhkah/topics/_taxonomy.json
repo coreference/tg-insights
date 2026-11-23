@@ -1,0 +1,1105 @@
+{
+ "domains": [
+  {
+   "domain": "Sensory processing and regulation",
+   "slug": "sensory-processing-regulation",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Sensory processing differences in autism: senses, profiles and theories",
+     "slug": "sensory-processing-differences",
+     "scope": "The eight senses (incl. interoception, proprioception, vestibular), hyper- vs hyposensitivity, sensory profiles and Dunn's model, Irlen syndrome, gravitational insecurity, and brain-level theories (predictive coding, habituation, disrupted connectivity) of autistic sensory sensitivity.",
+     "themes": [
+      "sensory processing",
+      "sensory profile",
+      "interoception",
+      "proprioception",
+      "predictive coding"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "sensory-perception",
+      "brain-connectivity",
+      "neurodiversity"
+     ],
+     "ids": [
+      3,
+      22,
+      56,
+      63,
+      65,
+      173,
+      180,
+      195,
+      225,
+      253
+     ],
+     "count": 10
+    },
+    {
+     "title": "Sensory regulation, stimming and sensory safety plans",
+     "slug": "sensory-regulation-safety-plans",
+     "scope": "Practical self-regulation of the sensory system: functions of stimming, calming techniques (deep pressure, breathing, sound, light, smell, visuals), the five-part sensory safety plan, holiday overload checks, tolerating discomfort, and useful sensory tools.",
+     "themes": [
+      "stimming",
+      "sensory soothers",
+      "sensory safety plan",
+      "sensory regulation"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "somatic-regulation",
+      "emotional-regulation",
+      "distress-tolerance",
+      "self-advocacy-accommodations",
+      "rejection-sensitivity"
+     ],
+     "ids": [
+      4,
+      24,
+      37,
+      43,
+      46,
+      47,
+      49,
+      51,
+      75,
+      159,
+      178
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Overload, demands and burnout",
+   "slug": "overload-demands-burnout",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Meltdowns and shutdowns: triggers, differences and recovery",
+     "slug": "meltdowns-shutdowns",
+     "scope": "What causes meltdowns and shutdowns, how outward loss of control differs from inward withdrawal, coping strategies (triggers, safe space, routine) and what to do after a meltdown, including how close people can help.",
+     "themes": [
+      "meltdown",
+      "shutdown",
+      "overload",
+      "recovery plan"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "meltdowns-shutdowns",
+      "emotional-regulation",
+      "sensory-processing",
+      "self-care",
+      "relationships-family"
+     ],
+     "ids": [
+      17,
+      18,
+      19,
+      58,
+      279
+     ],
+     "count": 5
+    },
+    {
+     "title": "Autistic and ADHD burnout, boom-or-bust and pacing",
+     "slug": "autistic-burnout-pacing",
+     "scope": "Autistic/neurodivergent burnout (causes, symptoms, recovery), the boom-or-bust cycle and its vulnerability factors, pacing systems (energy accounting, spoon theory, traffic light), workload norms and survey data on neurodivergent people's work resilience.",
+     "themes": [
+      "autistic burnout",
+      "boom-or-bust",
+      "pacing",
+      "work"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Energy & Resource",
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "pacing",
+      "energy-management",
+      "burnout",
+      "workplace-inclusion"
+     ],
+     "ids": [
+      23,
+      35,
+      167,
+      168,
+      169,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277
+     ],
+     "count": 15
+    },
+    {
+     "title": "Pathological demand avoidance (PDA) and the PANDA approach",
+     "slug": "pathological-demand-avoidance",
+     "scope": "The PDA profile as anxiety-driven avoidance of demands, its escalation from hidden coping to panic and meltdown, debate over whether it is a separate diagnosis, and the PANDA skill for living and communicating with demand avoidance.",
+     "themes": [
+      "pda",
+      "demand avoidance",
+      "panda"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "demand-avoidance-pda",
+      "stress-and-anxiety",
+      "meltdowns-shutdowns",
+      "neurodivergent-communication",
+      "psychiatric-diagnosis"
+     ],
+     "ids": [
+      118,
+      119,
+      130,
+      142,
+      143
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Masking, communication and social life",
+   "slug": "masking-communication-social",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Masking and camouflaging: forms, costs and measurement",
+     "slug": "masking-camouflaging",
+     "scope": "What masking is (hypervigilance, controlled self-expression, silence and shyness), how ableism and rejection sensitivity drive it, its costs (overcontrol, burnout, loss of self), the CAT-Q questionnaire with scoring, how autistic identity forms, and why girls and women with ADHD and autism are underdiagnosed.",
+     "themes": [
+      "masking",
+      "camouflaging",
+      "cat-q",
+      "unmasking"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "masking-camouflaging",
+      "autistic-burnout",
+      "self-identity",
+      "rejection-sensitivity",
+      "ableism",
+      "gender-expectations"
+     ],
+     "ids": [
+      36,
+      40,
+      41,
+      42,
+      48,
+      50,
+      53,
+      131,
+      132,
+      133,
+      140,
+      242,
+      251
+     ],
+     "count": 13
+    },
+    {
+     "title": "Autistic communication, empathy and friendship",
+     "slug": "autistic-communication-friendship",
+     "scope": "Typical autistic communication traits (literalness, infodumping, small talk), the double empathy problem and its replication, mentalizing, empathy survey results, object personification, friendship and loneliness research, autistic culture and representation, and when to apologize.",
+     "themes": [
+      "communication",
+      "double empathy",
+      "friendship",
+      "autistic culture"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "neurodivergent-communication",
+      "double-empathy",
+      "empathy",
+      "community-belonging",
+      "mentalization"
+     ],
+     "ids": [
+      8,
+      26,
+      52,
+      61,
+      64,
+      72,
+      128,
+      214,
+      240,
+      255,
+      264
+     ],
+     "count": 11
+    }
+   ]
+  },
+  {
+   "domain": "Attention, executive function and ADHD",
+   "slug": "attention-executive-function",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Executive function, autistic inertia, time perception and object permanence",
+     "slug": "executive-function-inertia-time",
+     "scope": "Executive dysfunction in autism and ADHD, types and mechanisms of attention, sluggish cognitive tempo, ADHD time perception, autistic inertia with helpers like body doubling, object permanence in relationships and conflicts, and why rest alone does not fix self-organisation.",
+     "themes": [
+      "executive function",
+      "autistic inertia",
+      "time perception",
+      "object permanence",
+      "attention"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "executive-function",
+      "focus-attention",
+      "relationships-family",
+      "neurodiversity"
+     ],
+     "ids": [
+      25,
+      29,
+      86,
+      216,
+      217,
+      224,
+      263,
+      284
+     ],
+     "count": 8
+    },
+    {
+     "title": "Hyperfocus, special interests and monotropism",
+     "slug": "hyperfocus-special-interests-monotropism",
+     "scope": "Special interests and their benefits, hyperfocus versus flow in ADHD and autism, monotropism theory, research measuring hyperfocus in autistic teens, and how autistic adults tell special interests and stims apart from OCD.",
+     "themes": [
+      "special interests",
+      "hyperfocus",
+      "monotropism",
+      "flow"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "special-interests-hyperfocus",
+      "focus-attention",
+      "executive-function",
+      "obsessive-compulsive-disorder"
+     ],
+     "ids": [
+      13,
+      89,
+      96,
+      109,
+      280,
+      283
+     ],
+     "count": 6
+    },
+    {
+     "title": "Boredom, boring tasks and mindfulness for ADHD",
+     "slug": "boredom-mindfulness-adhd",
+     "scope": "Why boredom is more frequent and painful in ADHD/ASD (apathetic vs agitated), how to make boring tasks bearable, and the evidence for and adaptations of mindfulness practice for ADHD attention.",
+     "themes": [
+      "boredom",
+      "gamification",
+      "mindfulness",
+      "adhd"
+     ],
+     "also_areas": [
+      "Meditation & Contemplative Practice",
+      "Behavior Change & Coaching"
+     ],
+     "concepts": [
+      "boredom",
+      "focus-attention",
+      "meditation-mindfulness",
+      "procrastination",
+      "motivation"
+     ],
+     "ids": [
+      192,
+      194,
+      200,
+      204,
+      222
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Understanding and diagnosing neurodivergence",
+   "slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
+     "slug": "autism-lesser-known-traits",
+     "scope": "Core ICD-11 criteria and lesser-known autism features (non-communication behaviors, echopraxia, clumsiness, selective mutism, self-reported traits), the broader autism phenotype, and aphantasia and its link to autism.",
+     "themes": [
+      "autism traits",
+      "icd-11",
+      "aphantasia",
+      "broader autism phenotype"
+     ],
+     "also_areas": [
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "psychiatric-diagnosis",
+      "aphantasia",
+      "sensory-processing",
+      "dyspraxia",
+      "neurodivergent-communication"
+     ],
+     "ids": [
+      14,
+      15,
+      16,
+      20,
+      30,
+      31,
+      33,
+      38
+     ],
+     "count": 8
+    },
+    {
+     "title": "AuDHD, differential diagnosis and self-report questionnaires",
+     "slug": "audhd-differential-diagnosis",
+     "scope": "Co-occurring autism and ADHD, autism vs bipolar disorder, ADHD vs antisocial personality, the HiTOP dimensional view, childhood ADHD and parent training, ADHD in high-IQ people, positive ADHD traits, underdiagnosis of ADHD and autism in women, and what self-report questionnaires (RAADS, MQ, ABM, CAT-Q, NIAS) can and cannot tell.",
+     "themes": [
+      "audhd",
+      "differential diagnosis",
+      "questionnaires",
+      "hitop"
+     ],
+     "also_areas": [
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "neurodiversity",
+      "bipolar-disorder",
+      "gender-expectations",
+      "masking-camouflaging",
+      "relationships-family"
+     ],
+     "ids": [
+      53,
+      57,
+      82,
+      83,
+      84,
+      90,
+      223,
+      243,
+      249,
+      288,
+      289
+     ],
+     "count": 11
+    },
+    {
+     "title": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
+     "slug": "autism-adhd-research-reading",
+     "scope": "Study summaries on the amygdala in autism, autism gene regulatory networks, early vs late diagnosis trajectories, rising diagnosis rates without an 'epidemic', online discourse on ADHD and autism, plus reviews of clinical and autistic-authored books.",
+     "themes": [
+      "research",
+      "genetics",
+      "diagnosis rates",
+      "books"
+     ],
+     "also_areas": [
+      "Science & Research",
+      "Neuroscience & Cognitive Science"
+     ],
+     "concepts": [
+      "behavioral-genetics",
+      "psychiatric-diagnosis",
+      "brain-connectivity",
+      "scientific-thinking",
+      "neurodiversity"
+     ],
+     "ids": [
+      60,
+      78,
+      203,
+      245,
+      257,
+      282,
+      285
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Emotions and alexithymia",
+   "slug": "emotions-alexithymia",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Alexithymia and interoception in autism",
+     "slug": "alexithymia-interoception",
+     "scope": "The alexithymia hypothesis of autism, how alexithymia rather than autism explains interoception differences, a behaviorist view, and a timed spoken exercise for clarifying what you feel and why.",
+     "themes": [
+      "alexithymia",
+      "interoception",
+      "emotion awareness"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "alexithymia",
+      "sensory-processing",
+      "emotional-intelligence",
+      "emotional-regulation"
+     ],
+     "ids": [
+      39,
+      176,
+      261,
+      281
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "domain": "Therapy and coping skills for neurodivergent adults",
+   "slug": "therapy-coping-skills",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "DBT for autistic adults: rationale, adaptations and evidence",
+     "slug": "dbt-for-autism",
+     "scope": "Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced dysregulation via alexithymia.",
+     "themes": [
+      "dbt",
+      "emotion dysregulation",
+      "adaptations",
+      "rct"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "dialectical-behavior-therapy",
+      "emotional-regulation",
+      "alexithymia",
+      "neurodiversity",
+      "masking-camouflaging"
+     ],
+     "ids": [
+      2,
+      170,
+      193,
+      228,
+      258,
+      266
+     ],
+     "count": 6
+    },
+    {
+     "title": "Distress tolerance and self-care skills for neurodivergent people",
+     "slug": "distress-tolerance-self-care",
+     "scope": "DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, structure, technology).",
+     "themes": [
+      "distress tolerance",
+      "stop skill",
+      "self-care"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "distress-tolerance",
+      "dialectical-behavior-therapy",
+      "self-care",
+      "emotional-avoidance"
+     ],
+     "ids": [
+      66,
+      67,
+      68,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+     ],
+     "count": 18
+    }
+   ]
+  },
+  {
+   "domain": "Co-occurring mental health conditions",
+   "slug": "co-occurring-mental-health",
+   "area": "Psychiatry & Mental Health Care",
+   "topics": [
+    {
+     "title": "Anxiety, PTSD and OCD in autistic people",
+     "slug": "anxiety-ptsd-ocd-autism",
+     "scope": "Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.",
+     "themes": [
+      "anxiety",
+      "social anxiety",
+      "ptsd",
+      "ocd"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "stress-and-anxiety",
+      "trauma-and-nervous-system",
+      "obsessive-compulsive-disorder",
+      "masking-camouflaging",
+      "cognitive-behavioral-therapy",
+      "psychiatric-diagnosis"
+     ],
+     "ids": [
+      28,
+      55,
+      62,
+      71,
+      247,
+      283
+     ],
+     "count": 6
+    }
+   ]
+  },
+  {
+   "domain": "Physical health and the neurodivergent body",
+   "slug": "physical-health-body",
+   "area": "Chronic Illness & Disability",
+   "topics": [
+    {
+     "title": "Physical comorbidities, sleep and hormones in autism and ADHD",
+     "slug": "physical-comorbidities-sleep-hormones",
+     "scope": "Research-linked physical traits (GI issues, hypermobility/EDS, POTS, fibromyalgia), sleep disorders and melatonin for delayed sleep phase in ADHD, evidence on supplements for autism, and ADHD in perimenopause.",
+     "themes": [
+      "hypermobility",
+      "sleep",
+      "supplements",
+      "perimenopause"
+     ],
+     "also_areas": [
+      "Sleep",
+      "Women's Health",
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "ehlers-danlos-hypermobility",
+      "sleep-hygiene",
+      "circadian-rhythm",
+      "supplements",
+      "womens-health",
+      "chronic-pain"
+     ],
+     "ids": [
+      32,
+      44,
+      69,
+      172,
+      286,
+      293,
+      294
+     ],
+     "count": 7
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 5,
+   "kind": "other",
+   "gist": "Photo of the author's desk as an illustration of stimming objects; no teachable text"
+  },
+  {
+   "id": 9,
+   "kind": "personal-update",
+   "gist": "Introductions of the two channel authors, Katya and Lena (therapists, Lena autistic, diagnosed at 35)"
+  },
+  {
+   "id": 10,
+   "kind": "other",
+   "gist": "Photos accompanying the previous introduction post"
+  },
+  {
+   "id": 27,
+   "kind": "announcement",
+   "gist": "Announcement of a webinar on executive dysfunction and motivation in ADHD ('Хочу хотеть'), 13 August, with link"
+  },
+  {
+   "id": 45,
+   "kind": "announcement",
+   "gist": "Feedback post asking readers for questions, topics and channel improvement ideas in comments"
+  },
+  {
+   "id": 54,
+   "kind": "announcement",
+   "gist": "Forwarded: Партнёрство РАВНЫХ opens Saturday peer support group for autistic adults on Google Meet, starting 6 Jan 2024"
+  },
+  {
+   "id": 59,
+   "kind": "announcement",
+   "gist": "Remaining spots in complex trauma therapy group with autism-specific PTSD blocks and adapted techniques; free interview, sign up via Telegram"
+  },
+  {
+   "id": 73,
+   "kind": "announcement",
+   "gist": "Poll: do you personify objects, and does it hurt or help (197 votes)"
+  },
+  {
+   "id": 74,
+   "kind": "announcement",
+   "gist": "Channel one-year anniversary, 560 subscribers, request to share and send feedback"
+  },
+  {
+   "id": 76,
+   "kind": "announcement",
+   "gist": "Channel expands to ADHD; psychiatrist Alina Safi joins; invitation to ask her questions in comments"
+  },
+  {
+   "id": 85,
+   "kind": "announcement",
+   "gist": "Announcement of June 10 live stream on ADHD+ASD with Foer, Klimochkina, Safi: hyperfocus, sensory profiles, contradictory traits"
+  },
+  {
+   "id": 87,
+   "kind": "announcement",
+   "gist": "Quiz poll: what is hyperfocus (flow, attention disorder, obsession etc.; 298 votes)"
+  },
+  {
+   "id": 88,
+   "kind": "announcement",
+   "gist": "Quiz poll: who experiences hyperfocus (everyone, ASD, ADHD, schizophrenia etc.; 324 votes)"
+  },
+  {
+   "id": 91,
+   "kind": "logistics",
+   "gist": "Reminder of June 10 AuDHD live stream; invitation to post wishes in comments"
+  },
+  {
+   "id": 95,
+   "kind": "announcement",
+   "gist": "Recording of the ADHD+ASD live stream (video not available in export); sources in comments"
+  },
+  {
+   "id": 103,
+   "kind": "promo",
+   "gist": "Promo/description of Toximeter Telegram bot that analyzes texts for toxicity, discrimination and gaslighting, with examples"
+  },
+  {
+   "id": 117,
+   "kind": "announcement",
+   "gist": "Teaser asking readers to guess the next post topic (meme: 'I just really didn't want to come')"
+  },
+  {
+   "id": 129,
+   "kind": "announcement",
+   "gist": "Announcement of July 15 live stream on masking with three therapists; questions invited"
+  },
+  {
+   "id": 134,
+   "kind": "promo",
+   "gist": "Cross-promo of the authors' second channel 'This is too much' (BPD, C-PTSD, bipolar) with favorite post links"
+  },
+  {
+   "id": 139,
+   "kind": "announcement",
+   "gist": "Recording of the masking stream (video not available); request for questions to answer in a text"
+  },
+  {
+   "id": 141,
+   "kind": "announcement",
+   "gist": "Announcement of Sept 12 online conference 'Нейроотличники' and call for speakers with life hacks; application deadline Aug 2"
+  },
+  {
+   "id": 144,
+   "kind": "announcement",
+   "gist": "Launch of Floritas ('Цветочки') project with training programs, skills trainings and courses for specialists and clients (CPTSD, bipolar, ADHD DBT skills, impulsivity, parents of ADHD kids)"
+  },
+  {
+   "id": 145,
+   "kind": "announcement",
+   "gist": "Announcement of new version of unmasking strategies with a sensory-profile questionnaire and masking-level test by Autentik"
+  },
+  {
+   "id": 146,
+   "kind": "logistics",
+   "gist": "Enrollment for 8-session ADHD skills training for clients starting 10 Oct 2024, Thursdays 19:00"
+  },
+  {
+   "id": 147,
+   "kind": "announcement",
+   "gist": "Announcement of 'Нейроотличники' Lived Experience conference on 12 Sept with list of speakers and topics"
+  },
+  {
+   "id": 148,
+   "kind": "logistics",
+   "gist": "Reminder of upcoming Floritas programs (CPTSD, ADHD emotion regulation, ADHD environment) and therapist contacts"
+  },
+  {
+   "id": 151,
+   "kind": "logistics",
+   "gist": "Timed program of the 'Нейроотличники' conference with talk titles"
+  },
+  {
+   "id": 152,
+   "kind": "announcement",
+   "gist": "Thanks after the first conference; Zoom participant limit hit, recording to follow"
+  },
+  {
+   "id": 153,
+   "kind": "announcement",
+   "gist": "Announcement of two CPTSD DBT skills programs (5 and 10 months), with CPTSD symptom checklist, learning goals and prices"
+  },
+  {
+   "id": 154,
+   "kind": "logistics",
+   "gist": "Link to the YouTube recording of the 'Нейроотличники' conference"
+  },
+  {
+   "id": 155,
+   "kind": "announcement",
+   "gist": "Announcement of live stream on flashbacks vs intrusive thoughts vs nightmares in PTSD/CPTSD in the second channel"
+  },
+  {
+   "id": 157,
+   "kind": "promo",
+   "gist": "Colleagues launch behavioral skills training for parents of children with emotional and behavioral difficulties"
+  },
+  {
+   "id": 158,
+   "kind": "promo",
+   "gist": "Forwarded reminder from a parenting channel: parent training starts in 7 days, two groups, sign-up form"
+  },
+  {
+   "id": 160,
+   "kind": "announcement",
+   "gist": "Poll on which pre-recorded online course readers want (body image, sensory, emotion regulation, workspace, self-organization, impulsivity)"
+  },
+  {
+   "id": 161,
+   "kind": "logistics",
+   "gist": "Webinar 'Is it really ADHD?' on 4 Oct 19:00: ADHD types, diagnosis, overlap with emotional disorders"
+  },
+  {
+   "id": 162,
+   "kind": "logistics",
+   "gist": "Forwarded reminder of free online ADHD support group meetings, funded by the ADHD-pharmacy initiative"
+  },
+  {
+   "id": 163,
+   "kind": "logistics",
+   "gist": "Last-call: 10-month trauma program full, 5-month still has spots"
+  },
+  {
+   "id": 164,
+   "kind": "promo",
+   "gist": "Directory of online and in-person peer support groups from nonprofit 'Партнерство равных' for bipolar, ADHD, BPD, anxiety, ASD, eating disorders"
+  },
+  {
+   "id": 165,
+   "kind": "announcement",
+   "gist": "Announcement of ADHD stream on 4 Oct with Alina Safi on ADHD types and differential diagnosis; image shows Safren's cognitive-behavioral ADHD model"
+  },
+  {
+   "id": 166,
+   "kind": "logistics",
+   "gist": "Link to recording of the ADHD webinar"
+  },
+  {
+   "id": 171,
+   "kind": "promo",
+   "gist": "Recommendation of Telegram channel 'Маша does therapy' on hypercontrol-related disorders"
+  },
+  {
+   "id": 174,
+   "kind": "announcement",
+   "gist": "Call for speakers for second 'Нейроотличники' conference on 6 Dec; lived-experience only, failures welcome, experts asked to refrain"
+  },
+  {
+   "id": 175,
+   "kind": "announcement",
+   "gist": "Short video explaining what autism is, for people who know little about it"
+  },
+  {
+   "id": 177,
+   "kind": "announcement",
+   "gist": "Announcement of DBT-for-ASD roundtable on 15 Nov with talk on ASD and CPTSD; PTSD symptoms in 32-45% of autistic people vs 4-4.5% general"
+  },
+  {
+   "id": 179,
+   "kind": "announcement",
+   "gist": "Not enough speaker applications for conference; proposes inviting non-psychologists or a theme on childhood and motherhood with neurodivergence"
+  },
+  {
+   "id": 181,
+   "kind": "announcement",
+   "gist": "Invitation to second 'Нейроотличники' conference on 6 Dec at 12:00 MSK as a Telegram live stream"
+  },
+  {
+   "id": 182,
+   "kind": "logistics",
+   "gist": "Program of the second conference with ten talk titles (meltdowns, unmasking, time perception, ARFID, etc.)"
+  },
+  {
+   "id": 184,
+   "kind": "announcement",
+   "gist": "Poll asking whether readers will attend the conference"
+  },
+  {
+   "id": 186,
+   "kind": "announcement",
+   "gist": "Second conference held despite trolls; recording to come, ARFID talk as afterparty, manual chat approval due to spam"
+  },
+  {
+   "id": 187,
+   "kind": "logistics",
+   "gist": "Posted ARFID talk by Diana Salakhova with links to adult ARFID and ASD support groups"
+  },
+  {
+   "id": 188,
+   "kind": "announcement",
+   "gist": "Poll on timing for a workshop on neurodivergent burnout"
+  },
+  {
+   "id": 189,
+   "kind": "logistics",
+   "gist": "Webinar on neurodivergent burnout on 27 Dec (950 RUB); describes burnout vs tiredness and the planned checklist and exercises"
+  },
+  {
+   "id": 190,
+   "kind": "logistics",
+   "gist": "Link to YouTube recording of the second conference"
+  },
+  {
+   "id": 191,
+   "kind": "announcement",
+   "gist": "2024 year-in-review index of channel posts with most popular posts and view counts"
+  },
+  {
+   "id": 196,
+   "kind": "logistics",
+   "gist": "Enrollment reminder for DBT skills training for autistic clients (7 signed up, 3 spots left, starts 5 March)"
+  },
+  {
+   "id": 197,
+   "kind": "announcement",
+   "gist": "Call for participants for a documentary about life with ADHD, ASD and other neurodivergence (Moscow, unpaid), announced for subscriber Bariyat"
+  },
+  {
+   "id": 198,
+   "kind": "announcement",
+   "gist": "Webinar 'Виноваты вещи' on decluttering and organizing space with ADHD, 28 March, 950/2500 RUB, with Alina Safi and Egor Proshutsky"
+  },
+  {
+   "id": 202,
+   "kind": "logistics",
+   "gist": "Repeat of the registration form link for the decluttering webinar"
+  },
+  {
+   "id": 205,
+   "kind": "announcement",
+   "gist": "Intro to a forwarded MHC training announcement for parents and child professionals"
+  },
+  {
+   "id": 206,
+   "kind": "promo",
+   "gist": "Forwarded from Mental Health Center: 2-day paid mini-course for parents on a child seeing porn or violent video at school (29 Mar and 12 Apr, 6000/10500 RUB)"
+  },
+  {
+   "id": 207,
+   "kind": "announcement",
+   "gist": "Meme 'Какой я стул?' reminding to join the decluttering webinar today"
+  },
+  {
+   "id": 208,
+   "kind": "promo",
+   "gist": "Cross-promo of the sister channel 'This is too much' (BPD, cPTSD, emotion regulation) and two posts on depersonalization"
+  },
+  {
+   "id": 209,
+   "kind": "promo",
+   "gist": "Recommendation of the meme channel 'Нейроотличные картинки' with a translated tumblr meme album (doctor visit, kindness of over-explaining, awareness month, missing hunger cues, AuDHD routines)"
+  },
+  {
+   "id": 215,
+   "kind": "announcement",
+   "gist": "Friends' announcement: calm support group for neurodivergent people led by Lena Movshina, 6 meetings every 2 weeks, 4500 RUB/month, starts 24 April"
+  },
+  {
+   "id": 218,
+   "kind": "announcement",
+   "gist": "Launch of the authors' book on complex PTSD ('Травма: что она с нами делает...'), where to buy, and a 6 June presentation stream"
+  },
+  {
+   "id": 219,
+   "kind": "announcement",
+   "gist": "Forwarded from Lena Movshina: survey on work experience of autistic and ADHD people, 15-25 min, goal 700+ responses"
+  },
+  {
+   "id": 220,
+   "kind": "logistics",
+   "gist": "Announcement of the 6 June 18:00 MSK live stream celebrating the complex PTSD book in @bpdflowers"
+  },
+  {
+   "id": 221,
+   "kind": "promo",
+   "gist": "Promo of MHC Summer School 21-24 August at Ethnomir with listed speakers and topics"
+  },
+  {
+   "id": 226,
+   "kind": "promo",
+   "gist": "Recommendation of friends' ADHD course druzia.club, praising 10-minute lessons, support meetings and Q&A sessions"
+  },
+  {
+   "id": 227,
+   "kind": "promo",
+   "gist": "Forwarded course ad 'Все в порядке' for adults with ADHD-like struggles: starts 14 Sept, 80 short videos, weekly support meetings, 3 expert Q&As"
+  },
+  {
+   "id": 229,
+   "kind": "announcement",
+   "gist": "Short endorsement of Lena Movshina's lab ahead of the forwarded announcement"
+  },
+  {
+   "id": 230,
+   "kind": "announcement",
+   "gist": "Forwarded announcement of the Neurodivergent Work Lab (2nd cohort, starts 20 Sept, 5 Saturdays, 18500/26500 RUB) with neuroinclusive format, traffic-light pacing and 'instruction manual to work with me'"
+  },
+  {
+   "id": 239,
+   "kind": "announcement",
+   "gist": "Author built a Telegram bot for the Emotional Empathy Scale (EES, Mehrabian) with score -132 to 132; asks 80+ takers to compile results"
+  },
+  {
+   "id": 244,
+   "kind": "announcement",
+   "gist": "Call to fill in a survey where autistic people describe masking, overload, stimming and routines in their own words"
+  },
+  {
+   "id": 250,
+   "kind": "promo",
+   "gist": "Forwarded ad for a 12-session CBT-based ADHD skills training for adults (Nov 2025-Feb 2026, price and schedule)"
+  },
+  {
+   "id": 256,
+   "kind": "promo",
+   "gist": "Recommendation of the Russian YouTube channel RASDVigaya granitsy by psychologist Natalya Obryadina on cPTSD, sleep and eating disorders in neurodivergent people"
+  },
+  {
+   "id": 259,
+   "kind": "promo",
+   "gist": "Forwarded ad for a 12-session CBT-based ADHD skills training for adults (Apr-Jul 2026, price and schedule)"
+  },
+  {
+   "id": 260,
+   "kind": "promo",
+   "gist": "Promo for Elisey Osin's course on child and adolescent psychiatry with free intro lecture, dates May 25-July 6"
+  },
+  {
+   "id": 262,
+   "kind": "announcement",
+   "gist": "Announcement of a free two-day festival (June 13-14) on hyper-control, with a short note on why autistic and ADHD people are prone to it"
+  },
+  {
+   "id": 267,
+   "kind": "announcement",
+   "gist": "Forwarded webinar announcement: adapting job search for neurodivergent people (Sept 23, free, registration link)"
+  },
+  {
+   "id": 287,
+   "kind": "promo",
+   "gist": "Channel author announces open online individual therapy slots (CBT/DBT, ASD/ADHD adults)"
+  },
+  {
+   "id": 290,
+   "kind": "promo",
+   "gist": "Promotion of a podcast and upcoming course by Eliseý Osin on neurodevelopment in children, mechanism-focused 'no labels' approach"
+  },
+  {
+   "id": 241,
+   "kind": "announcement",
+   "gist": "Last-minute announcement of the 12-week online DBT emotion-regulation skills training for autistic adults starting 8 Oct (Wednesdays 20:00 MSK, 3500 RUB per session), with program description"
+  },
+  {
+   "id": 246,
+   "kind": "promo",
+   "gist": "Channel authors Katya Klimochkina and Lena Foer announce open slots for CBT/DBT therapy clients, with links to their therapist profiles and prices"
+  },
+  {
+   "id": 252,
+   "kind": "announcement",
+   "gist": "Announcement of a new stream of the DBT emotion-regulation training for autistic adults from mid-January (Wednesdays 20:00 MSK, 3500 RUB per session), with how DBT is adapted for ASD"
+  },
+  {
+   "id": 254,
+   "kind": "announcement",
+   "gist": "Reminder that the DBT skills training group for autistic adults starts in February 2026 (12 sessions, Wednesdays, 3500 RUB per session); program and join details"
+  },
+  {
+   "id": 265,
+   "kind": "announcement",
+   "gist": "Announcement of a new DBT emotion-regulation skills training stream for autistic adults starting 14 Oct 2026 (12 Wednesdays, 3500 RUB per session)"
+  },
+  {
+   "id": 278,
+   "kind": "announcement",
+   "gist": "Enrollment for a 26-week online DBT skills plus group prolonged exposure training for complex PTSD starting 5 Oct 2026; describes cPTSD symptoms and program content"
+  }
+ ]
+}

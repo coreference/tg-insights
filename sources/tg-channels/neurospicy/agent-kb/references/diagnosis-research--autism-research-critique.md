@@ -3,9 +3,9 @@ kb: neyropryanost
 domain: Recognizing Autism and ADHD: Diagnosis and Research
 topic: Reading autism and ADHD research critically
 slug: autism-research-critique
-messages: 7
+messages: 8
 date_range: 2024-04-20..2025-09-23
-summary: What the channel taught about the biology of autism (under- and over-connectivity theories, the salience network in infants, four fMRI-based connectivity subtypes, genetics and incomplete penetrance) and how it critically takes apart popular claims and studies — the Z944 mouse "cure", the autism / vulnerable-narcissism study, the paracetamol claim, and Ozempic for ADHD.
+summary: What the channel taught about the biology of autism (under- and over-connectivity theories, the salience network in infants, four fMRI-based connectivity subtypes, genetics and incomplete penetrance) and how it critically takes apart popular claims and studies — the Z944 mouse "cure", the autism / vulnerable-narcissism study, the paracetamol claim, and Ozempic for ADHD. Why brain scans (MRI, CT, fMRI, EEG) are still not used to diagnose psychiatric conditions or neurodivergence — the three standardization criteria (sensitivity, standardization, specificity) that neuroimaging does not yet meet, the failed replication of a PTSD brain-biomarker study, the validity limits of DSM categories, and three possible future paths for biomarker-based diagnosis.
 answers:
   - What are the hypo-connectivity and hyper-connectivity theories of autism?
   - What did recent infant brain studies find about the salience network and autism risk?
@@ -17,18 +17,30 @@ answers:
   - Does paracetamol (Tylenol) in pregnancy cause autism?
   - Is there evidence that Ozempic helps ADHD?
   - How do I critically read a sensational study about autism?
+  - Why isn't an MRI or brain scan used to diagnose autism, ADHD or other psychiatric conditions?
+  - What are sensitivity, standardization and specificity of a diagnostic test?
+  - Can a brain scan tell ADHD apart from PTSD, anxiety or depression?
+  - Can a clinic diagnose ADHD from a brain scan, as Daniel Amen's clinics do?
+  - What happened when Yale tried to replicate the Harvard/Emory PTSD brain-activity study?
+  - What is the difference between reliability and validity of diagnostic criteria?
+  - Why can two people with completely different symptoms both get a major depressive disorder diagnosis?
+  - How might neuroimaging biomarkers change psychiatric diagnosis in the future?
 frameworks:
   - Hypo-connectivity vs hyper-connectivity theories of autism
   - Four-step pipeline used to derive autism connectivity subtypes (ABIDE fMRI study)
   - Five critical limitations of the Z944 mouse study (checklist for reading "autism cure" headlines)
   - Five omissions of the autism / vulnerable narcissism study (checklist for reading self-report comorbidity studies)
   - Incomplete penetrance and modifying factors between mutation and phenotype
+  - Three standardization criteria a diagnostic method must meet (sensitivity, standardization, specificity) and why neuroimaging fails each
+  - Reliability vs validity of diagnostic categories
+  - Three possible paths of development for biomarker-based psychiatric diagnosis
 themes:
   - autism
   - neuroscience
   - genetics
   - research-literacy
   - adhd
+  - diagnosis
 terms:
   - РАС (расстройство аутистического спектра) | autism spectrum disorder, ASD | 130, 317
   - НТ / НО | neurotypical / neurodivergent (нейротипичный / нейроотличный) | 317
@@ -48,6 +60,16 @@ terms:
   - PNI-52 | Pathological Narcissism Inventory, tool separating grandiose and vulnerable narcissism | 725
   - гСЭД (ДСТ), СПОТ, САТК | hEDS (connective tissue disorder), POTS, MCAS | 718, 755
   - Оземпик | Ozempic, a drug used mainly for type 2 diabetes, discussed for possible effects on ADHD | 57
+  - нейровизуализация | neuroimaging: brain-scanning tools such as MRI, CT (and EEG) used to compare brain work between groups | 192
+  - чувствительность | sensitivity: the method's ability to register differences between health and illness | 192
+  - стандартизация | standardization: every element of the test protocol is clearly specified so that results from different labs are comparable | 192
+  - специфичность | specificity: a test's ability to correctly identify healthy people who do not have the disease | 192
+  - дифференциальная диагностика | differential diagnosis: telling one disorder apart from another | 192
+  - биомаркеры | biomarkers: measurable biological signs that could reveal biological causes of mental disorders instead of symptom-based diagnosis | 192
+  - надежность | reliability: different clinicians reach the same diagnosis from the same symptoms | 192
+  - валидность | validity: diagnostic categories reflect the true nature of mental disorders | 192
+  - нозология | nosology: the diagnostic classification system | 192
+  - БДР (большое депрессивное расстройство) | major depressive disorder, MDD | 192
 people:
   - Настя | channel author who wrote the Ozempic post and forwarded the connectivity note | 57, 130
   - Human Gazing Upon Machine | source channel of the forwarded neuroscience notes on connectivity and subtypes | 130, 317
@@ -56,12 +78,21 @@ people:
   - Stanford Medicine | authors of the Z944 mouse study in Science Advances | 718
   - Donald Trump | made the claim that paracetamol is linked to autism, citing the Amish | 755
   - Andrew Wakefield (Эндрю Уэйкфилд) | author of the fabricated 1990s vaccines-autism study | 755
+  - Яна J | author of the Telegraph longread on why brain scans are not used for psychiatric diagnosis | 192
+  - На спектре | source channel the post was forwarded from | 192
+  - Daniel Amen (Даниэл Амен) | runs clinics where patients are diagnosed with ADHD based on brain scans; cited as an example of scan-based diagnosis attempts | 192
+  - Ziv Ben-Zion (Зив Бен-Цион) | one of the authors of the Yale replication study; quoted on what the inconsistent results mean | 192
+  - National Institute of Mental Health (Национальный институт психического здоровья) | launched the multi-billion biomarker-search project | 192
 ---
 # Reading autism and ADHD research critically
 
 ## What this covers
 
 This topic gathers the channel's science explainers on the biology of autism — connectivity theories, infant salience-network findings, fMRI-derived autism subtypes and autism genetics — together with its critical breakdowns of specific studies and public claims: the Stanford Z944 mouse study, a study linking autism and vulnerable narcissism, the paracetamol-causes-autism claim, and the idea of Ozempic for ADHD. The recurring lesson according to the source is that autism is heterogeneous, that correlation is not mechanism, that sensational headlines overstate narrow findings, and that a single study's data cannot be generalized to all autistic people [msg #130, #317, #658, #718, #725, #755, #57].
+
+This part adds a new sub-theme to the topic: **why brain scanning (MRI, CT, functional neuroimaging, EEG) is still not used to diagnose mental disorders or neurodivergence**, even though scans have been used in psychiatric research for more than 30 years. It comes from a longread by Яна J, forwarded from the channel "На спектре" [msg #192, article #192]. According to the source it matters because nearly every scientific article compares brain activity of people with and without a diagnosis, which makes it look as if scans "see" the diagnosis — the article explains the objective reasons why that impression does not yet translate into a diagnostic tool [article #192].
+
+**Relation to the existing knowledge file.** The existing file covers studies that find group differences in brain connectivity (hypo-/hyper-connectivity, the infant salience network, the four ABIDE fMRI subtypes) and teaches a checklist for reading sensational studies. This part *extends* that material with a general explanation of why such group-level brain differences cannot yet be used to diagnose an individual: overlap between groups, non-comparable protocols, lack of specificity across disorders, and failed replication. It adds a further, concrete replication example (Harvard/Emory vs Yale PTSD study) to the critical-reading toolkit. It does not contradict the earlier posts, but it puts the fMRI subtype study [msg #317] in context: group-level neural patterns found in research are a long way from validated diagnostic markers [article #192].
 
 ## Core ideas
 
@@ -72,6 +103,12 @@ This topic gathers the channel's science explainers on the biology of autism —
 - **Sensational "cure" or "comorbidity" headlines usually rest on narrow studies** (mice with one mutation; self-report questionnaires with unbalanced groups) whose limitations the channel lists item by item [msg #718, #725].
 - **Paracetamol does not cause autism**; the author sees the claim as a correlation confound and as part of a pattern of blaming mothers, comparable to Wakefield's fabricated vaccine study [msg #755].
 - **Ozempic for ADHD is still unproven**: there is not yet enough research to be confident of its success in correcting ADHD symptoms [msg #57].
+
+- **Neuroimaging is widely used in research but not in diagnosis, for objective reasons**: it does not yet meet the three criteria that accepted diagnostic tools had to meet — sensitivity, standardization and specificity (see *Three standardization criteria*) [article #192].
+- **Group differences do not equal individual diagnosis**: brain structure and activity vary a lot within the healthy group and within the diagnosed group, and the two distributions overlap [article #192].
+- **Specificity is the main obstacle** in the author's view: the same brain-activity pattern (e.g. amygdala changes) appears in several disorders, so a scan cannot tell one diagnosis from another — and differential diagnosis is what psychiatrists actually need [article #192].
+- **Biomarker findings do not yet replicate**: a large PTSD brain-cluster finding by Harvard and Emory was not reproduced by a Yale team on Israeli data [article #192].
+- **The diagnostic categories themselves are reliable but of questionable validity**, so they cannot be expected to map neatly onto brain changes; biomarker diagnosis would require rebuilding the categories (see *Three possible paths*) [article #192].
 
 ## Frameworks, models and step-by-step methods
 
@@ -148,6 +185,44 @@ What was missed — the five omissions [msg #725]:
 
 What can be said for certain (author's conclusion): autistic adults without intellectual disability show a high correlation with hypersensitivity to criticism, avoidance, shame and guilt, but this cannot be directly attributed to vulnerable narcissism, because no in-depth clinical interview differentiating other possible diagnoses/co-factors was done. Hence the results are insufficient to claim that autism and vulnerable narcissism are comorbid, and they cannot be transferred to the whole autistic population given the unbalanced samples. A clearer picture of the comorbidity of autism and covert narcissism requires more precise data including a full diagnostic interview and a comprehensive mental-health examination. She adds that autistic people are not immune from having a personality disorder (НРЛ) or vulnerable narcissism; the point is only that the data of *this particular study* cannot be read as unambiguous truth about comorbidity. She invites feedback on the breakdown format and ideas for future breakdowns [msg #725].
 
+### Three standardization criteria a diagnostic method must meet — and why neuroimaging fails each
+Purpose: the author explains that generally accepted diagnostic tools are accepted "не просто так" (*not for nothing*). There are enormous numbers of people with very varied symptoms, and singling out the correct diagnosis so as to choose effective treatment is hard. So that anyone can go to any of thousands of psychiatrists anywhere in the world, describe their symptoms and receive the correct diagnosis, tools for so-called standardization of diagnostic methods were worked out over decades. The article discusses three of them — sensitivity, standardization, specificity — and says neuroimaging currently has serious problems with each [article #192].
+
+1. **Sensitivity to the difference between health and illness (Чувствительность).**
+   - *How it is done now:* where neuroimaging is used — in research or in attempts at diagnosis (the example given is Daniel Amen's clinics, where patients receive an ADHD diagnosis based on the scan) — the comparison is between two groups: people with a given mental disorder and a healthy group [article #192].
+   - *What is wrong with it:* the results of such comparisons are "не очень показательны" (*not very indicative*). Although the accuracy and reliability of brain scans have improved thanks to new data-analysis methods and better images, scans of specific individuals show considerable variability. Even within one group — sick or healthy — brain structures and their activity differ strongly. Moreover, the data distributions of sick and healthy people often overlap, which makes the data hard to use for diagnosis [article #192].
+   - *Lesson:* a statistically significant group difference does not tell you which group an individual belongs to [article #192].
+
+2. **Standardization (Проблема стандартизации).**
+   - *What it means:* before a new diagnostic method enters practice it must be standardized — in the context of diagnostic tests this means every element of the study protocol is clearly written out, so results from different laboratories are comparable [article #192].
+   - *What is wrong now:* protocols vary greatly, especially in **functional** neuroimaging, where results depend on the tasks patients perform. A patient's brain activity can differ depending on whether they are resting, processing emotional stimuli (e.g. looking at frightening faces) or solving cognitive tasks (e.g. task-switching) [article #192].
+   - *Consequence:* these protocol differences make it harder to find universal markers for psychiatric conditions [article #192].
+
+3. **Specificity of neuroimaging results (Специфичность)** — "на мой скромный взгляд" (*in my humble view*), the author says, the main barrier to introducing new diagnostic tools [article #192].
+   - *Definition:* specificity is a test's ability to correctly identify healthy people who do not have the disease. In plain words: if the test says "healthy" to someone who really is not ill, the test has high specificity [article #192].
+   - *Worked example:* if a test for a disease has 90% specificity, 90% of people who do not have the disease get the correct result ("healthy") and 10% get a false positive ("ill" though they are not) [article #192].
+   - *Why it looks fine at first:* brain activity of neurotypical people without mental disorders really does differ from that of people with a diagnosis [article #192].
+   - *Where it fails — differential diagnosis:* the question is whether scans can tell one disorder from another. The author asks rhetorically whether amygdala hyperactivation would guarantee "синдром гиперактивности" (*hyperactivity syndrome*), or whether the same activity would be seen in someone with PTSD, an anxiety disorder or specific phobias. In real practice psychiatrists rarely face the question "is this person healthy or ill with a specific disorder"; usually they try to distinguish between several possible diagnoses [article #192].
+   - *The core problem:* distinctive brain-activity patterns of one disorder can resemble those of others. Example given: amygdala changes associated with anxiety disorders are also observed in depression and bipolar disorder. This substantially lowers the specificity of neuroimaging as a diagnostic method [article #192].
+   - *Additional problem:* although some studies compare several psychiatric disorders, they often use different protocols and analysis methods, so results are hard to compare. As a result there is not yet enough data on the specificity of neuroimaging methods for accurately diagnosing different psychiatric conditions [article #192].
+
+### Reliability vs validity of diagnostic categories
+Purpose: the article's second, "more bureaucratic" set of obstacles. Current diagnostic tools and criteria did not appear from nowhere: they were developed over decades and follow strict rules, and this must be considered when discussing neuroimaging as a diagnostic tool [article #192].
+
+- **Reliability (надежность):** different clinicians should reach the same diagnosis from the same symptoms. In terms of reliability, modern systems (for example the DSM) get better with each edition [article #192].
+- **Validity (валидность):** diagnostic categories reflect the true nature of mental disorders. This remains problematic: psychiatric disorders are still not studied well enough to speak of full scientific grounding of the categories [article #192].
+- **Example — major depressive disorder (БДР):** for the diagnosis a patient must have at least one of two core symptoms (depressed mood or loss of interest in life) plus at least four of eight additional symptoms. So two patients with completely different sets of symptoms can receive the same MDD diagnosis [article #192].
+- **Shared symptoms across disorders:** many symptoms — impulsivity, emotional lability, impaired concentration — occur in different mental disorders, which complicates building clear diagnostic categories [article #192].
+- **Consequence for neuroimaging:** current psychiatric categories do not always reflect natural groupings of mental disorders, so one cannot expect them to correspond strictly to brain changes detected by neuroimaging [article #192].
+- **Author's forecast:** given the amount of effort and money invested in neuroimaging research, the author supposes things are heading toward diagnosis of mental disorders by biomarkers "уже весьма скоро" (*quite soon*). But she considers it absolutely obvious that this would lead not just to revising existing diagnostic criteria but to a global restructuring of all diagnostic categories [article #192].
+
+### Three possible paths of development for biomarker-based psychiatric diagnosis
+The article lists three possible ways things could develop ("Какие возможны пути развития") [article #192]:
+
+1. **Biomarkers emerging from psychopathology research.** Research may identify characteristic changes in brain function that are highly diagnostic [article #192].
+2. **Changes to the diagnostic system (nosology).** If neuroimaging can clearly define patient categories based on brain-function disturbances, those categories may not coincide with current DSM categories. The categories would then have to be revised — either gradually or through a more radical restructuring of the system. For example, the criteria for specific disorders could change, or a new classification system could be proposed [article #192].
+3. **Revolutionary changes in diagnosis.** Some scientists already consider that the current category system is not absolute truth, and its validity is actively debated. If new methods such as neuroimaging fundamentally change the understanding of psychiatric conditions, new diagnostic categories could be created. For example, patients could be assessed along different functional dimensions of brain work instead of falling into rigid diagnostic categories as now [article #192].
+
 ## Detailed insights
 
 ### The paracetamol-autism claim
@@ -164,6 +239,20 @@ What can be said for certain (author's conclusion): autistic adults without inte
 - The full article content is not in the input (only the teaser and an image with the two words Оземпик (Ozempic) and СДВГ (ADHD)) — (!) INCOMPLETE: the mechanism and evidence discussed in the article are not available here [msg #57, img #57].
 - Caveat the author attaches: the article invites readers to get acquainted with the information available so far, but "у нас всё еще нет достаточного количества исследований для того, чтобы быть уверенными в успешности препарата в контексте корректировки симптомов СДВГ" (*we still do not have enough research to be confident of the drug's success in correcting ADHD symptoms*). Readers are invited to share their experience respectfully [msg #57].
 
+### Case study: the PTSD brain-cluster study that did not replicate
+The author uses this as a concrete practical example of the specificity/standardization problems [article #192].
+- **Context:** "совсем недавно (зимой 2023 года)" (*very recently, in winter 2023*) a large study was carried out. The US National Institute of Mental Health had launched a multi-billion project to search for biomarkers that could reveal biological causes of mental disorders — precisely as an alternative to symptom-based diagnosis [article #192].
+- **Original study (Harvard and Emory University):** scientists studied brain activity of patients admitted to US emergency departments after traumatic events. Activity was measured while participants performed different tasks, including ones testing reactions to threat and reward. They found a cluster of brain activity that showed high reactivity both to threats and to reward signals and seemed to predict more severe PTSD symptoms in the future [article #192].
+- **Replication attempt (Yale University):** a Yale team tried to reproduce the result using brain-scan data from patients who had recently experienced traumatic events in Israel. They could not reproduce it: they did find the brain-activity clusters described in the earlier study, but those clusters showed no link to future development of PTSD symptoms [article #192].
+- **Explanations offered for the inconsistency** (they echo the criteria above): (1) differences in samples — patients in Israel may have had different social or cultural features that could have affected how they perceived and reacted to trauma; (2) data-collection methods and experimental conditions may have differed, which could have affected results [article #192].
+- **The scientists' conclusion** (quoted): even though brain activity can be observed with tools like MRI, translating these data into clear diagnostic criteria requires more precise and universal models [article #192].
+- **Ziv Ben-Zion's interpretation:** the mismatch does not mean one study is right and the other wrong; it shows that current methods for studying brain activity and its link to mental illness still need significant development [article #192].
+- **What happened next:** the Yale researchers are now working with the original team to merge the datasets and identify common brain-activity patterns associated with trauma responses [article #192].
+- **Lesson drawn by the author:** using biomarkers to diagnose mental disorders is still at a very rudimentary stage. This does not mean the idea of neuroimaging as a diagnostic tool is inherently inapplicable — only that integrating such a tool is complex and lengthy [article #192].
+
+### Scan-based ADHD diagnosis in practice
+The only named real-world example of scan-based diagnosis is Daniel Amen's clinics, where patients are given an ADHD diagnosis based on scanning. The article places this under the sensitivity problem: such practice relies on sick-vs-healthy group comparisons whose results are not very indicative for individuals because of within-group variability and overlapping distributions. The article does not evaluate the Amen clinics further [article #192].
+
 ## Practical playbook
 
 A reading checklist distilled strictly from the questions the channel asks of studies (each item is drawn from the breakdowns above) [msg #718, #725, #755, #317]:
@@ -177,6 +266,13 @@ A reading checklist distilled strictly from the questions the channel asks of st
 - Do group averages explain individual differences (cf. step 1 of the subtype study)? [msg #317]
 - Are there long-term safety data and is informed consent possible for proposed "treatments"? [msg #718]
 
+Additions to the topic's critical-reading checklist, drawn from this article [article #192]:
+- When a study reports a brain difference between a diagnosed group and controls, ask whether the individual-level distributions overlap — a group difference is not a diagnostic test [article #192].
+- Ask what task participants were doing during functional imaging (rest, emotional stimuli, cognitive tasks): results from different protocols are not directly comparable [article #192].
+- Ask whether the finding was compared against *other* disorders, not only against healthy controls — otherwise its specificity is unknown [article #192].
+- Ask whether the finding has been replicated in another sample (different country/culture, different data-collection conditions) [article #192].
+- Remember that a diagnostic label (e.g. MDD) can cover very different symptom sets, so brain findings tied to a category may not map onto a natural group [article #192].
+
 ## Evidence and numbers
 
 - ABIDE subtype study: 254 ASD vs 295 NT participants, resting-state fMRI, 3 dimensions, 4 subtypes [msg #317].
@@ -184,6 +280,11 @@ A reading checklist distilled strictly from the questions the channel asks of st
 - Cntnap2 mutation ≈ 1% of human ASD cases; Z944 study in male mice only [msg #718].
 - Narcissism study: 87 autistic adults vs 1,487 controls; 28.7% of autistic participants above the pathological narcissism threshold [msg #725].
 - Wakefield vaccine study: 12 children, no significance [msg #755].
+
+- Neuroimaging has been actively used in mental-disorder research for more than 30 years [article #192].
+- 90% specificity = 90% of disease-free people correctly labelled "healthy", 10% false positives [article #192].
+- MDD criteria: at least 1 of 2 core symptoms + at least 4 of 8 additional symptoms [article #192].
+- NIMH biomarker project described as multi-billion ("многомиллиардный"); the Harvard/Emory study dated winter 2023 [article #192].
 
 ## Tools and resources mentioned
 
@@ -195,6 +296,10 @@ A reading checklist distilled strictly from the questions the channel asks of st
 - **Autism Research (Wiley) study on narcissistic vulnerability in autistic adults** — verdict: insufficient to claim comorbidity [msg #725].
 - **Assessment instruments named:** DSM-5, ADOS-2, AQ, RAADS-R, EQ (autism); PNI-52 (narcissism) [msg #725].
 
+- **Telegraph longread "Почему сканирование мозга (МРТ, КТ) до сих пор не используют для диагностики психических расстройств"** (*Why brain scanning (MRI, CT) is still not used to diagnose mental disorders*) by Яна J, forwarded from "На спектре" — the source of everything in this part; an explainer of diagnostic-test criteria and the limits of neuroimaging [msg #192].
+- **DSM** — named as the diagnostic system whose reliability improves with each edition but whose validity remains debated [article #192].
+- **Daniel Amen's clinics** — example of diagnosing ADHD from brain scans, presented under the problems of the approach [article #192].
+
 ## Notable quotes
 
 > "Сошлись на том, что есть и то, и другое. Но вскоре разошлись в том, где именно" (*They agreed that there is both. But soon diverged on where exactly*) — Настя [msg #130]
@@ -202,6 +307,16 @@ A reading checklist distilled strictly from the questions the channel asks of st
 > "Исследование скорее открывает новые вопросы, чем даёт готовые ответы и уж тем более "лечение"." (*The study opens new questions rather than giving ready answers, let alone a "treatment".*) — Нейропряность [msg #718]
 > "Напоминаю, что я не специалист. Всегда критически относитесь к информации в интернете, перепроверяйте источники и факты." (*A reminder that I am not a specialist. Always treat information on the internet critically, re-check sources and facts.*) — Нейропряность [msg #725]
 > "Теперь еще и ни в чем невиноватым парацетамолом будут упрекать." (*Now they'll also reproach the completely innocent paracetamol.*) — Нейропряность [msg #755]
+
+> "Даже внутри одной группы – будь то больные или здоровые люди – мозговые структуры и их активность сильно различаются." (*Even within one group — whether ill or healthy people — brain structures and their activity differ strongly.*) — Яна J [article #192]
+
+> "На самом деле в реальной практики психиатры не так часто сталкиваются с вопросом «здоров ли человек или болен конкретным расстройством». Обычно они пытаются различить между несколькими возможными диагнозами." (*In real practice psychiatrists do not often face the question "is the person healthy or ill with a specific disorder". Usually they try to distinguish between several possible diagnoses.*) — Яна J [article #192]
+
+> "«Несмотря на то, что мы способны наблюдать за активностью мозга с помощью таких инструментов, как МРТ, перевод этих данных в чёткие диагностические критерии требует более точных и универсальных моделей»." (*"Although we can observe brain activity with tools such as MRI, translating these data into clear diagnostic criteria requires more precise and universal models."*) — the researchers, as quoted in the article [article #192]
+
+> "«несоответствие результатов не говорит о том, что одно исследование верное, а другое ошибочное. Оно указывает на то, что текущие методы исследования мозговой активности и связи с психическими заболеваниями всё ещё требуют значительного развития»." (*"the inconsistency of results does not mean one study is right and the other wrong. It indicates that current methods of studying brain activity and its link to mental illness still require significant development."*) — Ziv Ben-Zion [article #192]
+
+> "Это не значит, что сама идея применения нейровизуализации как инструмента диагностики по природе своей не применима. Это лишь означает, что процесс интеграции такого инструмента сложный и длительный." (*This does not mean that the very idea of using neuroimaging as a diagnostic tool is inherently inapplicable. It only means that integrating such a tool is a complex and lengthy process.*) — Яна J [article #192]
 
 ## Caveats, disagreements and open questions
 
@@ -212,6 +327,12 @@ A reading checklist distilled strictly from the questions the channel asks of st
 - The comorbidity concerns in the Z944 critique (MCAS reaction to the drug) are presented as a possibility ("может"), not a finding [msg #718].
 - The causal direction between RT hyperactivity and autistic behaviour is open [msg #718].
 
+- The judgement that specificity is the main barrier is explicitly the author's own view ("на мой скромный взгляд") [article #192].
+- (!) UNCLEAR: the rhetorical example asks whether amygdala hyperactivation would point to "синдром гиперактивности" (*hyperactivity syndrome*); the article does not explain why amygdala activity would be associated with hyperactivity specifically, and the wording may be a slip — the point being made is only that the same pattern appears across PTSD, anxiety and phobias [article #192].
+- (!) INTERNAL TENSION: the article first lists strong obstacles (overlap, non-standard protocols, low specificity, failed replication, invalid categories) yet forecasts that biomarker diagnosis will come "весьма скоро" (*quite soon*), reasoning from the money and effort invested rather than from results; it also says this would require a global restructuring of all categories [article #192].
+- The article gives no citations or study titles for the Harvard/Emory and Yale studies, and no figures beyond those listed; the funding amount is given only as "multi-billion" [article #192].
+- Relation to earlier posts: the fMRI subtype study [msg #317] reported subtypes validated against genetics and behaviour; this article's criteria (individual overlap, protocol dependence, cross-disorder specificity, replication) are the questions that study would still need to answer before any diagnostic use — the channel itself does not make this link explicitly [article #192].
+
 ## Resources and links
 
 Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
@@ -221,6 +342,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - ★ **Gazing upon (Telegram channel) post 464 — summary of a study on attention to sensations vs. social cues** (article) — Original post of another channel that the author's note is based on, continuing the discussion on how attention to sensation and movement may borrow from social attention; offered for the full text. [msg #130] → <https://t.me/gazing_upon/464>
 - ★ **ScienceDaily (2024): UCLA Health study on salience network connectivity in infants with elevated autism likelihood** (article) — News summary of UCLA Health findings that infants at typical vs. elevated chance of autism differ in salience network links with prefrontal areas; cited as recent evidence. [msg #130] → <https://www.sciencedaily.com/releases/2024/05/240522225218.htm>
 - ★ **Какое отношение Оземпик имеет к СДВГ? (What does Ozempic have to do with ADHD?)** (article) — The channel's own article summarising the emerging discourse on Ozempic and ADHD symptoms, with a caution that research is still insufficient; offered as a critical overview. [msg #57] → <https://teletype.in/@neurospicyru/OMyl0_pRdaL>
+- ★ **Почему МРТ и КТ не используют для диагностики психических расстройств (Why brain scans are not used to diagnose mental disorders)** (article) — Telegra.ph article shared by the channel on the limits of neuroimaging in psychiatric diagnosis; useful for reading research critically. [msg #192] → <https://telegra.ph/Pochemu-skanirovanie-mozga-MRT-KT-do-sih-por-ne-ispolzuyut-dlya-diagnostiki-psihicheskih-rasstrojstv-09-09>
 - ★ **Autism Research (Wiley, aur.3065): grandiose and vulnerable narcissism in autistic adults without intellectual disability** (study) — The study the post summarises; the author, who notes she is not a specialist, urges readers to check sources critically. [msg #725] → <https://onlinelibrary.wiley.com/doi/epdf/10.1002/aur.3065>
 - ★ **Nature Medicine 2023 (s41591-023-02408-2): genetics of autism, around 185 associated genes** (study) — Research paper cited for the finding that variants in at least 185 genes are associated with autism; used to stress association rather than causation. [msg #658] → <https://www.nature.com/articles/s41591-023-02408-2>
 - ★ **PMC4843767: research article on brain connectivity in autism (infant studies)** (study) — Scientific paper cited for the decision to study infants to exclude confounding factors such as age and experience in autism connectivity research. [msg #130] → <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843767>
@@ -239,4 +361,4 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ## Source messages
 
-#57, #130, #317, #658, #718, #725, #755
+#57, #130, #192, #317, #658, #718, #725, #755

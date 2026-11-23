@@ -91,7 +91,46 @@ BANI is presented as "новый более точный способ описа
 
 Studying this framework can be a useful support in the new reality. The accompanying meme: "Я УЖЕ ПРИВЫК K VUCA-МИРУ!" (I've already got used to the VUCA world!) — "ДА, НО МЫ ЖИВЕМ В BANI-МИРЕ" (Yes, but we live in a BANI world) [#619, img #619].
 
-(!) INCOMPLETE: the posts name the four properties but the detailed explanations sit in a linked Telegraph article and a Netology article that are not part of the source.
+Origin and claim (deep mind's Telegraph longread "Переход из VUCA в BANI мир" — Transition from the VUCA to the BANI world). The concept of the BANI world was proposed by the futurologist the article names "Жаме Кассио" (Jamais Cascio). He suggests that the VUCA world — a popular idea in the army and in business since 2007–2008 — stopped describing current reality because the world itself became much more complex. The article states the purpose of the framework: "Фреймворк BANI поможет лучше понимать будущее и послужит опорой в хаосе" (The BANI framework will help understand the future better and will serve as a support in chaos). BANI properties are, per the article, a more fitting description than VUCA properties of the current situation, of people's emotional state and of general interconnections; they began to show vividly from 2020 and will only intensify in the near future [#619].
+
+VUCA vs BANI comparison (image card in the article). The card contrasts the two acronyms [#619]:
+- VUCA — dated "From the 1980s", "shaped by the Cold War"; serves to describe a situation of "ambiguity and complexity"; letters: Volatile, Uncertain, Complex, Ambiguous; labelled „WORN-OUT".
+- BANI — dated "From 2020", "shaped by climate and global systemic change"; serves to describe the situation of "the Next Generation of Business"; letters: Brittle, Anxious, Non-linear, Incomprehensible; labelled „UP TO DATE".
+(!) CONTRADICTION: the article text says VUCA has been popular "с 2007-2008 года" (since 2007–2008) and lasted "чуть меньше 20 лет" (a little under 20 years), while the card dates VUCA "From the 1980s" [#619].
+
+The four properties explained in full [#619]:
+
+1. B — Brittle — Хрупкий (fragile).
+   - *What it means.* You cannot really rely on things that are fragile by nature. A brittle world means that any systems, ways of acting and organisations we are used to can collapse at any moment. On the surface systems can seem very stable, even unshakeable — and they may truly be so right up until a new disruptive technology or a black swan appears [#619].
+   - *Why fragility arises.* Today it comes from the dissonance between what a system shows on the surface and the foundation it actually rests on. To a large extent this dissonance is a consequence of companies chasing profit or political regimes chasing a pretty information picture. Because of this imbalance, crises that used to affect only one state or region now affect the whole world: "Нет ничего надежного, и никто не защищен." (Nothing is reliable, and no one is protected.) [#619]
+   - *What helps.* Living with the fragility of states and organisations of any scale calls for resilience skills or resilience systems. "Soft" side: meta-skills for developing the resilience of the nervous system and increasing the psyche's resources. "Hard" solutions named: (a) new decentralised WEB 3.0 systems that let you distribute your data outside companies or states without risk of losing it or having it blocked; (b) new-wave services that help talent move freely around the world, quickly obtaining legal status in different countries; (c) organised cloud/local horizontal communities that help people with close values solve any problems. The article points here to deep mind's own mindfulness and crypto communities as examples of such support [#619].
+
+2. A — Anxious — Беспокойный (anxious).
+   - *What it means.* The uncertainty of the VUCA world has turned into constant anxiety and even fear. An anxious world keeps everyone in stress all the time. It is impossible to predict what will happen next; we more often feel helpless and do not understand how to make decisions. "Тревожность становится основной болезнью." (Anxiety is becoming the main illness.) [#619]
+   - *Amplifier — the media stream.* We become ever more dependent on news and the constant media flow; this information, which increasingly consists of propaganda and fakes, only strengthens the sense that the world is unsafe and feeds our anxiety [#619].
+   - *What people do in a state of anxiety* (four behaviours listed): (1) they live expecting the next catastrophe or cataclysm; (2) they become more passive so as not to make wrong decisions; (3) they feel despair over missed opportunities; (4) they experience unbearable sensations when individual people can uncontrollably make decisions affecting them or whole countries [#619].
+   - *Psychological consequence.* From a psychological point of view this reality increases the risk that mental traumas form or are actualised. However, skilful actions can also foster psychological resilience [#619].
+   - *Who wins.* In an anxious world those will win who manage to develop stable mindfulness skills — specifically stress resistance and healing themselves and their teams from mental traumas — and those who can look at the future positively without denying problems. The article links this to deep mind's work helping teams reduce employee stress and gain emotional resilience [#619].
+
+3. N — Nonlinear — Нелинейный (nonlinear).
+   - *What it means.* A nonlinear world does not let you establish clear links between causes and effects, for example between our actions and their result. Because the world has become more interconnected, understanding the consequences of each separate phenomenon becomes ever harder; events have a systemic effect, influencing everything and everyone at once [#619].
+   - *Implication.* Reaching a goal requires numerous systemic actions, because (three features listed): (1) small decisions start to carry disproportionate weight in the overall result — from each such decision we can get either incredible losses or enormous benefit; (2) changes lead to consequences with long delays that become obvious only after time; (3) a lot of effort does not guarantee a significant result [#619].
+
+4. I — Incomprehensible — Непостижимый (incomprehensible).
+   - *What it means.* The nonlinear results of various causes and phenomena create a big gap in our ability to understand what is happening and to foresee changes. We lose the ability to grasp the causes of events, because they more often lie somewhere deep in the past or not at all in the sphere logic points to [#619].
+   - *Consequence.* The world becomes incomprehensible, which makes it impossible to build a complete picture of what is going on: "Все знания всегда неполноценны. Данных всегда не хватает." (All knowledge is always incomplete. There is never enough data.) All decisions are made under uncertainty, and every step is always taken by feel ("на ощупь" — groping) [#619].
+   - *Why more information does not help* (three-point argument): (1) what matters is detecting valuable signals, not taking in the increased information noise; (2) meanwhile our biological sensitivity and ways of reacting to information have not changed; (3) therefore a lot of information is more likely to overload our nervous system and lower the ability to make quality decisions [#619].
+   - *Possible way out.* Perhaps the solution will be the development of artificial intelligence, which will take over part of the information-processing tasks in the future (framed as "Возможно" — possibly) [#619].
+
+The response to each letter. "Каждая буква акронима BANI предлагает некоторый ответ на вызовы нового мира." (Each letter of the BANI acronym offers some answer to the challenges of the new world.) [#619]
+- If something has become brittle — we can increase resilience (card: "Brittleness requires capacity & resilience").
+- If we feel anxiety — we can increase mindfulness, empathy and compassion (card: "Anxiety asks for empathy & mindfulness").
+- If something has become nonlinear — it requires context and adaptivity (card: "Nonlinearity calls for context & adaptivity").
+- With incomprehensibility — increase transparency and intuitiveness (card: "Incomprehensibility demands transparency & intuition") [#619].
+
+What the BANI frame gives (closing image card). It allows a more accurate account of current circumstances; it paves the way for an approach to make the world more comprehensible again; and it creates opportunities to meet each of these challenges appropriately [#619].
+
+How long BANI will last. The VUCA world lasted a little under 20 years, but the speed of change keeps growing, and it is quite possible that we will say goodbye to the BANI world in some 5 years. Probably, living through this turbulence will let humanity create foundations for a more stable and resilient world in the future (the article's own hedges: "вполне возможно", "Вероятно") [#619].
 
 The extended version (a deep mind article for Netology) proposes three concrete adaptation solutions [#645]:
 1. Work with your inner state ("работать со своим внутренним состоянием") [#645].
@@ -275,7 +314,9 @@ Moscow hub specifics (50 companies): three challenges Moscow respondents specifi
 - Lynda Gratton, "Redesigning Work" — the research behind the four future employee demands [#797].
 - Dan Koe's X article on the collapse of stable careers [#1734].
 - Texterra article on post-materialist youth [#48].
-- deep mind articles on BANI (Telegraph) and its extended version in Netology [#619, #645].
+- deep mind Telegraph longread "Переход из VUCA в BANI мир" — the full explanation of the four BANI properties, their remedies and VUCA/BANI comparison cards; reproduced in *BANI and three adaptation solutions* [#619].
+- deep mind article in Netology on the BANI world — extended version with the three adaptation solutions [#645].
+- WEB 3.0 decentralised systems, talent-mobility services and horizontal communities — named in the BANI article as "hard" resilience solutions for a brittle world (no specific products named) [#619].
 
 ### Notable quotes
 
@@ -297,6 +338,10 @@ Moscow hub specifics (50 companies): three challenges Moscow respondents specifi
 
 > "Здоровое сострадание и внимание к деталям помогают нам ценить друг друга и снижают напряжение." (Healthy compassion and attention to detail help us value each other and reduce tension.) — Inna Laletina [#396]
 
+> "Тревожность становится основной болезнью." (Anxiety is becoming the main illness.) — deep mind BANI article [#619]
+
+> "Каждая буква акронима BANI предлагает некоторый ответ на вызовы нового мира." (Each letter of the BANI acronym offers some answer to the challenges of the new world.) — deep mind BANI article [#619]
+
 > "Платят не за присутствие, а за вклад, перспективу, способность думать и создавать." (People are paid not for presence but for contribution, perspective, the ability to think and create.) — after Dan Koe [#1734]
 
 > "Но, возможно, лучше смотреть на это поле, как на некий новый язык, а не на инструкцию." (But perhaps it's better to look at this field as a kind of new language rather than an instruction.) — channel author [#1734]
@@ -309,7 +354,7 @@ Moscow hub specifics (50 companies): three challenges Moscow respondents specifi
 - Full remote is not presented as ideal: it is described as hard and leading many to burnout, and isolation is forecast to strain mental state [#161, #282].
 - Conflict of interest: several forecasts are followed by the statement that they make deep mind's educational and consulting products more in demand [#365, #370].
 - The solo-preneurship thesis is explicitly limited by context: it reflects an America-centric worldview and may sound like fantasy or violence for people under authoritarianism who are in survival/stabilisation mode [#1734].
-- (!) INCOMPLETE: points 2 and 3 of the hybrid-team trust model [#396]; detailed BANI explanations and adaptation methods [#619, #645]; the startup remote-work infographic [#282]; several garbled PwC charts [#211].
+- (!) INCOMPLETE: points 2 and 3 of the hybrid-team trust model [#396]; how to carry out the three Netology adaptation solutions (that article was not saved) [#645]; the startup remote-work infographic [#282]; several garbled PwC charts [#211].
 
 ### Resources and links
 
@@ -318,6 +363,7 @@ Every link and file shared in this topic's posts. Resources can be used directly
 #### Resources
 
 - ★ Netology blog: the BANI world (2022) (article) — Article with more detail on BANI and its leadership implications. [#645] → <https://netology.ru/blog/04-2022-bani-world>
+- ★ Reminder Media: Trauma (part 1) (article) — Article on how trauma physically changes the brain and nervous system and gene expression. [#619] → <https://reminder.media/post/trauma-1>
 - ★ Texterra: the new pain of the economy, youth don't want to consume like normal people (article) — Russian article on generational theories and young people's consumption, shared as useful for understanding trends. [#48] → <https://texterra.ru/blog/novaya-bol-ekonomiki-molodezh-ne-khochet-potreblyat-kak-normalnye-lyudi.html?utm_referrer=https%3A%2F%2Fzen.yandex.com>
 - ★ Transition from VUCA to BANI world (telegra.ph) (article) — Article on the BANI framework (brittle, anxious, nonlinear, incomprehensible); recommended as a support for the new reality. [#619] → <https://telegra.ph/Perehod-iz-VUCA-v-BANI-mir-03-29>
 - ★ Visual Capitalist: 2021 predictions, expert consensus (article) — Consensus of expert forecasts for 2021, including attention to employee wellbeing and economic recovery. [#370] → <https://www.visualcapitalist.com/2021-predictions-consensus-experts/>
@@ -337,7 +383,7 @@ Every link and file shared in this topic's posts. Resources can be used directly
 
 - ★ Jason Fried and David Heinemeier Hansson — Remote: Office Not Required (Russian edition, MIF) (book) — Recommended as the basic book on remote work; link to publisher's store page. [#161] → <https://www.mann-ivanov-ferber.ru/books/paperbook/remote-office-not-required/>
 - ★ Lynda Gratton — Redesigning Work: How to Transform Your Organization and Make Hybrid Work for Everyone (book) — Book by the London Business School professor whose research underlies the post's trends in employee demands; link to Amazon. [#797] → <https://www.amazon.com/Redesigning-Work-Transform-Organization-Management/dp/0262544989>
-- deep mind (Telegram channel @mindfulleadersrussia) (channel) — The author's own Telegram channel, used as the signature link in posts. [#1014, #1734] → <https://t.me/mindfulleadersrussia>
+- deep mind (Telegram channel @mindfulleadersrussia) (channel) — The author's own Telegram channel, used as the signature link in posts. [#619, #1014, #1734] → <https://t.me/mindfulleadersrussia>
 - deep mind asynchronous programme (emotion regulation) (course) — Link to the authors' asynchronous course including neuro-practices for regulating intense emotions; sold by the authors. [#797] → <https://bit.ly/3aqOYlI>
 - Ивент от наших парнетров - 21.03. 15:00 (profile) [#161] → <https://www.facebook.com/events/664773847675205/>
 - Инна Лалетина (profile) [#396] → <https://www.instagram.com/inna_processwork/>

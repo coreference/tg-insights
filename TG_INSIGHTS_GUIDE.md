@@ -1,6 +1,6 @@
 # TG Insights — guide to the whole setup
 
-*Generated 2026-11-21 18:24 from `tg-archivist/docs/guide_template.md` plus the live state of the library. Do not edit `TG_INSIGHTS_GUIDE.md` or `guide.html` by hand — edit the template and run `python3 tg-archivist/archivist.py sync`.*
+*Generated 2026-11-23 11:08 from `tg-archivist/docs/guide_template.md` plus the live state of the library. Do not edit `TG_INSIGHTS_GUIDE.md` or `guide.html` by hand — edit the template and run `python3 tg-archivist/archivist.py sync`.*
 
 ## 1. What this is
 
@@ -15,7 +15,7 @@ Three things you can do with it: **add knowledge** (new channels, or newer expor
 | Screen | What it is for | Open |
 |---|---|---|
 | **Knowledge Hub** | Front door to all channels: search and browse any subject across every knowledge base | [hub.html](hub.html) |
-| **Channel library** (one per channel) | Read one channel's topics; every citation unfolds the original message | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) · [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) · [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) · [Нейропряность](sources/tg-channels/neurospicy/library.html) · [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) |
+| **Channel library** (one per channel) | Read one channel's topics; every citation unfolds the original message | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) · [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) · [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) · [Нейропряность](sources/tg-channels/neurospicy/library.html) · [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) · [Читаю мысли](sources/tg-channels/chitayu-mysli/library.html) · [This is too much](sources/tg-channels/this-is-too-much/library.html) · [Аутизм и СДВГ в опыте и книжках](sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html) |
 | **Archivist** | Add a new Telegram export or append a newer one; watch progress | start it (see 4A), then [http://127.0.0.1:8765](http://127.0.0.1:8765) |
 | **This guide** | How everything works | [guide.html](guide.html) · for agents: `TG_INSIGHTS_GUIDE.md` |
 
@@ -49,6 +49,7 @@ Inside a source folder (here a channel folder, `sources/tg-channels/<channel>/`)
 |---|---|---|
 | `raw-exports/<export>/` — e.g. `raw-exports/ChatExport_2026-07-16/` (`messages*.html`, `photos/`, `files/` …), one folder per export, the oldest is the original, later ones are appended | The Telegram exports themselves — the canonical place for the raw material is always `sources/<source type>/<source>/raw-exports/<export>/` | Yes — never modified |
 | `parsed/messages.jsonl`, `parsed/media_text.jsonl` | Verbatim messages; text transcribed from images and PDFs | Derived by code from the exports |
+| `linked/telegraph/<page>/` (`article.md`, `page.json`, `img-NN.*`), `parsed/linked_text.jsonl` | Saved copies of the Telegraph longreads the posts link to: full text, images with their OCR text, the raw page; one row per post and article (4K) | Yes — raw source, never modified once saved; not published |
 | `parsed/index.jsonl`, `topics/_taxonomy.json` | Per-post cards; the topic tree — each topic with its scope, posts, and cross-channel tags (`also_areas`, `concepts`) | Written by workers, validated by code |
 | `work/tagging/` | `archivist.py tag` work order, input and the tag proposal to review (`tags.proposal.md`) | Working files |
 | `work/resources/_resources.json` | How every link and attached file shared in the posts is classified — resource / external link / skip, type, title, note, ★ recommended — written by the `resources` stage from validated work orders | Source of truth (written by code; edit a title, note or class here and `sync` if one is wrong) |
@@ -74,7 +75,7 @@ Inside a source folder (here a channel folder, `sources/tg-channels/<channel>/`)
 
 6. When it finishes, the channel appears in the hub, the cross-channel index and the guide automatically.
 
-What the build does, in order: recon → parse → media text → cards (each post classified; announcements, logistics and promotion are excluded) → taxonomy (topics, the cross-channel area of each domain, and for every topic its *also-relevant areas* and *concepts* — see 4H) → extract (full-insight knowledge files, checked mechanically for depth) → retag (each topic's tags and scope re-checked against its extracted knowledge — see 4H) → resources (every link and attached file of the posts classified as resource or external link — see 4I) → profile (channel persona and constraints) → assemble → QA → index.
+What the build does, in order: recon → parse → media text → linked longreads (every Telegraph article the posts link to is saved in full — see 4K) → cards (each post classified; announcements, logistics and promotion are excluded) → taxonomy (topics, the cross-channel area of each domain, and for every topic its *also-relevant areas* and *concepts* — see 4H) → extract (full-insight knowledge files, checked mechanically for depth) → retag (each topic's tags and scope re-checked against its extracted knowledge — see 4H) → resources (every link and attached file of the posts classified as resource or external link — see 4I) → profile (channel persona and constraints) → assemble → QA → index.
 
 ### B. Append a newer export of a channel you already have
 
@@ -120,13 +121,14 @@ How an agent is expected to behave (the protocol in `KNOWLEDGE_INDEX.md`): start
 
 ### F. Check something against the original
 
-In a channel library, click the citation chip. For text search across originals use the library's search box. Files: `parsed/messages.jsonl` (message text), `parsed/media_text.jsonl` (text from images and PDFs).
+In a channel library, click the citation chip. For text search across originals use the library's search box. Files: `parsed/messages.jsonl` (message text), `parsed/media_text.jsonl` (text from images and PDFs), `linked/telegraph/<page>/article.md` (the saved full text of a linked Telegraph longread; in the library it is shown under its post).
 
 ### G. Keep it healthy
 
 - `python3 tg-archivist/archivist.py doctor` — lists anything stale, missing, unfinished, untagged (topics without concepts) or inconsistent (tags not in `concepts.json`, `also_areas` not in `areas.json`), with the command that fixes each.
 - `python3 tg-archivist/archivist.py tag "<channel folder>" | --all [--apply]` — propose / apply cross-channel tags for existing topics (see 4H).
 - `python3 tg-archivist/archivist.py concepts list` — every concept with its number of topics and channels; `concepts merge FROM INTO [--apply]` folds a duplicate concept into another; `concepts rename FROM TO [--label "…"] [--apply]` renames one (see 4H).
+- `python3 tg-archivist/archivist.py linked "<channel folder>" | --all [--refresh]` — saves the Telegraph longreads the posts link to now (normally the `linked` stage does it); `doctor` lists links that could not be fetched yet (see 4K).
 - `python3 tg-archivist/archivist.py sync` — regenerates every derived document that is out of date (hub, indexes, guide, libraries, study packs, skill packs, QA reports).
 - `python3 tg-archivist/archivist.py list` / `status "sources/tg-channels/<channel>"` — progress.
 - **Moved or renamed a folder?** Keep every knowledge base in `sources/<source type>/<source>/` and its exports in `raw-exports/`, then run `python3 tg-archivist/archivist.py relocate --all` (a dry run that shows what will change) and `relocate --all --apply`. It finds each knowledge base by its slug, re-points the registry, the configuration, every stored media path (parsed messages, text from images, the resource classifications) and the work orders, then regenerates the documents. `doctor` reports a knowledge base that needs it, and any export folder lying outside `raw-exports/`. Moving the whole library folder needs nothing: all stored paths are relative.
@@ -169,13 +171,24 @@ Where they show up: the end of every topic's knowledge file (*Resources and link
 
 ### J. Publish the library to GitHub (the public copy)
 
-The library folder is a git repository whose remote is the public GitHub repository. Only the **synthesized knowledge** is published: the root documents (`hub.html`, `guide.html`, `README.md`, `KNOWLEDGE_INDEX.md`, `TG_INSIGHTS_GUIDE.md`, `areas.json`, `concepts.json`, `knowledge_index.json`, `kb_registry.json`) and `index/`; and per channel `library.html`, `README.md`, `SUMMARY.md`, `glossary.md`, `people.md`, `99_qa_report.md`, `_profile.md`, `topics/`, `notebooklm/`, `agent-kb/`, `resources/`. Never published: the toolkit (`tg-archivist/`, `Start Archivist.command`), `CLAUDE.md`, `.claude/`, raw exports, the original posts (`library-messages.js`), `parsed/`, `work/` and the state files. Published files contain no machine-specific paths: every path is relative to the library root.
+The library folder is a git repository whose remote is the public GitHub repository. Only the **synthesized knowledge** is published: the root documents (`hub.html`, `guide.html`, `README.md`, `KNOWLEDGE_INDEX.md`, `TG_INSIGHTS_GUIDE.md`, `areas.json`, `concepts.json`, `knowledge_index.json`, `kb_registry.json`) and `index/`; and per channel `library.html`, `README.md`, `SUMMARY.md`, `glossary.md`, `people.md`, `99_qa_report.md`, `_profile.md`, `topics/`, `notebooklm/`, `agent-kb/`, `resources/`. Never published: the toolkit (`tg-archivist/`, `Start Archivist.command`), `CLAUDE.md`, `.claude/`, raw exports, the saved longreads (`linked/`), the original posts (`library-messages.js`), `parsed/`, `work/` and the state files. Published files contain no machine-specific paths: every path is relative to the library root.
 
-1. `python3 tg-archivist/archivist.py publish` — dry run: refreshes anything stale (`sync`), then lists what would change (added / modified / deleted), the **problems** that block publishing (a file outside the public set, a machine-specific path, a library that still embeds the original posts, a file over 50 MB, a required file missing) and **warnings** from `doctor` (e.g. a channel still being built — its finished topics are published, the rest show as *not extracted yet*).
+1. `python3 tg-archivist/archivist.py publish` — dry run: refreshes anything stale (`sync`), then lists what would change — judged against the canonical `.gitignore` that `--apply` will write, so a newly excluded folder (e.g. `linked/`) is not reported as a problem (added / modified / deleted), the **problems** that block publishing (a file outside the public set, a machine-specific path, a library that still embeds the original posts, a file over 50 MB, a required file missing) and **warnings** from `doctor` (e.g. a channel still being built — its finished topics are published, the rest show as *not extracted yet*).
 2. `python3 tg-archivist/archivist.py publish --apply [-m "message"]` — rewrites `.gitignore` from `tg-archivist/lib/public.py`, (re)installs the git **pre-commit guard**, commits everything in the public set and pushes. A new channel is included automatically (every `sources/<type>/<source>/` folder follows the same rules).
 3. If the push is refused with *Invalid username or token*, the stored GitHub token expired: create a fine-grained token (repository access: this repository only; permission *Contents: Read and write*), run `git push` in a terminal in the library folder and paste the token as the password. The commit is kept locally, so nothing is lost.
 
 The pre-commit guard also blocks a plain `git commit` that would include anything outside the public set; `doctor` reports a missing guard, a changed `.gitignore` and any tracked file that should not be public. In the published copy, pages notice that the toolkit is absent: the **＋** button becomes **＋ Request a channel** (a form for suggesting new sources) and citations name the original post without showing it.
+
+### K. Linked longreads: the article is the source, and it is kept
+
+Channels often post a short pointer — "I wrote about this, full text here" — to a Telegraph article (telegra.ph). The article is the knowledge, and a Telegraph page can be deleted at any time. The `linked` stage (right after the media text) therefore saves every Telegraph article a post links to, **in full and permanently**, inside the channel folder:
+
+- `linked/telegraph/<page>/article.md` — the readable full text (headings, lists, quotes), each image in place with the text found in it by OCR, and the article's own links listed at the end; `page.json` — the page as Telegraph delivered it; `img-NN.*` — its images.
+- `parsed/linked_text.jsonl` — one row per post and article (title, author, status, text).
+
+A saved page is never fetched again, so the copy survives the original (`linked --refresh` re-fetches pages that still exist and keeps the saved copy of any that has vanished). Articles linked *from inside* a saved article (series parts, follow-ups) are saved too, one level down, but are not attached to the post. Pages that were already gone are recorded as *missing*; pages that could not be reached (network) are retried on the next run and reported by `doctor`.
+
+The saved text is **source for its post**, exactly like the text in an image: it is in every work order under the post as a `[LINKED ARTICLE …]` block, counts toward the post's size and depth checks, its quotes are verified verbatim, it is cited as `[article #id]`, and it is shown under the post in the channel library. When a post gains article text (a new channel, an append, or the first run of this stage on an existing channel), the post is re-judged if it had been excluded as a mere announcement, and every already-extracted topic part that contains it is re-opened so its knowledge file is rewritten to include the article in full; links inside the article go to the `resources` stage. The saved copies are raw source and are never published.
 
 ## 5. Why nothing goes stale
 
@@ -203,14 +216,17 @@ Skills installed by symlink always read the current files. Copies uploaded elsew
 | Channel | Folder | Messages | Dates | Topics extracted | Knowledge words | Exports | Status |
 |---|---|---|---|---|---|---|---|
 | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) | `sources/tg-channels/na-balanse/` | 686 | 2023-12-04 → 2026-11-15 | 42/42 | ~283,692 | 2 | complete |
-| [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) | `sources/tg-channels/deep-mind2.0/` | 1597 | 2019-11-10 → 2026-11-17 | 52/52 | ~486,928 | 2 | complete |
-| [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) | `sources/tg-channels/human-machine/` | 560 | 2022-03-21 → 2026-11-12 | 25/25 | ~114,137 | 1 | complete |
-| [Нейропряность](sources/tg-channels/neurospicy/library.html) | `sources/tg-channels/neurospicy/` | 731 | 2024-02-10 → 2026-10-04 | 26/26 | ~132,214 | 1 | complete |
-| [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) | `sources/tg-channels/neurodiv_psy/` | 326 | 2023-03-15 → 2026-11-07 | 14/14 | ~64,134 | 1 | complete |
+| [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) | `sources/tg-channels/deep-mind2.0/` | 1597 | 2019-11-10 → 2026-11-17 | 52/52 | ~500,998 | 2 | complete |
+| [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) | `sources/tg-channels/human-machine/` | 560 | 2022-03-21 → 2026-11-12 | 25/25 | ~116,201 | 1 | complete |
+| [Нейропряность](sources/tg-channels/neurospicy/library.html) | `sources/tg-channels/neurospicy/` | 731 | 2024-02-10 → 2026-10-04 | 26/26 | ~176,259 | 1 | complete |
+| [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) | `sources/tg-channels/neurodiv_psy/` | 326 | 2023-03-15 → 2026-11-07 | 15/15 | ~73,461 | 1 | complete |
+| [Читаю мысли](sources/tg-channels/chitayu-mysli/library.html) | `sources/tg-channels/chitayu-mysli/` | 781 | 2023-09-18 → 2026-09-09 | 23/23 | ~70,130 | 1 | complete |
+| [This is too much](sources/tg-channels/this-is-too-much/library.html) | `sources/tg-channels/this-is-too-much/` | 239 | 2022-08-12 → 2026-11-19 | 22/22 | ~109,036 | 1 | complete |
+| [Аутизм и СДВГ в опыте и книжках](sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html) | `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/` | 262 | 2023-04-01 → 2026-11-20 | 18/18 | ~98,427 | 1 | complete |
 
 ### Cross-channel areas
 
-Energy & Resource (6 topics, 1 channel(s)), Rest & Burnout (8 topics, 2 channel(s)), Sleep (3 topics, 2 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement & Body (5 topics, 2 channel(s)), Balance & Life Philosophy (6 topics, 2 channel(s)), Mind & Emotions (21 topics, 4 channel(s)), Behavior Change & Coaching (4 topics, 1 channel(s)), Wellness Industry, Gadgets & Longevity (6 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Interviews & Community (3 topics, 1 channel(s)), Meditation & Contemplative Practice (6 topics, 1 channel(s)), Leadership & Organizations (14 topics, 1 channel(s)), Psychotherapy & Inner Work (7 topics, 3 channel(s)), Attention & Digital Wellbeing (3 topics, 1 channel(s)), Society & Politics (10 topics, 2 channel(s)), Neurodiversity (34 topics, 3 channel(s)), Neuroscience & Cognitive Science (7 topics, 1 channel(s)), Technology & AI (2 topics, 1 channel(s)), Science & Research (3 topics, 1 channel(s)), Chronic Illness & Disability (5 topics, 1 channel(s))
+Energy & Resource (6 topics, 1 channel(s)), Rest & Burnout (8 topics, 2 channel(s)), Sleep (4 topics, 3 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement & Body (5 topics, 2 channel(s)), Balance & Life Philosophy (6 topics, 2 channel(s)), Mind & Emotions (28 topics, 7 channel(s)), Behavior Change & Coaching (5 topics, 2 channel(s)), Wellness Industry, Gadgets & Longevity (6 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Interviews & Community (3 topics, 1 channel(s)), Meditation & Contemplative Practice (6 topics, 1 channel(s)), Leadership & Organizations (14 topics, 1 channel(s)), Psychotherapy & Inner Work (14 topics, 6 channel(s)), Attention & Digital Wellbeing (3 topics, 1 channel(s)), Society & Politics (10 topics, 2 channel(s)), Neurodiversity (64 topics, 5 channel(s)), Neuroscience & Cognitive Science (7 topics, 1 channel(s)), Technology & AI (2 topics, 1 channel(s)), Science & Research (3 topics, 1 channel(s)), Chronic Illness & Disability (6 topics, 2 channel(s)), Psychiatry & Mental Health Care (17 topics, 3 channel(s))
 
 ### Skills
 

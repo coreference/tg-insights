@@ -10,6 +10,7 @@ answers:
   - What is autistic burnout and how is it defined in research?
   - What are the diagnostic criteria for autistic burnout (Higgins et al.)?
   - How is autistic burnout different from ordinary or work burnout and from laziness?
+  - Is autistic burnout a medical diagnosis, and how does it relate to depression?
   - What causes autistic and neurodivergent burnout?
   - What are the warning signs and symptoms of autistic burnout?
   - What is skill regression in autism and ADHD and what does it look like?
@@ -19,6 +20,7 @@ answers:
   - Why does masking both autism and ADHD lead to double burnout?
 frameworks:
   - Raymaker et al. (2020) definition of autistic burnout
+  - Six-question article on autistic burnout (four symptoms, stress-accumulation mechanism, eight stressors, four support barriers, diagnosis, depression, occupational burnout)
   - Higgins et al. (2021) provisional diagnostic criteria for autistic burnout
   - Autistic Burnout Symptom Checklist (ABSC), Russian translation
   - Core and additional characteristics of neurodivergent burnout, with six causes
@@ -45,6 +47,8 @@ terms:
   - ABSC (Чеклист симптомов аутистического выгорания) | Autistic Burnout Symptom Checklist, a non-standardised self-tracking tool from Embrace Autism | #31, #386
   - мелтдаун / шатдаун | meltdown / shutdown: overload reactions that become more frequent in burnout | #398, #433
   - гиперактивация / гипоактивация | hyperarousal (fight/flight) / hypoarousal (freeze) states in which the nervous system gets stuck | #388, #446
+  - проблема двойной эмпатии | double empathy problem, listed as a source of stress for autistic people | #28
+  - мозговой туман | brain fog: everything feels unclear and thinking takes effort, part of skill loss in burnout | #28
   - сейф-фуд | safe food: a food one fixates on during heavy burnout | #707
   - гнездование | "nesting": needing time to withdraw at home, an early stress sign on the colour scale | #372
   - исполнительная дисфункция | executive dysfunction, which the author links to nervous-system resistance to sensory threat | #822
@@ -53,7 +57,11 @@ terms:
 people:
   - Нейропряность (channel author) | translator and author of the posts; author of the nervous-system explanations, the stress-day essay and the dishwasher example | #28, #31, #386, #388, #392, #398, #432, #433, #446, #707, #822
   - neurodivergent_lou (Lou) | autistic creator whose personal series on burnout was translated by the channel Нейр∞тлично | #146, #147, #148, #149, #150, #151, #152, #153
-  - Raymaker et al. | researchers whose 2020 definition of autistic burnout is quoted | #392
+  - Raymaker et al. | researchers whose 2020 definition of autistic burnout is quoted and whose interview/social-media study found it distinct from depression and occupational burnout | #28, #392
+  - Dr Alice Nicholls | author of the original article "What is autistic burnout?" translated by the channel | #28
+  - Настя и Рина | translators/adapters of the #28 article for the channel | #28
+  - Tony Attwood | quoted (2014, p. 100) on a cause of depression in autism that resembles autistic burnout | #28
+  - WHO | source of the quoted occupational-burnout definition (website, 2021) | #28
   - Higgins et al. | researchers whose 2021 provisional diagnostic criteria are quoted | #392
   - Embrace Autism | source of the ABSC checklist and the criteria infographic | #386, #392
   - allforthedopamine | Instagram author of the "Autism and burnout" colour scale (translated by Anne Green Moon, Аутичные переводы) | #372
@@ -70,6 +78,7 @@ This topic gathers everything the channel posted on what autistic (and, broadly,
 ## Core ideas
 
 - **Autistic burnout is a distinct syndrome, not ordinary burnout.** It arises from chronic life stress plus a mismatch between expectations and abilities without adequate support; it is pervasive, long-lasting (usually more than 3 months) and involves exhaustion, loss of functioning and reduced tolerance to stimuli (see *Raymaker definition*) [msg #392, #28].
+- **It is a community-coined term, not an official diagnosis, but a real, distinct phenomenon.** Research (Raymaker et al. 2020) found people describe the same causes and symptoms, distinct from depression and occupational burnout, though doctors may diagnose it as stress, anxiety, depression or chronic fatigue (see *Six-question article*) [article #28].
 - **The cause is the environment, not autism itself.** Burnout develops because autistic needs are not met in a neurotypical society: masking, minimising needs, lack of support, social, sensory and daily-life demands exceeding capacity [msg #432, #388].
 - **The neurodivergent nervous system carries a higher baseline stress load** and recovers less easily, so stress accumulates day after day until the system shuts down (see *The neurodivergent stress day*) [msg #446].
 - **Hallmark signs** are extreme exhaustion that sleep does not fix, sensory intolerance, executive-function collapse, skill regression, social withdrawal and loss of the ability to mask [msg #147, #388, #392, #398].
@@ -85,8 +94,49 @@ The channel gives this research definition: autistic burnout is a syndrome cause
 3. **Reduced tolerance to stimuli.**
 [msg #392]
 
-The channel's earlier introduction (#28) frames it in similar words: a unique and deeply exhausting state that primarily affects people with autism (РАС) and ADHD, arising either from prolonged stress or from an acute stressful experience, especially one tied to the need to adapt to the surrounding neurotypical world. It contrasts it with the general phenomenon of burnout in a world where the constant pursuit of efficiency and productivity has become the norm. The accompanying article (Telegraph) is announced as covering: what autistic burnout is, its main symptoms, what can trigger it, whether it is a medical diagnosis, and how it relates to depression and to neurotypical burnout [msg #28].
-(!) INCOMPLETE: the article itself is only linked; its answers to these questions (e.g. whether it is a medical diagnosis, how it differs from depression) are not in the input [msg #28].
+The channel's earlier introduction (#28) frames it in similar words: a unique and deeply exhausting state that primarily affects people with autism (РАС) and ADHD, arising either from prolonged stress or from an acute stressful experience, especially one tied to the need to adapt to the surrounding neurotypical world. It contrasts it with the general phenomenon of burnout in a world where the constant pursuit of efficiency and productivity has become the norm [msg #28].
+
+### "What is autistic burnout?" — the six-question article (Dr Alice Nicholls, translated by the channel)
+Post #28 links to a Telegraph longread «Что такое Аутистическое выгорание?», translated and adapted for the channel by Настя and Рина from an original article on dralicenicholls.com. It is organised around six questions; each answer is reproduced below [article #28].
+
+**Q1. What is autistic burnout?** The term "autistic burnout" was coined by members of the autistic community to describe an experience that is common among autistic people; it is a shared problem and, the article says, one of the most discussed topics in Facebook groups for autistic people. Definition: "Аутистическое выгорание описывает опыт крайнего истощения у аутистов после периода длительного стресса или острого стрессового переживания." (*Autistic burnout describes an experience of extreme exhaustion in autistic people after a period of prolonged stress or an acute stressful experience.*) [article #28]
+
+**Q2. What are its symptoms?** Autistic people experience burnout differently, but their descriptions share common features. The four main symptoms [article #28]:
+1. **Extreme fatigue.** The degree varies. People may feel constantly tired or perceive even the smallest tasks as a huge effort; some are so exhausted that it is hard even to get out of bed.
+2. **Loss of skills.** Many describe losing cognitive skills or a decline in mental activity: greater difficulty finding words, processing information, solving problems or understanding new concepts. Some describe "мозгового тумана" (*brain fog*) — everything seems unclear and thinking takes effort.
+3. **Decline in social skills.** Those who were previously highly social may find they no longer want to take part in as many social events and find it hard to keep conversations at their former level. Those for whom social situations were already hard may feel unable to manage even the most basic conversations and may even lose the ability to speak. Autistic people who usually hide their traits (use masking) may find they can no longer do it, or that it tires them even after short periods.
+4. **Increased perceptual (sensory) sensitivity.** Existing difficulties with certain sounds and textures may intensify, and some people start noticing sensitivities they never noticed before. The article's examples: the noise of artificial lighting in the office starts to bother the person; or the pattern on the wallpaper; they may feel anxiety or anger when touched; they may become ever more aware of how uncomfortable their clothes are.
+
+**Q3. What causes it? — the stress-accumulation mechanism.** Autistic burnout is the result of long-term stress in an autistic person: a combination of stressors plus the absence of sufficient support or relief leads to unbearably high stress and, eventually, burnout. The mechanism, step by step [article #28]:
+1. Under moderate or high stress for a long time, the ability to cope with that stress starts to deteriorate.
+2. We can handle short-term increases in stress, but we need periods of relatively low stress to recover and return to our baseline stress level.
+3. Without low-stress periods we keep "carrying" our stress with us, so every additional stressor has a cumulative effect and even small stressors can feel unmanageable.
+4. Ultimately, if nothing is done, we become exhausted and can no longer function at the same level.
+
+Autistic people are at especially high risk of stress for reasons directly and indirectly caused by being autistic in a neurotypical world — on top of all the everyday stressors neurotypical people also face. The stressors the article lists ("вот лишь несколько" — *just a few*) [article #28]:
+1. Masking (маскировка).
+2. The double empathy problem (проблема двойной эмпатии).
+3. Perceptual sensitivity and unmet sensory needs.
+4. Executive-function difficulties.
+5. Difficulty accepting change.
+6. Life events.
+7. Daily hassles.
+8. Expectations (at work, in the family, in society).
+
+In addition, autistic people meet obstacles when seeking support to manage their stress. The four barriers to support listed [article #28]:
+1. Gaslighting.
+2. Insufficient boundary-setting / self-advocacy.
+3. Inability to take a break.
+4. Lack of external resources / support services.
+(!) INCOMPLETE: the article names these stressors and barriers but does not explain each one further.
+
+**Q4. Is it a diagnosis?** Although autistic burnout is widely discussed among autistic adults on social media, it has not been officially recognised by medical professionals or by either of the two diagnostic manuals. People who go to their doctor with its symptoms may instead be diagnosed with stress, anxiety, depression, chronic fatigue or occupational burnout. Researchers have begun studying it as a concept; because with any new term people using the same words may mean different things, Raymaker et al. (2020) interviewed members of the autistic community and analysed social-media content describing autistic burnout. They found that people describing autistic burnout spoke of the same distinctive causes and symptoms, and concluded that the community is describing a specific phenomenon distinct from both depression and occupational burnout [article #28].
+
+**Q5. How does it relate to depression?** Autistic burnout can be accompanied by depression but is a separate phenomenon. Historically it may have been understood as depression, and the article tells readers they may even have been diagnosed with depression when their symptoms would have been better understood as autistic burnout. It quotes Tony Attwood (2014, p. 100), who described one of several causes of depression in autism as "Обусловлено умственным и эмоциональным истощением от общения, невозможностью терпеть интенсивную чувствительность к восприятию и чрезмерными изменениями, а также когнитивным стилем, фокусирующимся на том, что может пойти не так, что приводит к пессимистическому взгляду на жизнь" (*Caused by mental and emotional exhaustion from socialising, inability to tolerate intense perceptual sensitivity and excessive change, and a cognitive style focused on what might go wrong, leading to a pessimistic outlook on life*). The article reads this quote as showing how autistic burnout can lead to depression and where the two states are similar. Practical consequence: where low mood appears alongside signs of autistic burnout, it is important to treat both. Standard CBT for depression usually encourages people to gradually take up more pleasant and productive activities, which can cause problems if the sources of the burnout have not been addressed [article #28].
+
+**Q6. How does it relate to occupational burnout?** The article quotes the WHO description of occupational burnout: "Чувство истощения энергии или изнеможения; увеличенное эмоциональное отчуждение от работы или чувство негативизма или цинизма по отношению к своей работе; и сниженная профессиональная эффективность." (*Feelings of energy depletion or exhaustion; increased mental distance from one's job or feelings of negativism or cynicism related to one's job; and reduced professional efficacy.*) (WHO website, 2021). Autistic burnout is the result of long-term stress in an autistic or neurodivergent person; what makes it different is **the type of stress**. A person with occupational burnout is chronically stressed by pressures at work; a person with autistic burnout is chronically stressed by the pressures of living and working in a neurotypical world and of coping with social and sensory stressors. Work stress can contribute to autistic burnout, but its causes go beyond professional problems and are tied specifically to the difficulties of being autistic in a neurotypical society [article #28].
+
+**Conclusion of the article:** autistic burnout is often discussed in the autistic community; it is not a recognised diagnosis, but people talking about it appear to be discussing the same thing. It is an experience of extreme fatigue, loss of cognitive and social skills and heightened perceptual sensitivity, caused by prolonged stress often stemming from the difficulties of being autistic in a neurotypical world. It differs from depression and from occupational burnout, but autistic people are also at risk of both [article #28].
 
 ### Higgins et al. (2021) provisional diagnostic criteria
 Purpose: provisional criteria for recognising autistic burnout, translated by the channel from an Embrace Autism infographic. All of 1 and 2 plus at least one item from 3 must be present [msg #392]:
@@ -302,7 +352,7 @@ The author notes that during severe burnout a "safe food" can become something l
 
 ## Tools and resources mentioned
 
-- **Telegraph article "Что такое аутистическое выгорание"** — the channel's introductory article on definition, symptoms, triggers, diagnostic status and relation to depression and neurotypical burnout [msg #28].
+- **Telegraph article "Что такое Аутистическое выгорание?"** — the channel's introductory article, a translation/adaptation (by Настя and Рина) of Dr Alice Nicholls' "What is autistic burnout?"; covers definition, four symptoms, stress mechanism, stressors and support barriers, diagnostic status, and relation to depression and occupational burnout (fully reproduced above) [article #28].
 - **Autistic Burnout Symptom Checklist (ABSC), Russian translation** — Google Drive file / PDF from Embrace Autism, translated by Нейропряность; for repeated self-tracking, not diagnosis (fully reproduced above) [msg #31, #386].
 - **Channel's compilation of translations on autistic burnout** (#386): the article on autistic burnout; energy accounting in burnout; recovery from autistic burnout; "Depression or autistic burnout?"; and recordings of the author's presentations — parts 1 and 2 "Burnout, recovery strategies and the neurodivergent nervous system", "Window of tolerance", "Pacing" — described as explaining "почему мы не можем выбраться из этого цикла" (*why we cannot get out of this cycle*). These are posted as links only; their content is not part of this topic's input [msg #386, #388].
 - **Lindsay M's longread on skill regression** (Teletype, translated by the channel), which the translator calls interesting "на мой взгляд" (*in my view*) [msg #398].
@@ -329,14 +379,15 @@ The author notes that during severe burnout a "safe food" can become something l
 ## Caveats, disagreements and open questions
 
 - **Not a formal diagnosis tool:** the ABSC is explicitly not standardised and not for diagnosis; the Higgins et al. criteria are labelled "provisional" [msg #31, #392].
-- (!) CONTRADICTION / UNCLEAR on medical status: the family handout calls autistic burnout "медицинское состояние" (*a medical condition*) [msg #432], while the channel's other posts present it as a syndrome with only provisional criteria and the #28 article raises "является ли оно медицинским диагнозом" (*whether it is a medical diagnosis*) as an open question whose answer is not in the input [msg #28, #392].
+- (!) CONTRADICTION on medical status: the family handout calls autistic burnout "медицинское состояние" (*a medical condition*) [msg #432], while the #28 article states it has not been officially recognised by medical professionals or by either diagnostic manual and is "не признанная диагнозом проблема" (*not a recognised diagnosis*), and #392 offers only provisional criteria [article #28, msg #392].
+- **Depression overlap:** the article stresses autistic burnout is distinct from depression yet may lead to it or co-occur with it; standard CBT activation can backfire if burnout sources are not addressed [article #28].
 - **Who is affected:** #28 and #388 extend the concept to ADHD ("people with autism and ADHD"), while Raymaker/Higgins criteria and the ABSC are framed for autistic adults [msg #28, #388, #392, #31].
 - **Acute vs chronic onset:** #28 says it can arise from prolonged stress or from an acute stressful experience, whereas the Raymaker definition stresses chronic stress and duration usually over 3 months [msg #28, #392].
 - **Burnout vs illness:** Lou warns that autistic people may mistake real illness for burnout and not seek help, and vice versa [img #153].
 - **Hedged physiological claims:** the cortisol, POTS, mast-cell and exercise/ME-CFS claims in the stress-day essay are the author's own explanations; she cites "некоторые последние исследования" (*some recent studies*) without naming them, and flags the 8–12 hours figure as her own notion and the day as a hypothetical example [file #446].
 - **Highly individual:** "Аутичное выгорание у всех разное" (*autistic burnout is different for everyone*); "Ваш опыт может отличаться" (*your experience may differ*); the state may fluctuate day to day [img #147, img #372, msg #433].
 - **Safety note:** both the personal fatigue list and the family checklist mention suicidal or death-wish thoughts as burnout manifestations [msg #203, #433].
-- (!) INCOMPLETE: several knowledge pieces sit in linked materials not included in the input (the #28 article, Lindsay M's full longread, the webinar recordings, part 3 of the family series) [msg #28, #398, #388, #432].
+- (!) INCOMPLETE: several knowledge pieces sit in linked materials not included in the input (Lindsay M's full longread, the webinar recordings, part 3 of the family series) [msg #28, #398, #388, #432].
 
 ## Resources and links
 
@@ -344,6 +395,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ### Resources
 
+- ★ **Dr Alice Nicholls — What is autistic burnout?** (article) — Original English article that the channel translated into Russian; defines autistic burnout, its causes and warning signs; shared as the source. [msg #28] → <https://www.dralicenicholls.com/what-is-autistic-burnout-2/>
 - ★ **Лонгрид Линдси Маккерет о регрессии навыков (Lindsey Mackereth longread on skill regression, teletype)** (article) — Translated longread on why autistic people lose previously acquired skills, beyond burnout alone. Offered by the channel as the full text. [msg #398] → <https://teletype.in/@neurospicyru/4S5AcnXmGRP>
 - ★ **Что такое аутистическое выгорание (What is autistic burnout)** (article) — Translated article on telegra.ph explaining autistic burnout, whether it is a medical diagnosis and how it relates to depression and neurotypical burnout; the channel offers it as the base text on the topic. [msg #28] → <https://telegra.ph/CHto-takoe-Autisticheskoe-vygoranie-02-11>
 - ★ **PDF: Стресс не укрепляет нейроотличных людей (text version of a video on stress, PDF)** (file) — Printable text version of the author's video explaining why stress is destructive for neurodivergent people and can lead to PTSD/C-PTSD. Published on reader request. [msg #446] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Есть_ошибочное_мнение,_что_стресс_укрепляет_нас,_способствует_адаптации.pdf`
@@ -351,6 +403,10 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 - ★ **Чеклист симптомов аутистического выгорания, ABSC (Autistic Burnout Symptom Checklist, PDF)** (file) — Translated PDF checklist for tracking autistic burnout in adults with a total score to compare over time; not standardised and not a substitute for medical advice. The channel reminds readers to re-check their score. [msg #386] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Чек-лист аутичного выгорания.pdf`
 - **Список признаков усталости от Лены (Lena's list of fatigue signs, @lenaminsight post)** (article) — Another author's post listing her personal signs of fatigue by level; it inspired the channel author to write her own list. Shared as the model for tracking fatigue signs. [msg #203] → <https://t.me/lenaminsight/354>
 - **The Ashling — TikTok video on the cost of burnout (translated)** (video) — Short TikTok video by The Ashling on the hidden cost of burnout and emotional overload, translated by the channel as a quote. Shared as the original source. [msg #726] → <https://vm.tiktok.com/ZNdq16QPR/>
+
+### External links
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #28] → <https://t.me/neurospicyru>
 
 ## Source messages
 

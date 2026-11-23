@@ -16,6 +16,8 @@ answers:
   - What is the difference between selective mutism and a verbal shutdown?
   - How do complex PTSD, PTSD and BPD differ from one another?
   - Are hallucinations in BPD real hallucinations or pseudohallucinations?
+  - Why is autism often missed in people diagnosed with PTSD, and how should trauma therapy be adapted for autistic people?
+  - How common is PTSD among autistic people?
   - Why is bipolar I with psychosis often misdiagnosed as schizophrenia?
 frameworks:
   - Lindsey Mackereth's checklist "Autism or cPTSD?" (self-reflection tool, 51 items in three groups)
@@ -24,6 +26,8 @@ frameworks:
   - C-PTSD vs PTSD similarities and distinguishing symptoms table
   - BPD vs autism Venn diagram (Neurodivergent Insights, "Misdiagnosis Monday")
   - PTSD vs autism Venn diagram
+  - Neff's eight overlapping characteristics of autism and PTSD
+  - Neff's four adaptations for treating autistic trauma
   - ADHD vs depression Venn diagram
   - ADHD vs PTSD Venn diagram
   - Depression vs autistic burnout Venn diagram
@@ -44,6 +48,8 @@ themes:
 terms:
   - ПТСР | PTSD, post-traumatic stress disorder | 43
   - кПТСР / К-ПТСР | complex PTSD; arises from prolonged, repeated trauma; recognized in ICD-11 but not in DSM-5-TR | 300, 387
+  - пропущенный диагноз | missed diagnosis: the co-occurring condition (PTSD) is diagnosed correctly but the underlying neurotype (autism) is not identified; contrasted with a wrong diagnosis | 43
+  - критерий A | PTSD Criterion A; per Neff, autistic people develop PTSD even when it is not met, i.e. after less intense trauma | 43
   - ПРЛ | BPD, borderline personality disorder | 544
   - БАР | bipolar affective disorder (bipolar disorder); БАР-I = bipolar I | 598, 663
   - ШРЛ | schizoid personality disorder | 597
@@ -61,7 +67,9 @@ terms:
 people:
   - Настя | channel author; wrote and translated the comparison mini-articles | 43, 44, 50, 58, 544
   - Lindsey Mackereth | licensed mental-health specialist and autism-assessment expert; author of the "Autism or cPTSD?" checklist | 387
-  - dr. Megan Anna Neff | clinical psychologist (Neurodivergent Insights); author of the BPD vs autism and ADHD vs ASD material | 58, 544
+  - dr. Megan Anna Neff | clinical psychologist (Neurodivergent Insights); author of the PTSD vs autism, BPD vs autism and ADHD vs ASD material | 43, 58, 544
+  - Dr. Burke Harris, Bessel van der Kolk | credited by Neff for drawing attention to trauma and trauma-informed care | 43
+  - Rumball et al. (2020); Haruvi-Lamdan et al. (2020); Fenning et al. (2019); Thapa and Alvarez (2019); Beauchaine et al. (2013); Weiss and Fardella | studies Neff cites on autism, trauma and nervous-system reactivity | 43
   - Neurodivergent Insights (@neurodivergent_insights) | original author of the translated Venn diagrams | 544, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601
   - Аутичные переводы | channel that translated the Venn diagrams (translators Фиу-Фиу, Anastasia Surkova, trude, Психиатор Елисенко) | 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 626
   - Домик психолога Ани | channel that authored the C-PTSD / BPD / PTSD tables | 297, 298, 299, 300
@@ -85,6 +93,7 @@ The channel's reason for caring: these conditions overlap, so a professional may
 - **The same behavior can have different causes.** The Mackereth checklist and the Venn diagrams repeatedly separate traits by motive. Avoiding eye contact because it distracts you points to autism; avoiding it out of distrust points to cPTSD. Repetitive behavior that soothes points to autism; compulsions tied to a specific fear point to OCD [msg #387, #601].
 - **Onset and course distinguish conditions.** Autism and ADHD are present from childhood or early on. PTSD follows a traumatic event. Bipolar disorder often develops in late adolescence or youth. Schizophrenia symptoms appear in adolescence [msg #592, #594, #598, #600].
 - **Co-occurrence is the rule, not the exception.** Autism often comes with at least one other condition, bipolar disorder among them. BPD and autism frequently co-occur, and autistic people are more vulnerable to developing BPD [msg #44, #544].
+- **With trauma, autism is usually missed rather than misdiagnosed.** Neff argues PTSD is usually diagnosed correctly while the underlying autism goes unseen, warns that trauma risks becoming the field's new all-explaining lens, and says trauma treatment must be adapted to the autistic neurotype (see *Treating autistic trauma*) [article #43].
 - **Some states look alike but are not disorders.** Verbal shutdowns are reactions to overload, not selective mutism. Autistic meltdowns may be mistaken for panic attacks. Autistic burnout is not the same as depression [msg #736, #482, #595].
 
 ## Frameworks, models and step-by-step methods
@@ -211,12 +220,52 @@ The diagram matches up four themes, then lists the overlap and each side's disti
 Bottom line of the card: "У человека могут быть оба состояния одновременно" (*a person can have both conditions at the same time*). Its note says the diagram reflects common experiences, individual experience may vary, and it is not meant for diagnosis [img #544].
 
 ### PTSD vs autism Venn diagram
-Translated by Аутичные переводы from Neurodivergent Insights [img #592].
+Two translations of the same Neurodivergent Insights diagram exist in the channel: one in Настя's article "ПТСР vs. Аутизм" (by dr. Megan Anna Neff, "Понедельник неправильных диагнозов" / *Misdiagnosis Monday* series) [article #43], and one by Аутичные переводы [img #592]. The version in #592 reads:
 - **PTSD only (5):** (1) hypervigilance; (2) avoidant behavior; (3) unwanted memories and flashbacks; (4) nightmares; (5) arises after a traumatic event.
 - **Both (10):** (1) difficulty forming close relationships; (2) heightened risk of becoming a victim of violence; (3) difficulty controlling impulses and intense emotions; (4) high sensitivity to incoming sensory information; (5) high risk of self-harm, suicide, alcohol or drug abuse, and developing depression; (6) negative beliefs about oneself and the world; (7) hypervigilance, nervous-system reactivity and an exaggerated startle response; (8) sleep problems; (9) dissociation; (10) stimming.
 - **Autism only (4):** (1) special interests; (2) repetitive behavior and self-soothing through routine; (3) difficulty intuitively understanding neurotypical social signals; (4) sensory sensitivity as part of fundamental experience.
 
-The channel's own PTSD vs autism mini-article frames the issue: the two are separate clinical conditions that share features, which makes them hard to differentiate. A professional may miss autism when PTSD is present, so it is crucial to know where the two overlap and where they differ [msg #43].
+The article's version (OCR of a partly scrambled image) has the same structure with slightly different wording [article #43]:
+- **PTSD only:** (1) presence of a traumatic event; (2) avoidant behavior; (3) intrusive memories and flashbacks of the past; (4) hypervigilance; (5) nightmares.
+- **Both:** (1) dissociation; (2) difficulties with intimacy; (3) heightened risk of becoming a victim; (4) negative beliefs about oneself and the world; (5) difficulty managing intense emotions; (6) heightened sensitivity to sensory input; (7) high rates of substance abuse, depression, self-harm and suicidality; (8) hypervigilance / overactive nervous system / heightened startle response; (9) difficulty with impulse control; (10) difficulty with executive functions; (11) sleep problems; (12) stimming.
+- **Autism only:** (1) repetitive behaviors and self-soothing through routines; (2) difficulty intuitively understanding non-verbal social signals; (3) sensitivity to sensory input as part of baseline experience; (4) special interests.
+The article version adds "executive-function difficulties" to the overlap, which #592 does not list [article #43, img #592].
+
+### PTSD vs autism: missed diagnosis, overlap and autism-adapted trauma treatment (Neff article)
+**Source and framing.** Настя's post introduces a translated mini-article by dr. Megan Anna Neff (Neurodivergent Insights). PTSD and autism are two separate clinical conditions, but they resemble each other in certain respects, which makes them hard to differentiate. A professional may miss autism when PTSD is present, so it is crucial to know where the two diagnoses overlap and where they differ, because "от этого зависит успешность терапевтических вмешательств" (*the success of therapeutic interventions depends on this*) [msg #43]. Neff says she created the series to separate autism from common misdiagnoses, but this week's subject is more complex: the Venn diagram shows how much PTSD and autism overlap, and besides many shared experiences they also co-occur at alarmingly high rates [article #43].
+
+**Missed diagnosis, not misdiagnosis.** Given the high overlap, Neff argues the more likely error is "пропущенный диагноз (а не ошибочный)" (*a missed diagnosis, not a wrong one*). A missed diagnosis happens when a person's PTSD is diagnosed accurately while their underlying neurotype (autism) remains unidentified. PTSD itself is rarely an inaccurate diagnosis; but when PTSD is used to explain autistic traits and experiences, that can count as a "misdiagnosis". When the two co-occur, the clinical picture becomes more complex [article #43].
+
+**The risk of trauma becoming the new universal lens.** Neff credits the recent development of trauma-informed care and treatment and names the work of Dr. Burke Harris and Bessel van der Kolk "и многих других" (*and many other people*) for drawing attention to trauma, and the creation of trauma-informed spaces as more therapists, educators and health workers use a trauma-informed lens. Without wanting to diminish this, she warns of "потенциальный риск того, что травма станет новой" lens (*the potential risk that trauma becomes the new* lens) through which mental health sees everything. She says she has spoken with countless people whose autism was missed because their traits were explained through a PTSD or C-PTSD framework. In its enthusiasm to bring healing around trauma, the field is vulnerable to confirmation bias, quickly reducing all sensitive and dysregulated experiences to trauma [article #43].
+
+**Overlapping characteristics that make autism and PTSD hard to tell apart** — eight items, each with Neff's mechanism [article #43]:
+1. *Sensory sensitivity.* After trauma the nervous system / amygdala switches into hyper-alarm to protect against future harm. This looks similar to the sensory profile of a hypersensitive autistic person.
+2. *Heightened amygdala activity.* The wiring around the amygdala, the "safety signal", becomes more sensitive after trauma. Research on the amygdala in autistic people is mixed, but many autistic people show more amygdala involvement during certain activities, for example eye contact.
+3. *Difficulty regulating intense emotions.* Linked to brain chemistry (the amygdala) and the sensory profile: self-soothing and regulating hard emotions become more difficult.
+4. *Heightened risk of substance abuse.* Substances can be a powerful way to regulate an overactive nervous system; both groups have a higher risk of substance-use disorders.
+5. *Self-harm.* Elevated in both groups. Self-harm functions to ground, self-soothe and regulate the nervous system.
+6. *Dissociation.* A common response to trauma, and it can also be a response to sensory overload; common in both groups.
+7. *Suicidality.* Autistic people are 3–7 times more likely to die by suicide. Suicidality is also more common among trauma survivors.
+8. *Heightened risk of victimization.* Trauma survivors have a higher risk of re-victimization. Similarly, recent research found autistic women and non-binary people are more likely to be survivors of violent victimization. Risk factors named: problems with social reasoning, missing contextual cues and a tendency to take things literally. In one study (Weiss and Fardella), autistic adults were 7.3 times more likely to report having experienced sexual abuse by a peer in adolescence.
+Given this overlap, Neff says it is easy to see how autism gets missed in favor of a PTSD diagnosis, especially when there is a trauma history. And most neurodivergent people do experience trauma — either "big" trauma from victimization or "small" trauma from marginalization, bullying and discrimination [article #43].
+
+**The intersection: autistic people's double vulnerability to trauma.** Autistic people experience PTSD far more often than the general population, especially women, gender-diverse and BIPOC autistic people. Neff describes a double vulnerability in autistic women: they are more vulnerable to victimization, and they are also more vulnerable to developing PTSD after a traumatic event; autistic women are 1.5 times more likely to be victimized than their allistic peers. Theories for why: a more active amygdala, less flexible nervous systems, more difficulty regulating emotion, and a tendency to take in sensory experience with greater intensity. Rumball et al. (2020) found autistic people develop PTSD at higher rates even when Criterion A is not met — which, for non-clinicians, essentially means less intense trauma [article #43].
+
+The facts she lists on the autism–trauma intersection [article #43]:
+1. Rumball et al. (2020): about 60% of autistic people reported probable PTSD over their lifetime, compared with 4.5% of the general population.
+2. Haruvi-Lamdan et al. (2020): 32% of their autistic participants had probable PTSD versus 4% of the non-autistic population.
+3. Fenning et al. (2019): autistic children had more reactive nervous systems. This fits similar research describing the autistic nervous system as less flexible (Thapa and Alvarez, 2019). Less flexible nervous systems have more trouble coping with acute stressors and may contribute to greater nervous-system hyperactivation after trauma.
+4. Neurodivergent (ADHD/autism) neurobiology is more vulnerable and reactive (Beauchaine et al., 2013).
+5. Autistic people are more vulnerable to social victimization and marginalization: in Haruvi-Lamdan et al. (2020), autistic women (but not men) reported more negative life events, especially social ones, than neurotypical adults.
+6. The autistic sensory profile means many take in sensory experiences with greater intensity, so memories and sensations are encoded in mind and body with greater intensity.
+Neff notes this double vulnerability is rarely discussed in autism awareness or in the clinical trauma literature, which she calls sad, since "любое хорошее лечение травмы должно учитывать нейротип, который лежит в основе переживания травмы" (*any good trauma treatment must take into account the neurotype underlying the experience of trauma*). Few clinicians are trained in autism-affirming trauma work [article #43].
+
+### Treating autistic trauma: Neff's four adaptations
+**Purpose.** Because autism and PTSD co-occur at very high rates, and trauma treatment suffers when autism is missed, Neff says autistic trauma must be treated with a neurodivergent-adapted approach: "Так же, как наш путь к травме не является нейротипичным путем, так и наше лечение не может быть таким же, как нейротипичное лечение." (*Just as our path to trauma is not a neurotypical path, our treatment cannot be the same as neurotypical treatment.*) [article #43]
+1. **Don't skip the basics.** Grounding and relaxation strategies are the building blocks of any good trauma treatment: the person needs tools and practices that help them re-orient when trauma takes over the body. Why: autistic nervous systems are less flexible than allistic ones, so returning to baseline after a trigger is harder. If progress feels slow, that is normal — it takes more work to come back after the nervous system has been hijacked [article #43].
+2. **Consider somatic therapies.** Pay more attention to the sensory profile (grounding, body work, encouraging natural forms of movement). The sensory system is likely in intense overload; bodies are already a hard place for many autistic people, and "травма - это как подлить бензин на чувствительную сенсорную систему" (*trauma is like pouring gasoline on a sensitive sensory system*). Somatic experiencing and other body-based trauma approaches should be considered. Caveat: because bodily experience is so intense, the client's autonomy and empowerment must be built in so they move at their own pace [article #43].
+3. **Adapt exposure therapy (if used).** Exposure is often seen as the gold standard for PTSD, but it can be quite dysregulating for a neurodivergent person. If used, it must be adapted and patient-led. Sensory experiences outside one's control are dysregulating — "мы должны контролировать чувственный опыт" (*we must control the sensory experience*). Proper attention to pacing and recovery is essential, and initial treatment should build interoception and regulation skills before working through exposure [article #43].
+4. **Be careful with CBT.** CBT aims to challenge unhelpful beliefs about the world and oneself. The clinician must understand that these "faulty schemas" developed not only in trauma but from years of being othered by society, often unconsciously. Trying to reframe some of these negative beliefs may therefore backfire, increasing shame and certainty in the beliefs, and insisting on reframing can cost trust in the therapeutic relationship. When CBT is used, the experience of marginalization and the early formation of core negative schemas should be taken into account [article #43].
 
 ### ADHD vs depression Venn diagram
 [img #593]
@@ -361,7 +410,7 @@ A translated text by mylovelyocd that explains OCD's mechanism through metaphors
 ## Tools and resources mentioned
 
 - **"Аутизм или кПТСР? Чек-лист"** (PDF): Lindsey Mackereth's 2024 checklist, translated by the channel. It is a self-reflection tool with no scoring, recommended for self-exploration, therapy and bringing to an assessment. The full content is reproduced under *Lindsey Mackereth's checklist* [msg #387].
-- **Channel mini-articles on Telegraph/Teletype:** "ПТСР vs. АУТИЗМ" (similarities and differences shown with a Venn diagram) [msg #43]; "Биполярное расстройство vs. Аутизм" (differences, similarities, and how to diagnose correctly) [msg #44]; "Шизофрения vs. аутизм" (history, definitions, overlap and differences, with a "Резюме" (*summary*) column under each section) [msg #50]; "СДВГ vs. РАС" by clinical psychologist Anna Neff [msg #58]; "ПРЛ или Аутизм?" by dr. Megan Anna Neff [msg #544].
+- **Channel mini-articles on Telegraph/Teletype:** "ПТСР vs. АУТИЗМ" (telegra.ph/PTSR-ili-Autizm-03-04; Neff's article with Venn diagram, overlap list, trauma statistics and four treatment adaptations, all extracted above) [msg #43, article #43]; "Биполярное расстройство vs. Аутизм" (differences, similarities, and how to diagnose correctly) [msg #44]; "Шизофрения vs. аутизм" (history, definitions, overlap and differences, with a "Резюме" (*summary*) column under each section) [msg #50]; "СДВГ vs. РАС" by clinical psychologist Anna Neff [msg #58]; "ПРЛ или Аутизм?" by dr. Megan Anna Neff [msg #544].
 - **Neurodivergent Insights** (neurodivergentinsights.com/misdiagnosis-monday): the source of the "Misdiagnosis Monday" BPD vs autism chart and the Venn diagrams translated by Аутичные переводы [msg #544, #592].
 - **The nature.com study** (nature.com/articles/s41398-025-03403-6) on bipolar I vs schizophrenia, and the cited studies on hallucinations in BPD (PubMed 24727723; Scientific Reports s41598-017-13108-6) [msg #663, #734].
 
@@ -384,7 +433,9 @@ A translated text by mylovelyocd that explains OCD's mechanism through metaphors
 ## Caveats, disagreements and open questions
 
 - Every comparison tool carries a disclaimer: the Mackereth checklist "не диагностический инструмент" (*is not a diagnostic tool*) and has no scores; the BPD vs autism chart reflects common experiences and is not for diagnosis [file #387, img #544].
-- (!) INCOMPLETE: the four channel mini-articles (PTSD, bipolar, schizophrenia, ADHD vs ASD) and their Venn diagrams sit on external pages. The posts give only the framing reproduced above; the attached images are title cards [msg #43, #44, #50, #58].
+- (!) INCOMPLETE: three channel mini-articles (bipolar vs autism, schizophrenia vs autism, ADHD vs ASD) sit on Teletype pages that were not saved; the posts give only the framing reproduced above and the attached images are title cards [msg #44, #50, #58]. The PTSD vs autism article was saved and is extracted in full above [article #43].
+- Neff's PTSD article is explicitly an argument from her clinical experience ("countless people" whose autism was missed) plus cited studies; the statistics are hers as reported in the translation, and the 3–7× suicide figure and 1.5× victimization figure are given without a named study [article #43].
+- (!) UNCLEAR: the article OCR of its Venn diagram is scrambled; the item assignment above follows the layout of the matching #592 card [article #43].
 - (!) INCOMPLETE: the ADHD vs ASD post ends its list of overlapping difficulties with "и др..." (*and the like*) without naming them [msg #58].
 - (!) INCOMPLETE: only the title card of the meltdowns-vs-panic-attacks post is in the export [msg #482].
 - (!) INCOMPLETE: the BPD hallucinations post is "Часть 1" (*Part 1*); no further parts are in this topic. The bipolar I post promises to break down paranoid-delusion patterns "отдельно" (*separately*), which is not in this topic [msg #734, #663].
@@ -411,6 +462,7 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 - **@autisticguidetothegalaxy (Telegram channel)** (channel) — Source channel of the translated post on selective mutism, anxiety and verbal shutdown; credited as the author. [msg #736] → <https://t.me/autisticguidetothegalaxy>
 - **Boost link to vote for the Telegram channel Нейропряность** (channel) — Telegram boost link to support the channel, placed in the navigation footer of posts; asks readers to boost it. [msg #387] → <https://t.me/boost/neurospicyru>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #43] → <https://t.me/neurospicyru>
 
 ## Source messages
 

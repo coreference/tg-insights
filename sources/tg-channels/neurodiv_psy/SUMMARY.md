@@ -9,6 +9,7 @@
 * [The neurodiversity paradigm, terminology and myths about autism](topics/understanding-neurodivergence/neurodiversity-paradigm-terminology.md)
 * [AuDHD: how ADHD and autism overlap and conflict](topics/understanding-neurodivergence/audhd-adhd-autism-overlap.md)
 * [Lesser-known autistic traits and co-occurring conditions](topics/understanding-neurodivergence/autistic-traits-co-occurring-conditions.md)
+* [Stimming: functions, types, stim toys and responding to harmful stims](topics/understanding-neurodivergence/stimming-functions-stim-toys.md)
 
 ## Diagnosis and neurodivergent identity
 * [Screening and diagnosis of adult ADHD and autism](topics/diagnosis-and-identity/screening-diagnosis-adhd-autism.md)

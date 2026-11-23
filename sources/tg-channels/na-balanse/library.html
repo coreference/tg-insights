@@ -404,6 +404,12 @@ window.tgxNLM=(function(){
       }
     });
     (rec.media_text || []).forEach(function (t) {
+      if (t.kind === 'article') {
+        lines.push('<div class="msg-meta-line">Linked Telegraph longread, full text saved in the library (' + esc(t.file || '') +
+          '; original: <a href="' + attrEsc(t.url || '') + '" target="_blank" rel="noopener">' + esc(t.url || '') + '</a>):</div>' +
+          '<div class="msg-text media-text">' + esc(t.text) + '</div>');
+        return;
+      }
       lines.push('<div class="msg-meta-line">Text transcribed from ' + esc(t.file || 'media') + ':</div><div class="msg-text media-text">' + esc(t.text) + '</div>');
     });
     if (rec.embedded_links && rec.embedded_links.length) {

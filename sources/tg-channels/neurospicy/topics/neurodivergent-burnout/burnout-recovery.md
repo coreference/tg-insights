@@ -5,15 +5,19 @@ topic: Recovering from neurodivergent burnout
 slug: burnout-recovery
 messages: 13
 date_range: 2024-02-26..2025-05-03
-summary: How the channel frames recovery from autistic (and, by the channel author's extension, ADHD) burnout — as a slow process with two distinct tasks, recovering from the current episode and building a life that lowers the risk of future episodes — and what a recovery-plan guide it shares covers. A complete walkthrough of the Russian-language toolkit for autistic burnout that the channel shared (a translated 108-page workbook) — what autistic burnout is, self-care and nervous-system tools (breathing, PMR, visualization, completing the stress cycle, sleep), sensory-trigger and calming-stimulus inventories, a sensory soothing kit, energy sparks and drains, safe food, emotion-awareness tools, recovery planning (boundaries, gradual return to activity, goals) and self-advocacy (disclosure + request scripts, accommodations, letter template). What an autistic person needs in order to recover from burnout and to lower the risk of a new one (a checklist to hand to family and friends), why the old limits built on masking no longer hold after burnout and how to relearn one's real boundaries, and a complete sensory-based workbook (100+ ideas) for finding restorative activities by sense, stimming type, social role, monotony and cognitive play, with exercises for building them into daily life.
+summary: How to recover from autistic (and, in the channel author's view, ADHD) burnout according to a translated guide by Dr. Megan Anna Neff that the channel shares. It covers what autistic burnout is and what causes it, the two phases of recovery (immediate recovery, then sustainable/deep recovery), Raymaker's research-based recovery supports, Neff's eleven recovery practices, seven pillars of a recovery plan with a nine-item paper template, prevention through self-knowledge, and the deep work of unmasking, internalized ableism and grief. A complete walkthrough of the Russian-language toolkit for autistic burnout that the channel shared (a translated 108-page workbook) — what autistic burnout is, self-care and nervous-system tools (breathing, PMR, visualization, completing the stress cycle, sleep), sensory-trigger and calming-stimulus inventories, a sensory soothing kit, energy sparks and drains, safe food, emotion-awareness tools, recovery planning (boundaries, gradual return to activity, goals) and self-advocacy (disclosure + request scripts, accommodations, letter template). What an autistic person needs in order to recover from burnout and to lower the risk of a new one (a checklist to hand to family and friends), why the old limits built on masking no longer hold after burnout and how to relearn one's real boundaries, and a complete sensory-based workbook (100+ ideas) for finding restorative activities by sense, stimming type, social role, monotony and cognitive play, with exercises for building them into daily life.
 answers:
   - Can you recover quickly from autistic burnout?
-  - What causes autistic burnout according to the channel?
-  - What are the two parts of recovering from autistic burnout?
-  - Is there hope of recovering from autistic burnout?
+  - What is autistic burnout and how does it differ from other burnout?
+  - What causes autistic burnout?
+  - What are the phases of recovering from autistic burnout?
+  - Why is rest alone often not enough to recover from autistic burnout?
+  - What helped autistic adults recover from burnout in Raymaker's research?
+  - How do I build a burnout recovery plan, and what goes into it?
+  - How can I reduce demands and sensory load while recovering?
+  - How do I prevent the next autistic burnout?
+  - What role do internalized ableism and grief play in burnout recovery?
   - Does advice on autistic burnout also apply to people with ADHD?
-  - What does a plan for recovering from autistic burnout include?
-  - How can internalized ableism affect burnout?
   - What is autistic burnout and what are its three main characteristics?
   - What concrete self-care and nervous-system techniques help during autistic burnout recovery?
   - How do I complete the stress cycle, and which activities help do it?
@@ -35,7 +39,16 @@ answers:
   - How do I build rest into my routine in small steps?
   - How can I limit socializing gently while still caring for someone?
 frameworks:
-  - Two aspects of recovery from autistic burnout (episode recovery + burnout-risk-reducing life)
+  - Two phases of recovery from autistic burnout (immediate recovery + sustainable/deep recovery)
+  - Three defining features of autistic burnout
+  - Five common causes of autistic burnout
+  - Raymaker's recovery supports (themes autistic adults found helpful)
+  - Dr. Neff's eleven burnout-recovery practices
+  - Pillars of an autistic burnout recovery plan (sensory, sleep, important activities, movement, demand reduction, rest, accommodations)
+  - Recovery plan on paper (nine-item pillar list + actionable steps)
+  - Demand inventory
+  - Prevention through self-knowledge (triggers and early signs)
+  - Deep recovery (unmasking, overcoming internalized ableism, making space for grief)
   - Three main characteristics of autistic burnout
   - Deep breathing protocol (4 in / 1–2 hold / 6 out)
   - Progressive muscle relaxation (PMR) sequence
@@ -84,7 +97,6 @@ themes:
   - burnout
   - recovery
   - autism
-  - adhd
   - masking
   - sensory-regulation
   - self-advocacy
@@ -92,9 +104,17 @@ themes:
   - emotional-awareness
   - self-care
 terms:
-  - аутистическое выгорание | autistic burnout; an exhausting, overwhelming state that typically follows years of overwork, physical overstrain and trying to fit a neurotypical world | 40
-  - план восстановления | recovery plan; a deliberate plan for recovering from a burnout episode | 40
-  - внутренний эйбелизм | internalized ableism; named as something that can influence a person in the context of burnout | 40
+  - аутистическое выгорание | autistic burnout; a state of physical, emotional and mental exhaustion marked by chronic exhaustion, reduced tolerance to stimuli and loss of skills | 40
+  - немедленное восстановление | immediate recovery; first phase, practices that restore energy within the current burnout cycle | 40
+  - устойчивое / долгосрочное / глубокое восстановление | sustainable / long-term / deep recovery; second phase, restructuring life, re-evaluating values and addressing root causes of burnout | 40
+  - аллистический | allistic; non-autistic (the article's gloss: "аллистических (не аутичных)") | 40
+  - маскировка / маскинг | masking; hiding autistic traits and imitating expected scripts and body postures, at high cognitive cost | 40
+  - инвентаризация требований | demand inventory; a review of all demands in your life to find non-essential ones you can drop for a while | 40
+  - сенсорные регуляторы / сенсорные блокаторы | sensory regulators / sensory blockers; things that soothe your senses vs. things that block unwanted input (named as items of the recovery plan) | 40
+  - сенсорный детокс | sensory detox; a space or time with minimal sensory input for sensory rest | 40
+  - проприоцептивный ввод | proprioceptive input; body-position/pressure input from movements like rocking or lifting weights | 40
+  - интероцепция | interoception; awareness of internal body signals, needed to know what your body needs | 40
+  - внутренний эйблизм (эйбелизм) | internalized ableism; beliefs and biases taken on from living in an ableist society that shape unrealistic expectations of oneself | 40
   - нейроотличные люди | neurodivergent people; here people with autism (РАС) and/or ADHD (СДВГ) | 40
   - аутичное выгорание | autistic burnout — a long-lasting state of global exhaustion, loss of skills and heightened sensitivity to the environment | 167
   - маскинг | masking — the guide links burnout to autistic people with high masking who are pressured to meet social expectations | 167
@@ -125,7 +145,10 @@ terms:
   - “Социальный таймер” | "social timer"; a set comfortable duration for socializing with pauses | 532
   - домашний “подопечный” | a home "ward"; a pet, plant or crystal-growing kit to care for when one wants to care without socializing | 532
 people:
-  - Channel author (Нейропряность) | shares and comments on the recovery guide; self-identifies as having both ADHD and autism | 40
+  - Dr. Megan Anna Neff | author of the translated article; autistic psychologist who writes from personal experience of burnout and late discovery of her autism | 40
+  - Настя | translator of the article into Russian | 40
+  - Raymaker | researcher whose study of burnout in autistic adults supplied the list of recovery supports | 40
+  - Channel author (Нейропряность) | shares the guide; has both ADHD and autism and considers it useful for both | 40
   - Translator of the guide (author of the channel *почему бы не попробовать* (Why not try)) | translated the autistic-burnout toolkit over several months and shared it; adds translator notes | 167
   - Dr. Neff / Neurodivergent Insights | credited on the nervous-system reset page (©Dr. Neff, neurodivergentinsights.com); the guide links to the Neurodivergent Insights blog and community; appears to be the original author of the guide | 167
   - Дарья Сучилина (Darya Suchilina) | source of a free course of guided meditations recommended in the guide | 167
@@ -138,7 +161,9 @@ people:
 
 ## What this covers
 
-This part covers a single post in which the channel shares a translated guide/article titled "Восстановление от аутистического выгорания: Как создать план восстановления" (*Recovering from autistic burnout: how to create a recovery plan*). The post sets out how recovery is framed — slow, but possible — and splits it into two separate tasks. The channel presents the topic as important because autistic burnout is "absolutely exhausting and overwhelming" and does not go away quickly [msg #40].
+This part covers one post. In it the channel shares a Russian translation (by Настя) of an article by Dr. Megan Anna Neff, "Восстановление от аутистического выгорания: Как создать план восстановления" (*Recovering from autistic burnout: how to create a recovery plan*). Neff is an autistic psychologist. The article explains what autistic burnout is and what causes it. It describes two phases of recovery and gives two lists of recovery supports, one drawn from Raymaker's research and one from Neff herself. It then shows how to build a written recovery plan from "pillars", how to prevent the next burnout, and the deeper psychological work of unmasking, internalized ableism and grief [msg #40, article #40].
+
+According to the source this matters because autistic burnout "может быть абсолютно изнурительным и подавляющим" (*can be absolutely exhausting and overwhelming*). It also usually builds up over years, so it cannot be fixed quickly, although "надежда на исцеление есть" (*there is hope for healing*) [msg #40]. Neff speaks from both sides: as an autistic person she knows burnout from experience, and as a psychologist she knows the damage it can do to mental health and well-being [article #40].
 
 This part covers a single forwarded post [msg #167]: the author of the channel *почему бы не попробовать* (Why not try) announces that she has finished a translation she worked on for several months — a «гайд с инструментами по работе с аутичным выгоранием» (*guide with tools for working with autistic burnout*) — and attaches the full 108-page Russian PDF *Инструменты для работы с аутичным выгоранием* (*Tools for working with autistic burnout*). The file is a practical workbook in five parts: resources for self-care, sensory needs, emotions and emotional-awareness tools, a recovery-planning guide, and self-advocacy. Every technique, list, checklist, example and template in it is reproduced below [msg #167, file #167].
 
@@ -152,10 +177,13 @@ Several posts in this range were videos (on pacing, on why rest doesn't help, an
 
 ## Core ideas
 
-- **Burnout is cumulative, so recovery is slow.** The post says autistic burnout usually comes after several years of overwork, overstraining the body and trying to adapt to a neurotypical world. Because it builds up over years, the post warns that it unfortunately cannot be got rid of quickly. It still stresses that there is hope of healing ("надежда на исцеление есть") [msg #40].
-- **Recovery has two parts.** Getting through the current episode is one task. Building a life that lowers the risk of the next episode is a different task (see *Two aspects of recovery* below) [msg #40].
-- **Internalized ableism matters.** The guide lists internalized ableism as one of its subjects, because it can affect people in the context of burnout [msg #40].
-- **The guide also applies to ADHD.** The channel author says the guide was written about autistic burnout specifically. As someone with both ADHD and autism, though, the author finds it deeply relatable, so in the author's view it can help neurodivergent people with autism or with ADHD [msg #40].
+- **Burnout builds up over years, so recovery is slow.** Burnout usually follows several years of overwork, overstraining the body and trying to adapt to a neurotypical world. Recovery therefore "не происходит за одну ночь" (*does not happen overnight*), and patience with yourself and with the process is one of the hardest parts. Full detail is in *No quick fix* [msg #40, article #40].
+- **Recovery has two phases.** Phase 1 is immediate recovery from the current episode. Phase 2 is sustainable (deep) recovery, which means building a life that lowers the risk of future episodes. See *Two phases of recovery* [msg #40, article #40].
+- **You usually cannot just go back to "normal".** For many autistic people, the demands of their ordinary life are what caused the burnout. Recovery therefore means rethinking that life, not returning to it. See *Rethinking "normality"* [article #40].
+- **A personal recovery plan is key.** Recovery should be planned around your own pillars, such as sensory needs, sleep, rest and demand reduction, and turned into small, actionable goals. Neff advises picking only the ideas that appeal to you, because "иногда меньше значит больше" (*sometimes less is more*) [article #40].
+- **Prevention is the best strategy.** Self-knowledge about your triggers and early signs lets you step out of situations in time [article #40].
+- **For people who mask heavily, rest and supports may not be enough.** Recovery may also require unmasking, rebuilding your identity to include your neurodivergence, overcoming internalized ableism and grieving your limitations [article #40].
+- **The guide applies to ADHD too, in the channel author's view.** The article is about autistic burnout. The channel author, who has both ADHD and autism, says it resonates strongly and thinks it is useful for neurodivergent people with either condition [msg #40].
 
 - **Autistic burnout is more than tiredness.** It is a long-lasting state of global exhaustion, loss of skills and heightened sensitivity to the environment, growing out of ongoing stress — especially in highly masking autistic people pressured to meet social expectations that do not fit their needs (see *Three main characteristics of autistic burnout*) [file #167].
 - **Pick, don't do everything.** The guide explicitly warns that trying every strategy will quickly overload you; different strategies work for different people, so try the ones that interest you with the goal of finding one or two that work, and do not get upset if some don't [file #167].
@@ -175,13 +203,105 @@ Several posts in this range were videos (on pacing, on why rest doesn't help, an
 
 ## Frameworks, models and step-by-step methods
 
-### Two aspects of recovery from autistic burnout
-Purpose: the guide uses these two aspects to organize recovery from autistic burnout. The point is that ending the current crisis and preventing the next one are separate jobs [msg #40].
+### Three defining features of autistic burnout
+Neff defines autistic burnout as "состояние физического, эмоционального и умственного истощения" (*a state of physical, emotional and mental exhaustion*). She says it differs from other forms of burnout and is marked by three features [article #40]:
+1. **Chronic exhaustion.** A pervasive physical, cognitive and social tiredness [article #40].
+2. **Reduced tolerance to stimuli.** Increased sensitivity to sensory input and to stimuli in general [article #40].
+3. **Loss of skills.** Many executive-function skills get worse during burnout. People may struggle with verbal ability (speech), attention regulation and other cognitive functions [article #40].
 
-1. **Recovering from the immediate burnout episode** ("Восстановление после непосредственного эпизода выгорания"). This is the acute phase: getting out of the burnout you are in right now. Its only stated property is that this recovery is not quick; concrete steps are absent from this source (!) INCOMPLETE [msg #40].
-2. **Creating a life that reduces the risk of future burnout episodes** ("Создание жизни, снижающей риск будущих эпизодов выгорания"). This is the long-term, preventive phase. It means reshaping your life so that the causes the post names (years of overwork, bodily overstrain, forcing yourself to fit a neurotypical world) build up less. The post does not describe specific changes [msg #40].
+In essence, burnout happens when we feel drained, overloaded and crushed. It can be very hard to cope with, it affects day-to-day functioning, and it can damage mental and physical health. The triggers she lists are stress, sensory overload, social isolation and difficulty "navigating" social interactions [article #40].
 
-(!) INCOMPLETE: the post itself does not include the concrete recovery tips, the recovery-plan template or the steps for either aspect. They are in the full article on Telegraph, and its text is not in the source [msg #40].
+### Five common causes of autistic burnout
+Neff says many factors can contribute. Burnout is often caused by a combination of them, and the mix differs from person to person. She advises identifying *your* specific causes so you can design strategies to manage the current burnout and prevent future ones [article #40].
+1. **Stress.** Autistic people often experience everyday activities as more stressful than neurotypical people do. Disrupted routines, socializing in allistic (non-autistic) situations and the demands of work and school add up to daily stress that is exhausting for many [article #40].
+2. **Sensory overload.** Autistic people are often more sensitive to stimuli such as loud sounds or bright light. Long periods of sensory overload strain the nervous system, reduce capacity and make burnout more likely [article #40].
+3. **Executive-function overload.** Executive functions are the mental processes responsible for planning, decision-making and behavioral control. Overloading them for a long time can lead to burnout and to losing executive-function skills [article #40].
+4. **Difficulty adapting to allistic social or educational systems.** Autistic people may find it hard to decode and follow social rules in allistic spaces, or may manage it only at a high cognitive cost, for example through masking. Advocating for their needs at school or work can also be hard, which leads to frustration and exhaustion [article #40].
+5. **Difficulty getting support and accommodations, or no support at all.** Many autistic people face barriers to getting a formal diagnosis and accommodations. The resulting lack of support feeds overload and burnout [article #40].
+
+The channel post summarizes the causes in one line: years of overwork, overstraining the body and trying to fit a neurotypical world [msg #40].
+
+### Two phases of recovery from autistic burnout
+Purpose: ending the current crisis and preventing the next one are separate jobs, and they need different work. The channel post names them as "Восстановление после непосредственного эпизода выгорания" (*recovering from the immediate burnout episode*) and "Создание жизни, снижающей риск будущих эпизодов выгорания" (*creating a life that reduces the risk of future burnout episodes*) [msg #40]. The article says that for most people effective recovery requires this two-stage process [article #40].
+
+1. **Immediate recovery (немедленное восстановление).** This phase deals with the causes and consequences of the current burnout. It consists of practices that restore energy within the burnout cycle you are in now: rest, reducing sensory input, self-care, setting healthy boundaries and supportive practices. Recovery can take very different forms. For some people it means a lot of rest and sleep. For others it means eating the same foods. For others it means spending time with their special interests [article #40].
+2. **Sustainable / long-term ("deep") recovery.** This phase means restructuring your life and creating a more sustainable lifestyle. You re-evaluate your values and identify and address the underlying factors that led to the burnout. Neff calls this phase "глубоким восстановлением" (*deep recovery*). It takes a more systemic, structural view of your life and deals with problems and parts of ourselves that are more deeply rooted. It often involves structural and personal changes. Her examples are giving up constant people-pleasing and rethinking your relationship with food, alcohol, health, movement, sleep, work and your sensory environment. Creating a sustainable life often means re-evaluating the concept of "normality" in order to create a new normal. Building a life that suits you will probably take creativity and commitment, and it does not happen overnight [article #40].
+
+### Raymaker's recovery supports
+Neff reports these themes from Raymaker's study of burnout in autistic people. They are what autistic adults interviewed in the study named as helpful in their own recovery [article #40]:
+1. **Acceptance and access to social support.** Individual and community support, peer support, attention to autistic needs and time spent without masking. It also includes advocating for your rights and getting reasonable accommodations [article #40].
+2. **Leaning on autistic strengths.** Using your autistic strengths and special interests [article #40].
+3. **Formal support.** Mental-health support, time off, breaks and the possibility of social withdrawal [article #40].
+4. **Reducing load.** Cutting down activities, setting boundaries and asking for help [article #40].
+5. **Self-advocacy and health.** Focusing on a healthy lifestyle and getting an autism diagnosis [article #40].
+6. **Self-knowledge.** Understanding your patterns and triggers and making strategic decisions to prevent burnout [article #40].
+7. **Engaging with the autistic community.** Contact with the community can help a person name and acknowledge their experience of burnout [article #40].
+
+### Dr. Neff's eleven burnout-recovery practices
+These are Neff's own additional recommended practices. She warns that the source contains a lot of information, and that you should not try to apply all of it at once. Use the practices that appeal to you and leave the rest [article #40].
+1. **Set boundaries and drop unnecessary demands.** Protect your time and energy by declining non-essential activities and commitments. Prioritize your well-being and don't take on too much [article #40].
+2. **Find ways to reduce sensory input.** Use noise-cancelling headphones, noise-reduction devices such as Loops, sunglasses and similar aids, "даже, если кажется, что сегодня можно обойтись без очков" (*even if it seems you could do without the glasses today*) [article #40].
+3. **Take breaks.** Make sure you set aside time to relax and recharge. That may mean dedicated leisure time or simply short breaks during the day [article #40].
+4. **Find alternative ways of self-expression.** Many autistic people express emotions in other ways. Examples are writing, art, making collages, writing poems or finding music that matches your mood [article #40].
+5. **Don't let routine disappear.** In burnout we tend to drop routine completely. Yet routine calms the nervous system, because it tells us what to expect. It doesn't have to be strict, but a few anchor points through the day help [article #40].
+6. **Do activities that soothe your senses.** Find gentle, calming ways to move your body [article #40].
+7. **Spend time in nature.** Neff says nature is especially restorative for autistic people. If you can, sit by a lake, the ocean or a beautiful meadow, or just listen to nature sounds [article #40].
+8. **Practice self-care.** Do things that nourish and support you. That may mean enough sleep, good nutrition, exercise, or relaxation techniques such as deep breathing or meditation [article #40].
+9. **Seek support.** Don't be afraid to talk to someone about how you feel. It could be a therapist, a counselor or someone you trust in the autistic community [article #40].
+10. **Create a sensory-supportive environment.** Make your living and working space as comfortable and supportive as possible. That means minimizing sensory irritants, reducing visual clutter and creating a calm, organized environment [article #40].
+11. **Seek accommodations.** If you struggle at school or work, consider asking for accommodations, for example extra time for assignments or breaks [article #40].
+
+### Pillars of an autistic burnout recovery plan
+Purpose: these are the key elements, or "pillars", to think through when drafting your plan. Neff stresses that each person's plan will have its own key elements [article #40].
+1. **Sensory.** Ask where you can reduce your sensory load:
+   - Is there lighting you can change?
+   - Can you create a sensory-detox space at home?
+   - Do you use weighted blankets, noise blocking or compression clothing?
+   - Can you remove irritants (perfume, chemical smells, bright light) from your main living space?
+
+   These may seem like small things, but "всё это имеет накопительный эффект" (*it all has a cumulative effect*). The reasoning is that the sensory system is on heightened alert during burnout, so blocking unnecessary input can make a big difference. Pitfall: many people diagnosed with autism late in life are so disconnected from their bodies that they take a "push through the discomfort" attitude to sensory problems. Neff says these irritants nonetheless contribute to burnout, and removing them helps [article #40].
+2. **Sleep.** Sleep is often a problem for autistic people. Paying attention to sleep schedules, sleep hygiene and sleep support helps. Prioritizing sleep is called a critically important part of burnout recovery [article #40].
+3. **Important activities.** These are activities that bring joy and energize you. They are probably linked to your special interests, or to repetitive physical movements that calm you, such as rocking, rhythmic dancing or rolling. Be sure to make room for activities that restore and recharge you [article #40].
+4. **Movement.** Finding movement that feels pleasant, enjoyable and restorative is described as vital. It may be repetitive movement or movement that gives proprioceptive input, such as rocking or lifting weights. Caveat: your body is recovering, so be careful with your movement regime [article #40].
+5. **Demand reduction.** Do a "инвентаризацию требований" (*demand inventory*) of your life and see which non-essential demands you can drop for a while. The article gives four examples (see *Demand inventory* in the Practical playbook) [article #40].
+6. **Rest.** Neff: "Я не могу достаточно подчеркнуть это" (*I cannot stress this enough*). Autistic burnout is the physical response of your body, mind and nervous system to constant overload, so you need rest, and a lot of it. Rest can mean focusing on sleep, resting during the day or spending time with your special interest. The key distinction is to aim for rest that feels *restorative*. Endless TV may feel restful but is unlikely to restore you. Alternatives are reading or listening to a book about your special interest, or doing something that soothes your sensory system [article #40].
+7. **Accommodations.** Now is the time to think seriously about which accommodations you already have and what could be added. For many people the first step is working out what your body needs. Spend time analyzing your environment: which irritants are there, and what could support you? If interoception problems make it hard to tell what you need, consider starting with activities that build interoceptive awareness. The article points to a two-part piece on interoception, but its content is not in this source (!) INCOMPLETE [article #40].
+
+### Recovery plan on paper: putting it all together
+Purpose: to turn the pillars into one concrete written plan. Neff says an ordinary sheet of paper is enough [article #40].
+
+**Step 1. Write down your main components, or pillars.** The article's list of things to write down [article #40]:
+1. Duties I can give up ("Обязанности от которых я могу отказаться").
+2. My sensory regulators.
+3. My sensory blockers.
+4. My way of recharging.
+5. People I don't mask with.
+6. A list of "safe" food.
+7. People I feel calm with.
+8. People I can turn to for extra support.
+9. My interests that help me stay calm.
+
+**Step 2. Under each pillar, create actionable steps and small goals.** Under "Rest" you might write "сосредоточиться на том, чтобы ложиться спать каждую ночь в 10 вечера" (*focus on going to bed at 10 p.m. every night*) or "поговорить с моим врачом о поддержке сна с помощью лекарств" (*talk to my doctor about medication to support sleep*). Under "Load reduction" you note each load you can reduce and how you will do it; the same is done for every pillar [article #40].
+
+(!) UNCLEAR: the worked examples in Step 2 refer to pillars named "Rest" and "Load reduction" from the earlier pillar list (Sensory, Sleep, Important activities, Movement, Demand reduction, Rest, Accommodations). The nine-item list in Step 1 uses different labels. The source does not say whether you should use one set or combine them [article #40].
+
+### Prevention through self-knowledge
+Neff's closing word on recovery is that the best strategy is to prevent autistic burnout. Self-knowledge is critical for this: knowing your triggers and recognizing early signs of burnout [article #40].
+- **Early signs vary by person.** For some people they include heightened sensitivity to sensory input. For others they include depersonalization and detachment from reality [article #40].
+- **What early detection lets you do.** Spotting early signs tells you it is time to leave a situation and arrange time for sensory rest [article #40].
+- **Planning ahead.** Self-knowledge also helps you plan trips, travel and daily rhythms so they include time for sensory detox and rest [article #40].
+
+Working on preventing future burnout is described as critical to ongoing recovery and maintenance. These proactive steps help prevent burnout and build a sustainable life [article #40].
+
+### Deep recovery: unmasking, internalized ableism and grief
+Neff uses "Глубоким Восстановлением" (*Deep Recovery*) here for deep psychological work: removing masks and learning new ways of engaging with the world [article #40].
+- **Why masking needs this work.** Masking embeds itself deep in the psyche. It goes beyond imitating scripts and body postures and can turn into a habit of constantly pleasing others. Masking and people-pleasing make healthy boundaries hard to keep, and we often exhaust ourselves trying to earn approval. These deeper problems often have to be addressed in order to build a more sustainable life [article #40].
+- **Who needs more than rest.** If you are a highly masking autistic person, or are recovering from autistic burnout, you may need more than rest and extra supports. You may need to rebuild your identity to include your neurodivergence. For many people burnout is the moment they discover their autism. It can be the first time they understand that their life simply isn't working: they are exhausting themselves trying to function in an allistic world, and it does not work [article #40].
+- **Two additional tasks.** If this matches your experience, recovery may also include 1) overcoming internalized ableism and 2) making space for grief [article #40].
+
+**1. Overcoming internalized ableism.** Internalized ableism means the beliefs and biases that come from living in an ableist society, and they shape what we expect of ourselves. Neff's examples: "Я должен быть способен работать 40-часовую рабочую неделю" (*I should be able to work a 40-hour week*) and "Я не должен нуждаться в адаптациях" (*I shouldn't need accommodations*). Internalized ableism produces many unrealistic expectations. We hold on to allistic "normality" and do not respect our own sensory, communication and physical needs, and we will keep wearing ourselves out until we deal with that ableism and those expectations. It often leads to people-pleasing, which makes healthy boundaries hard to create and keep. If our identity depends on how pleased others are with us, we stay stuck in a crazy cycle of over-performing and burning out. Ways to do this deep work are reading, journaling, writing, talking with other autistic people, or working with a therapist or coach [msg #40, article #40].
+
+**2. Working with grief.** Grief work goes hand in hand with overcoming internalized ableism. As we fight our ableism we also come up against our limitations, and grieving them is normal. "Чтобы принять что-то новое, вам нужно оплакивать то, что вы теряете" (*To accept something new, you need to mourn what you are losing*). To accept our limitations we must mourn the image of ourselves we are letting go of. Neff's own example: after discovering her autism she realized her chronic-fatigue symptoms would never magically disappear. She would always live in a body that needs more rest and is limited by its sensory needs. She grieved what this meant: careers she will no longer pursue, and the ways it limited her social world and her role as a parent. She had to grieve her self-image in order to accept herself as she is [article #40].
 
 ### How to use the guide
 - The guide describes itself as a collection of tools to support you when you face the difficulties of autistic burnout. It includes guides to sensory self-care, sets of coping strategies, tools for exploring emotions, sensory-regulation techniques, recovery-planning guides and self-advocacy templates [file #167].
@@ -893,15 +1013,20 @@ A log with a date and three columns: time spent, type of activity, and sensation
 
 ## Detailed insights
 
-### What the shared guide covers
-The post lists what the article covers, in this order [msg #40]:
-- what autistic burnout is;
-- the causes of burnout;
-- various tips for recovery;
-- how to create a recovery plan;
-- how internalized ableism can affect us in the context of burnout.
+### No quick fix: patience as part of recovery
+Neff says this is the place in a blog where she would like to offer a "простой трехэтапный процесс" (*simple three-step process*) that GUARANTEES recovery in six weeks. She cannot, because there is no magic recipe and no quick fix. If you have spent the last few years overextending yourself, ignoring your sensory needs and functioning above your capacity, recovery will not happen overnight. Patience is one of the hardest parts of recovery, and you need compassion and patience toward yourself and toward the process. Instead of a formula she offers many thoughts and practices. Her overall message is still hopeful: with planning, purposefulness, self-care and creative thinking you can build a more sustainable life [article #40].
 
-The causes are the only item the post explains. It names years of overwork, overstraining the body and trying to fit into a neurotypical world [msg #40].
+### Rethinking "normality": why going back is not the goal
+Autistic burnout is not something you can easily "перешагнуть" (*step over*). That idea assumes burnout is temporary and that after recovery you go back to life as it was. For many autistic people, though, the demands and challenges of their usual life are exactly what caused the burnout. Recovery therefore often requires a significant overhaul of your life, including re-evaluating your values and creating a more sustainable lifestyle. This is the reasoning behind the two-phase model and behind rethinking "normality" in deep recovery [article #40].
+
+### How to approach the advice
+Neff stresses that the tips are a menu, not a program. Some come from autistic adults interviewed in Raymaker's research and some are her own. "Это много информации и идей, не пытайтесь применять их все сразу" (*This is a lot of information and ideas, don't try to apply them all at once*). Choose the ones that appeal to you, because in a recovery plan "иногда меньше значит больше" (*sometimes less is more*) [article #40].
+
+### Burnout as a signal
+In her summary Neff says you are not alone in this struggle. A recovery plan that fits you and your specific needs is key. It can include self-care strategies, setting boundaries, reducing demands and seeking support from friends, family or professionals. Burnout can also be a signal to reflect on yourself, overcome internalized ableism and face the sadness that comes with recognizing your limitations. It can be a chance to re-evaluate and reorganize your life so it fits your true self better [article #40].
+
+### Relevance to ADHD
+The channel author adds a framing note: "Автор пишет именно об аутистическом выгорании" (*the author writes specifically about autistic burnout*). However, the author has both ADHD and autism (СДВГ и РАС) and finds the described experience strongly relatable. In the author's opinion the guide may therefore be useful for neurodivergent people with autism and with ADHD [msg #40].
 
 ### Why self-care matters during burnout
 When fatigue and heightened sensitivity from burnout affect your state, devoting time to self-care is compared to being wrapped in a warm hug. Activities such as art, meditation, yoga or gardening support emotional recovery because they allow self-expression; creating a cosy environment with comforting elements — blankets, calming smells and music — grounds you emotionally and provides comfort. These practices help manage stress, build resilience and restore a sense of balance [file #167].
@@ -927,9 +1052,23 @@ The translator summarises what the guide is useful for [msg #167]:
 4. A self-advocacy section; she especially liked it: «тут мне очень понравилось, что есть конкретные примеры отстаивания своих потребностей» (*here I really liked that there are concrete examples of standing up for your needs*) [msg #167].
 She encourages readers to save the guide and share it with those who may need it [msg #167].
 
+## Practical playbook
+
+### Demand inventory
+List every demand in your life, then ask which non-essential ones you can drop for a while. The article's prompts [article #40]:
+- **Cooking.** If you cook regularly, can you temporarily use more ready-made food, takeaway or subscriptions for ready-meal delivery?
+- **Clothing.** Can you design a uniform to wear every day or week, and drop the demand of choosing clothes?
+- **Work demands.** Are there work demands you can give up?
+- **Parenting demands.** Are there parenting-related demands you can give up?
+
 ## Tools and resources mentioned
 
-- **"Восстановление от аутистического выгорания" (Telegraph article, Russian translation/adaptation shared by the channel).** This is a guide to recovering from autistic burnout and building a recovery plan. Its subjects are the definition, the causes, recovery tips, plan-building and internalized ableism. Verdict: the channel author calls it a "пособие" (*guide/manual*) that resonates strongly with them. The author recommends it for neurodivergent people with autism and/or ADHD. URL: https://telegra.ph/Vosstanovlenie-posle-autisticheskogo-vygoraniya-Kak-sozdat-plan-vosstanovleniya-02-26 [msg #40]
+- **"Восстановление от аутистического выгорания: Как создать план восстановления" by Dr. Megan Anna Neff, translated by Настя (Telegraph).** A guide to recovering from autistic burnout and building a recovery plan. The channel author calls it a "пособие" (*guide/manual*) that resonates strongly and recommends it for neurodivergent people with autism and/or ADHD. URL: https://telegra.ph/Vosstanovlenie-posle-autisticheskogo-vygoraniya-Kak-sozdat-plan-vosstanovleniya-02-26 [msg #40]
+- **Raymaker's research on autistic burnout.** The study the article cites; it interviewed autistic adults about burnout. The article uses it as the source of the seven recovery-support themes [article #40].
+- **Loops.** Named as an example of a noise-reduction device, alongside noise-cancelling headphones and sunglasses, for cutting sensory input [article #40].
+- **Sensory aids named in the Sensory pillar.** Weighted blankets, noise blocking and compression clothing, offered as ways to reduce sensory load [article #40].
+- **Companion article "Что такое аутистическое выгорание".** The article points to it for more detail on autistic burnout (https://telegra.ph/CHto-takoe-Autisticheskoe-vygoranie-02-11). Its content is not part of this source [article #40].
+- **Two-part article on interoception.** The article recommends it for building interoceptive awareness. Its content and links are not part of this source [article #40].
 
 - **Инструменты для работы с аутичным выгоранием (PDF, 108 pages)** — the translator's Russian translation of an autistic-burnout toolkit; the translator's verdict: useful for emotions, sensory sensitivity, boundaries and especially self-advocacy [msg #167, file #167].
 - **Рабочая тетрадь для аутичного выгорания (Autistic Burnout Workbook)** — companion workbook; some guide resources pair with its fourth chapter (!) not otherwise described [file #167].
@@ -952,7 +1091,15 @@ She encourages readers to save the guide and share it with those who may need it
 
 > "Выгорание часто наступает после нескольких лет чрезмерной работы, перенапряжения наших тел и попыток подстроиться под нейротипичный мир... и избавиться от него быстро, к сожалению, не получится." (*Burnout often sets in after several years of excessive work, overstraining our bodies and trying to adapt to a neurotypical world... and unfortunately it is not possible to get rid of it quickly.*) — channel post [msg #40]
 
-> "Однако, надежда на исцеление есть." (*However, there is hope for healing.*) — channel post [msg #40]
+> "Одной из самых сложных частей восстановления от аутистического выгорания является терпение." (*One of the hardest parts of recovering from autistic burnout is patience.*) — Dr. Megan Anna Neff [article #40]
+
+> "Однако для многих аутичных людей именно требования и вызовы их обычной жизни приводят к выгоранию." (*However, for many autistic people it is precisely the demands and challenges of their ordinary life that lead to burnout.*) — Dr. Megan Anna Neff [article #40]
+
+> "Бесконечный просмотр ТВ может казаться отдыхающим, но вряд ли будет восстанавливающим." (*Endless TV watching may feel restful, but it is unlikely to be restorative.*) — Dr. Megan Anna Neff [article #40]
+
+> "Мы будем продолжать изматывать себя до тех пор, пока не разберемся с нашим эйблизмом (и ожиданиями)!" (*We will keep wearing ourselves out until we deal with our ableism (and expectations)!*) — Dr. Megan Anna Neff [article #40]
+
+> "Мне нужно было оплакивать образ себя, чтобы принять себя такой, какая я есть." (*I needed to mourn my image of myself in order to accept myself as I am.*) — Dr. Megan Anna Neff [article #40]
 
 > "мне как человеку с СДВГ и РАС очень сильно откликается описанное" (*as a person with ADHD and autism, what is described resonates with me very strongly*) — channel author [msg #40]
 
@@ -978,8 +1125,13 @@ She encourages readers to save the guide and share it with those who may need it
 
 ## Caveats, disagreements and open questions
 
-- (!) INCOMPLETE: none of the article's substance (recovery tips, how to build the plan, the details on internalized ableism) is in the source. Only its outline is [msg #40].
-- The guide is written about autistic burnout. Applying it to ADHD is the channel author's personal view ("на мой взгляд" — *in my opinion*), not a claim the guide makes [msg #40].
+- The article is about autistic burnout. Extending it to ADHD is the channel author's personal view ("на мой взгляд" — *in my opinion*), not a claim the article makes [msg #40].
+- Neff explicitly offers no guaranteed method or timeline. Recovery speed and form vary, and each person's pillars differ [article #40].
+- Movement during recovery should be careful, because the body is still recovering [article #40].
+- (!) UNCLEAR: the article uses "глубокое восстановление" (*deep recovery*) in two slightly different senses. First it is the second, structural phase of recovery (restructuring life, values, relationship with food, work and sleep). Later it is "deep psychological work" on unmasking, internalized ableism and grief. The source does not say whether these are the same phase or nested [article #40].
+- (!) UNCLEAR: the labels of the worked examples in the paper plan ("Rest", "Load reduction") do not match the nine-item list it gives (see *Recovery plan on paper*) [article #40].
+- (!) INCOMPLETE: the linked companion articles, on what autistic burnout is and the two-part piece on interoception, are not included in this source [article #40].
+- The Raymaker findings are reported second-hand through Neff's summary; the source gives no sample size or study details [article #40].
 - The cover image only repeats the title, "Восстановление аутистического выгорания" [img #40].
 
 - The guide repeatedly frames all tools as options, not prescriptions: not every tool works for everyone; try one or two that interest you; trying everything leads to overload [file #167].
@@ -1004,7 +1156,10 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ### Resources
 
+- ★ **Аутизм, интероцепция и как улучшить ваше восприятие. Часть 1 (Autism, interoception and how to improve your perception, part 1)** (article) — Telegra.ph article on interoception, linked from the burnout recovery plan for building body-signal awareness. [msg #40] → <https://telegra.ph/CHast-1-Autizm-interocepciya-i-kak-uluchshit-vashe-vospriyatie-02-10>
+- ★ **Аутизм, интероцепция и как улучшить ваше восприятие. Часть 2 (Autism, interoception, part 2)** (article) — Second part of the telegra.ph series on interoception, linked from the recovery plan as further reading. [msg #40] → <https://telegra.ph/CHast-2-Autizm-interocepciya-i-kak-uluchshit-vashe-vospriyatie-02-10>
 - ★ **Восстановление от аутистического выгорания: как создать план восстановления (Recovery from autistic burnout: building a recovery plan)** (article) — Translated guide on creating a recovery plan, useful for people with autism and ADHD. The channel invites readers to read it in full. [msg #40] → <https://telegra.ph/Vosstanovlenie-posle-autisticheskogo-vygoraniya-Kak-sozdat-plan-vosstanovleniya-02-26>
+- ★ **Что такое аутистическое выгорание (What is autistic burnout)** (article) — Translated article on telegra.ph explaining autistic burnout, whether it is a medical diagnosis and how it relates to depression and neurotypical burnout; the channel offers it as the base text on the topic. [msg #40] → <https://telegra.ph/CHto-takoe-Autisticheskoe-vygoranie-02-11>
 - ★ **Рабочая тетрадь для поиска восстанавливающих занятий: 100+ идей (Workbook for finding restorative activities, 100+ ideas)** (file) — Free workbook by the @justenterthevoid author, built around sensory stimuli and activities that restore neurodivergent people; shared as a pre-New-Year gift. [msg #532] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Рабочая_тетрадь_для_поиска_восстанавливающих_занятий_1.pdf`
 - ★ **Инструменты для работы с аутичным выгоранием (Autistic burnout toolkit, translated PDF guide)** (guide) — Translation, finished after months, of a workbook-style guide with exercises for emotion recognition and regulation, mood tracking, mindfulness audio links, a large sensory-sensitivity section and templates. The translator offers it free and recommends it. [msg #167] → `sources/tg-channels/neurospicy/raw-exports/ChatExport_2026-11-18/files/Инструменты_для_работы_с_аутичным_выгоранием.pdf`
 

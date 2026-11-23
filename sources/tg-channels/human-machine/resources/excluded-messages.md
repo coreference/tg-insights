@@ -215,6 +215,7 @@ Announcements, logistics, promotion and bare personal updates are kept in `parse
 - [#593] · 2025-06-04 · **promo** — Forwarded from Психодемия: Natalia Kiselnikova's selection of 4 books that can serve as support (Alpina), with brief book blurbs · (card step)
 - [#598] · 2025-06-06 · **announcement** — Intro to a 'hardcore neuro' longread series on recent fear-related research with a question to readers · (card step)
 - [#606] · 2025-06-11 · **announcement** — Announces a Russian-speaking science-pop fest in Belgrade on June 15 (4 lectures, 15:00-20:00) with registration link · (card step)
+- [#607] · 2025-06-11 · **other** — Photo-only post without text (event/cinema photo album) · (card step)
 - [#616] · 2025-06-11 · **announcement** — Monthly digest (May 13 - June 13) linking posts on social change, Piaget conference, books, fear neuroscience and masculinity · (card step)
 - [#619] · 2025-06-12 · **personal-update** — Short music-sharing evening post (#musicislife) · (card step)
 - [#620] · 2025-06-13 · **promo** — Shares a video from psychiatrist Anastasia Afanasyeva about literal interpretation in autism · (card step)

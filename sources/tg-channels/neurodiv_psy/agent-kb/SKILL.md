@@ -1,6 +1,6 @@
 ---
 name: kb-neurodiv-psy
-description: Knowledge base of the Telegram channel “(нейро)разнообразная психология”. Use when the user asks about neurodiversity, autism, adhd, stigma, inclusion, comorbidity, special-interests, rest, co-occurring-conditions, self-understanding, sexuality, diagnosis, women, masking — or asks what this channel/author says, recommends or teaches. Holds the channel's full insights, frameworks and step-by-step methods with source citations.
+description: Knowledge base of the Telegram channel “(нейро)разнообразная психология”. Use when the user asks about neurodiversity, autism, adhd, stigma, inclusion, comorbidity, special-interests, rest, co-occurring-conditions, self-understanding, sexuality, sensory-processing, self-regulation, self-harm — or asks what this channel/author says, recommends or teaches. Holds the channel's full insights, frameworks and step-by-step methods with source citations.
 ---
 
 # Knowledge base: (нейро)разнообразная психология
@@ -47,7 +47,7 @@ Paths: `domains/…` and `references/…` are inside this skill folder. `resourc
 
 | Domain | Cross-channel area | Topics | Routing table |
 |---|---|---|---|
-| **Understanding neurodivergence** | Neurodiversity | The neurodiversity paradigm, terminology and myths about autism; AuDHD: how ADHD and autism overlap and conflict; Lesser-known autistic traits and co-occurring conditions | `domains/understanding-neurodivergence.md` |
+| **Understanding neurodivergence** | Neurodiversity | The neurodiversity paradigm, terminology and myths about autism; AuDHD: how ADHD and autism overlap and conflict; Lesser-known autistic traits and co-occurring conditions; Stimming: functions, types, stim toys and responding to harmful stims | `domains/understanding-neurodivergence.md` |
 | **Diagnosis and neurodivergent identity** | Neurodiversity | Screening and diagnosis of adult ADHD and autism; Self-diagnosis, impostor syndrome and accepting a neurodivergent identity | `domains/diagnosis-and-identity.md` |
 | **Masking, overload and burnout** | Neurodiversity | Masking, the CAT-Q questionnaire and unmasking; Meltdowns, shutdowns and autistic social hangover; Neurodivergent burnout and chronic fatigue | `domains/masking-overload-burnout.md` |
 | **Communication and social life** | Neurodiversity | Autistic and ADHD communication styles, AAC and helper tools | `domains/communication-social-life.md` |

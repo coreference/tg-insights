@@ -3,9 +3,9 @@ kb: neyropryanost
 domain: Trauma, Anxiety and Medical Gaslighting
 topic: Medical gaslighting and medical trauma
 slug: medical-gaslighting-trauma
-messages: 6
+messages: 7
 date_range: 2024-08-01..2025-11-23
-summary: How repeated dismissive medical encounters ("it's all psychosomatic", "go see a psychiatrist") traumatize people with hypermobile EDS, hypermobility spectrum disorder and functional neurological disorder, how this erodes trust in one's own body signals, what the cited research found, what patients wish doctors had said, and the eleven ways autism traits collide with the demands of chronic illness.
+summary: How repeated dismissive medical encounters ("it's all psychosomatic", "go see a psychiatrist") traumatize people with hypermobile EDS, hypermobility spectrum disorder and functional neurological disorder, how this erodes trust in one's own body signals, what the cited research found, what patients wish doctors had said, and the eleven ways autism traits collide with the demands of chronic illness. A five-part first-person illness story by the author of a Russian-language FND community (forwarded by the channel), tracing more than a decade from childhood trauma and "psychogenic myoclonus" at 13 to adult functional neurological disorder. It shows which doctor behaviours re-traumatized her (labels like "hysterical fits", "VSD", "go home and don't shake", referrals with no explanation, psychologizing a happy period) and which helped (belief, time, explanation, honesty about uncertainty, exercises), plus medication experiences, family reactions and what she learned.
 answers:
   - What is clinically associated traumatization in hypermobile Ehlers-Danlos syndrome?
   - How common is PTSD and medical trauma among people with hEDS and hypermobility spectrum disorder?
@@ -15,17 +15,31 @@ answers:
   - Why are people with hypermobility more vulnerable to trauma?
   - How do autism traits clash with the demands of living with a chronic illness?
   - What needs to change in medical care to prevent PTSD in EDS and HSD patients?
+  - What does medical gaslighting look like across a real FND patient's diagnostic journey?
+  - Which doctor behaviours retraumatize FND patients and which ones help?
+  - Why do people with dissociative or functional seizures cry during an attack?
+  - Can functional neurological disorder appear when life is going well and trauma has been treated?
+  - Is it true that functional seizures are harmless and don't need preventing?
+  - Why do words of support like "everything will be fine" irritate seriously ill people?
+  - How can an FND patient find information and community when local doctors give none?
+  - What did an FND specialist say causes FND and what helps?
+  - What is the role of psychotherapy in FND according to a patient who completed it?
 frameworks:
   - Clinically associated traumatization (three findings of the hEDS interview study)
   - What needs to change - four measures against PTSD in EDS/HSD
   - Script of a helpful FND diagnosis conversation
   - Autism vs chronic illness - eleven collisions
+  - Timeline of one FND patient's illness and care (stages from age 13 to diagnosis)
+  - Harmful vs helpful doctor behaviours in the FND journey
+  - Components of the consultation that finally helped (Regina Kuchugura)
+  - Lessons the author draws from her FND story
 themes:
   - medical-trauma
   - chronic-illness
   - autism
   - interoception
   - ptsd
+  - functional-neurological-disorder
 terms:
   - клинически ассоциированная травматизация | clinically associated traumatization - psychological trauma caused by cumulative negative encounters with healthcare workers | 106
   - медицинский газлайтинг | medical gaslighting - clinicians dismissing real physical symptoms as invented, anxiety or psychosomatic, making the patient doubt their own perception | 378
@@ -35,6 +49,18 @@ terms:
   - соматоформное расстройство | somatoform disorder - a label the author heard used to dismiss her symptoms | 378
   - эмоциональный флэшбэк | emotional flashback - re-experiencing the emotional state of past trauma without a visual memory | 378
   - кптср | C-PTSD, complex post-traumatic stress disorder | 780
+  - ФНР | FND, functional neurological disorder - in the author's final specialist's words a disease in which synaptic connections in the brain break down due to stress | 256
+  - психогенный миоклонус | psychogenic myoclonus - the diagnosis she was discharged with at 13 | 256
+  - истерические припадки | hysterical fits - the dismissive label a doctor applied, saying it "often happens to young girls" | 256
+  - соматоформное расстройство | somatoform disorder - one of the labels in the professor's discharge summary | 256
+  - ВСД | VSD, vegetative-vascular dystonia - a post-Soviet catch-all label the author mocks as the punchline of her discharge papers | 256
+  - психологические неэпилептические приступы | psychogenic non-epileptic seizures (PNES) - the term that, though she now opposes it, unlocked information for her | 256
+  - диссоциативные припадки | dissociative seizures - how she describes her attacks | 256
+  - синдром Янца | Janz syndrome (juvenile myoclonic epilepsy) - a diagnosis one epileptologist gave and later dropped | 256
+  - пароксизмальная кинезиогенная дискинезия | paroxysmal kinesigenic dyskinesia - a rare genetic disorder with FND-like movement symptoms that responds to low-dose carbamazepine | 256
+  - АВМ | arteriovenous malformation - an MRI finding later revised to a harmless venous angioma | 256
+  - тиковое расстройство | tic disorder - what the specialist identified her involuntary whispered words and head jerks as | 256
+  - аура / предприступное ощущение | aura / pre-seizure sensation - the warning feeling before an attack | 256
 people:
   - Настя | author of the forwarded post (from Neurospicy_dushnila) summarizing the hEDS clinical traumatization study | 106
   - Нейропряность (channel author) | person with hEDS/chronic illness and autism, shares her own medical gaslighting experience and translations | 378, 508, 666, 780
@@ -43,12 +69,24 @@ people:
   - The Ehlers-Danlos Society | source of the PTSD and hypermobility infographic | 666
   - author of the FND channel | patient with FND writing as "an unpleasant patient" | 766
   - spooniesaga | original author of the autism vs chronic illness list, translated by the channel | 780
+  - author of the FND channel (titled functional neurological disorder, FND) | autistic woman with FND who wrote the five-part story; founded the Russian-language FND community | 256
+  - Регина Кучугура (Regina Kuchugura) | neurologist, herself neurodivergent, whose 1.5-hour consultation was the first that helped | 256
+  - Константин Евдокимов (Konstantin Evdokimov) | physician-scientist specializing in FND; confirmed the diagnosis, explained it, gave exercises, suggested the community | 256
+  - «Тебе поверят» | organization helping survivors of childhood sexual abuse; the author says it changed her life | 256
+  - Viktor Frankl | quoted (via a lecture) on trauma and meaning | 256
+  - Autentik | startup making apps for autistic people, where the author worked | 256
 ---
 # Medical gaslighting and medical trauma
 
 ## What this covers
 
 This topic gathers what the channel taught about medical gaslighting and medical trauma: how being repeatedly dismissed by clinicians ("it's psychosomatic", "you invented it, it's actually anxiety", "go to a psychiatrist") produces genuine psychological trauma in people with hypermobile Ehlers-Danlos syndrome (hEDS), hypermobility spectrum disorder (HSD), functional neurological disorder (FND) and other invisible conditions. It covers the research the channel cites (an interview study naming "clinically associated traumatization", PTSD rates in hEDS), the channel author's first-person account of how years of gaslighting taught her to distrust her own body, an FND patient's explanation of why such patients appear "unpleasant", and a translated list of eleven ways autism collides with chronic illness. According to the source it matters because fear of doctors makes people ignore important symptoms and delay treatment, and because gaslighting leaves people believing they "made it all up" [msg #106, #378, #766, #780].
+
+This part adds one long source: a post forwarded by the channel from the Telegram channel titled functional neurological disorder (FND) linking to the five-part Telegraph series "История о том, как я заболела, и что со мной теперь сталось" (*The story of how I got ill and what became of me*). The author — an autistic woman with functional neurological disorder (FND) — tells her illness story from childhood to the founding of her FND community, naming every medical encounter: the dismissive ones ("hysterical fits", "somatoform disorder and VSD", "go home and don't shake", "never book with me again") and the ones that helped [article #256].
+
+It extends the existing file in three ways. First, it is a full case history behind the generalizations of the FND post already covered (why FND patients doctor-shop, seem "unpleasant", hear a psychiatric referral as "you are not sane") — the writing style and the FND channel suggest it is the same author, but the source does not state this (!) UNCLEAR. Second, the mechanism the earlier post proposed as a doctor's script ("stress disrupts the functional connections between brain regions") is here attributed to an actual FND specialist, Konstantin Evdokimov ("synaptic connections in the brain are destroyed by stress"), and to an fMRI-based explanation by an FND researcher. Third, it adds a new kind of gaslighting: not "you are healthy" but "your happiest period must have been traumatic" [article #256].
+
+Why it matters according to the source: each dismissive encounter made the author feel she was a "pretender" who did not deserve sympathy, wished she had never asked for help, and stopped looking for doctors; finding the right words and people with similar experience was what supported her [article #256].
 
 ## Core ideas
 
@@ -57,6 +95,13 @@ This topic gathers what the channel taught about medical gaslighting and medical
 - **Medical gaslighting teaches people to distrust their own bodies**, feeding dissociation, interoception problems and worsening alexithymia [msg #378].
 - **"Difficult" patients are broken and exhausted, not difficult by personality** — the FND patient's argument (see *Why FND patients seem "unpleasant"*) [msg #766].
 - **Autism and chronic illness pull in opposite directions** on eleven dimensions, and the combination, reinforced by medical gaslighting, leads to traumatization (see *Autism vs chronic illness*) [msg #780].
+
+- **Labels without explanation are experienced as exposure and shame.** Being handed "somatoform disorder, VSD, fit for work, glycine and vitamins" with no explanation made the author feel "unmasked" as a pretender and wish she had never sought help (see *Harmful vs helpful doctor behaviours*) [article #256].
+- **A positive FND diagnosis can be delivered as abandonment.** The epileptologist who switched her diagnosis to FND told her never to book with him again and ignored her questions — she felt "thrown away", no longer deserving of sympathy, though her symptoms were unchanged [article #256].
+- **Psychologizing everything is its own form of gaslighting.** A paid expert insisted her worsening came from current psychotrauma while she was in the happiest period of her life, after finishing therapy and recovering from PTSD; she calls this "некоторый газлайтинг" (*a kind of gaslighting*) [article #256].
+- **FND can arise even when emotional problems have been resolved.** Psychotherapy cured her PTSD and dissociation and gave her a new life, yet FND symptoms appeared and worsened; per her specialist, FND can occur without mental disorders or current hardship, though this is rarer, and early stress can manifest decades later [article #256].
+- **"Seizures are safe, just unpleasant" was, for her, a dangerous message.** Believing it, she never learned to prevent attacks; one small attack triggered a month-long cascade of new disabling symptoms (see *Lessons the author draws*) [article #256].
+- **The right words open the door to information and community.** The term "psychological non-epileptic seizures", though she now rejects it, let her switch to English-language research and patient blogs, which made her feel less alone [article #256].
 
 ## Frameworks, models and step-by-step methods
 
@@ -101,6 +146,72 @@ All eleven pairs in the source are reproduced above [msg #780].
 
 **Channel author's addition**: she adds that autism is a predisposition to C-PTSD (кптср), and chronic illness is very often the reason "we" meet medical gaslighting, plus life in one's own limited body. Altogether this leads to traumatization, especially when people try for a long time to live as if they did not have these traits — a stance reinforced by medical gaslighting — thereby harming themselves without realizing the consequences, "а потом остаемся в этом теле..." (*and then we remain in this body...*) [msg #780].
 
+### Timeline of one FND patient's illness and care
+Purpose: the author's journey reproduced stage by stage, because the sequence itself is the lesson — each stage shows a medical or social response and its effect on her [article #256].
+
+1. **Childhood background (to age 13).** A very hard childhood: experiences of different kinds of sexualized violence at 5–6, 13 and 17; almost no friends and long-term loneliness (she drew pictures and "befriended" them, her dog, favourite writers and composers in her head); communication deficits left her "за невидимой стеной" (*behind an invisible wall*) from society and belonging. She was bullied, partly because she could not tell friendly teasing from conflict — she enjoyed mutual name-calling until it turned into physical violence. Teachers' concerns led to an autism diagnosis. She was very fearful; fear of being home alone turned into hallucinations (a "shadow person" in the doorway, footsteps, whispers, sounds of drawers opening), and frequent nightmares [article #256].
+2. **First illness at 13.** Nothing unusual was happening — unrequited love and a heavy school load (many olympiads, competitions, concerts, great fatigue). The frightening part, she says, was having no one to tell: her family had an unspoken ban on anger, sadness and fear; she confided only in a diary. She cried every evening for months until her mother noticed and talked with her, which helped a lot; she cut her load, told a classmate, felt less lonely. "Но, видимо, было уже слишком поздно" (*But apparently it was already too late*): whole-body paroxysmal pain so intense she could not localize or gauge it ("я была сплошной болью" — *I was solid pain*), then shaking of the jaw, the wrist, then the whole body except the head — weekly, then several times a week, daily, several times a day — until a teacher called an ambulance [article #256].
+3. **First hospitalization.** Epilepsy was ruled out quickly. Doctors tested whether she produced attacks for attention and what happened if attention was withheld; they told her the seizures were not real and she was trying to make them in vain. Her answer: she did not care what it was called, she just needed help. She was given neuroleptics (numb lips and tongue, galactorrhoea, slowness and zoning out at the colours of the room) before tolerable pills were found. Some doctors were sympathetic despite "absolutely healthy" test results. At discharge the head physician advised her father to take her to a folk healer (целительница). She was discharged after two weeks with "психогенный миоклонус" (*psychogenic myoclonus*), took carbamazepine (no seizures on it; forgetting a dose brought attacks back) for about six months, then simply stopped with no consequence; attacks continued once every six months to a year, painless and with fast recovery [article #256].
+4. **Shame and self-education.** She took up hiking, but was deeply ashamed of her weakness, of suffering from something it seemed "unacceptable, even immoral" to suffer from, and deleted all photos from the active illness period. Guessing from the name that the diagnosis was stress-related, she read widely: CBT, DBT, ACT, schema therapy, therapy for her other diagnoses, emotions, relationships with parents, parenting, many articles on autism — which helped her understand herself and work through some traumas and cognitive errors [article #256].
+5. **The "release your emotions" mistake.** Some people told her she suppressed emotions and, lacking healthy expression, they turned into fits. Since negative emotions were forbidden in her family, it was easy to believe. She began crying without any restraint — "и это было ошибкой" (*and this was a mistake*): without healthy ways to cope, emotions can do harm; she sobbed for hours unable to stop, felt awful, and shocked her parents. Psychologists at school and university: she believed solving her emotional problems would end the seizures forever, carried an emotion-wheel picture ("лепестков эмоций" — *of emotion petals*), and had to ask others what they would feel in her place, "trying on" their emotions. It took years to learn to understand her feelings and be angry, sad and irritated without harming herself [article #256].
+6. **Trauma processing.** At 18, in her first loving, non-abusive relationship, she hit severe dissociation during sex (strong nausea, little memory afterwards, a sense of unreality). Asking what trauma could cause such a reaction, she recalled abuse by her grandmother; the nausea — even when changing or going to shower — was a flashback of the smell of her hands. She turned to «Тебе поверят», an organization for survivors of childhood sexual abuse, then continued privately with the same psychologist for several years. She calls seeking a psychologist "самым правильным и важным решением в моей жизни" (*the most right and important decision of my life*); the pain stopped poisoning her and she now recalls it calmly. Therapy also helped her keep a relationship with a supportive partner (met at 19) rather than reject it, "потому что близость — это очень страшно" (*because closeness is very frightening*). She was 100% in agreement with the "psychogenic" diagnosis and believed it was in the past [article #256].
+7. **Second onset (third year of university).** A fit after passing her last exam (December); another after an ordinary conflict with friends (January); in March, after a biochemistry colloquium, exhaustion so great she had to stop on the way home. The next day her legs twitched in a lecture; a classmate refused to bring her a sweater despite her explaining she could not get it herself; she had a very strong fit, then 4 days of brain fog — unusual, since earlier attacks had left no trace. At the GP's office (asking for a neurologist referral) she had a fit; the GP called an ambulance [article #256].
+8. **Second hospitalization: epilepsy, then "hysteria".** She had a high temperature, sensory overload and light sensitivity; suspected meningitis led to a lumbar puncture (clean). She was provisionally diagnosed with epilepsy and given Keppra (levetiracetam) — brain fog cleared and cramping lessened, but seizure frequency did not change. Seizures now differed from childhood: tonic-clonic, right side only, a couple of minutes (vs up to two hours of whole-body shaking then), no loss of consciousness but poor memory, eyes open, often paralysis afterwards. One doctor watched, asked for her hand; she could not give it; he lifted and dropped it — it felt corpse-heavy; then something changed, it felt lighter, he asked again and said he now knew she could do it — and she could. Another doctor called them "истерические припадки, так часто бывает у молодых девушек" (*hysterical fits, this often happens to young girls*), said she should go to a psychiatric hospital and that her attacks were not neurologists' competence. The EEG was clean; a professor spoke to her as to a small child, asked questions she did not understand, and wrote: fit for work, glycine and vitamins, somatoform disorder and "— барабанная дробь — ВСД :))" (*— drumroll — VSD*). Nothing was explained [article #256].
+9. **Aftermath at home and the referral maze.** She cried a lot; seizures returned to pre-hospital strength. Rereading the discharge she found it also recommended registration with a district neurologist, an EEG and an epileptologist. The clinic refused to register her or book a neurologist "с этим заболеванием" (*with this illness*). A kind epileptologist believed her, diagnosed Janz syndrome and restarted Keppra; seeing the professor's name he said she was "lucky" and that "иди домой и не трясись" (*go home and don't shake*) was expected of her. With his papers, the clinic neurologist immediately saw her, sympathized, explained how to get the medication free and gave referrals [article #256].
+10. **The FND verdict as rejection.** Her EEG (where a photostimulation test triggered an unusual instant attack with no aura and no tonic phase, just extremely strong trembling) came back "all fine". The epileptologist replied dryly that she had FND, she should never book with him again, a prescription and summary would be left at reception; carbamazepine again since it had helped before; her questions about what the diagnosis was and what to do were ignored. "Я чувствовала, будто бы меня выбросили" (*I felt as if I had been thrown away*) [article #256].
+11. **Collapse of daily life.** She moved back to her parents and took academic leave. Her father, after a video claiming epilepsy is cured by sleeping 22:00–6/7:00, kicked her door when she slept until 9, triggering a seizure; said he did not even pity her and she had brought it on herself; withheld pocket money unless she slept "normally" and told her to find work when she could not leave the house. She lived on savings and stopped sleeping from money anxiety. Her climbing coach, told she could no longer attend reliably, sent her to the "special medical group" and barred her from climbing — she lost her main outlet and sank into anxious thoughts [article #256].
+12. **PTSD treatment and finding words.** Holding on to the idea that trauma might be involved, she saw a psychiatrist about one unresolved story (nightmares several times a week — she had not known that counts as "often" — and fear of men in the street). He diagnosed pronounced PTSD, prescribed sertraline and lamotrigine, said seizures might stop once PTSD resolved, believed her — but long answered evasively whether it was epilepsy. Eventually he said "psychological non-epileptic seizures"; she switched to English, read scientific articles, found three Instagram blogs and wrote to a woman with FND. PTSD symptoms and passive suicidal thoughts she had lived with for over ten years went away; she stopped carrying pepper spray, finished psychotherapy, volunteered at a wildlife rehabilitation centre, switched from medical biology to zoology, worked (tutor, science-show assistant, then Autentik), returned to climbing with a new coach. Seizures continued; the psychiatrist did not know why and just offered higher lamotrigine [article #256].
+13. **Relapse in the happiest period.** Studying frogs, settled in a new department, she noticed more involuntary speaking of words aloud (a lifelong but minor issue), tapered sertraline due to night sweats, and ran out of lamotrigine (not worried, since non-epileptic attacks shouldn't react to abrupt withdrawal). A validating FND video made her so emotional during a lecture that she overloaded; she had a minor attack (only a hand shaking), without shame. Afterwards: she could not reach for her notebook (as if her arm was being jerked back), fingers clenched the pen so she had to pry them open, jaw shaking for many days, could not lift a glass without spilling or hit food with a spoon, take a card from her wallet or fit a key in a lock. Lamotrigine no longer helped. Over a month it spread to the other hand, a limp, "щелчки в мозге" (*clicks in the brain*) that shook her vision (she thought for seconds it was an earthquake), rushes of blood to the head with darkening of the face, hearing her pulse in the right ear (even waking from it), ungrammatical speech as the new norm, echoing others' words, stuttering with head shaking, sleepiness and fatigue. She began to doubt the diagnosis — emotionally it felt like dying of a neuroinfection [article #256].
+14. **Another round of doctors.** Detailed under *Harmful vs helpful doctor behaviours*: a promised consilium that never called; a paid neurologist-psychiatrist who psychologized and withheld advice; an MRI "AVM" later revised; a renowned movement-disorder neurologist who sent panic-attack advice; a referral to an alcoholism doctor. Then Regina Kuchugura, the carbamazepine trial, and Konstantin Evdokimov's confirmation of FND with tic disorder, exercises and the suggestion to found a Russian-language FND community [article #256].
+
+### Harmful vs helpful doctor behaviours in the FND journey
+Purpose: the author's encounters sorted by what the doctor did and how it landed, so the reader can see which behaviours wound and which heal [article #256].
+
+Harmful (as she experienced them):
+1. **Testing for attention-seeking and calling seizures fake** (first hospital) — "ненастоящие судороги и зря я пытаюсь их делать" (*not real seizures, and I'm trying to make them in vain*) [article #256].
+2. **Recommending a folk healer** at discharge (the head physician to her father) [article #256].
+3. **Gendered dismissal and passing the patient on** — "hysterical fits, common in young girls", go to a psychiatric hospital, not neurologists' competence. She notes her surprise because she had done a great deal of psychological work [article #256].
+4. **Infantilizing and opaque assessment** — the professor spoke to her like a small child; she did not understand the questions [article #256].
+5. **Labels and "fit for work" with no explanation** — somatoform disorder, VSD, glycine and vitamins. Effect, in her words: "Лучше бы я не просила о помощи" (*I'd rather not have asked for help*), and shame at being "раскрыли" (*unmasked*) as not ill and "просто притворяюсь" (*just pretending*) [article #256].
+6. **Administrative refusal** — the clinic would not register her or book a neurologist with this diagnosis [article #256].
+7. **Dropping the patient on diagnosis** — the epileptologist's "never book again", ignoring questions. She had read that in "such" patients symptoms worsen with doctors' sympathy and attention, "Так что лучше мне всего этого не давать" (*So it's better not to give me any of that*) — her bitter paraphrase of what the rejection implied [article #256].
+8. **Raising doses despite severe effects / asking to "endure"** — on a higher Keppra dose she became very aggressive, seemed to enjoy conflict and developed intrusive suicidal thoughts; the doctor lowered it and asked her to be patient until EEG results [article #256].
+9. **Evasiveness about terms** — the psychiatrist's "may or may not be epilepsy", leaving her reading about every rare epilepsy; she had no other terms "которые не звучали бы так, будто бы меня ненавидят" (*that didn't sound as if I were hated*) [article #256].
+10. **Promises that evaporate** — a regional hospital doctor called her symptoms the result of her mental disorder, promised a neurologist–psychiatrist consilium and a call; nobody called in a week, a month or six months. "Я привыкла к отсутствию ответов и пренебрежению" (*I got used to the absence of answers and neglect*) [article #256].
+11. **Psychologizing against the patient's account** — the paid neurologist-psychiatrist at a psychiatry research institute (recommended as experienced with functional disorders; she brought a symptom video and complaint list) said FND worsened from current psychotrauma; when she said this was the best period of her life he kept psychologizing, suggesting she felt defenceless without pills. He did not know how she could help herself, did not issue the PE exemption she needed despite sympathizing, and would only name the right pills if she were admitted to the institute's paid psychiatric inpatient unit. Her refund request was refused [article #256].
+12. **Generic material that doesn't fit** — a famous movement-disorder neurologist confirmed FND and sent websites calling it a mental disorder, with tips that sounded like panic-attack prevention, all of which she had long read and which did not fit: "огромный сюр" (*a huge surreal absurdity*). He then referred her to a "psychiatrist experienced with FND" whose site advertised in capitals ALCOHOLISM TREATMENT with all credentials in that area. "ФНР уже звучало как проклятие" (*FND already sounded like a curse*) [article #256].
+
+Helpful:
+1. **Sympathy despite normal results** — some doctors in the first hospital treated her well though tests were "absolutely healthy" [article #256].
+2. **Belief** — the mustached epileptologist "поверил" (*believed*) her; the psychiatrist "знал, что я не придумываю и не притворяюсь" (*knew I wasn't inventing or pretending*) [article #256].
+3. **Practical help** — the clinic neurologist sympathized and explained how to get prescribed medication free and gave referrals [article #256].
+4. **Acceptance of the condition** — the new climbing coach, after she had an attack on the mat, said he would not expel her and would simply take her "особенность" (*particularity*) into account; she cried from the warmth of acceptance [article #256].
+5. **Honesty without blame** — the doctor who had read her EEG, met by chance, re-checked it, said he did it correctly, did not know what she had but sympathized and hoped she would find answers [article #256].
+6. **A thorough, time-rich consultation** — Regina Kuchugura (see *Components of the consultation that finally helped*) [article #256].
+7. **Explanation, validation of her variant, and exercises** — Konstantin Evdokimov: understanding and accepting; "у меня нет ощущения, будто бы он делит мои слова на два" (*I don't have the feeling that he divides my words by two*); a great relief to learn her variant of the diagnosis exists and someone knows about it [article #256].
+
+### Components of the consultation that finally helped (Regina Kuchugura)
+Purpose: what the first genuinely helpful appointment consisted of. The author had nearly ignored the recommendation ("Все, к кому я обращалась, «очень умные и талантливые»" — *Everyone I turned to was "very smart and talented"*) but booked because doing nothing would not help, after reading Regina's channel and seeing she was neurodivergent, thoughtful about patients' problems and fighting a system "в которой на них всем наплевать" (*in which nobody cares about them*) [article #256].
+1. **Time and detailed history** — the appointment lasted an hour and a half, with many questions about every symptom [article #256].
+2. **Calibrated diagnostic honesty** — she could not exclude epilepsy because of a few suspicious episodes, but was sure of FND [article #256].
+3. **Realism about psychotherapy** — she knew psychotherapy does not always help and suggested exercises might help in this case, though she could not find suitable ones for her [article #256].
+4. **Framing FND as neurological** — she considers FND a neurological, not psychiatric, problem, and noted that doctors usually do not know what to do with these patients: neurologists send them to psychiatrists, and psychiatrists only treat co-occurring mental disorders if any [article #256].
+5. **Talking to witnesses** — she spoke with relatives who had seen the possibly epileptic attacks (they could not describe them as a doctor needs, so "правды мы, видимо, никогда не узнаем" — *we will probably never know the truth*) [article #256].
+6. **Risk–benefit reasoning on medication** — even if some attacks were epileptic, given their presumed form, frequency and no epileptiform activity on a 4-hour EEG, they could be considered not dangerous, and lifelong antiepileptic drugs would do more harm [article #256].
+7. **Second look at imaging** — with a colleague she reviewed the MRI: no arteriovenous malformation, no big frightening operation ahead [article #256].
+8. **Openness to the patient's research and referral beyond her experience** — they tested the PKD hypothesis the author found, and since Regina had not met such a case she referred her to an FND specialist (Evdokimov) [article #256].
+
+### Lessons the author draws from her FND story
+Purpose: the explicit generalizations she makes from her experience [article #256].
+1. **Crying in dissociative seizures is from pain, not manipulation.** People with dissociative seizures cry not to elicit pity (as she read in one article), not from sadness or a flashback, but because it is extremely painful when the body squeezes its bones with full force; then the shaking makes the tension phase seem mild. You lose control entirely, can fall off a bed or chair, or hit your head against a wall unable to move away (she once got a concussion). "Ты не «показываешь невыносимые страдания» — ты действительно невыносимо страдаешь" (*You are not "displaying unbearable suffering" — you are really suffering unbearably*). It is not self-harm — the body jerks in random directions [article #256].
+2. **Don't trust "seizures are absolutely safe".** She had been told repeatedly that attacks are safe, just unpleasant, "такое свойство нервной системы" (*such a property of the nervous system*), so felt no urgency to learn to prevent them, though she knew overload often leads to attacks. She calls believing this "чудовищной ошибкой" (*a monstrous mistake*) that later cost her very dearly — a single minor attack triggered her worst deterioration [article #256].
+3. **Unrestrained emotional release is not a treatment.** Without healthy coping skills, letting emotions out "fully" harmed her (see stage 5) [article #256].
+4. **Don't infer causality from psychotherapy timing.** Therapy gave her a new life, but correlating therapy with FND symptoms "можно сделать ложный вывод, что она мне только навредила" (*one could draw the false conclusion that it only harmed me*) [article #256].
+5. **Support words wear thin in serious illness.** Friends asked daily how she felt; she soon forbade it, wanting distraction from constant pain and fear rather than reminders. Many words of support become irritating; this is the fault neither of others nor of the patient; receiving sympathy quickly gets tiring; one no longer believes the standard "всё будет хорошо" (*everything will be fine*) because one does not know. What she valued: people being with her and talking about anything other than the illness [article #256].
+6. **Trauma asks the question of meaning.** In despair she recalled a lecture on Viktor Frankl: trauma itself is meaningless, "«За что это мне?» – вопрос бессмысленный. Но «могу ли я что-то вынести из этого, стать глубже?» – придаёт травме смысл" (*"Why me?" is a meaningless question. But "can I take something from this, become deeper?" gives trauma meaning*). She then found purpose in useful work (wildlife volunteering) [article #256].
+7. **Change the search language.** Once she had a usable term, switching to English opened scientific articles, blogs and patient communities that supported her [article #256].
+8. **Optimistic forecasts kept failing.** She first thought one or two fits were fine, then that a hospital would quickly find a drug as in her youth, then that she only had to wait for the EEG — none came true; suffering with no visible end brought back suicidal thoughts [article #256].
+
 ## Detailed insights
 
 ### How gaslighting erodes trust in the body — a first-person account
@@ -130,6 +241,36 @@ The channel posted a video titled "Почему это не психосомат
 ### Biological vulnerability to trauma in hypermobility
 Research cited in the Ehlers-Danlos Society material (Baeza-Velasco et al., 2011) indicates that people with hypermobility may be more prone to anxiety disorders and also more sensitive to bodily sensations such as temperature or pain, which can feel intense and cause stress; this heightened sensitivity may increase their vulnerability to trauma. The elevated PTSD rate may stem from physical injuries, severe medical experiences, or both (Halverson et al., 2023) [msg #666].
 
+### What the specialist said FND is
+Konstantin Evdokimov, a physician-scientist specializing in FND, confirmed: "да, у меня абсолютно точно ФНР" (*yes, I definitely have FND*). He said one can fall ill without mental disorders or a hard current situation — everything may really be fine — but that is rarer. He described FND as a disease in which synaptic connections in the brain are destroyed by stress; a very great stress in distant childhood can show itself decades later against the background of ordinary everyday situations. He gave exercises to help restore brain connections, and identified her involuntary whispered word-outbursts and head jerks as a tic disorder. He did not see signs of kinesigenic dyskinesia. This updates the existing file: the mechanism previously only proposed by the FND patient-author as what a doctor *should* say is here what an FND specialist did say [article #256].
+
+### The fMRI video that validated her
+An FND researcher who also has the diagnosis explained on Instagram that functional MRI studies show disrupted functioning of the brain networks needed for coordinated work of its regions; this produces symptoms resembling epilepsy, stroke consequences and further serious disorders while brain tissue remains healthy — changes in motor-area connectivity can cause paralysis or tremor though ordinary MRI shows nothing. For the author this meant her condition could be "seen on instruments", so she was not pretending and doctors could believe and help her; she showed the video to everyone [article #256].
+
+### Medication experiences (as reported by the patient)
+- **Neuroleptics (age 13)**: numb lips and tongue, galactorrhoea, slowness, staring; later replaced by pills without these effects [article #256].
+- **Carbamazepine (age 13)**: no seizures on it, attacks with missed doses; stopped after ~six months without consequence [article #256].
+- **Keppra**: in hospital cleared fog and eased cramps without changing frequency; restarted at the full previous dose without titration on the epileptologist's advice, she slept 16–18 hours, woke and fell asleep from shaking, felt trapped in sleep, cried and quarrelled; attacks and cramping decreased but did not stop; a higher dose caused aggression and intrusive suicidal thoughts [article #256].
+- **Carbamazepine (adult, after FND verdict)**: Keppra side effects went away but seizures did not stop; a higher dose made her extremely sluggish and she could not continue [article #256].
+- **Sertraline + lamotrigine** (psychiatrist, for PTSD and seizures): the new pills worked only slowly; later sertraline caused night sweats and she tapered it per instructions; lamotrigine once reduced attacks but after the relapse no longer helped [article #256].
+- **Low-dose carbamazepine for suspected PKD**: she found a PubMed case of FND combined with paroxysmal kinesigenic dyskinesia — a very rare genetic disorder with FND-like movement symptoms "treated" simply with low-dose carbamazepine. They reasoned that if it were PKD the pills would work at once — and they did: one day her leg cramped and shook after running for a bus; the next day, on the pills, the same run caused nothing. A slight dose increase within PKD-range removed all symptoms except whispered word-outbursts, head jerks and echoing phrases; missed doses brought everything back. She was puzzled because there is no data that carbamazepine helps FND, leaving only placebo, yet she started it during the hardest exam session of her life and finished the year calmly. Months later she accidentally stopped and nothing happened, which convinced her she does not have the genetic disease (symptoms would have returned at once). Placebo would require sincere belief and she was always sceptical; she now thinks carbamazepine genuinely helped her in some cases, both in childhood (when she could not know which pills she was given) and now, and will try again if symptoms worsen [article #256].
+- **Practical note from the epileptologist visit**: she and her partner read that an epileptologist appointment requires a video of an attack; her partner tried, could not bear to stand silently filming, was angry for a long time about being made to do it, and she thinks it traumatized him [article #256].
+
+### Symptoms beyond the seizures
+After attacks she often fell asleep and took long to come round; muscles and teeth ached (jaw clenching); days blurred together. After attacks her arm often went numb and felt like someone else's arm sewn on; she knew this was untrue but felt such horror she wanted to saw it off to get rid of the fear. She also had a pre-seizure sensation (aura) that cancelled her plans each morning [article #256].
+
+### The misleading MRI finding
+A further doctor ordered contrast MRI, which showed a suspected AVM — a pathological structure between veins and arteries that can cause pulsatile sound in the ear and seizures, so the finding seemed to make sense. Later it turned out to be a completely safe venous angioma (confirmed when Regina and a colleague reviewed it). In the meantime, the author notes, this "organic" diagnosis got her the PE exemption and sympathy from those around her — which the FND diagnosis never did [article #256].
+
+### Families and others under stress
+She explains that people react to stress differently — crying, ignoring, or aggression — and her father chose aggression (see stage 11). Her parents first tried to talk her out of academic leave, telling her to try harder and attend exams, until they saw her state at home. Her mother later, crying, phoned the regional hospital to get her seen faster; she went for her mother's sake though expecting it to be useless. She adds that even now, while she works, her father keeps sending her money [article #256].
+
+### Isolation and suicidality
+During the long phase without a name for her condition she felt incredibly lonely, finding neither descriptions nor people with similar experience, and "не знала, чего ожидать от жизни" (*did not know what to expect from life*). Reading existential psychology she found no meaning to live in constant pain and sleep, without her hobbies; suicidal thoughts returned, and she thought that if there were a god he could understand her, quoting Psalm 23 ("И даже если я пойду по темной аллее смерти…"). Seeing FND patients' videos, she noted that "Люди с ФНР не выглядели притворяющимися" (*People with FND didn't look like they were pretending*) — she felt sorry for them, and this supported her [article #256].
+
+### How the FND community came about
+When she again told Evdokimov what had happened to her in hospitals and clinics, he remarked it would be good to create a Russian-language FND community and sent many materials "которые можно переводить годами" (*that could be translated for years*). That is how the group arose; she says even a little experience running it noticeably helps her [article #256].
+
 ## Evidence and numbers
 
 - **Halverson et al., 2023 (PMID 37426705)**, adults with hypermobile EDS, as reported by the Ehlers-Danlos Society [msg #666]:
@@ -157,6 +298,14 @@ Research cited in the Ehlers-Danlos Society material (Baeza-Velasco et al., 2011
 > "Сотая рекомендация обратиться к психиатру и сходить на психотерапию звучит как издевательство." (*The hundredth recommendation to see a psychiatrist and go to psychotherapy sounds like mockery.*) — FND patient-author [msg #766]
 > "ПТСР при СЭД и РСГ — это реальность" (*PTSD in EDS and HSD is a reality*) — The Ehlers-Danlos Society, translated [msg #666]
 
+> "Я отвечала, что мне все равно, как это называется, мне просто нужна помощь." (*I answered that I didn't care what it was called, I just needed help.*) — FND channel author [article #256]
+> "Лучше было сидеть дома одной, никому ничего не рассказывать, не жаловаться, чем испытывать позор от того, что меня «раскрыли»" (*It was better to sit at home alone, tell no one anything, not complain, than to feel the shame of being "unmasked"*) — FND channel author [article #256]
+> "Я осталась той же самой, с теми же симптомами и проблемами, но я будто бы больше не заслуживала сочувствия." (*I remained the same, with the same symptoms and problems, but as if I no longer deserved sympathy.*) — FND channel author [article #256]
+> "Я не знала, что ФНР может выглядеть так, не знала, что можно жить счастливую жизнь и всё равно заболеть." (*I didn't know FND could look like this, didn't know you can live a happy life and still fall ill.*) — FND channel author [article #256]
+> "а тут меня пытались убедить, что мой самый счастливый период жизни до появления симптомов был ужасен и привел к ухудшению болезни" (*and here they were trying to convince me that the happiest period of my life before the symptoms was terrible and led to the worsening*) — FND channel author [article #256]
+> "Эти ситуации со знаменитыми врачами меня ранили и лишили надежды, что существуют люди, которые меня поймут." (*These situations with famous doctors wounded me and took away hope that people who would understand me exist.*) — FND channel author [article #256]
+> "Вместе мы делаем большое дело." (*Together we are doing a big thing.*) — FND channel author [msg #256]
+
 ## Caveats, disagreements and open questions
 
 - The FND explanation in the "helpful script" (stress disrupting functional connections between brain regions) is the patient-author's proposed wording of what a doctor could say, not a cited scientific definition [msg #766].
@@ -166,12 +315,25 @@ Research cited in the Ehlers-Danlos Society material (Baeza-Velasco et al., 2011
 - (!) INCOMPLETE: the video in #508 and the linked list of involved body systems were not available [msg #508].
 - The autism/chronic-illness list is attributed to spooniesaga and only translated by the channel [msg #780].
 
+- Everything here is one patient's account, including her reports of what doctors said; the medical explanations (FND as stress-destroyed synaptic connections, fMRI network findings, PKD and carbamazepine) are relayed second-hand, not cited studies [article #256].
+- (!) UNCLEAR: whether this author is the same "FND channel author" whose post on "unpleasant" FND patients is already in this topic [msg #256].
+- (!) CONTRADICTION (within the source's chain of advice): she was repeatedly told seizures are "absolutely safe, just unpleasant", while her own experience was that one minor attack started a month-long severe deterioration; Regina Kuchugura separately judged any possible epileptic attacks not dangerous enough to justify lifelong antiepileptics [article #256].
+- (!) UNCLEAR: why carbamazepine helped. No data supports it for FND; she rules out PKD by accidental withdrawal, doubts placebo because she was sceptical, and leaves the question open [article #256].
+- She states she is now against the term "psychological non-epileptic seizures", without giving her reasons [article #256].
+- She stresses she describes the doctors who did the lumbar puncture and diagnosed epilepsy "без какого-либо негатива" (*without any negativity*) — "просто описываю свой опыт уставшего и травмированного человека" (*just describing my experience as a tired and traumatized person*) [article #256].
+- (!) INCOMPLETE: the exercises Evdokimov gave to restore brain connections are not described [article #256].
+
 ## Resources and links
 
 Every link and file shared in this topic's posts. **Resources** can be used directly (files, guides, articles and studies, free tools, project websites, free videos and podcasts); **external links** lead to products, courses, services, shops and personal pages. ★ = recommended by the author. Give them to the user when relevant.
 
 ### Resources
 
+- ★ **История о том, как я заболела, и что со мной теперь стало. Часть 1 (The story of how I fell ill, part 1)** (article) — Part 1 of a first-person telegra.ph series on illness and medical gaslighting/trauma, listed in the post for part 5; shared as the author's own experience. [msg #256] → <https://telegra.ph/Istoriya-o-tom-kak-ya-zabolela-i-chto-so-mnoj-teper-stalos-CHast-1-08-28>
+- ★ **История о том, как я заболела, и что со мной теперь стало. Часть 2 (The story of how I fell ill, part 2)** (article) — Part 2 of a first-person telegra.ph series on illness and medical gaslighting/trauma, listed in the post for part 5; shared as the author's own experience. [msg #256] → <https://telegra.ph/Istoriya-o-tom-kak-ya-zabolela-i-chto-so-mnoj-teper-stalos-CHast-2-09-12>
+- ★ **История о том, как я заболела, и что со мной теперь стало. Часть 3 (The story of how I fell ill, part 3)** (article) — Part 3 of a first-person telegra.ph series on illness and medical gaslighting/trauma, listed in the post for part 5; shared as the author's own experience. [msg #256] → <https://telegra.ph/Istoriya-o-tom-kak-ya-zabolela-i-chto-teper-so-mnoj-stalos-CHast-3-09-15>
+- ★ **История о том, как я заболела, и что со мной теперь стало. Часть 4 (The story of how I fell ill, part 4)** (article) — Part 4 of a first-person telegra.ph series on illness and medical gaslighting/trauma, listed in the post for part 5; shared as the author's own experience. [msg #256] → <https://telegra.ph/Istoriya-o-tom-kak-ya-zabolela-i-chto-so-mnoj-teper-stalos-CHast-4-09-21>
+- ★ **История о том, как я заболела, и что со мной теперь стало. Часть 5 (The story of how I fell ill, part 5)** (article) — Part 5 of a first-person telegra.ph series on illness and medical gaslighting/trauma, listed in the post for part 5; shared as the author's own experience. [msg #256] → <https://telegra.ph/Istoriya-o-tom-kak-ya-zabolela-i-chto-so-mnoj-teper-stalos-CHast-5-09-27>
 - ★ **История пациента о медицинском газлайтинге (patient story, teletype)** (article) — The channel's own article with a full story of medical gaslighting and traumatisation, offering validation to readers who doubt their own experience. [msg #378] → <https://teletype.in/@neurospicyru/3Ab5tN8KNYl>
 - **PubMed 37426705 — study on negative healthcare encounters and trauma in hypermobile Ehlers-Danlos syndrome** (study) — Study cited in the post showing that repeated negative encounters with doctors can cause serious psychological harm in people with hEDS. [msg #106] → <https://pubmed.ncbi.nlm.nih.gov/37426705/>
 
@@ -181,4 +343,4 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 
 ## Source messages
 
-#106, #378, #508, #666, #766, #780
+#106, #256, #378, #508, #666, #766, #780

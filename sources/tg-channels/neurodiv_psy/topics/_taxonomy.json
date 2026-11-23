@@ -112,6 +112,32 @@
       387
      ],
      "count": 15
+    },
+    {
+     "title": "Stimming: functions, types, stim toys and responding to harmful stims",
+     "slug": "stimming-functions-stim-toys",
+     "scope": "What stimming is and why autistic and ADHD people stim (self-regulation, communication, sensory joy), examples by sense, stim toys, how stims differ from tics and fidgeting, and how to respond to self-injurious stimming.",
+     "themes": [
+      "stimming",
+      "self-regulation",
+      "stim toys",
+      "tics vs stims"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "emotional-regulation",
+      "meltdowns-shutdowns",
+      "neurodivergent-communication",
+      "suicide-and-self-harm",
+      "neurodiversity"
+     ],
+     "ids": [
+      60
+     ],
+     "count": 1
     }
    ]
   },
@@ -255,13 +281,15 @@
       "overload"
      ],
      "also_areas": [
-      "Rest & Burnout"
+      "Rest & Burnout",
+      "Mind & Emotions"
      ],
      "concepts": [
       "meltdowns-shutdowns",
       "sensory-processing",
       "masking-camouflaging",
       "rest-and-recovery",
+      "emotional-regulation",
       "boundaries"
      ],
      "ids": [
@@ -379,7 +407,7 @@
     {
      "title": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
-     "scope": "CBT skills training for adult ADHD (Safren protocol), the UK ADHD Foundation adult ADHD guide's executive-function strategies, task initiation and motivation, time blindness aids, ADHD money management and impulsive spending, and cleaning hacks like body doubling.",
+     "scope": "Executive dysfunction in adult ADHD and how to work with it: the Safren CBT skills-training protocol, the UK ADHD Foundation adult guide (ASRS self-screening, assessment route, DSM-5 criteria, externalisation strategies, sleep, diet, medication), task initiation and motivation, time blindness aids, money management and impulsive spending, and cleaning hacks like body doubling.",
      "themes": [
       "executive function",
       "skills training",
@@ -388,14 +416,17 @@
       "chores"
      ],
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behavior Change & Coaching",
+      "Psychotherapy & Inner Work",
+      "Psychiatry & Mental Health Care"
      ],
      "concepts": [
       "executive-function",
       "cognitive-behavioral-therapy",
+      "procrastination",
       "money-management",
-      "motivation",
-      "calendar-planning"
+      "psychiatric-diagnosis",
+      "motivation"
      ],
      "ids": [
       53,
@@ -429,7 +460,7 @@
     {
      "title": "Neurodivergent people at work and university: job fit and accommodations",
      "slug": "work-study-accommodations",
-     "scope": "Employment research, jobs that suit ADHD/autistic people, autistic women's workplace needs pyramid, values as motivation, accommodations without disclosure, and university adaptations.",
+     "scope": "Autistic and ADHD people in higher education and employment: graduation and unemployment research, why interviews fail and reasonable interview adjustments, jobs and principles for choosing work, autistic women's workplace needs pyramid, values/special interests as motivation, accommodations with and without disclosure, and university adaptations.",
      "themes": [
       "employment",
       "accommodations",
@@ -442,12 +473,13 @@
      "concepts": [
       "workplace-inclusion",
       "self-advocacy-accommodations",
+      "workplace-motivation-hiring",
       "special-interests-hyperfocus",
-      "sensory-processing",
       "autistic-burnout",
-      "meaning-purpose"
+      "sensory-processing"
      ],
      "ids": [
+      193,
       200,
       201,
       202,
@@ -467,7 +499,7 @@
       406,
       413
      ],
-     "count": 18
+     "count": 19
     },
     {
      "title": "Autism and emigration",
@@ -622,11 +654,6 @@
    "gist": "Autism meme: so focused on how many seconds of eye contact to hold that you miss what was said"
   },
   {
-   "id": 60,
-   "kind": "promo",
-   "gist": "Forward from Нейросеть: link to a telegra.ph article on stimming, its types and functions (credits only)"
-  },
-  {
    "id": 62,
    "kind": "other",
    "gist": "Meme (No BS Therapist): endless self-improvement tasks list that becomes work itself"
@@ -720,11 +747,6 @@
    "id": 188,
    "kind": "other",
    "gist": "Support quote image: 'I'm not strong, I'm just surviving a situation I didn't choose' versus 'you are so strong'"
-  },
-  {
-   "id": 193,
-   "kind": "promo",
-   "gist": "Forwarded from Нейросеть: link to Lisa Nosova's illustrated article on employment of autistic people (difficulties and improvements), no content in the post itself"
   },
   {
    "id": 194,
@@ -1062,11 +1084,6 @@
    "gist": "Announcement of free 23 September webinar on adapting job search to neurodivergence with Karina Arushtova and Юля Ан (resume achievements, disclosure, masking in interviews)"
   },
   {
-   "id": 415,
-   "kind": "announcement",
-   "gist": "Forwarded: new cohort of adapted DBT emotion-regulation skills training for autistic adults, starts 14 October, 12 sessions, 3500 RUB each"
-  },
-  {
    "id": 416,
    "kind": "logistics",
    "gist": "Reminder about Wednesday's webinar"
@@ -1105,6 +1122,11 @@
    "id": 424,
    "kind": "announcement",
    "gist": "Forwarded: Karina Arushtova launches monthly free public career consultation for ауСДВГ people, first on 13 November, with registration and application links"
+  },
+  {
+   "id": 415,
+   "kind": "announcement",
+   "gist": "Forwarded ad for new group DBT skills training for autistic adults (start 14 Oct 2026, 12 Wednesday sessions, 3500 RUB each); article explains autism-specific DBT adaptations (alexithymia, masking, sensory profile, unmasking)."
   }
  ]
 }

@@ -100,3 +100,13 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - The channel author's personal protocols for clearing brain fog, recovering from flights and supporting the body under high load and stress, covering anti-inflammatory nutrition, MCT and ghee "bulletproof" coffee, a supplement shortlist and stress stack with dosing timing, an ergonomic laptop setup, and a one-supplement-at-a-time safety scheme, plus a summary of a functional-medicine clinic's multifactor model of mental clarity.
 - Concepts: `supplements`, `brain-fog-recovery`, `nutrition-basics`, `caffeine`
 
+### Physical comorbidities: sleep, pain, migraine and eating  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/sensory-processing-body/neurodivergent-physical-comorbidities.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- What the channel author found and taught about the bodily problems that accompany autism (ASD/РАС) and ADHD (СДВГ): physical pain in nightmares and its link to PTSD, migraine and how to spot it in autistic people, three kinds of chronic muscle pain, connective tissue dysplasia, sleep problems and daytime sleepiness, ADHD sweet cravings and overeating, and sensory eating difficulties with medical nutrition drinks for bad days.
+- Concepts: `chronic-pain`, `sleep-hygiene`, `ehlers-danlos-hypermobility`, `eating-disorders`, `sugar-and-glucose`, `sensory-processing`
+
+### Lowering emotional vulnerability: routines, food and boring basics  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychotherapy & Inner Work
+- File: `sources/tg-channels/this-is-too-much/topics/dbt-skills/emotional-vulnerability-self-care-basics.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
+- How the channel teaches lowering emotional vulnerability through the body and daily life — the DBT ЗАБОТА (PLEASE-style) skill and how to actually follow it, which foods are linked to mood swings, a 7-step method for building a daily routine with BPD, a 5-point self-care protocol after a shocking event, and why boring evidence-based basics beat searching for a "magic pill".
+- Concepts: `self-care`, `dialectical-behavior-therapy`, `emotional-regulation`, `habit-formation`, `nutrition-basics`
+

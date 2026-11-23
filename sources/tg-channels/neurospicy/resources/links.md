@@ -2,8 +2,13 @@
 
 Links to products and shops (including book store pages), courses and programmes, services, personal and author websites, profiles and channels. ★ = recommended by the author. Each entry names its source message; the topic heading links to the knowledge file, whose section *Resources and links* lists the same items. Useful resources are on the *Resources* page.
 
+## Autistic and Neurodivergent Burnout → [Autistic burnout: definition, causes and warning signs](../topics/neurodivergent-burnout/autistic-burnout-signs.md)
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #28] → <https://t.me/neurospicyru>
+
 ## Autistic and Neurodivergent Burnout → [Autistic burnout versus depression](../topics/neurodivergent-burnout/burnout-vs-depression.md)
 
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #28] → <https://t.me/neurospicyru>
 - **@RinBonner — переводчик (translator's Telegram profile)** (profile) — Telegram profile of the translator credited for the translated text by drcomptonsmith; shown as attribution only. [msg #790] → <https://t.me/RinBonner>
 
 ## Autistic and Neurodivergent Burnout → [Recovering from neurodivergent burnout](../topics/neurodivergent-burnout/burnout-recovery.md)
@@ -14,13 +19,17 @@ Links to products and shops (including book store pages), courses and programmes
 ## Autistic and Neurodivergent Burnout → [Pacing and energy accounting](../topics/neurodivergent-burnout/pacing-energy-accounting.md)
 
 - **@autichnieperevodii — канал Насти (Фiу-фiу) (translation channel)** (channel) — Telegram channel of the co-translator of the energy management guide; credited as partner in the translation. [msg #69] → <https://t.me/autichnieperevodii>
-- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #132, #289] → <https://t.me/neurospicyru>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #30, #132, #289] → <https://t.me/neurospicyru>
 - **Discord-сервер сообщества (community Discord server invite)** (other) — Invite to the authors' Discord server, where the free health tracker can also be downloaded and the community meets. [msg #123] → <https://discord.gg/nfyW2ghcYK>
 
 ## Autistic and Neurodivergent Burnout → [Internalized capitalism, ableism and self-worth](../topics/neurodivergent-burnout/internalized-capitalism-ableism.md)
 
 - **@soyouredisabled** (profile) [msg #615] → <https://www.instagram.com/p/DIYXedKsRvC/?img_index=10&igsh=MXFrNHVjNmFjZXFnaw==>
 - **theyracyrodriguez** (profile) [msg #602] → <https://www.instagram.com/thetracyrodriguez?igsh=aW52Mzh0ZHh6bjMx>
+
+## Masking, Identity and the Neurodiversity Paradigm → [Masking, camouflaging and unmasking](../topics/masking-identity/masking-unmasking.md)
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #24] → <https://t.me/neurospicyru>
 
 ## Masking, Identity and the Neurodiversity Paradigm → [What autism is: the neurodiversity paradigm](../topics/masking-identity/neurodiversity-paradigm.md)
 
@@ -32,11 +41,13 @@ Links to products and shops (including book store pages), courses and programmes
 ## Recognizing Autism and ADHD: Diagnosis and Research → [Recognizing autism in adults: criteria, hidden traits and late diagnosis](../topics/diagnosis-research/autism-recognition-adults.md)
 
 - **@no_advice — канал о психологии через схема-терапию (Telegram)** (channel) — Telegram channel of the livestream co-host about psychology through schema therapy; credited in the post. [msg #304] → <https://t.me/no_advice>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #29] → <https://t.me/neurospicyru>
 
 ## Recognizing Autism and ADHD: Diagnosis and Research → [Differential diagnosis: autism, ADHD and look-alike conditions](../topics/diagnosis-research/differential-diagnosis.md)
 
 - **@autisticguidetothegalaxy (Telegram channel)** (channel) — Source channel of the translated post on selective mutism, anxiety and verbal shutdown; credited as the author. [msg #736] → <https://t.me/autisticguidetothegalaxy>
 - **Boost link to vote for the Telegram channel Нейропряность** (channel) — Telegram boost link to support the channel, placed in the navigation footer of posts; asks readers to boost it. [msg #387] → <https://t.me/boost/neurospicyru>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #43] → <https://t.me/neurospicyru>
 
 ## Recognizing Autism and ADHD: Diagnosis and Research → [Reading autism and ADHD research critically](../topics/diagnosis-research/autism-research-critique.md)
 
@@ -45,13 +56,19 @@ Links to products and shops (including book store pages), courses and programmes
 ## Nervous System, Senses and Emotions → [Regulating the neurodivergent nervous system](../topics/nervous-system-senses/nervous-system-regulation.md)
 
 - **Discord server of Нейропряность** (channel) — The community's Discord where the window of tolerance worksheets can be downloaded; a place to join. [msg #159] → <https://discord.gg/EGcG9bx3>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #35] → <https://t.me/neurospicyru>
 - **Patreon Neurospicyru** (profile) — The channel's Patreon where supporters can download worksheets for the window of tolerance and presentation materials; membership page. [msg #159] → <https://www.patreon.com/Neurospicyru>
 
 ## Nervous System, Senses and Emotions → [Sensory processing, overload and sensory regulation](../topics/nervous-system-senses/sensory-processing-overload.md)
 
 - **@FINCHOFAUTISMLIFE (Telegram channel)** (channel) — Source channel credited for the translated post about sensory sensitivity and a body asking for rest. [msg #638] → <https://t.me/FINCHOFAUTISMLIFE>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #25, #41] → <https://t.me/neurospicyru>
 - **Patreon Neurospicyru** (profile) — The channel's Patreon where supporters can download worksheets for the window of tolerance and presentation materials; membership page. [msg #168, #177] → <https://www.patreon.com/Neurospicyru>
 - **Мой тик-ток** (profile) [msg #450] → <https://www.tiktok.com/@neurospicy_dushnila?_t=ZN-8t5x89Wjoko&_r=1>
+
+## Nervous System, Senses and Emotions → [Interoception, alexithymia and naming emotions](../topics/nervous-system-senses/interoception-alexithymia.md)
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #37, #38] → <https://t.me/neurospicyru>
 
 ## Nervous System, Senses and Emotions → [Meltdowns and shutdowns](../topics/nervous-system-senses/meltdowns-shutdowns.md)
 
@@ -67,6 +84,7 @@ Links to products and shops (including book store pages), courses and programmes
 ## Daily Life, Communication and Self-Advocacy → [ADHD traits: rejection sensitivity, daydreaming and body doubling](../topics/daily-life-communication/adhd-traits-tools.md)
 
 - **@bchch_channel — Telegram channel of a paid body-doubling programme** (channel) — Channel describing a paid product (group participation, with a 15% discount on the first month) where body doubling is practised; shared as the place to learn how it works. [msg #830] → <https://t.me/bchch_channel>
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #42] → <https://t.me/neurospicyru>
 - **Discord-сервер сообщества (community Discord server invite)** (other) — Invite to the authors' Discord server, where the free health tracker can also be downloaded and the community meets. [msg #431] → <https://discord.gg/nfyW2ghcYK>
 
 ## Trauma, Anxiety and Medical Gaslighting → [Complex trauma (C-PTSD) in neurodivergent lives](../topics/trauma-anxiety/complex-trauma-neurodivergent.md)
@@ -77,6 +95,10 @@ Links to products and shops (including book store pages), courses and programmes
 ## Trauma, Anxiety and Medical Gaslighting → [Medical gaslighting and medical trauma](../topics/trauma-anxiety/medical-gaslighting-trauma.md)
 
 - **The Ehlers-Danlos Society** (profile) [msg #666] → <https://www.instagram.com/p/DLZfVpuNS_S/?img_index=3&igsh=MWd3dWhobGRlams2OA==>
+
+## Comorbid Chronic Conditions → [The neurodivergent comorbidity cluster and self-help map](../topics/comorbid-chronic-conditions/comorbidity-cluster.md)
+
+- **Telegram-канал «Нейропряность» (the channel itself)** (channel) — The Telegram channel this knowledge base comes from; linked from other authors' posts that recommend its article on pacing. [msg #36] → <https://t.me/neurospicyru>
 
 ## Comorbid Chronic Conditions → [Ehlers-Danlos syndrome and hypermobility](../topics/comorbid-chronic-conditions/ehlers-danlos-hypermobility.md)
 

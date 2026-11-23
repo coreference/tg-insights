@@ -1,0 +1,2594 @@
+{
+ "domains": [
+  {
+   "domain": "Understanding and diagnosing neurodivergence",
+   "slug": "understanding-diagnosing-neurodivergence",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "How adult ADHD and autism are diagnosed",
+     "slug": "adult-adhd-autism-diagnosis",
+     "scope": "The diagnostic process for adult ADHD and ASD: anamnesis, observation and tests, what EEG/MRI/genetic panels cannot show, ICD codes, finding a competent psychiatrist, Russian state vs private care and diagnosis abroad.",
+     "themes": [
+      "diagnosis",
+      "adhd",
+      "autism"
+     ],
+     "also_areas": [
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "neurodiversity",
+      "patient-advocacy",
+      "masking-camouflaging",
+      "health-policy"
+     ],
+     "ids": [
+      57,
+      59,
+      123,
+      124,
+      184,
+      205,
+      288,
+      365,
+      545,
+      598,
+      603,
+      605,
+      606,
+      612,
+      697,
+      746,
+      783,
+      842,
+      844,
+      851,
+      869,
+      870
+     ],
+     "count": 22
+    },
+    {
+     "title": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
+     "slug": "neurodivergence-differential-diagnosis",
+     "scope": "How to tell ADHD energy cycles, autistic burnout and neurodevelopmental conditions apart from bipolar II, hypomania, dysthymia, depression, BPD and OCPD, and why the 'neurodivergent umbrella' should not cover treatable disorders.",
+     "themes": [
+      "differential diagnosis",
+      "mood"
+     ],
+     "also_areas": [
+      "Mind & Emotions",
+      "Psychiatry & Mental Health Care"
+     ],
+     "concepts": [
+      "psychiatric-diagnosis",
+      "autistic-burnout",
+      "depression",
+      "emotional-regulation",
+      "obsessive-compulsive-disorder",
+      "perfectionism"
+     ],
+     "ids": [
+      11,
+      75,
+      311,
+      345,
+      371,
+      604,
+      617,
+      749
+     ],
+     "count": 8
+    },
+    {
+     "title": "ADHD and autism in women: phenotype, masking and hormones",
+     "slug": "women-adhd-autism",
+     "scope": "Why women with ADHD/ASD are diagnosed late, how they mask, sex-difference study data, and how estrogen, the menstrual cycle and menopause change ADHD symptoms.",
+     "themes": [
+      "women",
+      "hormones"
+     ],
+     "also_areas": [
+      "Women's Health"
+     ],
+     "concepts": [
+      "womens-health",
+      "masking-camouflaging",
+      "psychiatric-diagnosis",
+      "neurodiversity",
+      "psychiatric-medication",
+      "perfectionism"
+     ],
+     "ids": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      118,
+      288,
+      618,
+      619,
+      706
+     ],
+     "count": 11
+    },
+    {
+     "title": "Self-diagnosis, myths and stigma around neurodivergence",
+     "slug": "neurodivergence-myths-stigma",
+     "scope": "Social-media self-diagnosis, the rise in diagnoses and 'everyone is neurodivergent', medical vs social model, common myths, anti-ADHD misinformation, the autism driving ban and stigma among professionals.",
+     "themes": [
+      "stigma",
+      "myths",
+      "self-diagnosis"
+     ],
+     "also_areas": [
+      "Society & Politics",
+      "Science & Research"
+     ],
+     "concepts": [
+      "stigma-and-acceptance",
+      "neurodiversity",
+      "psychiatric-diagnosis",
+      "scientific-thinking",
+      "ableism"
+     ],
+     "ids": [
+      38,
+      146,
+      374,
+      375,
+      379,
+      533,
+      546,
+      668,
+      709,
+      728,
+      730,
+      843
+     ],
+     "count": 12
+    },
+    {
+     "title": "Autism spectrum: support levels, genetics and history",
+     "slug": "autism-support-levels-genetics",
+     "scope": "ASD support levels 1–3 and why they replaced Asperger/Kanner labels, low support needs still being a disability, heritability and twin data, autistic traits in parents, autistic parenting, historical pioneers and starter resources.",
+     "themes": [
+      "autism",
+      "genetics",
+      "history"
+     ],
+     "also_areas": [
+      "Science & Research"
+     ],
+     "concepts": [
+      "neurodiversity",
+      "behavioral-genetics",
+      "psychiatric-diagnosis",
+      "self-advocacy-accommodations",
+      "relationships-family",
+      "ableism"
+     ],
+     "ids": [
+      67,
+      149,
+      150,
+      151,
+      152,
+      153,
+      539,
+      542,
+      547,
+      602,
+      642,
+      717,
+      718
+     ],
+     "count": 13
+    }
+   ]
+  },
+  {
+   "domain": "Overload, meltdowns and burnout",
+   "slug": "overload-meltdowns-burnout",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Meltdowns, shutdowns and acute overload",
+     "slug": "meltdowns-shutdowns-overload",
+     "scope": "What meltdowns, shutdowns and empty-mind states look like in autistic and ADHD adults, why acute stress recovery takes longer, and practical prevention kits for new places, films and travel.",
+     "themes": [
+      "meltdown",
+      "shutdown",
+      "overload"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "meltdowns-shutdowns",
+      "sensory-processing",
+      "stress-and-anxiety",
+      "emotional-regulation",
+      "relocation"
+     ],
+     "ids": [
+      84,
+      221,
+      281,
+      337,
+      688,
+      689,
+      801
+     ],
+     "count": 7
+    },
+    {
+     "title": "Autistic and ADHD burnout, fatigue and limited energy",
+     "slug": "neurodivergent-burnout-fatigue",
+     "scope": "Autistic burnout vs depression, the ADHD work-burnout cycle, why neurodivergent people tire faster (sensory load, task switching), planning by energy, and using ChatGPT to offload executive function during burnout.",
+     "themes": [
+      "burnout",
+      "fatigue",
+      "energy"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Energy & Resource",
+      "Technology & AI"
+     ],
+     "concepts": [
+      "autistic-burnout",
+      "burnout",
+      "fatigue",
+      "energy-management",
+      "executive-function",
+      "large-language-models"
+     ],
+     "ids": [
+      80,
+      88,
+      155,
+      420,
+      617,
+      661,
+      662,
+      701,
+      765,
+      770,
+      793,
+      805
+     ],
+     "count": 12
+    },
+    {
+     "title": "How neurodivergent people rest and recover",
+     "slug": "neurodivergent-rest-recovery",
+     "scope": "Three kinds of rest (stillness, process activity, resource activity), learning to do nothing, planning rest, social recovery, returning after holidays, resilience as flexibility, and the annual year-review ritual.",
+     "themes": [
+      "rest",
+      "recovery",
+      "planning"
+     ],
+     "also_areas": [
+      "Rest & Burnout",
+      "Balance & Life Philosophy"
+     ],
+     "concepts": [
+      "rest-and-recovery",
+      "self-reflection-tools",
+      "uncertainty-resilience",
+      "calendar-planning",
+      "future-orientation"
+     ],
+     "ids": [
+      168,
+      174,
+      272,
+      273,
+      274,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      557,
+      813,
+      814,
+      815,
+      817
+     ],
+     "count": 18
+    }
+   ]
+  },
+  {
+   "domain": "Sensory processing and the body",
+   "slug": "sensory-processing-body",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Building and using your sensory profile",
+     "slug": "sensory-profile",
+     "scope": "Hyper-, hypo- and mixed sensitivity across the sensory systems (interoception, vision, touch, smell, temperature), sensory seeking, how to map your own profile and concrete adaptations like lighting, clothing, weighted blankets and sensory kits.",
+     "themes": [
+      "sensory",
+      "interoception"
+     ],
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "self-advocacy-accommodations",
+      "emotional-regulation",
+      "self-care"
+     ],
+     "ids": [
+      148,
+      198,
+      302,
+      475,
+      480,
+      482,
+      493,
+      499,
+      503,
+      507,
+      560,
+      562,
+      563,
+      565,
+      669,
+      673,
+      702
+     ],
+     "count": 17
+    },
+    {
+     "title": "Stimming, special interests and repetitive behaviours",
+     "slug": "stimming-special-interests",
+     "scope": "Functions of stimming, telling stimming from OCD-like hair pulling and skin picking by function, and how a special interest differs from a hobby and hyperfixation and serves as a resource.",
+     "themes": [
+      "stimming",
+      "special interests"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "special-interests-hyperfocus",
+      "sensory-processing",
+      "obsessive-compulsive-disorder",
+      "hobbies-and-play"
+     ],
+     "ids": [
+      624,
+      626,
+      704
+     ],
+     "count": 3
+    },
+    {
+     "title": "Physical comorbidities: sleep, pain, migraine and eating",
+     "slug": "neurodivergent-physical-comorbidities",
+     "scope": "Sleep problems and daytime sleepiness in ASD/ADHD, pain in dreams and PTSD nightmares, migraine, chronic muscle pain and hypermobility, connective tissue dysplasia, sensory eating difficulties, ADHD sweet cravings and nutrition mixes for bad days.",
+     "themes": [
+      "sleep",
+      "pain",
+      "eating"
+     ],
+     "also_areas": [
+      "Chronic Illness & Disability",
+      "Sleep",
+      "Nutrition"
+     ],
+     "concepts": [
+      "chronic-pain",
+      "sleep-hygiene",
+      "ehlers-danlos-hypermobility",
+      "eating-disorders",
+      "sugar-and-glucose",
+      "sensory-processing"
+     ],
+     "ids": [
+      8,
+      185,
+      315,
+      472,
+      541,
+      543,
+      607,
+      838,
+      839,
+      862
+     ],
+     "count": 10
+    }
+   ]
+  },
+  {
+   "domain": "Masking and social life",
+   "slug": "masking-social-life",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Masking, compensation and unmasking",
+     "slug": "masking-unmasking",
+     "scope": "How masking forms (e.g. learning to 'endure' sensory discomfort), its costs and late decompensation after 30, and what unmasking looks like in practice.",
+     "themes": [
+      "masking"
+     ],
+     "also_areas": [],
+     "concepts": [
+      "masking-camouflaging",
+      "autistic-burnout",
+      "sensory-processing",
+      "energy-management",
+      "psychiatric-diagnosis"
+     ],
+     "ids": [
+      96,
+      144,
+      145,
+      277,
+      777
+     ],
+     "count": 5
+    },
+    {
+     "title": "Autistic communication, belonging and being misread",
+     "slug": "autistic-communication-belonging",
+     "scope": "The double empathy problem, mismatch between inner feelings and nonverbal signals, trusted companions in public places, need for a small safe tribe, social anxiety vs limited social energy at work.",
+     "themes": [
+      "communication",
+      "social"
+     ],
+     "also_areas": [
+      "Interviews & Community"
+     ],
+     "concepts": [
+      "double-empathy",
+      "neurodivergent-communication",
+      "community-belonging",
+      "stress-and-anxiety",
+      "empathy"
+     ],
+     "ids": [
+      212,
+      382,
+      431,
+      790,
+      852,
+      867
+     ],
+     "count": 6
+    }
+   ]
+  },
+  {
+   "domain": "ADHD self-management and skills",
+   "slug": "adhd-self-management",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "Executive dysfunction, environment and work",
+     "slug": "executive-dysfunction-work",
+     "scope": "What executive dysfunction is, the four ADHD neural circuits, autistic inertia, ADHD tax and planning failures, the unstable sense of self (DMN), changing environment and context, and choosing a profession and work format.",
+     "themes": [
+      "executive function",
+      "work"
+     ],
+     "also_areas": [
+      "Neuroscience & Cognitive Science",
+      "Leadership & Organizations"
+     ],
+     "concepts": [
+      "executive-function",
+      "brain-connectivity",
+      "workplace-inclusion",
+      "career-change",
+      "remote-work",
+      "consciousness-and-self"
+     ],
+     "ids": [
+      54,
+      60,
+      64,
+      66,
+      204,
+      332,
+      333,
+      334,
+      335,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      534,
+      544,
+      695,
+      733
+     ],
+     "count": 19
+    },
+    {
+     "title": "ADHD skills training, coaching and organization tools",
+     "slug": "adhd-skills-training-tools",
+     "scope": "CBT skills groups for ADHD (structure, pre-group interview, why no ASD+ADHD groups), ADHD coaching, capture lists and planning apps, returning to reading, and why skills fade and must be relearned.",
+     "themes": [
+      "skills training",
+      "planning"
+     ],
+     "also_areas": [
+      "Behavior Change & Coaching",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "cognitive-behavioral-therapy",
+      "executive-function",
+      "health-coaching",
+      "habit-formation",
+      "focus-attention"
+     ],
+     "ids": [
+      220,
+      252,
+      289,
+      559,
+      570,
+      599,
+      675,
+      694,
+      700,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      803,
+      840
+     ],
+     "count": 17
+    },
+    {
+     "title": "Emotional dysregulation, rejection sensitivity and relationships",
+     "slug": "neurodivergent-emotions-relationships",
+     "scope": "Emotional sensitivity in ADHD and autism, a critical look at rejection sensitive dysphoria, tracking emotions as signals, anger outbursts and responsibility in relationships, and why ADHD does not excuse infidelity.",
+     "themes": [
+      "emotions",
+      "relationships"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "emotional-regulation",
+      "rejection-sensitivity",
+      "relationships-family",
+      "alexithymia",
+      "emotional-intelligence"
+     ],
+     "ids": [
+      280,
+      681,
+      698,
+      707,
+      866
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Psychiatric treatment and mental health care",
+   "slug": "psychiatric-treatment-care",
+   "area": "Psychiatry & Mental Health Care",
+   "topics": [
+    {
+     "title": "Psychiatric medication: ADHD drugs and antidepressants",
+     "slug": "psychiatric-medication",
+     "scope": "Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.",
+     "themes": [
+      "medication"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "psychiatric-medication",
+      "depression",
+      "neurodiversity",
+      "stigma-and-acceptance",
+      "health-policy"
+     ],
+     "ids": [
+      58,
+      78,
+      90,
+      91,
+      92,
+      93,
+      208,
+      615,
+      692,
+      696,
+      853,
+      854
+     ],
+     "count": 12
+    },
+    {
+     "title": "Choosing specialists and evidence-based mental health care",
+     "slug": "choosing-mental-health-care",
+     "scope": "Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting patients' anamnesis, and whom to see for grief.",
+     "themes": [
+      "specialists",
+      "evidence-based care"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "psychotherapy",
+      "patient-advocacy",
+      "ethics-in-inner-work",
+      "stigma-and-acceptance",
+      "health-policy",
+      "scientific-thinking"
+     ],
+     "ids": [
+      4,
+      219,
+      242,
+      350,
+      519,
+      575,
+      600,
+      767
+     ],
+     "count": 8
+    },
+    {
+     "title": "Health policy and healthcare systems",
+     "slug": "health-policy-systems",
+     "scope": "Lessons from a health-policy course: measuring health, history of insurance medicine in Russia, health spending vs life expectancy, GP prescribing and psychiatrist prices, and the medical graduate 'mentoring' law.",
+     "themes": [
+      "health policy"
+     ],
+     "also_areas": [
+      "Society & Politics"
+     ],
+     "concepts": [
+      "health-policy",
+      "longevity",
+      "psychiatric-medication"
+     ],
+     "ids": [
+      336,
+      342,
+      343,
+      349,
+      355,
+      578,
+      769
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Anxiety, mood and coping",
+   "slug": "anxiety-mood-coping",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Anxiety, phobias, panic and OCD: exposure and self-observation",
+     "slug": "anxiety-exposure-ocd",
+     "scope": "Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.",
+     "themes": [
+      "anxiety",
+      "exposure",
+      "ocd"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "fear-extinction",
+      "stress-and-anxiety",
+      "obsessive-compulsive-disorder",
+      "cognitive-behavioral-therapy",
+      "psychiatric-medication"
+     ],
+     "ids": [
+      370,
+      614,
+      699,
+      772
+     ],
+     "count": 4
+    },
+    {
+     "title": "Coping with terror attacks and collective tragedy",
+     "slug": "coping-collective-tragedy",
+     "scope": "How terror attacks create unpredictability and split society, defensive reactions like calls for the death penalty as illusions of control, and first-aid steps after a tragedy.",
+     "themes": [
+      "crisis",
+      "collective trauma"
+     ],
+     "also_areas": [
+      "Society & Politics"
+     ],
+     "concepts": [
+      "collective-trauma",
+      "uncertainty-resilience",
+      "stress-and-anxiety",
+      "digital-hygiene",
+      "somatic-regulation"
+     ],
+     "ids": [
+      130,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+     ],
+     "count": 8
+    },
+    {
+     "title": "Behavioral activation, movement and mindfulness for mood",
+     "slug": "mood-activation-mindfulness",
+     "scope": "Walks and behavioral activation for ADHD and mood, a plan for the November slump, sleep/movement/safety for neuroplasticity, short mindfulness for ADHD, and happiness heritability.",
+     "themes": [
+      "mood",
+      "activation"
+     ],
+     "also_areas": [
+      "Movement & Body",
+      "Meditation & Contemplative Practice"
+     ],
+     "concepts": [
+      "physical-activity",
+      "depression",
+      "meditation-mindfulness",
+      "happiness-wellbeing",
+      "brain-development",
+      "behavioral-genetics"
+     ],
+     "ids": [
+      41,
+      166,
+      239,
+      240,
+      241,
+      358,
+      787
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Inner critic and self-relationship",
+   "slug": "inner-critic-self-relationship",
+   "area": "Psychotherapy & Inner Work",
+   "topics": [
+    {
+     "title": "Inner critic, schema therapy and soothing the threat system",
+     "slug": "inner-critic-schema-therapy",
+     "scope": "Origins and modes of the inner critic in schema therapy, RO DBT safety skills, gratitude and loving-kindness to lower threat, plus reviews of books and an imagery audio play on self-criticism, narcissism and therapeutic conversation.",
+     "themes": [
+      "inner critic",
+      "schema therapy"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "self-compassion",
+      "schema-therapy",
+      "loving-kindness-metta",
+      "perfectionism",
+      "somatic-regulation",
+      "ego-narcissism"
+     ],
+     "ids": [
+      177,
+      231,
+      234,
+      256,
+      377,
+      380,
+      625,
+      798,
+      799
+     ],
+     "count": 9
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 3,
+   "kind": "announcement",
+   "gist": "Channel intro: psychiatrist Nastya, clinical director, works with adult ADHD/ASD/cPTSD, lives with them herself"
+  },
+  {
+   "id": 5,
+   "kind": "personal-update",
+   "gist": "Meme: doctor bingo card from medical practice"
+  },
+  {
+   "id": 6,
+   "kind": "other",
+   "gist": "Link to an Instagram reel, no text"
+  },
+  {
+   "id": 7,
+   "kind": "personal-update",
+   "gist": "Meme: executive functions say 'not today' to washing hair"
+  },
+  {
+   "id": 9,
+   "kind": "other",
+   "gist": "Quote image: nightmares are free horror films you write, produce and star in"
+  },
+  {
+   "id": 10,
+   "kind": "announcement",
+   "gist": "Welcome message to new subscribers of the small channel"
+  },
+  {
+   "id": 13,
+   "kind": "personal-update",
+   "gist": "Travel/conference overload humor: finishing lectures on the plane between teaching, congress and negotiations"
+  },
+  {
+   "id": 14,
+   "kind": "personal-update",
+   "gist": "Impressions of Makhachkala trip and teaching CBT there; near meltdown from overload"
+  },
+  {
+   "id": 15,
+   "kind": "announcement",
+   "gist": "Poll: want a post on non-obvious meltdowns in adults with ASD?"
+  },
+  {
+   "id": 16,
+   "kind": "personal-update",
+   "gist": "TikTok meme that feels personal"
+  },
+  {
+   "id": 17,
+   "kind": "personal-update",
+   "gist": "Photos from the Makhachkala workshop for memory"
+  },
+  {
+   "id": 19,
+   "kind": "personal-update",
+   "gist": "At EABCT congress: sessions on Arntz schema therapy changes and positive CBT, yet no sessions on neurodivergence"
+  },
+  {
+   "id": 20,
+   "kind": "other",
+   "gist": "Photo from the EABCT 2023 congress"
+  },
+  {
+   "id": 23,
+   "kind": "personal-update",
+   "gist": "Photo with colleagues after positive CBT lecture"
+  },
+  {
+   "id": 24,
+   "kind": "personal-update",
+   "gist": "Promise of upcoming post on sensory overload in ASD; sick after congress"
+  },
+  {
+   "id": 25,
+   "kind": "personal-update",
+   "gist": "Found a book in a bookstore containing her ADHD chapter"
+  },
+  {
+   "id": 26,
+   "kind": "announcement",
+   "gist": "Tomorrow discussing the father figure psychologically on Arbat"
+  },
+  {
+   "id": 27,
+   "kind": "announcement",
+   "gist": "Forwarded from KARO/ART: film screening and discussion of Toni Erdmann on father-child relations, 31 Oct, tickets link"
+  },
+  {
+   "id": 36,
+   "kind": "personal-update",
+   "gist": "Meme: meltdown post, ADHD book and 100500 tasks as perfect executive dysfunction"
+  },
+  {
+   "id": 37,
+   "kind": "other",
+   "gist": "Single reaction '100%' to a shared image"
+  },
+  {
+   "id": 39,
+   "kind": "personal-update",
+   "gist": "Finished the book and sent it to the editors; irregular posting"
+  },
+  {
+   "id": 40,
+   "kind": "announcement",
+   "gist": "Announcement: talk on female presentations of ASD and ADHD at DocPsyFest on 18 Nov"
+  },
+  {
+   "id": 42,
+   "kind": "personal-update",
+   "gist": "At schema therapy conference in St Petersburg; students thanking her, positive reinforcement"
+  },
+  {
+   "id": 45,
+   "kind": "personal-update",
+   "gist": "Picked up her schema therapy card set made as last project at MIST"
+  },
+  {
+   "id": 52,
+   "kind": "other",
+   "gist": "DocPsyFest thank-you card"
+  },
+  {
+   "id": 55,
+   "kind": "personal-update",
+   "gist": "Question to neurotypicals: do people really say 'let's meet sometime' without intent?"
+  },
+  {
+   "id": 61,
+   "kind": "other",
+   "gist": "Short meme 'find yourself'"
+  },
+  {
+   "id": 63,
+   "kind": "personal-update",
+   "gist": "Book nearing release: dopamine from editing phase, shame expected later; ADHD hobby-hyperfixation meme"
+  },
+  {
+   "id": 65,
+   "kind": "other",
+   "gist": "Meme: executive dysfunction illustrated"
+  },
+  {
+   "id": 68,
+   "kind": "announcement",
+   "gist": "Question to readers: what besides neurodivergence would they like; mentions film analyses with KARO and Epidemia series"
+  },
+  {
+   "id": 69,
+   "kind": "personal-update",
+   "gist": "Introduces her dogs Shiro (separation anxiety) and Sato (spinal surgery, PTSD, dog exposure protocol)"
+  },
+  {
+   "id": 73,
+   "kind": "other",
+   "gist": "Shares a video she found for those interested"
+  },
+  {
+   "id": 76,
+   "kind": "announcement",
+   "gist": "Livestream with Dima on assessing therapist skills and why soft skills are core; YouTube link"
+  },
+  {
+   "id": 79,
+   "kind": "personal-update",
+   "gist": "Holiday greeting meme"
+  },
+  {
+   "id": 81,
+   "kind": "personal-update",
+   "gist": "Birthday/New Year wish: magic and happy-child mode, present moment"
+  },
+  {
+   "id": 83,
+   "kind": "personal-update",
+   "gist": "Recommends a short film showing autism is not a sentence; YouTube link"
+  },
+  {
+   "id": 85,
+   "kind": "announcement",
+   "gist": "Upcoming livestream on ADHD in both child and parent"
+  },
+  {
+   "id": 86,
+   "kind": "announcement",
+   "gist": "Forwarded: announcement of stream 'Is ADHD scary?' with Afanasyeva, 17 Jan 19:00 MSK"
+  },
+  {
+   "id": 89,
+   "kind": "logistics",
+   "gist": "Recording link of the stream on ADHD in parents and children"
+  },
+  {
+   "id": 94,
+   "kind": "personal-update",
+   "gist": "Busy with book edits; shares a TikTok clip"
+  },
+  {
+   "id": 97,
+   "kind": "personal-update",
+   "gist": "Rant about somatic doctors who don't know basic psychiatry, including a microbiota book author"
+  },
+  {
+   "id": 98,
+   "kind": "personal-update",
+   "gist": "Quote from microbiota book claiming addiction is a digestion matter, which angered her"
+  },
+  {
+   "id": 99,
+   "kind": "logistics",
+   "gist": "Admin notes: psychiatric appointments from mid-March at Chaika, therapy waiting list, seeking an assistant"
+  },
+  {
+   "id": 100,
+   "kind": "personal-update",
+   "gist": "Assistant found, two-week vacation; recommends 'Something Is Wrong with the Galvins' book"
+  },
+  {
+   "id": 101,
+   "kind": "other",
+   "gist": "Cover of Robert Kolker's book about the Galvin family"
+  },
+  {
+   "id": 102,
+   "kind": "logistics",
+   "gist": "How she works: psychiatric appointment in person only, second-opinion online service, psychotherapy in CBT/schema/RO DBT with exclusions and ~6 month wait"
+  },
+  {
+   "id": 104,
+   "kind": "announcement",
+   "gist": "Teaser: an interesting announcement coming soon"
+  },
+  {
+   "id": 105,
+   "kind": "announcement",
+   "gist": "Forwarded: filming for new season of 'Справиться проще'"
+  },
+  {
+   "id": 107,
+   "kind": "personal-update",
+   "gist": "Shares a video by Evgenia Strakhova about 'Katya' with ADHD"
+  },
+  {
+   "id": 108,
+   "kind": "promo",
+   "gist": "Author guests on a YouTube project about ADHD, discussing what comorbid ADHD+ASD (РАСДВГ) looks like and how to tell them apart; link only."
+  },
+  {
+   "id": 109,
+   "kind": "logistics",
+   "gist": "Forwarded from Psycho_pharmacologist: enrollment in two ADHD skills-training groups starting March 2024 (Mondays/Saturdays), sign-up via form."
+  },
+  {
+   "id": 110,
+   "kind": "personal-update",
+   "gist": "Author announces her last working day at Mental health center after 5 years, where she grew as therapist, psychiatrist and manager."
+  },
+  {
+   "id": 112,
+   "kind": "logistics",
+   "gist": "Psychiatric appointments resume 13 March via the Chaika clinic booking link."
+  },
+  {
+   "id": 114,
+   "kind": "announcement",
+   "gist": "Poll on next topic: female hormones and ADHD (95), masking (90), prioritization in ADHD (54), trauma/PTSD risk in neurodivergence (50)."
+  },
+  {
+   "id": 116,
+   "kind": "promo",
+   "gist": "Recommends adhd_recharge channel and adhd_community chat (science-based ADHD info, peer support) and reposts an article on caffeine and ADHD."
+  },
+  {
+   "id": 117,
+   "kind": "announcement",
+   "gist": "Female hormonal background won the poll, so the next post starts with it."
+  },
+  {
+   "id": 119,
+   "kind": "promo",
+   "gist": "New 'Справиться проще' episode with the author on the female phenotype of neurodivergence and diagnosis/treatment problems; link."
+  },
+  {
+   "id": 121,
+   "kind": "announcement",
+   "gist": "Navigation post: links to about-me, #СДВГ and #РАС tags, how the author works, and clinic booking."
+  },
+  {
+   "id": 125,
+   "kind": "promo",
+   "gist": "Link to the author's Psychodemia-sourced article on five diagnosis abbreviations (BPD, ADHD, ASD, C-PTSD, bipolar) and treatment."
+  },
+  {
+   "id": 126,
+   "kind": "personal-update",
+   "gist": "One-line evening greeting."
+  },
+  {
+   "id": 127,
+   "kind": "logistics",
+   "gist": "Enrollment for an 8-session online skills group for adults with ADHD on Mary Solanto's executive-dysfunction protocol, starting 6 April, 14,000 rub/month."
+  },
+  {
+   "id": 129,
+   "kind": "personal-update",
+   "gist": "Short message after the Crocus attack: hug your loved ones, shares an instruction written by Liza."
+  },
+  {
+   "id": 131,
+   "kind": "logistics",
+   "gist": "Forwarded list of Moscow hotlines: hospital admissions, missing-person search, MChS and psychological help lines."
+  },
+  {
+   "id": 132,
+   "kind": "logistics",
+   "gist": "Free psychologist sessions from the Prosebya service via app promo code 'Помощь' or by messaging a contact, for those affected by the tragedy."
+  },
+  {
+   "id": 133,
+   "kind": "logistics",
+   "gist": "PS: those awaiting the group sign-up will be contacted after the form is processed on Monday."
+  },
+  {
+   "id": 141,
+   "kind": "personal-update",
+   "gist": "Funny story of her two Spitz dogs faking lameness and drama, ending with a joke on zoopsychology and lost sleep."
+  },
+  {
+   "id": 156,
+   "kind": "personal-update",
+   "gist": "Photo of a new 'quiet car' on Moscow MCC trains: silent phone mode, headphones, speak quietly."
+  },
+  {
+   "id": 157,
+   "kind": "announcement",
+   "gist": "Will join a free Psychodemia discussion on when to send someone to a psychiatrist; link."
+  },
+  {
+   "id": 158,
+   "kind": "personal-update",
+   "gist": "Author is ill and voiceless, will answer messages on Monday."
+  },
+  {
+   "id": 159,
+   "kind": "personal-update",
+   "gist": "Still ill, apologizes for delays and will start answering gradually."
+  },
+  {
+   "id": 160,
+   "kind": "logistics",
+   "gist": "Enrollment for a 10-session course on diagnosing and treating adult ASD/ADHD for psychiatrists and psychologists, from 14 May, 50,000 rub."
+  },
+  {
+   "id": 161,
+   "kind": "announcement",
+   "gist": "Speaking tomorrow on masking at a neurodivergence conference with 4 months of recordings access; link."
+  },
+  {
+   "id": 162,
+   "kind": "other",
+   "gist": "Shares a TikTok she likes."
+  },
+  {
+   "id": 163,
+   "kind": "other",
+   "gist": "Short remark that Natasha announced the news faster than the author."
+  },
+  {
+   "id": 164,
+   "kind": "announcement",
+   "gist": "Forwarded from hade of the house: team growth of 'Справиться проще' and the plan to open an offline clinic with author as medical-business partner."
+  },
+  {
+   "id": 165,
+   "kind": "announcement",
+   "gist": "Author will speak at Karo cinema on Arbat on 7 May at 19:00 in a thriller discussion event."
+  },
+  {
+   "id": 167,
+   "kind": "personal-update",
+   "gist": "Photo of the dirty, unhappy dog from the walk day."
+  },
+  {
+   "id": 169,
+   "kind": "personal-update",
+   "gist": "A colleague analysed how she rests after the rest post; invites readers to share their rest methods in comments."
+  },
+  {
+   "id": 170,
+   "kind": "personal-update",
+   "gist": "Forwarded colleague post from Достаточно хороший психиатр applying the rest types: doing nothing on the train, walking familiar routes automatically."
+  },
+  {
+   "id": 172,
+   "kind": "other",
+   "gist": "Forwarded joke image from диалектический отказ."
+  },
+  {
+   "id": 173,
+   "kind": "personal-update",
+   "gist": "Thanks followers for explanations in a reply thread on autistic strawberry questions."
+  },
+  {
+   "id": 175,
+   "kind": "personal-update",
+   "gist": "Photo and joke about her Spitz resting anywhere without self-criticism after being carried on a walk."
+  },
+  {
+   "id": 176,
+   "kind": "promo",
+   "gist": "Forwarded hade of the house episode on maladaptive daydreaming with the author as guest: why people flee reality and when it becomes a problem."
+  },
+  {
+   "id": 178,
+   "kind": "announcement",
+   "gist": "Author pauses psychiatric practice for 6-12 months due to overload after June, and will work on opening a clinic for neurodivergent people."
+  },
+  {
+   "id": 179,
+   "kind": "announcement",
+   "gist": "Reminder that her ADHD self-help book for adults is coming; asks followers to answer two survey questions."
+  },
+  {
+   "id": 180,
+   "kind": "announcement",
+   "gist": "Poll on attending a book presentation: yes 304, no 72, unsure 116."
+  },
+  {
+   "id": 181,
+   "kind": "announcement",
+   "gist": "Poll on presentation city: Moscow 299, St Petersburg 104."
+  },
+  {
+   "id": 182,
+   "kind": "other",
+   "gist": "Shares a humorous rhyme meme tying childhood extracurriculars to later diagnoses."
+  },
+  {
+   "id": 183,
+   "kind": "other",
+   "gist": "Short remark that the meme is vivid and true to life."
+  },
+  {
+   "id": 186,
+   "kind": "announcement",
+   "gist": "Patients get post-visit conclusions; other follow-up work takes free time, replies are delayed due to overload and may stop matching psychologists."
+  },
+  {
+   "id": 187,
+   "kind": "promo",
+   "gist": "Recording and article now available for the Psychodemia discussion on psychologist-psychiatrist collaboration; link."
+  },
+  {
+   "id": 188,
+   "kind": "announcement",
+   "gist": "Announcement of Psychodemia discussion on antidepressants (myths, side effects, risky experiments with supplements) on 31 May with expert panel."
+  },
+  {
+   "id": 189,
+   "kind": "promo",
+   "gist": "Link to an article the author contributed to about people returning from war."
+  },
+  {
+   "id": 190,
+   "kind": "promo",
+   "gist": "Link to a Championat article on adult ADHD symptoms and improving concentration."
+  },
+  {
+   "id": 191,
+   "kind": "promo",
+   "gist": "Podcast 'И тебя вылечат' episode on antisocial personality disorder, often written off and poorly handled in prisons; links."
+  },
+  {
+   "id": 192,
+   "kind": "other",
+   "gist": "Forwarded album of spontaneous Справиться проще campaign images."
+  },
+  {
+   "id": 200,
+   "kind": "promo",
+   "gist": "Podcast 'Накопились токсины' episode with the author on ADHD, ASD, diagnosis trends, ignored childhood ADHD and masking; platform links."
+  },
+  {
+   "id": 201,
+   "kind": "announcement",
+   "gist": "Author announces preorder of her ADHD book 'Кажется, у меня СДВГ' at Chitai-gorod; ebook and audio to follow"
+  },
+  {
+   "id": 202,
+   "kind": "logistics",
+   "gist": "Thanks for early orders; book presentation set for 11 July 19:00 at Dostoevsky bookstore, Moscow"
+  },
+  {
+   "id": 206,
+   "kind": "other",
+   "gist": "Link to a post illustrating specialists treating ADHD unethically while others debate terminology"
+  },
+  {
+   "id": 209,
+   "kind": "personal-update",
+   "gist": "Author shows her 10 author copies of the book arriving"
+  },
+  {
+   "id": 210,
+   "kind": "logistics",
+   "gist": "Forward from Psychodemia: link to article on antidepressants, how to choose them and expected side effects (discussion table #2)"
+  },
+  {
+   "id": 211,
+   "kind": "logistics",
+   "gist": "Invitation and registration form for book presentation 11 July 19:00 at Dostoevsky bookstore, Moscow"
+  },
+  {
+   "id": 213,
+   "kind": "personal-update",
+   "gist": "Author attended an MBA alumni meeting at SberUniversity and doesn't regret the education"
+  },
+  {
+   "id": 218,
+   "kind": "promo",
+   "gist": "Ad for 'Осколки травмы' conference 15-25 July with author's talk on PTSD/cPTSD in neurodivergent people; promo code OSKOLKI 10%"
+  },
+  {
+   "id": 222,
+   "kind": "logistics",
+   "gist": "Reminder of book presentation tomorrow at 19:00 and to fill in the registration form"
+  },
+  {
+   "id": 223,
+   "kind": "other",
+   "gist": "Humorous 'which ADHD frog are you' meme image with character types"
+  },
+  {
+   "id": 224,
+   "kind": "promo",
+   "gist": "Shares a Telegram folder of colleagues' channels on autism and ADHD"
+  },
+  {
+   "id": 225,
+   "kind": "personal-update",
+   "gist": "Thanks to attendees after book presentation at Dostoevsky bookstore"
+  },
+  {
+   "id": 226,
+   "kind": "other",
+   "gist": "Short playful remark 'what's going on here?'"
+  },
+  {
+   "id": 228,
+   "kind": "personal-update",
+   "gist": "Relatable joke about forgetting to eat with ADHD, hugs to those who can't feed themselves"
+  },
+  {
+   "id": 230,
+   "kind": "other",
+   "gist": "Shares favourite video of the day; disapproves of the inner critic's behavior in it"
+  },
+  {
+   "id": 232,
+   "kind": "logistics",
+   "gist": "Compiled lists of neurodiversity-competent specialists: graduates' list, crowd-sourced ASD and ADHD lists, 'Аутичные переводы' and 'Антон тут рядом' lists"
+  },
+  {
+   "id": 233,
+   "kind": "announcement",
+   "gist": "Channel reaches 5k subscribers; guide to hashtags (#РАС, #СДВГ, #психотерапия, #книги, #специалисты); asks readers to introduce themselves"
+  },
+  {
+   "id": 236,
+   "kind": "promo",
+   "gist": "Shares a video episode on autism and ADHD with Igor and a 25% LitRes promo code AFANASIEVA for the book's ebook/audio until 1 August"
+  },
+  {
+   "id": 243,
+   "kind": "personal-update",
+   "gist": "Author's recurring illness on vacations; ACT idea that we live by values and goals rather than seeking happiness, so one can act regardless of state"
+  },
+  {
+   "id": 245,
+   "kind": "personal-update",
+   "gist": "Humorous travel anecdote about funny tea names and a Chinese phrase mishap in China"
+  },
+  {
+   "id": 247,
+   "kind": "logistics",
+   "gist": "Publisher's book-box giveaway: signed ADHD book, tea, candle, coloring book and author's ADHD bingo test"
+  },
+  {
+   "id": 248,
+   "kind": "announcement",
+   "gist": "Channel growth note and question to readers about what they want from the channel"
+  },
+  {
+   "id": 249,
+   "kind": "personal-update",
+   "gist": "Humorous contrast: ADHD husband chats with a Chinese workshop owner by gestures vs author who avoids booking restaurants by phone"
+  },
+  {
+   "id": 250,
+   "kind": "personal-update",
+   "gist": "Busy work update; first print run of the book nearly sold out so a second print run is coming"
+  },
+  {
+   "id": 257,
+   "kind": "announcement",
+   "gist": "Announces she signed a contract for a book on autism (ASD)"
+  },
+  {
+   "id": 258,
+   "kind": "other",
+   "gist": "Photo album from Vladivostok"
+  },
+  {
+   "id": 264,
+   "kind": "personal-update",
+   "gist": "ADHD 'fail' story: as a pianist-accompanist forgot the sheet music before a final competition and was ashamed for months"
+  },
+  {
+   "id": 266,
+   "kind": "other",
+   "gist": "Asks who else can't keep watching films from emotional overload; meme image"
+  },
+  {
+   "id": 267,
+   "kind": "promo",
+   "gist": "Shares an interview with the publisher Bombora about ADHD"
+  },
+  {
+   "id": 276,
+   "kind": "other",
+   "gist": "Shares 'most realistic video of the week' about ADHD"
+  },
+  {
+   "id": 278,
+   "kind": "other",
+   "gist": "Shares igor_zaitsev's TikTok ADHD lifehacks with a joke about husband"
+  },
+  {
+   "id": 282,
+   "kind": "announcement",
+   "gist": "Enrollment for course on neurodiversity in adults (ASD/ADHD diagnosis, treatment) for psychiatrists/psychologists: 10 Wednesdays from 2 Oct, 50k RUB"
+  },
+  {
+   "id": 283,
+   "kind": "logistics",
+   "gist": "Warning: scammers write on Telegram on her behalf; replies come only by email from the form"
+  },
+  {
+   "id": 284,
+   "kind": "announcement",
+   "gist": "Forward: second season of a long therapy group for neurodivergent people focused on self-advocacy and unmasking; schedule and price"
+  },
+  {
+   "id": 285,
+   "kind": "promo",
+   "gist": "Recommends the neurodivergence-acceptance group - acceptance work, no skills"
+  },
+  {
+   "id": 287,
+   "kind": "announcement",
+   "gist": "Enrollment for 2nd ADHD skills training group (Solanto executive-dysfunction protocol, adapted to Russian): 8 Saturday sessions from 5 Oct, 3500 RUB each"
+  },
+  {
+   "id": 290,
+   "kind": "announcement",
+   "gist": "Teaser for new podcast episode with Natasha"
+  },
+  {
+   "id": 291,
+   "kind": "announcement",
+   "gist": "Forward from 'Справиться проще': teaser for tomorrow's special episode"
+  },
+  {
+   "id": 293,
+   "kind": "announcement",
+   "gist": "Link to podcast episode on histrionic personality disorder, whether pure types of personality disorders still apply"
+  },
+  {
+   "id": 294,
+   "kind": "announcement",
+   "gist": "Forward: two ADHD skills training streams starting 3 and 5 October, 24,000 RUB, sign-up form"
+  },
+  {
+   "id": 295,
+   "kind": "announcement",
+   "gist": "Asks readers what problems, aspects and topics they want in her upcoming book on adult ASD level 1-2"
+  },
+  {
+   "id": 296,
+   "kind": "announcement",
+   "gist": "Poll: whether to offer text/video/audio formats for doing skills together (417 yes, 24 no)"
+  },
+  {
+   "id": 297,
+   "kind": "announcement",
+   "gist": "Forward: invitation to a film discussion (A24, Sebastian Stan) she's taking part in"
+  },
+  {
+   "id": 298,
+   "kind": "announcement",
+   "gist": "Announces speaking at DocPsyFest round table 25 Sept 16:00 on talking about mental disorders and neurodivergence"
+  },
+  {
+   "id": 303,
+   "kind": "announcement",
+   "gist": "Announces RO DBT group for hypercontrollers in October (Wednesdays, ~20 weeks, 3.5k per session) with a few spots left"
+  },
+  {
+   "id": 304,
+   "kind": "other",
+   "gist": "Asks readers whether they experience muscle pain after sensory and emotional overload"
+  },
+  {
+   "id": 306,
+   "kind": "announcement",
+   "gist": "Announces speaking at free Mental Film Fest 'Dialogues' on 6 October at Omega Rooftop, Moscow"
+  },
+  {
+   "id": 309,
+   "kind": "announcement",
+   "gist": "Announces joint talk with Natasha Kadantseva after a film; recommends it as an illustration of how self-esteem affects life"
+  },
+  {
+   "id": 312,
+   "kind": "announcement",
+   "gist": "Link to a podcast on psychiatry trends the author took part in"
+  },
+  {
+   "id": 313,
+   "kind": "logistics",
+   "gist": "Forwarded ad: Varya's paid weekly Zoom peer-support groups for neurodivergent women and parents, 2000 RUB per meeting"
+  },
+  {
+   "id": 314,
+   "kind": "announcement",
+   "gist": "Short note pointing to a colleague's support groups"
+  },
+  {
+   "id": 317,
+   "kind": "personal-update",
+   "gist": "Photo memento of the depression discussion at Mental Health Film Festival"
+  },
+  {
+   "id": 318,
+   "kind": "promo",
+   "gist": "Recommendation of a self-portrait photo studio with hidden camera and no photographer, good for introverts and neurodivergent people"
+  },
+  {
+   "id": 321,
+   "kind": "promo",
+   "gist": "Promotion of Mental Health Film Festival (6-13 Oct) where the author spoke on depression; links to program"
+  },
+  {
+   "id": 322,
+   "kind": "announcement",
+   "gist": "Forwarded announcement: Afanasyeva to speak on ADHD diagnosis and therapy news at Mental Health Forum 2024"
+  },
+  {
+   "id": 323,
+   "kind": "personal-update",
+   "gist": "World Mental Health Day greeting with promised promo codes and an upcoming event"
+  },
+  {
+   "id": 324,
+   "kind": "promo",
+   "gist": "Publisher ad for ADHD book by Afanasyeva with promo code for World Mental Health Day"
+  },
+  {
+   "id": 325,
+   "kind": "logistics",
+   "gist": "Forwarded ad: online seminar on autism spectrum disorders for specialists, 26-27 Oct, 8 webinars"
+  },
+  {
+   "id": 327,
+   "kind": "promo",
+   "gist": "Book Monday: recommends an anthology of Russian dark art, with a one-day Chitai-gorod promo code DARK"
+  },
+  {
+   "id": 331,
+   "kind": "logistics",
+   "gist": "Giveaway of signed ADHD book by Afanasyeva: subscribe, react, press participate; draw 23 Oct"
+  },
+  {
+   "id": 339,
+   "kind": "personal-update",
+   "gist": "Author's ad policy: advertises only what she uses and vouches for; blog earns her nothing and much of her work is free"
+  },
+  {
+   "id": 340,
+   "kind": "personal-update",
+   "gist": "Personal note: routine is harder than an ADHD runaway thought; flew to Astana for work, sleepy"
+  },
+  {
+   "id": 346,
+   "kind": "announcement",
+   "gist": "Link to an article featuring the author on why people fear new viruses (Marburg)"
+  },
+  {
+   "id": 347,
+   "kind": "logistics",
+   "gist": "Forwarded hiring call from Справиться проще center for evidence-based psychologists, with selection steps"
+  },
+  {
+   "id": 351,
+   "kind": "personal-update",
+   "gist": "Venting about infighting in the psychology field and being called a glamorous specialist for glamorous autism; feeling like leaving projects"
+  },
+  {
+   "id": 352,
+   "kind": "announcement",
+   "gist": "Announcement of brain conference at Sechenov University where the author will speak"
+  },
+  {
+   "id": 354,
+   "kind": "other",
+   "gist": "Photo of a Russian national project slide on practice based on latest scientific research, from a university lecture"
+  },
+  {
+   "id": 356,
+   "kind": "logistics",
+   "gist": "Five free offline tickets to the Sechenov conference for commenters"
+  },
+  {
+   "id": 357,
+   "kind": "announcement",
+   "gist": "Link to Afisha.Daily article on why autism is diagnosed less often in women and gender stereotypes"
+  },
+  {
+   "id": 360,
+   "kind": "personal-update",
+   "gist": "Personal update: spoke as a speaker at her alma mater's anatomy hall"
+  },
+  {
+   "id": 369,
+   "kind": "announcement",
+   "gist": "Proposal: Monday book posts and a book prize for the most persistent commenter who started a long-postponed task"
+  },
+  {
+   "id": 372,
+   "kind": "personal-update",
+   "gist": "Cozy weather wish and milestone: third print run of her book, about 4000 readers since summer"
+  },
+  {
+   "id": 376,
+   "kind": "announcement",
+   "gist": "Link to first episode of a colleagues' film series on sexualized violence"
+  },
+  {
+   "id": 378,
+   "kind": "announcement",
+   "gist": "Announcement of a one-hour Q&A live on 29 Nov at 19:00 MSK with anonymous question form"
+  },
+  {
+   "id": 381,
+   "kind": "personal-update",
+   "gist": "Thanks for comments on postponed tasks; book goes to a winner; asks feedback on the format"
+  },
+  {
+   "id": 383,
+   "kind": "promo",
+   "gist": "Sponsored post for WAU face massager; author ties it to tactile need and facial tension from PTSD"
+  },
+  {
+   "id": 385,
+   "kind": "promo",
+   "gist": "Pointer to a channel running skills challenges based on the ADHD training program"
+  },
+  {
+   "id": 400,
+   "kind": "other",
+   "gist": "English-language autism reading list: Unmasking Autism by Devon Price, Asperger's and Self-Esteem and other book covers"
+  },
+  {
+   "id": 402,
+   "kind": "other",
+   "gist": "Book cover: Asperger Syndrome and Employment by Sarah Hendrickx, part of the English reading list"
+  },
+  {
+   "id": 407,
+   "kind": "other",
+   "gist": "Russian-language autism reading list: Мир глазами человека с аутизмом and Tony Attwood's Complete Guide"
+  },
+  {
+   "id": 409,
+   "kind": "logistics",
+   "gist": "Online meeting moved from Friday to Sunday 19:00 MSK"
+  },
+  {
+   "id": 410,
+   "kind": "announcement",
+   "gist": "Forwarded: second film episode on sexualized violence on 3 Dec"
+  },
+  {
+   "id": 413,
+   "kind": "logistics",
+   "gist": "Books from the reading lists uploaded to Yandex Disk, downloadable via QR code"
+  },
+  {
+   "id": 414,
+   "kind": "promo",
+   "gist": "Photo studio YUG gives 15% off certificates on 29 Nov; recap of self-portrait format"
+  },
+  {
+   "id": 415,
+   "kind": "promo",
+   "gist": "Picture card: another New Year gift idea"
+  },
+  {
+   "id": 416,
+   "kind": "logistics",
+   "gist": "Zoom link for today's 19:00 MSK meeting"
+  },
+  {
+   "id": 417,
+   "kind": "other",
+   "gist": "Recording of the live Q&A stream (video not available)"
+  },
+  {
+   "id": 418,
+   "kind": "promo",
+   "gist": "Forwarded Bombora Smart ad for online festival 'Зоопарк в твоей голове' starting 17:00"
+  },
+  {
+   "id": 419,
+   "kind": "announcement",
+   "gist": "Welcome post to new subscribers with navigation by tags #СДВГ #РАС #специалисты"
+  },
+  {
+   "id": 421,
+   "kind": "personal-update",
+   "gist": "Joking note that readers react most to posts about her struggling"
+  },
+  {
+   "id": 422,
+   "kind": "personal-update",
+   "gist": "Personal update: finished a public speaking course, early clinic shift, expects to lie down the rest of the week"
+  },
+  {
+   "id": 430,
+   "kind": "personal-update",
+   "gist": "Tired end-of-year note sharing a collection of autism comics"
+  },
+  {
+   "id": 432,
+   "kind": "logistics",
+   "gist": "Enrollment for third ADHD skills training group (Solanto protocol on executive dysfunction), 8 Saturday sessions from 18 Jan, 3500 RUB per meeting"
+  },
+  {
+   "id": 433,
+   "kind": "announcement",
+   "gist": "Reassurance that ADHD/autism-training groups run every 2 months; new ADHD protocol and ASD self-help training planned for 2025"
+  },
+  {
+   "id": 434,
+   "kind": "announcement",
+   "gist": "Author took part in a film shoot about Munchausen syndrome incl. by proxy; YouTube/VK links"
+  },
+  {
+   "id": 435,
+   "kind": "personal-update",
+   "gist": "Year-end recap of wins and failures in 2024 with invitation to praise yourself in comments; book giveaway"
+  },
+  {
+   "id": 436,
+   "kind": "personal-update",
+   "gist": "Giveaway winners announced after reading subscribers' yearly recaps"
+  },
+  {
+   "id": 437,
+   "kind": "promo",
+   "gist": "Promo for Rekreatsiya creative adult retreats (Hogwarts-style New Year trip, Sochi in March) for people who struggle to rest"
+  },
+  {
+   "id": 444,
+   "kind": "announcement",
+   "gist": "Announcement of a January online evidence-based conference on BPD and comorbid disorders (DBT, schema therapists)"
+  },
+  {
+   "id": 445,
+   "kind": "announcement",
+   "gist": "Announcement of a program for psychologists entering psychotherapy: CBT supervision, deliberate practice, neurodivergence and suicidality cases"
+  },
+  {
+   "id": 446,
+   "kind": "personal-update",
+   "gist": "Author's pre-holiday 'braking' trick: change of context, quiet forest walks, no contacts to wind down work"
+  },
+  {
+   "id": 453,
+   "kind": "personal-update",
+   "gist": "Joke post asking what a blue-whale emoji means in social media"
+  },
+  {
+   "id": 455,
+   "kind": "announcement",
+   "gist": "Pre-holiday handover and digest of the year's best channel posts on autism/ADHD (meltdowns, shutdowns, masking, burnout, rest types, RSD, double empathy)"
+  },
+  {
+   "id": 456,
+   "kind": "promo",
+   "gist": "Reminder about the author's ADHD book 'Кажется, у меня СДВГ' and where to buy it"
+  },
+  {
+   "id": 459,
+   "kind": "personal-update",
+   "gist": "ADHD meme: lost passport, found only after filing the loss report"
+  },
+  {
+   "id": 460,
+   "kind": "announcement",
+   "gist": "Request to boost the channel for stories feature so she can post funny content"
+  },
+  {
+   "id": 461,
+   "kind": "personal-update",
+   "gist": "New Year birthday greeting; wish for stability"
+  },
+  {
+   "id": 471,
+   "kind": "personal-update",
+   "gist": "Meme dedicated to ADHD people's odd sets of hobbies"
+  },
+  {
+   "id": 473,
+   "kind": "logistics",
+   "gist": "Last spots for 8-week Solanto ADHD training on Saturdays 11-13 MSK; signup form"
+  },
+  {
+   "id": 474,
+   "kind": "announcement",
+   "gist": "Warning about scammers messaging about the training; author writes only from her official Telegram account"
+  },
+  {
+   "id": 476,
+   "kind": "announcement",
+   "gist": "Poll: do you like funny videos in stories? Continue?"
+  },
+  {
+   "id": 477,
+   "kind": "promo",
+   "gist": "Forwarded interview with the author on childhood roots of adult problems and parenting (youtube/VK links)"
+  },
+  {
+   "id": 478,
+   "kind": "personal-update",
+   "gist": "Joking reply to poll results about the 47 who dislike funny videos"
+  },
+  {
+   "id": 479,
+   "kind": "personal-update",
+   "gist": "Thanks for feedback on video format; will post funny videos occasionally; sensory profile series to continue"
+  },
+  {
+   "id": 481,
+   "kind": "personal-update",
+   "gist": "Meme video about a drained social battery"
+  },
+  {
+   "id": 485,
+   "kind": "personal-update",
+   "gist": "Short audio/video on how to use self-exploration of sensitivity"
+  },
+  {
+   "id": 486,
+   "kind": "promo",
+   "gist": "Forwarded from Praktik: film selection about ASD (intro)"
+  },
+  {
+   "id": 488,
+   "kind": "promo",
+   "gist": "Forwarded Praktik card: Rain Man (1988) description"
+  },
+  {
+   "id": 495,
+   "kind": "personal-update",
+   "gist": "Joke about a hectic work week running two businesses, therapy, students and writing a book"
+  },
+  {
+   "id": 496,
+   "kind": "announcement",
+   "gist": "Forwarded video from construction site of the new behavioural therapy clinic 'Справиться Проще' (237 sq m, Baumanskaya)"
+  },
+  {
+   "id": 497,
+   "kind": "logistics",
+   "gist": "Forwarded: ADHD skills training (adapted Safren 8-week protocol) starts 20 March 2025, Thursdays 18-20 MSK; signup form"
+  },
+  {
+   "id": 500,
+   "kind": "announcement",
+   "gist": "Enrollment for course on working with adult neurodivergence (ASD/ADHD diagnosis, therapy protocols, pharmacotherapy) led by Novikova and Afanasyeva"
+  },
+  {
+   "id": 504,
+   "kind": "promo",
+   "gist": "Ad-integrated personal post: coping with winter via aquapark and Fitmost subscription with promo code"
+  },
+  {
+   "id": 506,
+   "kind": "announcement",
+   "gist": "Forwarded launch announcement of Neurodive project for specialists (courses, supervision for ASD/ADHD) by Afanasyeva and Novikova"
+  },
+  {
+   "id": 508,
+   "kind": "personal-update",
+   "gist": "Personal anecdote about childhood dance delay and sitting down on the floor"
+  },
+  {
+   "id": 509,
+   "kind": "promo",
+   "gist": "Promo for Rekreatsiya Art Weekend 14-16 Feb for people who struggle with playfulness and rest"
+  },
+  {
+   "id": 510,
+   "kind": "announcement",
+   "gist": "Author has flu; no replies this week, assistant will message about meetings"
+  },
+  {
+   "id": 511,
+   "kind": "personal-update",
+   "gist": "Valentine meme card: Skinner - reinforcing stimulus in operant conditioning"
+  },
+  {
+   "id": 515,
+   "kind": "personal-update",
+   "gist": "Valentine meme card: Vygotsky - zone of proximal development"
+  },
+  {
+   "id": 516,
+   "kind": "personal-update",
+   "gist": "Discussion prompt on AI in psychotherapy, with examples of ChatGPT spotting an abusive relationship and a chronic infection"
+  },
+  {
+   "id": 518,
+   "kind": "other",
+   "gist": "Credit to the author of a drawing (Instagram link)"
+  },
+  {
+   "id": 520,
+   "kind": "personal-update",
+   "gist": "Overwhelmed and perfectionist, leaving for Sochi for 2 weeks to write the book"
+  },
+  {
+   "id": 521,
+   "kind": "personal-update",
+   "gist": "Discussion prompt on packing: with self-knowledge she takes more comfort items but hates carrying baggage"
+  },
+  {
+   "id": 522,
+   "kind": "personal-update",
+   "gist": "Summary of replies: lists and radical acceptance for packing"
+  },
+  {
+   "id": 523,
+   "kind": "personal-update",
+   "gist": "Update from Sochi: snow, worked on backlog instead of the book"
+  },
+  {
+   "id": 524,
+   "kind": "announcement",
+   "gist": "Announcement of a DBT group for bipolar disorder at the center, led by Novikova and Fedorova"
+  },
+  {
+   "id": 529,
+   "kind": "personal-update",
+   "gist": "Daily update from Sochi: snowy palms, 1072 words written, 20,000 steps"
+  },
+  {
+   "id": 535,
+   "kind": "other",
+   "gist": "Photos of mountains and sea"
+  },
+  {
+   "id": 540,
+   "kind": "announcement",
+   "gist": "Opens Q&A: send questions via bot for tomorrow's answers"
+  },
+  {
+   "id": 548,
+   "kind": "personal-update",
+   "gist": "Trip summary: 1/8 of book written, migraine, mixed feelings, gratitude"
+  },
+  {
+   "id": 554,
+   "kind": "announcement",
+   "gist": "Share of a call for respondents for a neurodivergent-support service"
+  },
+  {
+   "id": 558,
+   "kind": "announcement",
+   "gist": "Enrollment for 4th ADHD adult skills training group (Solanto protocol, executive dysfunction): 8 Zoom sessions from 29 March, 4000 RUB per session."
+  },
+  {
+   "id": 566,
+   "kind": "announcement",
+   "gist": "Reminder that places remain in the executive dysfunction skills training starting in a week; links to conditions post."
+  },
+  {
+   "id": 569,
+   "kind": "personal-update",
+   "gist": "Humorous personal list of ADHD slip-ups over two days (wrong flight ticket, unsaved report, missed consultation and conference)."
+  },
+  {
+   "id": 571,
+   "kind": "announcement",
+   "gist": "Author will speak at ACBT conference in April on a neurodiversity round table; Maria Novikova gives a master class on a modular ADHD protocol."
+  },
+  {
+   "id": 572,
+   "kind": "announcement",
+   "gist": "Announcement of All-Russian ACBT (CBT) conference, 17-19 April, St. Petersburg, interactive format, international speakers."
+  },
+  {
+   "id": 573,
+   "kind": "personal-update",
+   "gist": "Follow-up joke: now the author cannot find her dogs' passports."
+  },
+  {
+   "id": 574,
+   "kind": "other",
+   "gist": "Meme: two wolves inside you, ADHD and autism, neither can make themselves take a shower."
+  },
+  {
+   "id": 576,
+   "kind": "personal-update",
+   "gist": "World Autism Awareness Day post: autism is under-diagnosed despite overdiagnosis claims, admiration for support-level 1 people's daily coping without minimizing levels 2-3."
+  },
+  {
+   "id": 577,
+   "kind": "announcement",
+   "gist": "Pointer to earlier post on autism support levels; author strolling in Paris."
+  },
+  {
+   "id": 579,
+   "kind": "other",
+   "gist": "Paris photos, part 1."
+  },
+  {
+   "id": 583,
+   "kind": "other",
+   "gist": "Photo post from Paris without text."
+  },
+  {
+   "id": 588,
+   "kind": "other",
+   "gist": "Paris photos, part 2."
+  },
+  {
+   "id": 597,
+   "kind": "announcement",
+   "gist": "Author invites questions via a bot and will answer a few older ones."
+  },
+  {
+   "id": 601,
+   "kind": "logistics",
+   "gist": "Author's list of trusted clinics in Moscow and St. Petersburg she uses and refers to."
+  },
+  {
+   "id": 608,
+   "kind": "other",
+   "gist": "Forwarded from Добродвач: meme on Eisenhower matrix in theory vs practice."
+  },
+  {
+   "id": 611,
+   "kind": "promo",
+   "gist": "Link to an article on workaholism (takiedela) with author's comment; many ADHD people are workaholics."
+  },
+  {
+   "id": 616,
+   "kind": "personal-update",
+   "gist": "Asks why her exposure post got dislikes and invites discussion."
+  },
+  {
+   "id": 620,
+   "kind": "announcement",
+   "gist": "Forwarded NeuroDive announcement: 3 webinars on headaches, sleep disorders and chronic pain in neurodivergent people, first on 28 April, 5000 RUB."
+  },
+  {
+   "id": 621,
+   "kind": "personal-update",
+   "gist": "Venting question to neurotypicals about whether 2 hours of small talk with a work acquaintance is not exhausting."
+  },
+  {
+   "id": 627,
+   "kind": "personal-update",
+   "gist": "Author visited the premises of her future clinic under construction."
+  },
+  {
+   "id": 628,
+   "kind": "personal-update",
+   "gist": "Author's challenge of not working for several days and practicing doing nothing; spring blossom photos."
+  },
+  {
+   "id": 634,
+   "kind": "other",
+   "gist": "Photo of Paris walks."
+  },
+  {
+   "id": 635,
+   "kind": "personal-update",
+   "gist": "Progress report: writing her book at a library, betting on finishing by mid-June."
+  },
+  {
+   "id": 638,
+   "kind": "announcement",
+   "gist": "Asks readers what they want to learn from her book chapter on ASD+ADHD (not what to do about it)."
+  },
+  {
+   "id": 639,
+   "kind": "logistics",
+   "gist": "Rules for contacting the author as a specialist: use work account, replies in working hours, no medication advice outside in-person appointments."
+  },
+  {
+   "id": 641,
+   "kind": "personal-update",
+   "gist": "Author realized two sleepy unproductive days coincided with cold home and poor eating; lesson: eat and bundle up when body signals are poorly noticed."
+  },
+  {
+   "id": 643,
+   "kind": "promo",
+   "gist": "Link to article with author's comments on paranoid personality traits."
+  },
+  {
+   "id": 644,
+   "kind": "personal-update",
+   "gist": "Author shares a low-mood/crisis period: missing psychotherapy work, doubts about blog topics, uncertain about self-disclosure."
+  },
+  {
+   "id": 648,
+   "kind": "personal-update",
+   "gist": "Asks who wants to go to graduate school; notes worsening burnout and reduced activity this week."
+  },
+  {
+   "id": 651,
+   "kind": "other",
+   "gist": "Meme: hamster as motivator, name it after a goal and if it dies first you lose."
+  },
+  {
+   "id": 652,
+   "kind": "personal-update",
+   "gist": "Author notes stigma toward antidepressants from somatic doctors and pharmacists after a surgeon's sceptical reaction."
+  },
+  {
+   "id": 664,
+   "kind": "promo",
+   "gist": "Tactile textures and weighted items as grounding and stimming in overload; sponsored Beauty Sleep promo with promo codes and discounts."
+  },
+  {
+   "id": 665,
+   "kind": "personal-update",
+   "gist": "Author gave a lecture in Tula on neurodivergence via literary and film characters; asks readers which heroes they'd pick."
+  },
+  {
+   "id": 667,
+   "kind": "other",
+   "gist": "Shares a video of a woman explaining that people with ASD may not realize they take things literally, since literalness is taken literally."
+  },
+  {
+   "id": 670,
+   "kind": "promo",
+   "gist": "Promo for recorded psydocmed seminar on ASD for professionals, available until 25 June, 90-day access, certificate."
+  },
+  {
+   "id": 671,
+   "kind": "personal-update",
+   "gist": "Asks readers which character or animal they associate with ADHD problems."
+  },
+  {
+   "id": 674,
+   "kind": "announcement",
+   "gist": "Announcement of NeuroDive basic course on diagnosis and therapy of neurodevelopmental disorders: 6 sessions from 9 July, 30000 RUB"
+  },
+  {
+   "id": 676,
+   "kind": "logistics",
+   "gist": "Offers a 13 kg weighted blanket for a small price"
+  },
+  {
+   "id": 678,
+   "kind": "logistics",
+   "gist": "Blanket already taken; promises book giveaway to the rest"
+  },
+  {
+   "id": 679,
+   "kind": "promo",
+   "gist": "Forward from podcast 'Мир наоборот': episode with Anastasia Afanasyeva about her path into psychiatry and discovering she is neurodivergent"
+  },
+  {
+   "id": 680,
+   "kind": "personal-update",
+   "gist": "Author in a hard period asks readers to share recent wins and why they like the blog; 3 books to be sent to best comments"
+  },
+  {
+   "id": 682,
+   "kind": "personal-update",
+   "gist": "Recommends a quiet day trip to Zaraysk near Moscow: park, river boats, hills"
+  },
+  {
+   "id": 690,
+   "kind": "promo",
+   "gist": "Ad for Sinhronizatsiya subscription (Eastern religions course, promo code ДУМАЮ, 35% off) framed by wu wei and Confucian structure reflection"
+  },
+  {
+   "id": 691,
+   "kind": "announcement",
+   "gist": "Invites questions via anonymous question bot"
+  },
+  {
+   "id": 693,
+   "kind": "logistics",
+   "gist": "Update that book gifts to 3 subscribers will be sent after her return next week"
+  },
+  {
+   "id": 703,
+   "kind": "announcement",
+   "gist": "Invites readers to share their special interests; author's are books and biology/anthropology"
+  },
+  {
+   "id": 705,
+   "kind": "promo",
+   "gist": "Reminder that Sinhronizatsiya 35% discount with promo code ДУМАЮ ends today (11700 vs 18000 RUB)"
+  },
+  {
+   "id": 708,
+   "kind": "personal-update",
+   "gist": "Dancing in the forest to celebrate 12-year family anniversary"
+  },
+  {
+   "id": 710,
+   "kind": "other",
+   "gist": "Meme image on 'you don't look autistic' follow-up to the myths discussion"
+  },
+  {
+   "id": 719,
+   "kind": "promo",
+   "gist": "Link to a conversation with Galina about why and how to see a doctor for ADHD and why training is recommended"
+  },
+  {
+   "id": 720,
+   "kind": "announcement",
+   "gist": "Invites conference attendees to leave unanswered questions in the question bot"
+  },
+  {
+   "id": 721,
+   "kind": "personal-update",
+   "gist": "Author is on a week's vacation, replies after the 22nd"
+  },
+  {
+   "id": 723,
+   "kind": "personal-update",
+   "gist": "Back from vacation: reflections on Buddhism's influence on evidence-based psychotherapy and mindfulness, and on separating special interest from hyperfixation; asks readers about meditation"
+  },
+  {
+   "id": 724,
+   "kind": "announcement",
+   "gist": "Forward from NeuroDive: advanced neurodivergence course for specialists, 6 modules plus supervision, starts 1 October"
+  },
+  {
+   "id": 725,
+   "kind": "personal-update",
+   "gist": "Back to work on September 1, returning to book writing (masking section done)"
+  },
+  {
+   "id": 727,
+   "kind": "personal-update",
+   "gist": "Short note promising return and introducing driving-and-ASD discussion"
+  },
+  {
+   "id": 729,
+   "kind": "announcement",
+   "gist": "News: left the SP project, returns to Chaika Metropolis for appointments from October, book in progress, focus on Neurodive, assistant change"
+  },
+  {
+   "id": 731,
+   "kind": "other",
+   "gist": "Opens discussion on whether psychoeducation and self-identification with ADHD/ASD/BPD/cPTSD harms people; asks readers' opinions"
+  },
+  {
+   "id": 732,
+   "kind": "announcement",
+   "gist": "Forward from NeuroDive: updated advanced course for psychologists and psychiatrists, 6 sessions plus supervision, starts 1 October, recordings kept 2 months"
+  },
+  {
+   "id": 734,
+   "kind": "personal-update",
+   "gist": "Posting from a week in China with travel photos"
+  },
+  {
+   "id": 744,
+   "kind": "other",
+   "gist": "Video offered as a mindfulness and slowing-down exercise"
+  },
+  {
+   "id": 745,
+   "kind": "announcement",
+   "gist": "Forward from NeuroDive: enrollment for first Russian ADHD skills training on Young-Bramham protocol, 12 Saturday sessions from 11 October, 4000 RUB each"
+  },
+  {
+   "id": 747,
+   "kind": "announcement",
+   "gist": "Explains what Neurodive is: project with Maria Novikova growing from a specialist course, expanding to services for neurodivergent people; site and channel links"
+  },
+  {
+   "id": 748,
+   "kind": "announcement",
+   "gist": "Reminder that questions can be asked via the question bot"
+  },
+  {
+   "id": 750,
+   "kind": "personal-update",
+   "gist": "Travel note: Chinese cinnabar (mercury sulfide) jewelry sold everywhere, believed to ward off evil spirits though toxic"
+  },
+  {
+   "id": 754,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 766,
+   "kind": "personal-update",
+   "gist": "Author says she is writing less while adapting to a new schedule; photo of her dog Sato at her psychiatry appointment at the clinic"
+  },
+  {
+   "id": 768,
+   "kind": "announcement",
+   "gist": "Announces Mental Health Film Festival; she will lead a depression film discussion in Moscow on 11 Oct, 19:30"
+  },
+  {
+   "id": 771,
+   "kind": "announcement",
+   "gist": "Shares her podcast with psychiatrist Dzhamal Kakadzhikova on neurodivergence, incl. stigma among psychiatrists and therapists; YouTube link"
+  },
+  {
+   "id": 778,
+   "kind": "other",
+   "gist": "Photo only, no text (start of a travel photo album)"
+  },
+  {
+   "id": 784,
+   "kind": "announcement",
+   "gist": "Asks past course takers and non-buyers to fill in feedback forms for NeuroDive neurodivergence courses"
+  },
+  {
+   "id": 789,
+   "kind": "announcement",
+   "gist": "Shares link to her Psychodemia YouTube episode on burnout and ADHD"
+  },
+  {
+   "id": 791,
+   "kind": "announcement",
+   "gist": "Invites to an open discussion with Maria Novikova on distinguishing personality disorders from ADHD"
+  },
+  {
+   "id": 792,
+   "kind": "logistics",
+   "gist": "Forwarded from Practica: free Zoom round table on 3 Dec on ADHD vs personality disorders (BPD), speakers and agenda"
+  },
+  {
+   "id": 794,
+   "kind": "promo",
+   "gist": "Recommends a structured CBT-based course as a base for starting practice after psychotherapy education"
+  },
+  {
+   "id": 796,
+   "kind": "logistics",
+   "gist": "Forwarded reminder from Practica: round table with Neurodive on ADHD and BPD tomorrow, 3 Dec 16:00 MSK, Zoom, registration link"
+  },
+  {
+   "id": 797,
+   "kind": "personal-update",
+   "gist": "Update: went away with husband on his vacation to finish writing her book, now on the chapter about life difficulties"
+  },
+  {
+   "id": 800,
+   "kind": "logistics",
+   "gist": "Forwarded from NeuroDive: paid webinar 15 Dec on adapting job search (resume, interviews, energy) for autistic/ADHD people, 500 RUB"
+  },
+  {
+   "id": 802,
+   "kind": "personal-update",
+   "gist": "Says she is back in work rhythm after flight-triggered sinusitis and will now answer subscribers' questions"
+  },
+  {
+   "id": 804,
+   "kind": "other",
+   "gist": "Q&A: in-person ADHD skills group in Moscow unlikely now because participants are scattered across cities; she once ran the only one"
+  },
+  {
+   "id": 806,
+   "kind": "promo",
+   "gist": "Sound overload is common in autism/ADHD; advises tailored headphones/earplugs and endorses Loop earplugs, with a store promo code"
+  },
+  {
+   "id": 809,
+   "kind": "promo",
+   "gist": "Forwarded from NeuroDive: enrollment for 6-session basic neurodivergence course for professionals, starts 28 Jan, programme and outcomes"
+  },
+  {
+   "id": 810,
+   "kind": "personal-update",
+   "gist": "Birthday and year-end greeting: a hard 33rd year, wishes for cozy calm joy without striving"
+  },
+  {
+   "id": 816,
+   "kind": "other",
+   "gist": "Work-day meme about a formless sleepy thing wondering why it has tasks"
+  },
+  {
+   "id": 818,
+   "kind": "promo",
+   "gist": "Forwarded from NeuroDive: reminder that basic course starts 28 Jan, programme cards, enroll via site or DM for discount"
+  },
+  {
+   "id": 821,
+   "kind": "promo",
+   "gist": "Forwarded NeuroDive course card: sessions 5-6 on general therapy principles, ADHD/ASD treatment protocols, pharmacology and case practice"
+  },
+  {
+   "id": 824,
+   "kind": "personal-update",
+   "gist": "After a clinic appointment asks whether subscribers want to hear what happens in a psychiatrist's office"
+  },
+  {
+   "id": 825,
+   "kind": "announcement",
+   "gist": "Milestone: after a year of writing she has handed the book manuscript to the editor"
+  },
+  {
+   "id": 831,
+   "kind": "other",
+   "gist": "Photo only, no text"
+  },
+  {
+   "id": 835,
+   "kind": "announcement",
+   "gist": "Shares Forbes article on autism in adult women with her comments"
+  },
+  {
+   "id": 836,
+   "kind": "personal-update",
+   "gist": "Shares a funny video illustrating literal thinking in autism, recalls being such a child"
+  },
+  {
+   "id": 837,
+   "kind": "logistics",
+   "gist": "Forwarded from NeuroDive: enrollment for second ADHD Young-Bramham skills group, 12 Saturday sessions from 14 Feb, 4000 RUB each, modules described"
+  },
+  {
+   "id": 841,
+   "kind": "announcement",
+   "gist": "Invites subscribers to send questions via a form for a Q&A session"
+  },
+  {
+   "id": 845,
+   "kind": "logistics",
+   "gist": "Q&A: points to an earlier post and Neurodive graduates' contacts for finding clinical psychologists specializing in ADHD/ASD"
+  },
+  {
+   "id": 847,
+   "kind": "personal-update",
+   "gist": "Attended State Duma working group on the psychological-help law; shares Kommersant article and photos"
+  },
+  {
+   "id": 855,
+   "kind": "announcement",
+   "gist": "Pointer to a YouTube/VK/Rutube episode on ADHD and relationships, sex difficulties"
+  },
+  {
+   "id": 858,
+   "kind": "personal-update",
+   "gist": "International Women's Day greeting; author is ill and will return with answers"
+  },
+  {
+   "id": 859,
+   "kind": "promo",
+   "gist": "Forwarded NeuroDive ad: advanced 6-session course for psychologists/psychiatrists on adult ASD/ADHD, starts 25 March"
+  },
+  {
+   "id": 860,
+   "kind": "personal-update",
+   "gist": "Author asks readers how Telegram is working and whether to move platforms"
+  },
+  {
+   "id": 863,
+   "kind": "announcement",
+   "gist": "Asks readers whether the revised ASD self-help training needs a lesson on contact and interaction rules"
+  },
+  {
+   "id": 864,
+   "kind": "announcement",
+   "gist": "Poll: is a separate lesson on interaction rules needed (380 votes)"
+  },
+  {
+   "id": 865,
+   "kind": "personal-update",
+   "gist": "Forced digital detox in Krasnodar due to no connectivity and a broken phone; apology for slow replies"
+  },
+  {
+   "id": 868,
+   "kind": "announcement",
+   "gist": "Author asks readers what topics they want her to cover, incl. how a psychiatrist appointment should go"
+  },
+  {
+   "id": 871,
+   "kind": "logistics",
+   "gist": "Call for adult ASD participants in a SPbU study adapting a German method on social cognition; Google form"
+  },
+  {
+   "id": 872,
+   "kind": "other",
+   "gist": "Photo of a dog after a hard working day, no text"
+  },
+  {
+   "id": 873,
+   "kind": "personal-update",
+   "gist": "Anecdote: sleep doctor told husband adult ADHD 'transforms into something else'; husband forgot the sleep device"
+  },
+  {
+   "id": 874,
+   "kind": "announcement",
+   "gist": "Links to a live ADHD discussion at the PSY festival (VK)"
+  },
+  {
+   "id": 875,
+   "kind": "promo",
+   "gist": "Sponsored post: sensory pauses of 15-20 min with a heated eye mask and noise reduction against stress headaches; magnesium and B vitamins suggested by doctors; promo code"
+  },
+  {
+   "id": 876,
+   "kind": "personal-update",
+   "gist": "Author explains absence: Telegram/VPN problems so channel will be duplicated in VK, and she stopped taking new patients ahead of maternity leave"
+  },
+  {
+   "id": 877,
+   "kind": "announcement",
+   "gist": "Enrollment for group ADHD skills training based on Young-Bramham CBT protocol: 12 Zoom sessions, starts 18 July, 4000 RUB per session"
+  },
+  {
+   "id": 880,
+   "kind": "promo",
+   "gist": "Forwarded No Stigma recommendation of a lecture on the hidden cost of social success for autistic adults, esp. women"
+  },
+  {
+   "id": 881,
+   "kind": "promo",
+   "gist": "Forwarded NeuroDive ad: base course on neurodivergent adults, 6x3h sessions from 2 September, 30,000 RUB"
+  },
+  {
+   "id": 882,
+   "kind": "announcement",
+   "gist": "Forwarded NeuroDive notice: open stream at 19:00 MSK on why ASD/ADHD get missed in adults"
+  },
+  {
+   "id": 883,
+   "kind": "personal-update",
+   "gist": "Author returns on 1 September after pregnancy-related break and asks what neurodivergence-and-children topics readers want"
+  },
+  {
+   "id": 884,
+   "kind": "promo",
+   "gist": "Promo for free PSI Summit 5.0 online conference for psychologists, 9-11 September; author speaks on emotional dysregulation in neurodivergence"
+  },
+  {
+   "id": 885,
+   "kind": "logistics",
+   "gist": "Reminder: author's talk on emotional dysregulation in neurodivergence starts in 30 minutes at PSI Summit"
+  }
+ ]
+}

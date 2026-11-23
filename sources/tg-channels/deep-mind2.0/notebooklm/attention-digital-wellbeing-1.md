@@ -1,4 +1,4 @@
-# Attention & Digital Wellbeing (part 1 of 2) — deep mind 2.0
+# Attention & Digital Wellbeing (part 1 of 3) — deep mind 2.0
 
 Full knowledge extracted from the Telegram channel “deep mind 2.0” on the domain “Attention & Digital Wellbeing”. Everything below comes only from the channel's own posts; opinions are attributed to their authors. Tags like [#123] are source message numbers. Original-language quotes are followed by an English translation in parentheses.
 

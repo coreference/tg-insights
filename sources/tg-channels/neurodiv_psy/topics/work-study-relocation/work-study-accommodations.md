@@ -3,9 +3,9 @@ kb: neurodiv-psy
 domain: Work, study and relocation
 topic: Neurodivergent people at work and university: job fit and accommodations
 slug: work-study-accommodations
-messages: 18
-date_range: 2023-12-08..2026-09-06
-summary: What the channel taught about autistic and ADHD people in higher education and employment — the statistics on graduation and unemployment, the specific difficulties at university and at work, five job areas that suit neurodivergent people and six principles for choosing work, a pyramid of autistic women's workplace needs, values/special interests as motivation, and a full toolkit of accommodations that work without disclosing a diagnosis.
+messages: 19
+date_range: 2023-10-27..2026-09-06
+summary: What the channel taught about autistic and ADHD people in higher education and employment — the statistics on graduation and unemployment, the specific difficulties at university and at work, five job areas that suit neurodivergent people and six principles for choosing work, a pyramid of autistic women's workplace needs, values/special interests as motivation, and a full toolkit of accommodations that work without disclosing a diagnosis. A research-based longread by Лиза Носова (forwarded from the channel «Нейросеть») on autistic people's employment — international employment statistics, why autistic people fail interviews, the two directions of help (working with the person vs working with the environment) at the hiring stage and on the job, good and bad examples of interview-preparation materials, the reasonable adjustments for interviews, workplace accommodations and what the research says about their effect, plus a caveated list of Russian organisations offering supported employment.
 answers:
   - What difficulties do autistic students face at university and what can they do about them?
   - How many autistic students graduate compared with other students?
@@ -17,6 +17,15 @@ answers:
   - How can I get workplace accommodations without disclosing my diagnosis in a post-Soviet country?
   - What tools help with noise, light, stimming, emotion regulation and task planning at work?
   - How can I turn a vague task from my manager into something concrete?
+  - What share of autistic people are employed in the UK, the EU and Australia?
+  - Why do autistic people get rated worse at job interviews?
+  - Is it better to train the autistic person or to change the workplace?
+  - What reasonable adjustments can an autistic candidate ask for at a job interview?
+  - What makes interview-preparation advice for autistic people good or harmful?
+  - Does telling HR that a candidate is autistic help or hurt?
+  - What workplace accommodations for autistic employees exist and which work best?
+  - Which kinds of workplace training for autistic people are considered harmful?
+  - Which organisations in Russia help autistic people find paid work?
 frameworks:
   - Autism and higher education - difficulties and self-help accommodations
   - Five job areas reported as fitting ADHD/ASD
@@ -25,12 +34,19 @@ frameworks:
   - Causes of unemployment and job loss in autistic and ADHD adults
   - Accommodations without disclosure - four-area toolkit
   - Making a vague task concrete
+  - Two directions of help - working with the person vs working with the environment
+  - Reasonable adjustments for a job interview (NAS course, 8 items)
+  - Criteria for judging interview-preparation advice (NAS vs Autism Speaks)
+  - Workplace support - person-and-environment support vs three environment-level changes
 themes:
   - employment
   - higher-education
   - accommodations
   - burnout
   - special-interests
+  - masking
+  - hiring
+  - autism
 terms:
   - аккомодации | accommodations: adjustments of the environment, schedule or process to a person's needs | #200, #406, #413
   - онбординг | onboarding: structured help in adapting to a new workplace | #373, #406
@@ -43,8 +59,15 @@ terms:
   - бинго-чарт | bingo chart: checklist of ADHD/ASD-friendly job traits to tick off when job hunting | #306
   - фотохромные очки | photochromic glasses: lenses that change tint with the light level | #413
   - устройства дополняющей и альтернативной коммуникации | augmentative and alternative communication (AAC) devices | #413
+  - аккомодации (специальные условия) | accommodations / reasonable adjustments: special conditions a person can request, e.g. for an interview | #193
+  - low arousal environment | sensory-friendly environment with a minimum of stimuli (quiet room, dimmed light, no background music/TV/radio, headphones allowed) | #193
+  - тьюторство | tutoring/mentoring at work where the tutor does not directly control the employee but can be approached for help | #193
+  - супервизия | supervision: additional oversight and guidance on work questions and workplace behaviour, especially at the start | #193
+  - сопровождаемое трудоустройство | supported employment: programmes that help (often intellectually disabled) autistic people get and keep jobs | #193
+  - маскировка | masking: imitating neurotypical behaviour; the author says it harms mental health | #193
+  - стимминг | stimming: self-stimulatory repetitive behaviour; programmes aimed at reducing it at work are criticised | #193
 people:
-  - Channel author ((нейро)разнообразная психология) | autistic psychologist; wrote the autism and higher education cards, the employment research post and the accommodations post | #200, #406, #413
+  - Юля Ан (channel author, (нейро)разнообразная психология) | autistic psychologist; author of the Telegraph longread on autism and higher education; wrote the autism and higher education cards, the employment research post and the accommodations post | #200, #406, #413
   - Author of the channel *как помыть посуду* (adhd_in_russia) | surveyed readers on their jobs and compiled the job areas and six principles | #306
   - Author of the channel *Об аутичных женщинах, по которым не скажешь* (autisticResearch) | ran the study on autistic women's workplace needs and built the needs pyramid | #371
   - Татьянида | autistic stand-up comedian, channel НЕЙРОТРОЕЧНИЦА!; interviewed on how stand-up fits her special interests and values | #371, #376, #377
@@ -52,6 +75,11 @@ people:
   - Petcu, Zhang & Li (2021) | cited study on graduation rates of autistic students | #201
   - Jackson et al. (2018) | cited study: 48% of autistic students satisfied with academic success | #204
   - Hillier et al. (2018); Connor (2013); Gurbuz et al. (2019) | cited sources on lack of autism knowledge, bullying and academic difficulties | #203, #204
+  - Лиза Носова | author of the longread «Аутичные люди и работа» for the channel «Нейросеть» (2023), forwarded by this channel | #193
+  - Полина Деревянко | author of a Russian-language article (Нож, 2021) recommended as a detailed guide to inclusive interviewing and work processes | #193
+  - National Autistic Society (NAS) | UK organisation; its free online employment course is given as a decent example; also runs workplace autism training | #193
+  - Autism Speaks | organisation whose interview-preparation article is given as a bad example | #193
+  - Обнаженные сердца | Moscow foundation; wrote an article on supported employment in Russia and is listed as a helping organisation | #193
 ---
 # Neurodivergent people at work and university: job fit and accommodations
 
@@ -59,39 +87,50 @@ people:
 
 This topic gathers everything the channel taught about autistic and ADHD people in two settings: higher education and employment. It covers the research picture (lower graduation rates, very high unemployment), the concrete difficulties people meet (adaptation, social life, sensory overload, onboarding, hiring interviews), which kinds of work tend to fit, a needs pyramid derived from a study of autistic women at work, the role of values and special interests in motivation, and a practical toolkit of accommodations that a person can arrange without disclosing a diagnosis. According to the source, the core problem is not neurodivergence itself but a mismatch between the person and the environment — and that mismatch can be reduced [msg #200, #306, #371, #406, #413].
 
+This part covers one forwarded post (#193) from the channel «Нейросеть» («о нейроотличности»): Лиза Носова's longread «Аутичные люди и работа» (*Autistic people and work*), with illustrations by Сашик, saved in full as a Telegraph article. It reviews research on autistic people's employment — statistics from several countries, why the job interview is the hardest stage, the difference between helping by changing the person and helping by changing the environment, which interview adjustments are reasonable, which workplace supports exist and how well they are studied — and ends with a caveated list of Russian organisations that help autistic people find paid work. According to the author, employment improves the lives of disabled people (independence for them and their families, economic contribution, higher quality of life), yet autistic people are rarely employed, so it matters what kind of help actually works [article #193].
+
+**Relation to the existing topic file:** the existing file (from the channel author's later posts #406 and #413) already says the hiring process tests social conformity rather than job skills, lists onboarding/sensory/stigma causes of job loss and gives a self-arranged accommodation toolkit for post-Soviet conditions. This longread **extends** it with the research evidence behind the interview problem, the person-vs-environment framing, the employer-side interview adjustments, workplace accommodations at the organisational level, the critique of masking-oriented training, and Russian supported-employment organisations. It **contradicts in numbers** one figure: #406 cites 22% of autistic people officially employed in the UK, while this article cites 29% for 2021 (see *Caveats*) [article #193].
+
 ## Core ideas
 
 - **Neurodivergence does not by itself prevent work — mismatch does.** Research cited by the channel author says most autistic adults with low support needs and most adults with ADHD adapt well and perform in very diverse career areas when they choose suitable work; what hinders them is the mismatch between environment and person, and accommodations measurably raise productivity and job satisfaction [msg #406].
 - **The labour market does not reflect this.** Unemployment among autistic adults is 50–80% and ADHD adults are 2–3 times more likely to be jobless; the hiring process itself tests social conformity rather than job skills (see *Causes of unemployment and job loss*) [msg #406].
-- **At university, studying is the easier part; adaptation and social life are the hard parts.** Autistic students graduate far less often (39% vs 59%), yet 48% are satisfied with their academic success; the main difficulties are adaptation and social life (see *Autism and higher education*) [msg #201, #202, #203, #204].
+- **At university, studying is the easier part; adaptation and social life are the hard parts.** Autistic students graduate far less often (39% vs 59%), yet 48% are satisfied with their academic success; the main difficulties are adaptation (including a higher risk of abuse in dormitories) and social life (see *Autism and higher education*) [msg #201, #202, #203, #204, article #200].
 - **The main task at work is not to burn out.** In the autistic women's study, avoiding (primarily neurodivergent) burnout is the base on which everything else rests; sensory fit and fit to the cognitive profile are must-haves [msg #371].
 - **Connection of work to personal interests and values is a "should", not a "nice to have".** Long-term endurance on willpower alone does not work for autistic people and is "a guaranteed path" to burnout and depression [msg #371].
 - **In post-Soviet realities, official accommodations are almost impossible to request; ask for adjustments as personal preferences, without naming a diagnosis**, and use self-arranged tools (see *Accommodations without disclosure*) [msg #413].
 - **Jobs reported as fitting share flexibility, autonomy, concreteness, impact, few people and variety** — readers' jobs almost never involved strict organisational requirements or routine, unchanging processes [msg #306].
 
+- **Autistic people are rarely employed, though they can work long and successfully.** When they leave a job it is because of social deficits, not because they cannot cope with the work duties [article #193].
+- **There are two directions of help, and each can help or harm:** work with the autistic person (e.g. teaching skills) or work with the environment (e.g. inclusion training for colleagues) [article #193].
+- **The interview is the hardest stage.** Autistic people are consistently rated worse than non-autistic people with otherwise equal qualifications, because interviews weigh social skills by neurotypical standards even when the job does not need them [article #193].
+- **Preparing the person alone is not enough and is unfair:** you cannot prepare for everything, and it puts a disproportionate load on autistic people, who must work much harder for the same result [article #193].
+- **Advice that pushes masking is harmful**, because masking damages mental health [article #193].
+- **Combinations of strategies work best**, especially in the long term; standard disability accommodations may not be enough for autism [article #193].
+
 ## Frameworks, models and step-by-step methods
 
 ### Autism and higher education - difficulties and self-help accommodations
-Purpose: a card series by the channel author, based on a conference talk about her own experience of getting a university degree as an autistic person, describing what autistic students struggle with and what to do about it. Title card: «АУТИЗМ И ВЫСШЕЕ ОБРАЗОВАНИЕ СЛОЖНОСТИ И АККОМОДАЦИИ» (*Autism and higher education: difficulties and accommodations*) [msg #200, img #200].
+Purpose: a card series by the channel author, based on a talk she gave at a conference about her own experience of getting a university degree as an autistic person, describing what difficulties autistic students face and what to do about them. Title card: «АУТИЗМ И ВЫСШЕЕ ОБРАЗОВАНИЕ СЛОЖНОСТИ И АККОМОДАЦИИ» (*Autism and higher education: difficulties and accommodations*). The same text was also published as a Telegraph longread «Аутизм и высшее образование» (*Autism and higher education*), which follows the same structure — background data, adaptation, social features, academic features, how to help yourself — with a few differences in wording noted below [msg #200, img #200, article #200].
 
-The author's own verdict: university was still better than school for her, even though she was dying of anxiety every exam session: «В моем опыте университет все еще был лучше, чем школа, хотя каждую сессию я умирала от тревоги» (*In my experience university was still better than school, although every exam session I was dying of anxiety*) [msg #200].
+The author's own verdict: university was still better than school for her, even though she was dying of anxiety every exam session: «В моем опыте университет все еще был лучше, чем школа, хотя каждую сессию я умирала от тревоги» (*In my experience university was still better than school, although every exam session I was dying of anxiety*). She asks readers what their own experience of studying was like [msg #200].
 
-**Background data** (card 2): compared with non-autistic peers, autistic school pupils prepare less for university admission and less often enter full four-year bachelor's programmes. During study they more often experience higher levels of loneliness, anxiety and depression. Graduation rates of autistic students are markedly lower (39%) than for peers in the general population (59%) or students with other types of disability (50%), per Petcu, Zhang & Li (2021) [img #201].
+**Background data.** Compared with non-autistic peers, autistic school pupils prepare less for university admission and less often enter full bachelor's programmes (the card specifies «полноценные четырехлетние бакалаврские программы» — *full four-year bachelor's programmes*; the article says just «полноценные бакалаврские программы» — *full bachelor's programmes*). During study they more often experience higher levels of loneliness, anxiety and depression. Graduation rates of autistic students are markedly lower (39%) than for peers in the general population (59%) or for students with disabilities (50%), per Petcu, Zhang & Li (2021). The comparison group for the 50% figure is worded differently: the card says students «с другими типами инвалидности» (*with other types of disability*), the article «со всеми типами инвалидности» (*with all types of disability*) [img #201, article #200].
 
-**Difficulty area 1 — Adaptation** (card 3). One of the main trials is the adjustment period, made up of five components [img #202]:
+**Difficulty area 1 — Adaptation.** The article calls this, «конечно» (*of course*), one of the main trials at university: the adjustment period, the transformation «из школьника в студента» (*from a school pupil into a student*). Its five components [img #202, article #200]:
 1. A new environment and new people.
 2. Different rules of studying than at school.
 3. Moving away from home and losing one's support system.
-4. Difficulties with household skills (cooking, cleaning).
-5. Dormitories and living together with strangers.
+4. Difficulties with household skills — the card gives cooking and cleaning as examples.
+5. Dormitories — the card adds living together with strangers; the article adds that «аутичные люди чаще сталкиваются с абьюзом в общежитиях» (*autistic people more often face abuse in dormitories*).
 
-**Difficulty area 2 — Social features** (card 4). Often this is the main area of difficulty [img #203]:
+**Difficulty area 2 — Social features.** «Зачастую это основная сфера сложностей» (*Often this is the main area of difficulty*). Its components [img #203, article #200]:
 1. Trouble making friends.
 2. High social anxiety and emotional dysregulation.
 3. Lack of knowledge about autism among the people around (Hillier et al., 2018).
 4. Bullying (Connor, 2013).
 
-**Difficulty area 3 — Academic features** (card 5). With studying itself things are much better: «С самой учебой все намного лучше» (*With studying itself everything is much better*). Recent research shows 48% of autistic students are satisfied with their academic success (Jackson et al., 2018). The difficulties that remain (Gurbuz et al., 2019) [img #204]:
+**Difficulty area 3 — Academic features.** With studying itself things are much better: «С самой учебой все намного лучше» (*With studying itself everything is much better*). Recent research shows 48% of autistic students are satisfied with their academic success (Jackson et al., 2018). The difficulties that remain (Gurbuz et al., 2019) [img #204, article #200]:
 1. Speed of information processing.
 2. Sensory overload during classes.
 3. Time management.
@@ -100,17 +139,17 @@ The author's own verdict: university was still better than school for her, even 
 6. Group work.
 7. Motivation.
 
-**How to help yourself** (cards 6–7) — ten self-help accommodations [img #205, #206]:
-1. Research as much information about the university as possible in advance and find the curriculum — this reduces the shock of the new environment and new rules.
-2. Find a psychologist, counsellor or coach who will support you, work on emotional regulation and help you, for example, compose a letter to a teacher.
-3. Ask teachers for the slides of their classes, or photograph them during class (compensates for processing speed).
-4. Ask classmates for their lecture notes — «возможно, за ответную помощь или шоколадку :)» (*perhaps in exchange for help or a chocolate bar :)*).
+**How to help yourself** («Как помочь себе?») — ten self-help accommodations, identical in the cards and the article [img #205, #206, article #200]:
+1. Research as much information about the university as possible in advance and find the curriculum («учебный план»).
+2. Find a psychologist, counsellor or coach who will support you, work with you on emotional regulation and help, for example, to compose a letter to a teacher.
+3. Ask teachers for the slides of their classes, or photograph them during class.
+4. Ask classmates for their lecture notes — «возможно, за ответную помощь или шоколадку :)» (*perhaps in exchange for help in return or a chocolate bar :)*).
 5. Bring fidget toys, headphones and similar items.
 6. Don't forget to take breaks, eat and drink.
-7. Don't be shy about leaving the class if you feel unwell.
+7. Don't be shy about leaving the class if you feel unwell («если стало плохо»).
 8. Try to negotiate written instead of oral examination in some subjects.
 9. Look for support groups inside or outside the university.
-10. Ask for help and advice about difficulties — this can be done in Telegram groups or on Reddit.
+10. Ask for help and advice about your difficulties — this can be done in Telegram groups or on Reddit.
 
 **New challenges** (card 8): the final card, titled «НОВЫЕ ЧЕЛЛЕНДЖИ...» (*New challenges...*), shows a news headline (NY Post) next to a ChatGPT screen: a Purdue University professor was accused of being an AI bot because her e-mail lacked "human warmth", and answered «Я просто аутичные» (OCR of the Russian rendering; *I'm just autistic*). The lesson implied by the card is that in the age of chatbots autistic people's direct, low-affect written style can be mistaken for AI text — a new kind of misunderstanding [img #207].
 
@@ -196,7 +235,7 @@ Context (channel author): for a neurodivergent person already on the labour mark
 2. Light: ideally the ability to control lighting; in reality, photochromic glasses (lenses that change colour depending on lighting).
 3. Breaks in quiet places to avoid overstimulation — scout in advance where you can escape to: outside, a storeroom, the toilet or another unpopulated place.
 4. Bring fidget toys for stimming; you can choose something as inconspicuous as possible.
-5. Tools for mood monitoring and emotional regulation: mood-tracking apps (Finch — the author: «оч люблю!» (*really love it!*) — How We Feel, Daylio and others) and mindfulness/relaxation apps (Headspace, MindShift and others).
+5. Tools for mood monitoring and emotional regulation: mood-tracking apps (Finch — the author: «оч люблю!» (*really love it!*) — How We Feel, Daylio; the source itself ends the list with «и др.») and mindfulness/relaxation apps (Headspace, MindShift; again «и др.» in the source).
 
 **Area 3 — Social adaptations** [msg #413]:
 1. Ideally, informing employers and colleagues about neurodivergence, support and emotional regulation. In reality, disclosure sometimes leads to dismissal — but you can talk about your traits without the diagnosis, e.g. «Знаешь, я не очень хорошо понимаю сарказм, не мог бы ты говорить более прямо, что тебе не нравится?» (*You know, I don't understand sarcasm very well, could you say more directly what you don't like?*).
@@ -215,6 +254,61 @@ Context (channel author): for a neurodivergent person already on the labour mark
 ### Making a vague task concrete
 When a manager gives a fuzzy instruction and you cannot ask them to clarify, break it into concrete actions yourself. The author's example (with a joke as the last step): «мне сказали быть организованнее, что я могу сделать? 1. завести трекер задач; 2. записать, что от меня ожидают в ближайшую неделю; 3. поплакать» (*I was told to be more organised, what can I do? 1. set up a task tracker; 2. write down what is expected of me in the coming week; 3. have a cry*) [msg #413].
 
+### Two directions of help - working with the person vs working with the environment
+Purpose: the author's lens for evaluating any solution to autistic people's problems, including employment. States and charities in various countries try to help autistic people find work, and solutions can go in two directions [article #193]:
+1. **«Чтобы сделать лучше, мы работаем с аутичным человеком»** (*To make things better, we work with the autistic person*) — for example, by giving them the necessary skills.
+2. **«Чтобы сделать лучше, мы работаем с окружающей средой»** (*To make things better, we work with the environment*) — for example, by running inclusion training for the person's colleagues.
+
+The author's verdict: «Оба этих направления могут быть по-своему полезны, и оба могут принести вред» (*Both directions can be useful in their own way, and both can do harm*). The rest of the article applies this lens first to hiring, then to support on the job [article #193].
+
+### Hiring stage, direction 1: preparing the person
+Getting a job is a multi-step process that can overload at different stages (for example, when responding to a vacancy), but the interview is usually the hardest. Preparation of the person takes two forms [article #193]:
+1. **Help with job search** — e.g. discussing different options given the candidate's needs, preferences and strengths.
+2. **Courses or trainings** on how to get a job, what will happen and how to behave at an interview.
+
+Why it helps: prepared people, autistic ones included, really can perform better. If a person knows what awaits them, how hiring works and what questions may be asked, they are less anxious and more likely to meet the employer's expectations. Why it is not enough on its own: first, you cannot insure against everything; second, and more important, «этот подход возлагает непомерную ответственность на аутичных людей» (*this approach places an exorbitant responsibility on autistic people*), who have to work much harder than non-autistic people for the same results [article #193].
+
+### Criteria for judging interview-preparation advice (NAS vs Autism Speaks)
+The author contrasts two concrete materials, which together give the criteria for telling good preparation advice from bad [article #193]:
+
+**"Not excellent, but not bad" example — the National Autistic Society free course on finding employment** (free, registration required, aimed at UK residents). It contains:
+- general rules of conduct (e.g. clean, ironed clothes);
+- the recommendation to ask for special conditions (accommodations) if you need them;
+- example answers to likely questions, which help you understand what the interviewer expects [article #193].
+
+A page from the course on clothing (translated in the post) advises [img #193]: think in advance about what you will wear; clothes should fit the role — more formal for an office, more casual for, say, an animal centre — though for interviews most people dress more smartly to make a good impression. The usual choice is a dark suit, shirt and tie; other options are a dress, or smart trousers and a shirt/jacket, preferably in muted/neutral colours. Also: have a smart bag for your things (do not bring a plastic bag); make sure your shoes are clean; make sure your clothes are washed and ironed.
+
+**"How not to do it" — the Autism Speaks article on preparing for an interview.** The author calls it bad for three reasons [article #193]:
+1. It places responsibility on autistic people where it could be placed on the employer.
+2. It over-controls candidates without separating more important factors (reading example questions in advance) from less important ones (sitting down only after the interviewer does).
+3. It puts heavy emphasis on autistic people masking as neurotypical — «и это плохо, потому что такая маскировка вредит психическому здоровью» (*and this is bad, because such masking harms mental health*).
+
+So the implied criteria: share responsibility with the employer, prioritise what matters, include asking for accommodations, and do not train masking [article #193].
+
+### Reasonable adjustments for a job interview (NAS course, 8 items)
+An interactive task from the NAS course: if you stated on your application that you are autistic, you can ask for reasonable adjustments; the learner is asked which of these are reasonable for an interview. The answer: «You might be surprised to know that actually all of the examples shown can be examples of reasonable adjustments» (*all the examples shown can be reasonable adjustments*). The eight adjustments [img #193]:
+1. Providing additional information before the interview: a map of the building, photos of the room, details of the tasks.
+2. Telling you if you are giving too much information.
+3. Sharing the interview questions in advance.
+4. Not assessing you negatively based on body language or eye contact.
+5. Asking specific questions and questions based on past experience instead of vague or hypothetical ones.
+6. Allowing you to bring a "translator" who can rephrase unclear questions or prompt for more information.
+7. Allowing extra time to answer.
+8. Providing work trials or portfolio-based interviews instead of face-to-face questions.
+
+### Hiring stage, direction 2: changing the environment
+Factors on the environment side [article #193]:
+1. **General autism awareness among HR staff.** When people have at least some idea of a candidate's possible traits, their readiness to hire an autistic person rises. In UK and Australian studies, telling HR that a candidate was autistic shifted interview ratings slightly in a positive direction — but these were experiments, not real hiring. Autistic people from Canada reported mixed experience: sometimes they were refused after disclosing the diagnosis, sometimes the opposite.
+2. **Specific changes: adapting questions, assessment criteria and the environment.** In one study, autistic and neurotypical people were interviewed with standard questions and rated; six months later the experiment was repeated with more concrete, structured questions. Autistic candidates were rated worse both times, but the gap shrank the second time. The author found no studies testing autistic candidates in different interview environments, but reducing sound and visual noise "sounds like a good idea" wherever people work, though its effect is hard to assess statistically.
+
+### Workplace support - person-and-environment support vs three environment-level changes
+**Working with the person and the environment together:** extra support at the workplace, training and supervision on work matters and workplace behaviour. The author calls this one of the most common and fairly successful kinds of help. Training has been delivered in many formats — via people and technology: videos laying out every stage of the work process step by step, interactive materials, audio training, behavioural programmes. It also includes extra supervision in the first stages of the job and tutoring, where the tutor does not directly control the person but can be asked for help. **The failure case:** behaviourist trainings that target not only work processes but also background behaviour that does not interfere with work but seems strange to others — for example, programmes to reduce stimming at the workplace; «Сейчас, к счастью, таких всё меньше и меньше» (*Now, fortunately, there are fewer and fewer of these*) [article #193].
+
+**Working with the environment — three kinds of change** [article #193]:
+1. **Physical modifications of the workplace** — mostly creating a sensory-friendly, low-stimulus environment (low arousal environment): a separate quiet room, dimmed light, no background music, TV or radio, permission to wear headphones. Some studies also used visual prompts: organisers, lists, checklists, schedules. Their effectiveness is hard to measure in workplace studies, mainly because papers describe them poorly; still, both sensory-friendly environments and visual prompts often help autistic people in life and are widely used in many areas.
+2. **Training for all employees** — programmes for the manager or the whole staff. E.g. the NAS course for all employees covers: what autism is in general; differences in information processing; possible triggers and causes of stress at work for autistic employees; accommodation options. Such programmes are few and their effect alone is hard to judge. Autistic people in interviews say colleagues' and management's tolerance, understanding of autism and an inclusive attitude strongly affect their work — it is just unclear whether trainings produce that.
+3. **Accommodations touching work rules and company policy** — alternative or shortened working hours; changed instructions (as direct as possible, in another form or modality); periodic supervision; a structured break. Sometimes changes to the work process itself: the person works only in the back room with no contact with customers, or different requirements apply on "good" and "bad" days. These are common for many disabilities, but for autism they may be insufficient. «Лучше всего работает комбинация разных стратегий, особенно в долгосрочной перспективе» (*A combination of different strategies works best, especially in the long term*).
+
 ## Detailed insights
 
 ### Stand-up comedy as a fit for an autistic person: the case of Татьянида
@@ -228,6 +322,20 @@ Lesson in context: a field that looks socially terrifying can fit an autistic pe
 ### Reframing the question
 The channel author's hopeful conclusion: the situation is gradually changing and can be influenced — more people learn that everyone and every brain is different and that neurodivergence exists at all, and work formats are changing too. The question «что со мной не так» (*what is wrong with me*) is gradually giving way to «что подходит и не подходит именно мне» (*what does and doesn't suit me specifically*) [msg #406].
 
+### Why statistics are missing in Russia
+There are no employment statistics for autistic people in Russia, and even rough estimates are impossible — not least because it is hard to count autistic adults: officially the diagnosis is not given in adulthood, and only recently did the practice of changing it on reaching adulthood stop [article #193].
+
+### Help with work in Russia: supported-employment organisations
+The author lists organisations that help autistic people find work in Russia. Her key condition for such programmes: people must be paid for the work, «иначе это нельзя назвать работой» (*otherwise it cannot be called work*). Her caveat: treat the list critically — she could not check the quality of each organisation or its fit with the neurodiversity paradigm (in which very few Russian organisations work), and she does not like all of them; but in Russia people, especially autistic people with intellectual disability and their families, often have very limited choice, so it would be wrong to stay silent about existing options. She included everyone she found without rating services, and advises learning more and deciding independently before donating or using a service [article #193]. The list:
+1. Moscow — Обнаженные сердца (also author of an article on supported employment in Russia with a wider list of foundations).
+2. Moscow — Мастер и Маргарита.
+3. Moscow — Лучшие друзья.
+4. Saint Petersburg — Антон тут рядом.
+5. Saint Petersburg — Простые вещи.
+6. Saint Petersburg — Рауль.
+7. All of Russia — Дистинтэк: employs autistic people in IT.
+8. Belgorod — Каждый Особенный.
+
 ## Evidence and numbers
 
 All figures as cited by the channel author in the employment post [msg #406]:
@@ -240,9 +348,17 @@ All figures as cited by the channel author in the employment post [msg #406]:
 
 University figures are given in *Autism and higher education* (39% / 59% / 50% graduation; 48% academic satisfaction) [img #201, #204].
 
+- UK, 2021 statistics (Office of National Statistics): only 29% of autistic people employed, versus about 50% on average for all disabled people [article #193].
+- EU, 2019 (Autism-Europe presentation to the European Parliament): about 10% [article #193].
+- Australia, 2018 (Australian Bureau of Statistics): 38% — "slightly better, but also bad" [article #193].
+- Autistic candidates are consistently rated worse at interviews than non-autistic ones with otherwise equal qualifications (the author cites two studies) [article #193].
+- Disclosure experiments in the UK and Australia (Sasson & Morrison 2019; Flower, Dickens & Hedley 2021 are in the reference list): disclosure slightly improved ratings; Canadian autistic adults report mixed real-world outcomes [article #193].
+- Adapted-questions study (Maras et al. 2021 in the reference list): more concrete, structured questions narrowed but did not close the rating gap [article #193].
+- Workplace accommodations evidence draws on a scoping review by Khalifa et al. (2020) and employment-programme reviews by Hedley et al. (2017) and Scott et al. (2019), per the reference list [article #193].
+
 ## Tools and resources mentioned
 
-- **Telegraph copy of the "Autism and higher education" cards** — the text of the cards duplicated as an article (https://telegra.ph/Autizm-i-vysshee-obrazovanie-12-07) [msg #200].
+- **Telegraph longread «Аутизм и высшее образование»** (by Юля Ан, the channel author) — the text of the cards duplicated as an article (https://telegra.ph/Autizm-i-vysshee-obrazovanie-12-07); its full content is reproduced in *Autism and higher education* above [msg #200, article #200].
 - **Silensys headphones, Loop earplugs** — named by the channel author as popular noise-reduction options; construction ear defenders/earplugs as the cheap alternative [msg #413].
 - **Photochromic glasses** — practical substitute when lighting cannot be controlled [msg #413].
 - **Finch** (author: "really love it!"), **How We Feel**, **Daylio** — mood-tracking apps; **Headspace**, **MindShift** — mindfulness and relaxation apps [msg #413].
@@ -253,6 +369,13 @@ University figures are given in *Autism and higher education* (39% / 59% / 50% g
 - **Telegram groups and Reddit** — places to ask for help with study difficulties [img #206].
 - **Webinar/course on job search for neurodivergent people** by the channel author and Карина Аруштова — announced as covering the whole job-search cycle and the difficulties neurodivergent people meet at each stage, but those stages are not described [msg #413].
 - **Channels:** *как помыть посуду* (adhd_in_russia) — source of the jobs survey; *Об аутичных женщинах, по которым не скажешь* (autisticResearch) — source of the needs study; НЕЙРОТРОЕЧНИЦА! — Татьянида's channel [msg #306, #371].
+
+- **National Autistic Society — "Finding Employment" free online course** — interview preparation with conduct rules, the advice to ask for adjustments and example answers; author's verdict: "not excellent, but not bad"; for UK residents, registration required [article #193].
+- **National Autistic Society — "Understanding autism in the workplace"** — training for all employees (autism basics, information processing, stress triggers, accommodations); effect unclear [article #193].
+- **Autism Speaks — "The Job Interview: Employment Toolkit"** — given as a bad example (masking-oriented, over-controlling, no prioritisation) [article #193].
+- **Полина Деревянко, «Золотая жила квалифицированных кадров: почему выгодно нанимать на работу аутичных людей» (Нож, 2021)** — highlighted as an excellent Russian article detailing what to consider at interviews and in work processes for inclusion [article #193].
+- **Обнаженные сердца, article on supported employment programmes for people with ASD and/or intellectual disability** — highlighted; contains a wider list of foundations [article #193].
+- **Reference list** of 20 sources: ONS 2021, Autism-Europe 2019, ABS 2018, Solomon 2020, Maras et al. 2021, Nicholas et al. 2018, Vincent 2020, Sasson & Morrison 2019, Flower et al. 2021, Khalifa et al. 2020, NAS course, Autism Speaks toolkit, Bradley et al. 2021 (camouflaging and mental health), Hedley et al. 2017, Деревянко 2021, Scott et al. 2019, Autistica on sensory differences, NAS on visual supports, NAS workplace training, Обнаженные сердца 2013 [article #193].
 
 ## Notable quotes
 
@@ -268,6 +391,12 @@ University figures are given in *Autism and higher education* (39% / 59% / 50% g
 
 > "Уместить мысль в форму шутки - это как тетрис" (*Fitting a thought into the form of a joke is like Tetris [or match-three]*) — Татьянида [img #377]
 
+> "аутичные люди часто могут работать долго и успешно, а если уходят, то из-за социальных дефицитов, а не потому, что не справляются с рабочими обязанностями" (*autistic people can often work long and successfully, and if they leave, it is because of social deficits, not because they cannot cope with their work duties*) — Лиза Носова [article #193]
+
+> "в интервью часто учитываются, вольно или невольно, социальные навыки по нейротипичным стандартам, даже в том случае, когда в этих навыках нет необходимости  на работе" (*interviews often, willingly or not, take into account social skills by neurotypical standards, even when these skills are not needed on the job*) — Лиза Носова [article #193]
+
+> "Важное условие таких помогающих программ: люди получают за работу деньги, иначе это нельзя назвать работой." (*An important condition of such helping programmes: people are paid for the work, otherwise it cannot be called work.*) — Лиза Носова [article #193]
+
 ## Caveats, disagreements and open questions
 
 - The workplace needs pyramid is explicitly based on **preliminary** results of a study of autistic women; the "nice have" layer is empty and the author asks readers for input [msg #371].
@@ -275,8 +404,15 @@ University figures are given in *Autism and higher education* (39% / 59% / 50% g
 - Unemployment figures for autistic adults vary strongly by country and methodology (50–80%); the channel author also notes that official support-level divisions may not reflect real needs [msg #406].
 - In the education area, teaching in a school is flagged as a possible problem (group work, overload) despite education being listed as a fitting field [msg #306].
 - The advice to "embellish" work experience (9 months instead of 6) is the channel author's own pragmatic recommendation [msg #413].
+- Wording differences between the education cards and the Telegraph article: "other types of disability" (card) vs "all types of disability" (article) as the 50% graduation comparison group; "four-year" bachelor's programmes appears only on the card; the dormitory-abuse remark appears only in the article [img #201, img #202, article #200].
 - (!) UNCLEAR: the "small team vs large staff" comparison sign on the principles card was lost in OCR [img #306]. The Purdue professor's quote is rendered in OCR as «Я просто аутичные» (grammatically garbled; meaning "I'm just autistic") [img #207].
 - (!) INCOMPLETE: the employment post promises a follow-up post on accommodations; #413 serves that role. The webinar content (stages of the job-search cycle and difficulties at each stage) is only announced, not explained [msg #406, #413].
+
+- (!) CONTRADICTION: UK employment of autistic people is 29% (2021, ONS) here, but 22% in the channel author's post #406 in the existing file; the sources differ and neither post reconciles them [article #193].
+- Disclosure: the article reports slightly positive experimental effects of telling HR, but mixed real-world experiences; the existing file (#413) advises against disclosure in post-Soviet conditions — consistent with "mixed", but a different emphasis [article #193].
+- The disclosure studies were experimental, not real hiring; workplace sensory changes and visual prompts are poorly described in studies, so their measured effect is unclear; the effect of all-staff trainings is unknown; no studies tested interview environments [article #193].
+- The Russian organisations list is explicitly unvetted; the author does not endorse all of them [article #193].
+- (!) INCOMPLETE: images 4 and 5 are illustrations with no text detected; the "раз, два" study links inside the article were not given as full citations at those points [img #193].
 
 ## Resources and links
 
@@ -285,12 +421,45 @@ Every link and file shared in this topic's posts. **Resources** can be used dire
 ### Resources
 
 - ★ **Аутизм и высшее образование (Autism and higher education) — telegra.ph article** (article) — Text duplicate of the card post on the difficulties autistic people face at university and what to do about them; the author's own free material. [msg #200] → <https://telegra.ph/Autizm-i-vysshee-obrazovanie-12-07>
+- ★ **Аутичные люди и работа (telegra.ph)** (article) — The channel's own full article on autistic people and employment: difficulties and how to improve the situation; offered to readers. [msg #193] → <https://telegra.ph/Autichnye-lyudi-i-rabota-10-27>
+- ★ **Обнаженные сердца: программы сопровождаемого трудоустройства для людей с РАС и/или интеллектуальными нарушениями** (article) — Article on supported employment in Russia with a broader list of foundations; highlighted by the author as useful. [msg #193] → <https://nakedheart.online/articles/programmy-soprovozhdaemogo-trudoustroistva-dlya-ludei-s-ras-i-ili-intellektualnymi-narusheniyami>
+- ★ **Полина Деревянко: статья о найме аутичных людей (Нож)** (article) — Russian-language article on the Knife media site, recommended by the author as excellent: what to consider in interviews and work processes to make them inclusive. [msg #193] → <https://knife.media/hire-an-autistic-person/>
+- ★ **Что такое маскинг (telegra.ph)** (article) — Channel article on masking, linked to explain why pushing autistic people to mask as neurotypical harms mental health. [msg #193] → <https://telegra.ph/chto-takoe-masking-11-21>
 - ★ **Ключевые потребности аутичных женщин в рабочей среде: предварительные результаты (Key workplace needs of autistic women: preliminary results)** (study) — Post in the autisticResearch channel with preliminary results of a study on autistic women's workplace needs, which often go unmet and lead to overload and burnout. Cited as the evidence base of the post. [msg #371] → <https://t.me/autisticResearch/12>
+- ★ **Антон тут рядом — трудоустройство (Санкт-Петербург)** (website) — Saint Petersburg foundation's employment project for people with autism, listed among Russian options. [msg #193] → <https://antontut.ru/project/trudoustrojstvo/>
+- ★ **Каждый Особенный (Белгород)** (website) — Belgorod foundation site, listed among Russian organisations helping with employment of people with autism. [msg #193] → <https://ko-fund.ru/>
+- ★ **Лучшие друзья — поддерживаемое трудоустройство (Москва)** (website) — Best Buddies Russia supported-employment programme, listed among Russian options. [msg #193] → <https://bestbuddies.ru/program/podderjivaemoe-trudoustroistvo/>
+- ★ **Мастер и Маргарита (Москва)** (website) — Moscow organisation supporting employment of people with disabilities, listed among Russian supported-employment options. [msg #193] → <https://mastera-i-margarita.ru/>
+- ★ **Обнаженные сердца — сопровождаемое трудоустройство** (website) — Moscow foundation's supported-employment project page; listed among Russian organisations helping autistic people find work. [msg #193] → <https://nakedheart.ru/projects/trudoustroistvo>
+- ★ **Простые вещи (Санкт-Петербург)** (website) — Saint Petersburg social enterprise employing people with disabilities, listed among Russian options. [msg #193] → <https://prostieveschi.ru/>
+- ★ **Рауль (Санкт-Петербург)** (website) — Saint Petersburg organisation listed among Russian supported-employment options for autistic people. [msg #193] → <https://raoul.spb.ru/>
+- **Autism Speaks: Job interview tool kit excerpt** (article) — Cited as a bad example: it puts all responsibility on autistic candidates, over-controls them, doesn't rank advice by importance and pushes masking. [msg #193] → <https://www.autismspeaks.org/tool-kit-excerpt/job-interview>
+- **National Autistic Society: Finding employment (free online course)** (course) — Free, registration-based UK course on job-seeking with interview-preparation tips; called a decent though not excellent example of working with the person. [msg #193] → <https://www.autism.org.uk/what-we-do/professional-development/training-and-conferences/employment/finding-employment>
+- **National Autistic Society: Understanding autism in the workplace (training)** (course) — NAS training for all employees covering what autism is, perception differences, stress triggers and accommodations; an example of workplace training programmes. [msg #193] → <https://www.autism.org.uk/what-we-do/professional-development/training-and-conferences/employment/understanding-autism-in-the-workplace>
+- **Autistica: sensory differences** (guide) — Autistica guide on sensory differences; linked to support that friendly sensory environments help autistic people. [msg #193] → <https://www.autistica.org.uk/what-is-autism/anxiety-and-autism-hub/sensory-differences>
+- **National Autistic Society: visual supports** (guide) — NAS guide on visual supports (organisers, lists, checklists, schedules); linked as helpful workplace adaptation. [msg #193] → <https://www.autism.org.uk/advice-and-guidance/topics/communication/communication-tools/visual-supports>
+- **ABS: Disability, Ageing and Carers, Australia 2018 — autism in Australia** (study) — Australian Bureau of Statistics summary; source of the 38% employment figure for autistic Australians. [msg #193] → <https://www.abs.gov.au/statistics/health/disability/disability-ageing-and-carers-australia-summary-findings/2018#autism-in-australia>
+- **Autism in Adulthood study (doi 10.1089/aut.2020.0075)** (study) — Second study showing autistic candidates are rated lower at interviews, all else equal, due to neurotypical social-skill standards. [msg #193] → <https://doi.org/10.1089/aut.2020.0075>
+- **Autism in Adulthood: camouflaging experiences and perceived impact on mental health (doi 10.1089/aut.2020.0071)** (study) — DOI link of the camouflaging study in the article's reference list. [msg #193] → <https://doi.org/10.1089/aut.2020.0071>
+- **Autism in Adulthood: experiences of camouflaging and its perceived impact on mental health (doi 10.1089/aut.2020.0071)** (study) — Study cited for camouflaging harming mental health. [msg #193] → <https://www.liebertpub.com/doi/10.1089/aut.2020.0071>
+- **Autism journal study (2016, doi 10.1177/1362361316661855)** (study) — Study cited for HR readiness to hire an autistic person rising when they know the candidate's likely particularities. [msg #193] → <https://doi.org/10.1177/1362361316661855>
+- **Autism journal study (2017) on interview evaluation (sagepub, 10.1177/1362361317729526)** (study) — Same paper as the 2017 interview-rating study, linked at the UK employment statistic; evidence on autistic candidates in interviews. [msg #193] → <https://journals.sagepub.com/doi/10.1177/1362361317729526>
+- **Autism journal study (2017, doi 10.1177/1362361317702507)** (study) — Peer-reviewed paper cited for the positive effect of employment on the lives and quality of life of people with disabilities. [msg #193] → <https://doi.org/10.1177/1362361317702507>
+- **Autism journal study (2017, doi 10.1177/1362361317729526)** (study) — First of two studies showing autistic candidates are rated lower than non-autistic ones in interviews. [msg #193] → <https://doi.org/10.1177/1362361317729526>
+- **Autism journal study (2018, doi 10.1177/1362361318787789)** (study) — Study cited for the survey of interview accommodation requests an autistic candidate might make (building map, extra information beforehand etc.). [msg #193] → <https://doi.org/10.1177/1362361318787789>
+- **Autism journal study (2021, doi 10.1177/1362361320981319)** (study) — Peer-reviewed paper cited on autistic employees leaving jobs because of social deficits rather than inability to do the work. [msg #193] → <https://doi.org/10.1177/1362361320981319>
+- **Autism-Europe: presentation on employment and autism (PDF, 2019)** (study) — Autism-Europe slide deck; source of the ~10% EU employment figure for autistic people. [msg #193] → <https://www.autismeurope.org/wp-content/uploads/2019/11/presentation_employment_autism_final2.pptx.pdf>
+- **Disability and Rehabilitation article (2018, doi 10.1080/09638288.2018.1527952)** (study) — Review cited on workplace environment changes such as less visual and auditory noise, whose statistical effect is hard to assess. [msg #193] → <https://doi.org/10.1080/09638288.2018.1527952>
+- **Journal of Autism and Developmental Disorders article (2020, doi 10.1007/s10803-020-04537-w)** (study) — Peer-reviewed study cited for autistic people working long and successfully, leaving jobs because of social difficulties rather than performance. [msg #193] → <https://link.springer.com/article/10.1007/s10803-020-04537-w>
+- **Journal of Autism and Developmental Disorders article (2020, doi 10.1007/s10803-020-04537-w)** (study) — Study cited for preparing the person for interviews reducing anxiety and improving fit with employer expectations; the article argues this approach alone is insufficient. [msg #193] → <https://doi.org/10.1007/s10803-020-04537-w>
+- **ONS: Outcomes for disabled people in the UK 2021** (study) — UK Office for National Statistics report; source of the figure that only 29% of autistic people in the UK are employed. [msg #193] → <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/articles/outcomesfordisabledpeopleintheuk/2021>
+- **Scandinavian Journal of Disability Research article (doi 10.16993/sjdr.656)** (study) — Paper cited on the job-application stage as one of the overwhelming steps of getting hired. [msg #193] → <https://doi.org/10.16993/sjdr.656>
 
 ### External links
 
+- ★ **Дистинтэк (Telegram)** (channel) — Telegram channel of the initiative that employs autistic people in IT across Russia; listed among employment options. [msg #193] → <https://t.me/Distingtecit>
 - ★ **НЕЙРОТРОЕЧНИЦА! — Telegram channel of Tatyanida, autistic stand-up comedian** (channel) — Personal Telegram channel of the autistic stand-up comedian whose story about career and special interests is featured in the cards; readers are sent there for the continuation. [msg #371] → <https://t.me/goldonmywristautist>
 
 ## Source messages
 
-#200, #201, #202, #203, #204, #205, #206, #207, #306, #371, #372, #373, #374, #375, #376, #377, #406, #413
+#193, #200, #201, #202, #203, #204, #205, #206, #207, #306, #371, #372, #373, #374, #375, #376, #377, #406, #413

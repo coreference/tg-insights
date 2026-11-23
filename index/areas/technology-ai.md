@@ -28,3 +28,12 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/human-ma
 - Concepts: `human-machine-interfaces`, `ai-and-humans`, `biomedical-research` · also relevant to: Science & Research
 - Resources and links: 15 resources, 3 external links (section *Resources and links* of the file) · ★ Hard Mode hackathon, MIT Media Lab; Jean Piaget Society 2025 Belgrade conference programme; MIT Media Lab — AlterEgo project; MIT News: AI system can generate novel proteins with structural design (Adam Zewe, 2023); MIT News: using AI, scientists find a drug that kills drug-resistant bacteria (2023); Piaget's Structuralism (open-access PDF, 154 pp., structuralism.ca) …
 
+## Also relevant — topics filed under another area
+
+These topics' primary area is elsewhere, but they substantially teach this subject too. Read them like the topics above (same rules: the channel's skill first, then the file in full).
+
+### Autistic and ADHD burnout, fatigue and limited energy  — *also relevant* · Читаю мысли (`chitayu-mysli`) · primary area: Neurodiversity
+- File: `sources/tg-channels/chitayu-mysli/topics/overload-meltdowns-burnout/neurodivergent-burnout-fatigue.md` · channel skill: `sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md`
+- Why autistic and ADHD people tire faster (constant attention switching, sensory processing, social load), what autistic burnout is and how it differs from depression, the five-stage ADHD work-burnout cycle with the research the channel cites, the author's own experience of living on the edge of burnout, a five-step ChatGPT setup for offloading executive function during burnout, and the rule to plan by energy rather than by task count.
+- Concepts: `autistic-burnout`, `burnout`, `fatigue`, `energy-management`, `executive-function`, `large-language-models`
+

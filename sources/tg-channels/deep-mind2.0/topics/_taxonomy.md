@@ -60,11 +60,11 @@ ids: #19, #139, #147, #149, #155, #160, #173, #214, #216, #404, #491, #750, #758
 
 ## Mindful Leadership & Teams
 
-### Qualities of mindful and compassionate leaders  (`mindful-leadership-qualities`, 27 msgs)
+### Qualities of mindful and compassionate leaders  (`mindful-leadership-qualities`, 28 msgs)
 
-What makes a conscious leader: Dalio and Potential Project qualities, compassion in hard decisions, vulnerability, adult communication, ego, presence over 'fix it' neurosis.
+What makes a conscious leader: Dalio and Potential Project qualities, compassion in hard decisions, vulnerability, healthy ego and a witness practice, adult communication, body and intuition in decisions (the Zolotukhina case), and practices for leading under uncertainty (dopamine fasting, empathic listening, Theory U, check-ins).
 
-ids: #26, #31, #40, #45, #70, #121, #175, #200, #321, #384, #447, #453, #536, #651, #662, #665, #706, #757, #791, #819, #900, #942, #958, #1024, #1305, #1809, #1979
+ids: #26, #31, #40, #45, #70, #121, #175, #200, #321, #384, #447, #453, #536, #651, #662, #665, #706, #757, #791, #819, #900, #942, #958, #1024, #1285, #1305, #1809, #1979
 
 ### Toxic leadership, power and workplace ethics  (`toxic-leadership-power`, 15 msgs)
 
@@ -246,11 +246,11 @@ Attention deficit and overload, multitasking costs, focus principles, mind-wande
 
 ids: #240, #244, #253, #487, #709, #803, #804, #822, #823, #824, #1088, #1121, #1190, #1227, #1370
 
-### Digital detox and healthy screen habits  (`digital-detox-screens`, 15 msgs)
+### Digital detox and healthy screen habits  (`digital-detox-screens`, 16 msgs)
 
-Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design and mindful craving work.
+Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design, mindful craving work, and JOMO (joy of missing out) as chosen disconnection.
 
-ids: #400, #470, #795, #1042, #1253, #1294, #1386, #1495, #1542, #1548, #1678, #1689, #1745, #1753, #1788
+ids: #400, #470, #795, #1042, #1253, #1294, #1386, #1495, #1542, #1548, #1579, #1678, #1689, #1745, #1753, #1788
 
 ### Neurodiversity: ADHD, autism and masking  (`neurodiversity-adhd-autism`, 2 msgs)
 
@@ -276,7 +276,7 @@ ids: #317, #490, #669, #811, #1390, #1391, #1392, #1483, #1519, #1550, #1551, #1
 
 ### Collective trauma, propaganda and society  (`collective-trauma-propaganda`, 19 msgs)
 
-How collective trauma and wounded narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, and healing through communities.
+How collective trauma, public powerlessness and wounded collective narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, dissociation, and healing through communities and a felt sense of safety.
 
 ids: #452, #589, #601, #602, #611, #626, #664, #828, #846, #853, #984, #1021, #1028, #1685, #1856, #1857, #1860, #1876, #1942
 
@@ -306,7 +306,7 @@ ids: #141, #163, #207, #223, #557, #640, #1086, #1144, #1242, #1284, #1290, #133
 
 ### Public ethics, abuse scandals and media responsibility  (`public-ethics-media`, 12 msgs)
 
-Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise.
+Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise, and public harassment (травля) as displaced aggression.
 
 ids: #445, #941, #961, #1325, #1331, #1629, #1634, #1651, #1699, #1727, #1750, #1979
 
