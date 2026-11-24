@@ -1,0 +1,143 @@
+{
+ "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+ "slug": "nd-friendly-dbt-workbook",
+ "kind": "book",
+ "files": [
+  {
+   "file": "nd-dbt-everyday-wellbeing.md",
+   "domain": "Neurodivergent-friendly DBT and everyday well-being",
+   "domain_slug": "nd-dbt-everyday-wellbeing",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Neurodivergent-friendly DBT and everyday well-being",
+   "topics": [
+    {
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "title": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity"
+    },
+    {
+     "slug": "self-care-needs-and-support-wheel",
+     "title": "Self-care, a guide to my needs and the support and accommodations wheel"
+    },
+    {
+     "slug": "nd-and-rsd-affirmations",
+     "title": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)"
+    }
+   ],
+   "words": 3522
+  },
+  {
+   "file": "nd-mindfulness.md",
+   "domain": "Mindfulness for neurodivergent minds",
+   "domain_slug": "nd-mindfulness",
+   "area": "Meditation & Contemplative Practice",
+   "part": 1,
+   "parts": 1,
+   "title": "Mindfulness for neurodivergent minds",
+   "topics": [
+    {
+     "slug": "adapted-mindfulness-basics",
+     "title": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection"
+    },
+    {
+     "slug": "wise-mind",
+     "title": "Wise Mind: balancing logical mind and emotional mind"
+    },
+    {
+     "slug": "identify-values-action-plan",
+     "title": "Identifying your values and a value action plan"
+    },
+    {
+     "slug": "self-check-in",
+     "title": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it"
+    },
+    {
+     "slug": "accessible-mindfulness-exercises",
+     "title": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation"
+    }
+   ],
+   "words": 5700
+  },
+  {
+   "file": "nd-distress-tolerance.md",
+   "domain": "Distress tolerance and meltdowns",
+   "domain_slug": "nd-distress-tolerance",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 1,
+   "title": "Distress tolerance and meltdowns",
+   "topics": [
+    {
+     "slug": "stop-skill-and-crisis-plan",
+     "title": "Distress tolerance basics: the STOP skill and a personal crisis plan"
+    },
+    {
+     "slug": "diving-reflex-and-tipp",
+     "title": "Calming the body fast: mammalian diving reflex and the TIPP skill"
+    },
+    {
+     "slug": "managing-meltdowns",
+     "title": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones"
+    },
+    {
+     "slug": "self-soothing-improve-stims-spins",
+     "title": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation"
+    }
+   ],
+   "words": 5244
+  },
+  {
+   "file": "nd-emotional-regulation.md",
+   "domain": "Emotional regulation",
+   "domain_slug": "nd-emotional-regulation",
+   "area": "Mind & Emotions",
+   "part": 1,
+   "parts": 1,
+   "title": "Emotional regulation",
+   "topics": [
+    {
+     "slug": "understanding-emotions",
+     "title": "Understanding emotions: their role, the emotional triangle and emotional responses"
+    },
+    {
+     "slug": "alexithymia-describing-emotions",
+     "title": "Alexithymia and describing your emotions"
+    },
+    {
+     "slug": "window-of-tolerance-dysregulation",
+     "title": "The Window of Tolerance and emotional dysregulation in neurodivergent people"
+    },
+    {
+     "slug": "check-facts-act-intentionally",
+     "title": "Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)"
+    }
+   ],
+   "words": 5022
+  },
+  {
+   "file": "nd-sensory-needs.md",
+   "domain": "Managing sensory needs",
+   "domain_slug": "nd-sensory-needs",
+   "area": "Neurodiversity",
+   "part": 1,
+   "parts": 1,
+   "title": "Managing sensory needs",
+   "topics": [
+    {
+     "slug": "hyper-and-hyposensitivity",
+     "title": "The eight senses: recognising and managing hypersensitivity and hyposensitivity"
+    },
+    {
+     "slug": "sensory-overload-and-profile",
+     "title": "Sensory overload and mapping your sensory profile"
+    },
+    {
+     "slug": "sensory-toolkit-and-safe-space",
+     "title": "Building a sensory toolkit and a sensory-friendly safe space"
+    }
+   ],
+   "words": 3631
+  }
+ ]
+}

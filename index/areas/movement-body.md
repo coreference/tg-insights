@@ -96,3 +96,8 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How the author (a CBT/ACT-oriented psychotherapist) uses behavioral activation, walks and regular movement to lift mood, especially in ADHD; her three-step plan against the November slump; sleep, movement and safety as conditions for neuroplasticity; why mindfulness for ADHD should start very short and be anchored in an enjoyable activity such as photography; and research on the heritability of happiness and why you should not compare your happiness with others'.
 - Concepts: `physical-activity`, `depression`, `meditation-mindfulness`, `happiness-wellbeing`, `brain-development`, `behavioral-genetics`
 
+### The eight senses: recognising and managing hypersensitivity and hyposensitivity  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/hyper-and-hyposensitivity.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What a sensory profile is, the eight senses (five external plus vestibular, proprioception and interoception), the definitions of hypersensitivity and hyposensitivity, and the book's full per-sense tables of examples and management strategies for both — from noise-cancelling headphones and seamless socks to weighted blankets, chewellery and a sensory diet.
+- Concepts: `sensory-processing`, `self-advocacy-accommodations`, `neurodiversity`
+

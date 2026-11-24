@@ -43,6 +43,8 @@ Cross-channel domain index: every knowledge base's topics on this subject. Open 
 - `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/notebooklm/understanding-diagnosing-neurodivergence-1.md` — Аутизм и СДВГ в опыте и книжках · Understanding and diagnosing neurodivergence (part 1 of 3) (~3,640 words): Autism traits beyond the stereotypes: lesser-known features and aphantasia
 - `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/notebooklm/understanding-diagnosing-neurodivergence-2.md` — Аутизм и СДВГ в опыте и книжках · Understanding and diagnosing neurodivergence (part 2 of 3) (~10,023 words): AuDHD, differential diagnosis and self-report questionnaires
 - `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/notebooklm/understanding-diagnosing-neurodivergence-3.md` — Аутизм и СДВГ в опыте и книжках · Understanding and diagnosing neurodivergence (part 3 of 3) (~3,947 words): Research on autism and ADHD: brain, genetics, diagnosis trends and reading
+- `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-dbt-everyday-wellbeing.md` — The Neurodivergent Friendly Workbook of DBT Skills · Neurodivergent-friendly DBT and everyday well-being (~3,522 words): DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity; Self-care, a guide to my needs and the support and accommodations wheel; Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)
+- `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-sensory-needs.md` — The Neurodivergent Friendly Workbook of DBT Skills · Managing sensory needs (~3,631 words): The eight senses: recognising and managing hypersensitivity and hyposensitivity; Sensory overload and mapping your sensory profile; Building a sensory toolkit and a sensory-friendly safe space
 
 ## Human Gazing Upon Machine  (`human-gazing-upon-machine`) — domain “Autism and Neurodiversity”
 
@@ -701,6 +703,62 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/autizm-i
 - Concepts: `behavioral-genetics`, `psychiatric-diagnosis`, `brain-connectivity`, `scientific-thinking`, `neurodiversity` · also relevant to: Science & Research, Neuroscience & Cognitive Science
 - Resources and links: 8 resources, 0 external links (section *Resources and links* of the file) · ★ bioRxiv preprint (2025): sequencing study of genes tied to autism; Nature 2025 article on genetic correlation of autism/ADHD with depression/PTSD; PMC12134697: article on how people describe their own diagnostic experience; PubMed 10781695: study on the amygdala in autism; PubMed 28929566: study on the amygdala in autism; Spectrum News: The amygdala, the brain's threat detector, has broad roles in autism …
 
+## The Neurodivergent Friendly Workbook of DBT Skills  (`nd-friendly-dbt-workbook`) — domain “Neurodivergent-friendly DBT and everyday well-being”
+
+Channel skill (adopt its persona and constraints): `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+
+### DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md` · 2 passages · pp. 1–2
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-dbt-everyday-wellbeing.md`
+- Why Sonny Jane Wise adapted Dialectical Behaviour Therapy for neurodivergent (especially Autistic and ADHD) people — dropping interpersonal effectiveness, adding sensory needs and meltdown management — how the self-guided workbook is meant to be used, and the 1–10 emotional-intensity guide for choosing between mindfulness, emotional regulation and distress tolerance skills.
+- Answers: What is DBT and who founded it? · How is the neurodivergent friendly DBT workbook different from standard DBT? · Why was interpersonal effectiveness removed from the neurodivergent DBT workbook? · What kinds of distress do neurodivergent people experience besides emotional distress? · Is DBT about compliance or changing who I am as a neurodivergent person? · How do I choose which DBT skill to use for how intense my emotion is? · Which skills should I use at emotional intensity 1-2, 3-6 or 7-10? · Do I have to do the workbook chapters in order?
+- Frameworks: The four components of DBT and the neurodivergent friendly adaptation · Skill areas of the workbook (mindfulness, distress tolerance, emotional regulation, sensory needs) · Emotional intensity guide for choosing a skill (1-2 / 3-6 / 7-10)
+- Concepts: `dialectical-behavior-therapy`, `neurodiversity`, `distress-tolerance`, `emotional-regulation`, `meditation-mindfulness`, `meltdowns-shutdowns` · also relevant to: Psychotherapy & Inner Work, Mind & Emotions
+
+### Self-care, a guide to my needs and the support and accommodations wheel
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md` · 6 passages · pp. 4–9
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-dbt-everyday-wellbeing.md`
+- Self-care as meeting physical, emotional, social and sensory needs (with the book's full example lists), the "Regular self-care" planning page, the "A guide to my needs" worksheet for telling others how to help, and the Support & Accommodations wheel of eight life areas rated 1–5 for skills/strengths, impact on life (spoons) and support needed.
+- Answers: What counts as self-care for neurodivergent people? · What are examples of physical, emotional, social and sensory self-care needs? · Why does self-care matter when learning DBT skills? · How can I tell a friend, partner or caregiver what I need when I struggle to ask for help? · What is the support and accommodations wheel and which life areas does it cover? · How do I rate my skills, life impact and support needs in each area? · What does "uses up all my spoons" mean on the impact scale? · Why should we normalise asking for support and accommodations?
+- Frameworks: Four types of self-care needs (physical, emotional, social, sensory) · Regular self-care worksheet · A guide to my needs worksheet · Support and accommodations wheel (eight life areas) · Skills and strengths rating scale (1–5) · Life impact rating scale (1–5, spoons) · Support needed rating scale (1–5)
+- Concepts: `self-care`, `self-advocacy-accommodations`, `sensory-processing`, `pacing`, `self-reflection-tools` · also relevant to: Chronic Illness & Disability
+
+### Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md` · 3 passages · pp. 12–14
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-dbt-everyday-wellbeing.md`
+- The workbook's complete lists of neurodivergent-friendly affirmations (countering internalised neurotypical standards) and affirmations for Rejection Sensitive Dysphoria, what RSD is according to the author, and the "write your own affirmations" exercise with its suggested uses.
+- Answers: What affirmations can help neurodivergent people who have internalised negative stereotypes? · What is rejection sensitive dysphoria (RSD)? · Who experiences RSD most often? · What affirmations help with RSD and fear of rejection or criticism? · Is it okay that neurotypical strategies and tools don't work for me? · How can I write my own affirmations and use them? · How can a partner or friend use my affirmations list?
+- Frameworks: Affirmations for neurodivergent folks (6 affirmations) · Affirmations for Rejection Sensitive Dysphoria (6 affirmations) · Write your own affirmations exercise
+- Concepts: `rejection-sensitivity`, `ableism`, `self-compassion`, `self-esteem` · also relevant to: Mind & Emotions
+
+## The Neurodivergent Friendly Workbook of DBT Skills  (`nd-friendly-dbt-workbook`) — domain “Managing sensory needs”
+
+Channel skill (adopt its persona and constraints): `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+
+### The eight senses: recognising and managing hypersensitivity and hyposensitivity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/hyper-and-hyposensitivity.md` · 5 passages · pp. 68–72
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-sensory-needs.md`
+- What a sensory profile is, the eight senses (five external plus vestibular, proprioception and interoception), the definitions of hypersensitivity and hyposensitivity, and the book's full per-sense tables of examples and management strategies for both — from noise-cancelling headphones and seamless socks to weighted blankets, chewellery and a sensory diet.
+- Answers: How many senses do we have, and what are the internal senses? · What are proprioception, interoception and the vestibular sense? · What is a sensory profile and why do neurodivergent people often have a different one? · What is the difference between hypersensitivity and hyposensitivity? · What are examples of sensory hypersensitivity for each sense? · How can I manage sound, light, smell or touch hypersensitivity? · What are examples of sensory hyposensitivity, such as seeking movement or tight hugs? · How can I meet sensory-seeking needs at home? · Why can my sensory needs change from day to day?
+- Frameworks: The eight senses (five external, three internal) · Hypersensitivity vs hyposensitivity · Examples of hypersensitivity by sense · Managing hypersensitivity by sense · Examples of hyposensitivity by sense · Managing hyposensitivity by sense
+- Concepts: `sensory-processing`, `self-advocacy-accommodations`, `neurodiversity` · also relevant to: Movement & Body
+
+### Sensory overload and mapping your sensory profile
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-overload-and-profile.md` · 3 passages · pp. 73–75
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-sensory-needs.md`
+- What sensory overload is and why neurodivergent people are more likely to reach their sensory limits, the eleven signs of sensory overload, the book's rule that the best response is reducing or removing the contributing input, and two My Sensory Profile worksheets — one rating hyper- and hyposensitivity for each of the eight senses on a 1–5 spoons scale, one listing your sensory differences and needs per sense.
+- Answers: What is sensory overload? · Why are neurodivergent people more likely to experience sensory overload? · What are the signs of sensory overload? · What is the best way to respond to sensory overload? · How can I map my own sensory profile? · How do I rate how much a sensory sensitivity affects me? · Which areas of life can sensory differences affect?
+- Frameworks: Signs of Sensory Overload (11 signs) · Responding to sensory overload — reduce or remove the input · My Sensory Profile rating worksheet (1–5 scale for hypersensitivity and hyposensitivity per sense) · My Sensory Profile listing worksheet (eight senses)
+- Concepts: `sensory-processing`, `pacing`, `self-reflection-tools` · also relevant to: Mind & Emotions
+
+### Building a sensory toolkit and a sensory-friendly safe space
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md` · 3 passages · pp. 11–77
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-sensory-needs.md`
+- How to set up a sensory safe space to escape to (finding a space, choosing lighting, choosing seating by the input you need, and eight items to fill it with) and how to build a sensory toolkit for distress or sensory overload — four tips, the book's full lists of visual, sound, touch and smell items, and a build-your-own worksheet with a prompt per sense.
+- Answers: How do I create a sensory safe space if I don't have a spare room? · What lighting is good for a sensory-friendly space? · What kind of seating should a sensory safe space have? · What items should I put in a sensory safe space? · What is a sensory toolkit and what is it for? · What should go in a sensory toolkit for each sense? · Where should I keep my sensory toolkit and why include instructions? · How do I decide which sensory items suit me?
+- Frameworks: Creating a Sensory Safe Space (find your space, choose your lighting, where to sit, what to put in it) · Build a Sensory Toolkit — four tips · Sensory toolkit item lists (visual, sounds, touch, smell) · Build Your Own Sensory Toolkit worksheet
+- Concepts: `sensory-processing`, `self-care`, `distress-tolerance` · also relevant to: Mind & Emotions
+
 ## Also relevant — topics filed under another area
 
 These topics' primary area is elsewhere, but they substantially teach this subject too. Read them like the topics above (same rules: the channel's skill first, then the file in full).
@@ -759,4 +817,44 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/physical-health-body/physical-comorbidities-sleep-hormones.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
 - Which physical conditions research links to autism (GI problems, food allergies, hypermobility/hEDS, POTS, menstrual problems, fibromyalgia via central sensitization, eight kinds of sleep disorders and their causes), what a 2026 Edinburgh study found about autistic people with hypermobility, why supplements do not cure autism, how melatonin shifted delayed sleep phase in adults with ADHD, and what research says about ADHD in perimenopause.
 - Concepts: `ehlers-danlos-hypermobility`, `sleep-hygiene`, `circadian-rhythm`, `supplements`, `womens-health`, `chronic-pain`
+
+### Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Defines mindfulness as the book uses it (being present, aware of what is happening inside and outside us, without judgement), explains why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia, discomfort with breathing and visualisation), lists the nine things mindfulness can help with, gives the book's practice tips (one skill at a time, stimming allowed, eyes open), the table of which mindfulness skill to use when, and the mindfulness summary reflection questions.
+- Concepts: `meditation-mindfulness`, `dialectical-behavior-therapy`, `aphantasia`, `sensory-processing`, `neurodiversity`
+
+### Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's Self Check-in skill — why checking in daily helps you find and meet your needs (basic, sensory, support) — with the complete set of check-in prompts (emotions, what they are telling you, body reaction, thoughts, mood, energy, breathing, focus, body) and the "What next?" table of concrete actions for mood, energy, breathing, focus, body and sensory needs.
+- Concepts: `meditation-mindfulness`, `sensory-processing`, `emotional-regulation`, `energy-management`, `self-care`, `focus-attention`
+
+### Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's complete set of neurodivergent-friendly mindfulness practices — mindful appreciation prompts, observing with each sense, using your environment, mindful music, sound of your breath, Compare Two, visual stimming, modelling clay, mindful eating, mindful stimming, a personal anchor object with its prompts, and mindfulness with pets — plus the principle that if a practice does not work for you, you are not doing it wrong.
+- Concepts: `meditation-mindfulness`, `sensory-processing`, `somatic-regulation`, `special-interests-hyperfocus`
+
+### Distress tolerance basics: the STOP skill and a personal crisis plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What distress tolerance means for neurodivergent people living in a neurotypical society, the situations that call for it, the four-step STOP skill (Stop, Take a step back, Observe, Proceed mindfully), the fill-in personal crisis plan (signs of being triggered, three distractions, safe people, coping tools) and the end-of-section distress tolerance summary reflection.
+- Concepts: `distress-tolerance`, `dialectical-behavior-therapy`, `uncertainty-resilience`, `meltdowns-shutdowns`
+
+### Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What meltdowns are (involuntary responses to surpassing a limit, never tantrums, always built up from a combination of factors), the ten ways they can look, why self-compassion and aftercare matter, the fifteen meltdown prevention tips, and the two worksheets — Meltdown Mapping and the Meltdown Tip Sheet for loved ones.
+- Concepts: `meltdowns-shutdowns`, `distress-tolerance`, `sensory-processing`, `self-compassion`, `masking-camouflaging`, `self-advocacy-accommodations`
+
+### Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- How the book adapts DBT distress tolerance for neurodivergent people through the senses and surroundings — the five-senses self-soothing list and worksheet, the neurodivergent "IMPROVE the environment" skill (image/visual, movement and stimming, boundaries, proprioceptive input, removing yourself, special interests, validation), a full list of stims as a starting point for unmasking, and special interests (SpIns) as a coping strategy.
+- Concepts: `distress-tolerance`, `sensory-processing`, `special-interests-hyperfocus`, `masking-camouflaging`, `dialectical-behavior-therapy`, `boundaries`
+
+### Alexithymia and describing your emotions  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What alexithymia is and how it shows up, the author's own experience of it, three workarounds for naming feelings (alternative descriptions, emotion wheels, music and lyrics), the four-part breakdown of an emotion (prompting event, interpretations, physical responses, expressions), lists of common sensations for anger, sadness, anxiety and jealousy, and a personal worksheet for describing how you experience emotions.
+- Concepts: `alexithymia`, `emotional-intelligence`, `sensory-processing`, `dialectical-behavior-therapy`
+
+### The Window of Tolerance and emotional dysregulation in neurodivergent people  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Explains Dr. Dan Siegel's Window of Tolerance as the book uses it (hyperarousal, zone of tolerance, hypoarousal, with the full lists of signs of each), gives the worksheet for mapping your own window, defines emotional regulation and dysregulation, lists the eight factors that make regulation harder for neurodivergent people and the eight ways dysregulation can look, and frames DBT skills as the way back into the window.
+- Concepts: `emotional-regulation`, `trauma-and-nervous-system`, `dialectical-behavior-therapy`, `executive-function`, `alexithymia`
 

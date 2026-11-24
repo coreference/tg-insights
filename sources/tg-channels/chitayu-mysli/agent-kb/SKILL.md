@@ -49,7 +49,7 @@ Paths: `domains/…` and `references/…` are inside this skill folder. `resourc
 4. If the files do not cover the question, say so rather than filling the gap.
 4a. **Surface what the posts shared.** Each reference file ends with *Resources and links*: give the user the items relevant to the question — ★ recommended ones first — with their link or file path (files are given relative to the library root). *Resources* (files, guides, articles and studies, free tools, project websites, videos, podcasts) can be used directly; label *External links* (products, book store pages, courses, services, personal pages) as such. The channel's full lists (channel folder): `resources/resources.md` and `resources/links.md`.
 5. Lighter reading: `notebooklm/` in the channel folder holds the same knowledge per domain as plain study text (compact `[#id]` citations, no frontmatter or source lists) — the file per domain is named in each routing table. Use it for overviews, for skimming a whole domain in one read, or when many topics are needed at once; use `references/` when you need exact provenance (dates, source lists), routing fields, or to quote precisely.
-6. This channel is one of several in a library. For a question that other channels may also cover, go through the library's `KNOWLEDGE_INDEX.md` (skill `tg-kb-navigator`) so that all relevant channels are consulted.
+6. This channel is one of several sources (Telegram channels and books) in a library. For a question that other sources may also cover, go through the library's `KNOWLEDGE_INDEX.md` (skill `tg-kb-navigator`) so that all relevant sources are consulted.
 
 ## Domains
 

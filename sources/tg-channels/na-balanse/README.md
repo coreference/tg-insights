@@ -41,7 +41,7 @@ Not medical or psychological advice: the authors are coaches, repeatedly tell re
 - **Read / study:** open a knowledge file below, or `library.html` (offline, every citation expands to the original message).
 - **NotebookLM / learning tools:** upload files from [`notebooklm/`](notebooklm/README.md) — the same full content, packaged per domain.
 - **Agents:** [`agent-kb/`](agent-kb/README.md) is a ready-to-install skill (channel profile + domain routing tables + one reference file per topic).
-- **Whole library:** this channel is one of several; the cross-channel hub and guide are in the library root (`hub.html`, `KNOWLEDGE_INDEX.md`, `TG_INSIGHTS_GUIDE.md`).
+- **Whole library:** this channel is one of several sources; the cross-source hub and guide are in the library root (`hub.html`, `KNOWLEDGE_INDEX.md`, `TG_INSIGHTS_GUIDE.md`).
 - **Provenance:** `[msg #id]` = message text, `[img #id]` / `[file #id]` = text transcribed from an image/PDF of that message.
 
 ## Topic tree

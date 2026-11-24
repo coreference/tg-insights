@@ -1,6 +1,7 @@
 {
  "channel": "Human Gazing Upon Machine",
  "slug": "human-gazing-upon-machine",
+ "kind": "channel",
  "files": [
   {
    "file": "autism-neurodiversity-1.md",

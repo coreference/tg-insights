@@ -1,6 +1,7 @@
 {
  "channel": "Аутизм и СДВГ в опыте и книжках",
  "slug": "autizm-i-sdvg-v-opyte-i-knizhkah",
+ "kind": "channel",
  "files": [
   {
    "file": "sensory-processing-regulation-1.md",

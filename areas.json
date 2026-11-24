@@ -1,114 +1,142 @@
 {
+ "groups": [
+  "Body & Health",
+  "Mind & Psychology",
+  "Life, Work & Change",
+  "Science, Technology & Society"
+ ],
  "areas": [
   {
    "slug": "energy-resource",
    "title": "Energy & Resource",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "rest-burnout",
    "title": "Rest & Burnout",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "sleep",
    "title": "Sleep",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "nutrition",
    "title": "Nutrition",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "movement-body",
    "title": "Movement & Body",
-   "description": ""
-  },
-  {
-   "slug": "balance-life-philosophy",
-   "title": "Balance & Life Philosophy",
-   "description": ""
-  },
-  {
-   "slug": "mind-emotions",
-   "title": "Mind & Emotions",
-   "description": ""
-  },
-  {
-   "slug": "behavior-change-coaching",
-   "title": "Behavior Change & Coaching",
-   "description": ""
-  },
-  {
-   "slug": "wellness-industry-gadgets-longevity",
-   "title": "Wellness Industry, Gadgets & Longevity",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "women-s-health",
    "title": "Women's Health",
-   "description": ""
-  },
-  {
-   "slug": "interviews-community",
-   "title": "Interviews & Community",
-   "description": ""
-  },
-  {
-   "slug": "meditation-contemplative-practice",
-   "title": "Meditation & Contemplative Practice",
-   "description": ""
-  },
-  {
-   "slug": "leadership-organizations",
-   "title": "Leadership & Organizations",
-   "description": ""
-  },
-  {
-   "slug": "psychotherapy-inner-work",
-   "title": "Psychotherapy & Inner Work",
-   "description": ""
-  },
-  {
-   "slug": "attention-digital-wellbeing",
-   "title": "Attention & Digital Wellbeing",
-   "description": ""
-  },
-  {
-   "slug": "society-politics",
-   "title": "Society & Politics",
-   "description": ""
-  },
-  {
-   "slug": "neurodiversity",
-   "title": "Neurodiversity",
-   "description": ""
-  },
-  {
-   "slug": "neuroscience-cognitive-science",
-   "title": "Neuroscience & Cognitive Science",
-   "description": ""
-  },
-  {
-   "slug": "technology-ai",
-   "title": "Technology & AI",
-   "description": ""
-  },
-  {
-   "slug": "science-research",
-   "title": "Science & Research",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
   },
   {
    "slug": "chronic-illness-disability",
    "title": "Chronic Illness & Disability",
-   "description": ""
+   "description": "",
+   "group": "Body & Health"
+  },
+  {
+   "slug": "wellness-industry-gadgets-longevity",
+   "title": "Wellness Industry, Gadgets & Longevity",
+   "description": "",
+   "group": "Body & Health"
+  },
+  {
+   "slug": "mind-emotions",
+   "title": "Mind & Emotions",
+   "description": "",
+   "group": "Mind & Psychology"
+  },
+  {
+   "slug": "psychotherapy-inner-work",
+   "title": "Psychotherapy & Inner Work",
+   "description": "",
+   "group": "Mind & Psychology"
   },
   {
    "slug": "psychiatry-mental-health-care",
    "title": "Psychiatry & Mental Health Care",
-   "description": ""
+   "description": "",
+   "group": "Mind & Psychology"
+  },
+  {
+   "slug": "neurodiversity",
+   "title": "Neurodiversity",
+   "description": "",
+   "group": "Mind & Psychology"
+  },
+  {
+   "slug": "meditation-contemplative-practice",
+   "title": "Meditation & Contemplative Practice",
+   "description": "",
+   "group": "Mind & Psychology"
+  },
+  {
+   "slug": "attention-digital-wellbeing",
+   "title": "Attention & Digital Wellbeing",
+   "description": "",
+   "group": "Mind & Psychology"
+  },
+  {
+   "slug": "balance-life-philosophy",
+   "title": "Balance & Life Philosophy",
+   "description": "",
+   "group": "Life, Work & Change"
+  },
+  {
+   "slug": "behavior-change-coaching",
+   "title": "Behavior Change & Coaching",
+   "description": "",
+   "group": "Life, Work & Change"
+  },
+  {
+   "slug": "leadership-organizations",
+   "title": "Leadership & Organizations",
+   "description": "",
+   "group": "Life, Work & Change"
+  },
+  {
+   "slug": "interviews-community",
+   "title": "Interviews & Community",
+   "description": "",
+   "group": "Life, Work & Change"
+  },
+  {
+   "slug": "neuroscience-cognitive-science",
+   "title": "Neuroscience & Cognitive Science",
+   "description": "",
+   "group": "Science, Technology & Society"
+  },
+  {
+   "slug": "science-research",
+   "title": "Science & Research",
+   "description": "",
+   "group": "Science, Technology & Society"
+  },
+  {
+   "slug": "technology-ai",
+   "title": "Technology & AI",
+   "description": "",
+   "group": "Science, Technology & Society"
+  },
+  {
+   "slug": "society-politics",
+   "title": "Society & Politics",
+   "description": "",
+   "group": "Science, Technology & Society"
   }
  ]
 }

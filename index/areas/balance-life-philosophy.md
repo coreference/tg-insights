@@ -144,3 +144,8 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How Christianity, Islam, Hinduism, Buddhism and Indigenous/shamanic traditions explained traumatic suffering (punishment, test, purification, karma, broken connection, soul loss), which ancient texts describe what we now call PTSD symptoms, and why the author sees these explanations as forerunners of modern trauma therapy (meaning-making, mindfulness, reprocessing, social support).
 - Concepts: `trauma-and-nervous-system`, `meaning-purpose`, `loving-kindness-metta`, `meditation-mindfulness`, `psychotherapy`
 
+### Identifying your values and a value action plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What values are and why knowing them helps in stressful situations, the book's reflection questions for discovering what matters to you, its full list of 18 example values, a worksheet for sorting your social, personal, political and work values, and a Value Action Plan that links each value to concrete everyday actions.
+- Concepts: `meaning-purpose`, `self-reflection-tools`, `dialectical-behavior-therapy`
+

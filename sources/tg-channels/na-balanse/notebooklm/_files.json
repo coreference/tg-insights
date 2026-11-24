@@ -1,6 +1,7 @@
 {
  "channel": "На балансе с Катей Стрельниковой",
  "slug": "na-balanse",
+ "kind": "channel",
  "files": [
   {
    "file": "energy-1.md",

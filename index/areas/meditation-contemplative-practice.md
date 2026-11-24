@@ -10,6 +10,7 @@ Cross-channel domain index: every knowledge base's topics on this subject. Open 
 - `sources/tg-channels/deep-mind2.0/notebooklm/meditation-contemplative-practice-4.md` — deep mind 2.0 · Meditation & Contemplative Practice (part 4 of 6) (~13,020 words): Retreats and the deeper contemplative path
 - `sources/tg-channels/deep-mind2.0/notebooklm/meditation-contemplative-practice-5.md` — deep mind 2.0 · Meditation & Contemplative Practice (part 5 of 6) (~13,773 words): Impermanence, suffering and meeting experience
 - `sources/tg-channels/deep-mind2.0/notebooklm/meditation-contemplative-practice-6.md` — deep mind 2.0 · Meditation & Contemplative Practice (part 6 of 6) (~6,698 words): Buddhist teachers, lineages and contemplative centres
+- `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md` — The Neurodivergent Friendly Workbook of DBT Skills · Mindfulness for neurodivergent minds (~5,700 words): Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection; Wise Mind: balancing logical mind and emotional mind; Identifying your values and a value action plan; Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it; Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation
 
 ## deep mind 2.0  (`deep-mind-2-0`) — domain “Meditation & Contemplative Practice”
 
@@ -68,6 +69,50 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/deep-min
 - Frameworks: Wallace lecture map on mental resilience and a meaningful life (6 questions) · Shinzen Young's Concentration-Clarity-Equanimity triad and See-Hear-Feel system · Shinzen Young reading order (3 manuals) · CCR model of contemplative research (shamatha + four immeasurables + science collaboration) · Three styles of the best-known Western Buddhist nuns (Pema Chodron, Thubten Chodron, Robina Courtin) · Four forms of systemic discrimination of mae chee in Theravada · Boulder's two draws (hiking, spiritual practice) and visitor guide
 - Concepts: `buddhist-teachers`, `meditation-mindfulness`, `loving-kindness-metta`
 - Resources and links: 11 resources, 7 external links (section *Resources and links* of the file) · ★ Alan Wallace lecture (YouTube); Alan Wallace — Mental Resilience (Contemplative.ru, SoundCloud); Center for Contemplative Research (Alan Wallace and Eva Natanya); Interview with Viktor Shiryaev (Act of Presence post); Shamatha Project (UC Davis Saron Lab); Shinzen Young — An Outline of Practice (PDF, 15 pp) …
+
+## The Neurodivergent Friendly Workbook of DBT Skills  (`nd-friendly-dbt-workbook`) — domain “Mindfulness for neurodivergent minds”
+
+Channel skill (adopt its persona and constraints): `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+
+### Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md` · 3 passages · pp. 16–34
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md`
+- Defines mindfulness as the book uses it (being present, aware of what is happening inside and outside us, without judgement), explains why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia, discomfort with breathing and visualisation), lists the nine things mindfulness can help with, gives the book's practice tips (one skill at a time, stimming allowed, eyes open), the table of which mindfulness skill to use when, and the mindfulness summary reflection questions.
+- Answers: What is mindfulness in DBT and why is it foundational? · Why is mindfulness hard for neurodivergent or autistic people? · What is aphantasia and why does it matter for mindfulness? · What can mindfulness help with? · Do I have to close my eyes or sit still to practise mindfulness? · Which mindfulness skill should I use in which situation? · What should I reflect on after learning the mindfulness skills?
+- Frameworks: What mindfulness can help with (nine benefits) · Tips for practising mindfulness · Mindfulness skill / when you might use it table · Mindfulness summary reflection questions
+- Concepts: `meditation-mindfulness`, `dialectical-behavior-therapy`, `aphantasia`, `sensory-processing`, `neurodiversity` · also relevant to: Neurodiversity, Psychotherapy & Inner Work
+
+### Wise Mind: balancing logical mind and emotional mind
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md` · 4 passages · pp. 18–21
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md`
+- The book's account of DBT's three states of mind — logical mind, emotional mind and wise mind — what each is ruled by and good for, a diagram placing wise mind as the middle path, a worksheet for describing how you act in each state, and four strategies for engaging wise mind (mindfulness, curiosity, compassion, considering your values).
+- Answers: What are the three states of mind in DBT? · What is the difference between logical mind, emotional mind and wise mind? · What is the logical mind good for, and what is the emotional mind good for? · Why is it a problem to get stuck in logical mind or emotional mind? · Is wise mind the same for everyone? · How can I find out what my own wise mind looks like? · How do I get into wise mind when I am stuck in one mind? · What questions can I ask myself to engage wise mind?
+- Frameworks: The three states of mind (logical mind, emotional mind, wise mind) · The Wise Mind diagram (wise mind as the middle path) · Finding Your Wise Mind worksheet · Engaging the Wise Mind — four strategies (mindfulness, curiosity, compassion, consider your values)
+- Concepts: `dialectical-behavior-therapy`, `meditation-mindfulness`, `emotional-regulation`, `self-compassion`, `meaning-purpose` · also relevant to: Psychotherapy & Inner Work, Mind & Emotions
+
+### Identifying your values and a value action plan
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md` · 3 passages · pp. 22–24
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md`
+- What values are and why knowing them helps in stressful situations, the book's reflection questions for discovering what matters to you, its full list of 18 example values, a worksheet for sorting your social, personal, political and work values, and a Value Action Plan that links each value to concrete everyday actions.
+- Answers: What are personal values? · How do I figure out what my values are? · Why does knowing my values help in stressful situations? · What are some examples of values? · Can I have different values in different areas of my life? · How do I turn my values into actions?
+- Frameworks: Values reflection questions · Example values list · Identify your values worksheet (social, personal, political, work) · Value Action Plan
+- Concepts: `meaning-purpose`, `self-reflection-tools`, `dialectical-behavior-therapy` · also relevant to: Balance & Life Philosophy, Psychotherapy & Inner Work
+
+### Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md` · 2 passages · pp. 26–27
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md`
+- The book's Self Check-in skill — why checking in daily helps you find and meet your needs (basic, sensory, support) — with the complete set of check-in prompts (emotions, what they are telling you, body reaction, thoughts, mood, energy, breathing, focus, body) and the "What next?" table of concrete actions for mood, energy, breathing, focus, body and sensory needs.
+- Answers: How do I check in with myself to figure out what I need? · What questions should I ask myself during a self check-in? · What can I do when my energy is low? · What can I do when I can't focus? · What can I do to meet my sensory needs? · How do I tell whether I need a sensory break or support? · What should I do after noticing how my mood, breathing or body is?
+- Frameworks: Self check-in prompts · What next? action table
+- Concepts: `meditation-mindfulness`, `sensory-processing`, `emotional-regulation`, `energy-management`, `self-care`, `focus-attention` · also relevant to: Neurodiversity, Mind & Emotions
+
+### Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md` · 7 passages · pp. 25–33
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-mindfulness.md`
+- The book's complete set of neurodivergent-friendly mindfulness practices — mindful appreciation prompts, observing with each sense, using your environment, mindful music, sound of your breath, Compare Two, visual stimming, modelling clay, mindful eating, mindful stimming, a personal anchor object with its prompts, and mindfulness with pets — plus the principle that if a practice does not work for you, you are not doing it wrong.
+- Answers: What mindfulness exercises work if breathing or visualisation is uncomfortable for me? · How can I practise mindfulness using my senses? · Can stimming be a mindfulness practice? · What is a personal anchor in mindfulness and how do I use one? · How can I be mindful with my pet? · How do I ground myself in my environment when I get pulled into my inner thoughts? · How do I practise mindful eating or mindful listening to music? · What if mindfulness practices do not work for me?
+- Frameworks: Mindful appreciation prompts (neurodivergent style) · Observing with your senses (eyes, taste, sound, smell) · Accessible mindfulness exercises (use your environment, mindful music, sound of your breath, compare two, visual stimming, play-doh/clay, mindful eating, mindful stimming) · Find a personal anchor (with helpful prompts) · Mindfulness with pets (observe, senses, activities)
+- Concepts: `meditation-mindfulness`, `sensory-processing`, `somatic-regulation`, `special-interests-hyperfocus` · also relevant to: Neurodiversity
 
 ## Also relevant — topics filed under another area
 

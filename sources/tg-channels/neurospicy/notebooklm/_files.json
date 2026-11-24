@@ -1,6 +1,7 @@
 {
  "channel": "Нейропряность",
  "slug": "neyropryanost",
+ "kind": "channel",
  "files": [
   {
    "file": "neurodivergent-burnout-1.md",

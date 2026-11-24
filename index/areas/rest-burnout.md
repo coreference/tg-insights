@@ -250,3 +250,8 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - What autistic and ADHD burnout is (definition, causes, risk factors, symptoms, duration, recovery), how the boom-or-bust cycle works and who is vulnerable to it, three pacing systems for evening out energy (energy accounting, spoon theory, traffic light), why the 40-hour week is not a health norm, and the key findings of a 2025 survey of 1027 Russian-speaking autistic and ADHD people on work, burnout, quitting and returning to work.
 - Concepts: `autistic-burnout`, `pacing`, `energy-management`, `burnout`, `workplace-inclusion`
 
+### Calming the body fast: mammalian diving reflex and the TIPP skill  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- How the mammalian diving reflex calms the fight-or-flight response, the two step-by-step methods for triggering it (ice-water bowl and ice pack with breath hold) with the safety reminders, and the TIPP skill — Temperature, Intense exercise, Paced breathing, Paired muscle relaxation — for quick relief from the physical effects of distress.
+- Concepts: `distress-tolerance`, `somatic-regulation`, `stress-and-anxiety`, `dialectical-behavior-therapy`, `emotional-regulation`, `trauma-and-nervous-system`
+

@@ -342,3 +342,53 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How trauma (PTSD and complex PTSD) disrupts sleep — hypervigilance, insomnia, nightmares, the disturbed cortisol rhythm (the "cup of tea" metaphor) and the brain mechanisms behind them; how ordinary nightmares differ from cPTSD nightmares; the neurobiology of the two nightmare scenarios (waking in terror vs being stuck in the nightmare); what polysomnography shows about sleep architecture and REM fragmentation in PTSD; and which methods (sleep hygiene for PTSD, the 20-minute rule, IRT, the DBT nightmare protocol, CBT-I, Lucid Dream Therapy) help and how to combine them.
 - Concepts: `nightmares`, `sleep-hygiene`, `complex-ptsd`, `trauma-and-nervous-system`, `fear-extinction`, `cognitive-behavioral-therapy`
 
+### DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Why Sonny Jane Wise adapted Dialectical Behaviour Therapy for neurodivergent (especially Autistic and ADHD) people — dropping interpersonal effectiveness, adding sensory needs and meltdown management — how the self-guided workbook is meant to be used, and the 1–10 emotional-intensity guide for choosing between mindfulness, emotional regulation and distress tolerance skills.
+- Concepts: `dialectical-behavior-therapy`, `neurodiversity`, `distress-tolerance`, `emotional-regulation`, `meditation-mindfulness`, `meltdowns-shutdowns`
+
+### Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Defines mindfulness as the book uses it (being present, aware of what is happening inside and outside us, without judgement), explains why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia, discomfort with breathing and visualisation), lists the nine things mindfulness can help with, gives the book's practice tips (one skill at a time, stimming allowed, eyes open), the table of which mindfulness skill to use when, and the mindfulness summary reflection questions.
+- Concepts: `meditation-mindfulness`, `dialectical-behavior-therapy`, `aphantasia`, `sensory-processing`, `neurodiversity`
+
+### Wise Mind: balancing logical mind and emotional mind  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's account of DBT's three states of mind — logical mind, emotional mind and wise mind — what each is ruled by and good for, a diagram placing wise mind as the middle path, a worksheet for describing how you act in each state, and four strategies for engaging wise mind (mindfulness, curiosity, compassion, considering your values).
+- Concepts: `dialectical-behavior-therapy`, `meditation-mindfulness`, `emotional-regulation`, `self-compassion`, `meaning-purpose`
+
+### Identifying your values and a value action plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What values are and why knowing them helps in stressful situations, the book's reflection questions for discovering what matters to you, its full list of 18 example values, a worksheet for sorting your social, personal, political and work values, and a Value Action Plan that links each value to concrete everyday actions.
+- Concepts: `meaning-purpose`, `self-reflection-tools`, `dialectical-behavior-therapy`
+
+### Distress tolerance basics: the STOP skill and a personal crisis plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What distress tolerance means for neurodivergent people living in a neurotypical society, the situations that call for it, the four-step STOP skill (Stop, Take a step back, Observe, Proceed mindfully), the fill-in personal crisis plan (signs of being triggered, three distractions, safe people, coping tools) and the end-of-section distress tolerance summary reflection.
+- Concepts: `distress-tolerance`, `dialectical-behavior-therapy`, `uncertainty-resilience`, `meltdowns-shutdowns`
+
+### Calming the body fast: mammalian diving reflex and the TIPP skill  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- How the mammalian diving reflex calms the fight-or-flight response, the two step-by-step methods for triggering it (ice-water bowl and ice pack with breath hold) with the safety reminders, and the TIPP skill — Temperature, Intense exercise, Paced breathing, Paired muscle relaxation — for quick relief from the physical effects of distress.
+- Concepts: `distress-tolerance`, `somatic-regulation`, `stress-and-anxiety`, `dialectical-behavior-therapy`, `emotional-regulation`, `trauma-and-nervous-system`
+
+### Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- How the book adapts DBT distress tolerance for neurodivergent people through the senses and surroundings — the five-senses self-soothing list and worksheet, the neurodivergent "IMPROVE the environment" skill (image/visual, movement and stimming, boundaries, proprioceptive input, removing yourself, special interests, validation), a full list of stims as a starting point for unmasking, and special interests (SpIns) as a coping strategy.
+- Concepts: `distress-tolerance`, `sensory-processing`, `special-interests-hyperfocus`, `masking-camouflaging`, `dialectical-behavior-therapy`, `boundaries`
+
+### Understanding emotions: their role, the emotional triangle and emotional responses  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/understanding-emotions.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's foundation for emotional regulation — emotions are neither good nor bad and serve four roles (communication, motivation, information, influencing thoughts); the emotional triangle of body, mind and behaviour through which emotions send their messages, with a self-observation exercise; and the four stages of an emotional response (prompting event, interpretation and secondary emotion, physical responses, expressions).
+- Concepts: `emotional-intelligence`, `emotional-regulation`, `dialectical-behavior-therapy`
+
+### The Window of Tolerance and emotional dysregulation in neurodivergent people  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Explains Dr. Dan Siegel's Window of Tolerance as the book uses it (hyperarousal, zone of tolerance, hypoarousal, with the full lists of signs of each), gives the worksheet for mapping your own window, defines emotional regulation and dysregulation, lists the eight factors that make regulation harder for neurodivergent people and the eight ways dysregulation can look, and frames DBT skills as the way back into the window.
+- Concepts: `emotional-regulation`, `trauma-and-nervous-system`, `dialectical-behavior-therapy`, `executive-function`, `alexithymia`
+
+### Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Mind & Emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/check-facts-act-intentionally.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's neurodivergent reworking of two DBT skills — Check the Facts, which checks needs first and then asks whether your response (not your emotion) fits the facts and is helpful, with a decision flowchart; and Act Intentionally, the author's renaming of Act Opposite, with lists of intentional actions for anger/frustration, loneliness/sadness and fear/anxiety — plus the emotional regulation summary reflection.
+- Concepts: `emotional-regulation`, `dialectical-behavior-therapy`, `stress-and-anxiety`
+

@@ -1,6 +1,7 @@
 {
  "channel": "Читаю мысли",
  "slug": "chitayu-mysli",
+ "kind": "channel",
  "files": [
   {
    "file": "understanding-diagnosing-neurodivergence-1.md",

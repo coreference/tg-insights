@@ -105,3 +105,8 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - What autistic and ADHD burnout is (definition, causes, risk factors, symptoms, duration, recovery), how the boom-or-bust cycle works and who is vulnerable to it, three pacing systems for evening out energy (energy accounting, spoon theory, traffic light), why the 40-hour week is not a health norm, and the key findings of a 2025 survey of 1027 Russian-speaking autistic and ADHD people on work, burnout, quitting and returning to work.
 - Concepts: `autistic-burnout`, `pacing`, `energy-management`, `burnout`, `workplace-inclusion`
 
+### Self-care, a guide to my needs and the support and accommodations wheel  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Self-care as meeting physical, emotional, social and sensory needs (with the book's full example lists), the "Regular self-care" planning page, the "A guide to my needs" worksheet for telling others how to help, and the Support & Accommodations wheel of eight life areas rated 1–5 for skills/strengths, impact on life (spoons) and support needed.
+- Concepts: `self-care`, `self-advocacy-accommodations`, `sensory-processing`, `pacing`, `self-reflection-tools`
+

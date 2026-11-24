@@ -1,6 +1,7 @@
 {
  "channel": "(нейро)разнообразная психология",
  "slug": "neurodiv-psy",
+ "kind": "channel",
  "files": [
   {
    "file": "understanding-neurodivergence.md",

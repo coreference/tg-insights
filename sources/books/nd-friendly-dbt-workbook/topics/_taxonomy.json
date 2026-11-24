@@ -1,0 +1,589 @@
+{
+ "domains": [
+  {
+   "domain": "Neurodivergent-friendly DBT and everyday well-being",
+   "slug": "nd-dbt-everyday-wellbeing",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance skills.",
+     "themes": [
+      "dbt",
+      "neurodivergent adaptation",
+      "skill choice"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "dialectical-behavior-therapy",
+      "neurodiversity",
+      "distress-tolerance",
+      "emotional-regulation",
+      "meditation-mindfulness",
+      "meltdowns-shutdowns"
+     ],
+     "ids": [
+      4,
+      5
+     ],
+     "count": 2
+    },
+    {
+     "title": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale).",
+     "themes": [
+      "self-care",
+      "communicating needs",
+      "accommodations"
+     ],
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "concepts": [
+      "self-care",
+      "self-advocacy-accommodations",
+      "sensory-processing",
+      "pacing",
+      "self-reflection-tools"
+     ],
+     "ids": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "count": 6
+    },
+    {
+     "title": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)",
+     "slug": "nd-and-rsd-affirmations",
+     "scope": "Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own.",
+     "themes": [
+      "affirmations",
+      "rsd",
+      "internalised ableism"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "rejection-sensitivity",
+      "ableism",
+      "self-compassion",
+      "self-esteem"
+     ],
+     "ids": [
+      15,
+      16,
+      17
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "domain": "Mindfulness for neurodivergent minds",
+   "slug": "nd-mindfulness",
+   "area": "Meditation & Contemplative Practice",
+   "topics": [
+    {
+     "title": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary reflection questions.",
+     "themes": [
+      "mindfulness",
+      "accessibility",
+      "interoception"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "dialectical-behavior-therapy",
+      "aphantasia",
+      "sensory-processing",
+      "neurodiversity"
+     ],
+     "ids": [
+      19,
+      20,
+      37
+     ],
+     "count": 3
+    },
+    {
+     "title": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.",
+     "themes": [
+      "wise mind",
+      "states of mind"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "dialectical-behavior-therapy",
+      "meditation-mindfulness",
+      "emotional-regulation",
+      "self-compassion",
+      "meaning-purpose"
+     ],
+     "ids": [
+      21,
+      22,
+      23,
+      24
+     ],
+     "count": 4
+    },
+    {
+     "title": "Identifying your values and a value action plan",
+     "slug": "identify-values-action-plan",
+     "scope": "What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions.",
+     "themes": [
+      "values",
+      "reflection"
+     ],
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "meaning-purpose",
+      "self-reflection-tools",
+      "dialectical-behavior-therapy"
+     ],
+     "ids": [
+      25,
+      26,
+      27
+     ],
+     "count": 3
+    },
+    {
+     "title": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.",
+     "themes": [
+      "self check-in",
+      "interoception",
+      "needs"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "sensory-processing",
+      "emotional-regulation",
+      "energy-management",
+      "self-care",
+      "focus-attention"
+     ],
+     "ids": [
+      29,
+      30
+     ],
+     "count": 2
+    },
+    {
+     "title": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation",
+     "slug": "accessible-mindfulness-exercises",
+     "scope": "Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with pets, and appreciating special interests and sensory joys.",
+     "themes": [
+      "mindfulness exercises",
+      "stimming",
+      "senses"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "meditation-mindfulness",
+      "sensory-processing",
+      "somatic-regulation",
+      "special-interests-hyperfocus"
+     ],
+     "ids": [
+      28,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ],
+     "count": 7
+    }
+   ]
+  },
+  {
+   "domain": "Distress tolerance and meltdowns",
+   "slug": "nd-distress-tolerance",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Distress tolerance basics: the STOP skill and a personal crisis plan",
+     "slug": "stop-skill-and-crisis-plan",
+     "scope": "Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary reflection.",
+     "themes": [
+      "distress tolerance",
+      "stop",
+      "crisis plan"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "distress-tolerance",
+      "dialectical-behavior-therapy",
+      "uncertainty-resilience",
+      "meltdowns-shutdowns"
+     ],
+     "ids": [
+      13,
+      39,
+      53
+     ],
+     "count": 3
+    },
+    {
+     "title": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation.",
+     "themes": [
+      "diving reflex",
+      "tipp",
+      "physiological calming"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "concepts": [
+      "distress-tolerance",
+      "somatic-regulation",
+      "stress-and-anxiety",
+      "dialectical-behavior-therapy",
+      "emotional-regulation",
+      "trauma-and-nervous-system"
+     ],
+     "ids": [
+      40,
+      41,
+      42
+     ],
+     "count": 3
+    },
+    {
+     "title": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what to do and not do.",
+     "themes": [
+      "meltdowns",
+      "prevention",
+      "aftercare"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "meltdowns-shutdowns",
+      "distress-tolerance",
+      "sensory-processing",
+      "self-compassion",
+      "masking-camouflaging",
+      "self-advocacy-accommodations"
+     ],
+     "ids": [
+      43,
+      44,
+      45,
+      46
+     ],
+     "count": 4
+    },
+    {
+     "title": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special interests as coping.",
+     "themes": [
+      "self-soothing",
+      "improve",
+      "stimming",
+      "special interests"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "distress-tolerance",
+      "sensory-processing",
+      "special-interests-hyperfocus",
+      "masking-camouflaging",
+      "dialectical-behavior-therapy",
+      "boundaries"
+     ],
+     "ids": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+     ],
+     "count": 6
+    }
+   ]
+  },
+  {
+   "domain": "Emotional regulation",
+   "slug": "nd-emotional-regulation",
+   "area": "Mind & Emotions",
+   "topics": [
+    {
+     "title": "Understanding emotions: their role, the emotional triangle and emotional responses",
+     "slug": "understanding-emotions",
+     "scope": "Emotions as communication, motivation and information; the body-mind-behaviour triangle; prompting events, interpretations, secondary emotions, physical responses and expressions.",
+     "themes": [
+      "emotions",
+      "emotional triangle",
+      "prompting event"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "emotional-intelligence",
+      "emotional-regulation",
+      "dialectical-behavior-therapy"
+     ],
+     "ids": [
+      55,
+      56,
+      57
+     ],
+     "count": 3
+    },
+    {
+     "title": "Alexithymia and describing your emotions",
+     "slug": "alexithymia-describing-emotions",
+     "scope": "Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy.",
+     "themes": [
+      "alexithymia",
+      "naming emotions",
+      "body sensations"
+     ],
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "concepts": [
+      "alexithymia",
+      "emotional-intelligence",
+      "sensory-processing",
+      "dialectical-behavior-therapy"
+     ],
+     "ids": [
+      58,
+      59,
+      60,
+      61
+     ],
+     "count": 4
+    },
+    {
+     "title": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back into the window.",
+     "themes": [
+      "window of tolerance",
+      "dysregulation"
+     ],
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "emotional-regulation",
+      "trauma-and-nervous-system",
+      "dialectical-behavior-therapy",
+      "executive-function",
+      "alexithymia"
+     ],
+     "ids": [
+      62,
+      63,
+      64
+     ],
+     "count": 3
+    },
+    {
+     "title": "Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)",
+     "slug": "check-facts-act-intentionally",
+     "scope": "Checking needs first, then the emotion, interpretations and whether the response is helpful; the decision flowchart; choosing intentional actions for anger, sadness, loneliness and anxiety; summary reflection.",
+     "themes": [
+      "check the facts",
+      "act intentionally",
+      "urges"
+     ],
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "concepts": [
+      "emotional-regulation",
+      "dialectical-behavior-therapy",
+      "stress-and-anxiety"
+     ],
+     "ids": [
+      65,
+      66,
+      67,
+      68,
+      69
+     ],
+     "count": 5
+    }
+   ]
+  },
+  {
+   "domain": "Managing sensory needs",
+   "slug": "nd-sensory-needs",
+   "area": "Neurodiversity",
+   "topics": [
+    {
+     "title": "The eight senses: recognising and managing hypersensitivity and hyposensitivity",
+     "slug": "hyper-and-hyposensitivity",
+     "scope": "Five external and three internal senses (vestibular, proprioception, interoception), examples of over- and under-responsiveness in each, and per-sense accommodations such as headphones, seamless socks, weighted blankets, chewellery and a sensory diet.",
+     "themes": [
+      "sensory profile",
+      "hypersensitivity",
+      "hyposensitivity"
+     ],
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "self-advocacy-accommodations",
+      "neurodiversity"
+     ],
+     "ids": [
+      71,
+      72,
+      73,
+      74,
+      75
+     ],
+     "count": 5
+    },
+    {
+     "title": "Sensory overload and mapping your sensory profile",
+     "slug": "sensory-overload-and-profile",
+     "scope": "Why neurodivergent people reach sensory limits sooner, signs of overload and reducing input, and a worksheet rating hyper- and hyposensitivity per sense on a spoons scale.",
+     "themes": [
+      "sensory overload",
+      "sensory profile worksheet"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "pacing",
+      "self-reflection-tools"
+     ],
+     "ids": [
+      76,
+      77,
+      78
+     ],
+     "count": 3
+    },
+    {
+     "title": "Building a sensory toolkit and a sensory-friendly safe space",
+     "slug": "sensory-toolkit-and-safe-space",
+     "scope": "Assembling a portable sensory toolkit (visual, sound, touch, smell items, with instructions) and setting up a calming safe space (location, lighting, seating, weighted blanket, fidgets).",
+     "themes": [
+      "sensory toolkit",
+      "safe space"
+     ],
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "concepts": [
+      "sensory-processing",
+      "self-care",
+      "distress-tolerance"
+     ],
+     "ids": [
+      14,
+      79,
+      80
+     ],
+     "count": 3
+    }
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": 1,
+   "kind": "other",
+   "gist": "Title page: ND-friendly DBT skills workbook by Sonny Jane Wise"
+  },
+  {
+   "id": 2,
+   "kind": "other",
+   "gist": "Acknowledgements to reviewers and editor Mikayla"
+  },
+  {
+   "id": 3,
+   "kind": "other",
+   "gist": "Table of contents for sections 1-5"
+  },
+  {
+   "id": 6,
+   "kind": "other",
+   "gist": "Section 1 divider: Everyday Well-being contents"
+  },
+  {
+   "id": 18,
+   "kind": "other",
+   "gist": "Section 2 divider: Mindfulness contents"
+  },
+  {
+   "id": 38,
+   "kind": "other",
+   "gist": "Section 3 divider: Distress Tolerance contents"
+  },
+  {
+   "id": 54,
+   "kind": "other",
+   "gist": "Section 4 divider: Emotional Regulation contents"
+  },
+  {
+   "id": 70,
+   "kind": "other",
+   "gist": "Section 5 divider: Managing Sensory Needs, contents list and doodle space"
+  },
+  {
+   "id": 81,
+   "kind": "promo",
+   "gist": "Back-cover blurb for the workbook: neurodivergent-affirming DBT skills by Sonny Jane Wise, copyright notice"
+  }
+ ]
+}

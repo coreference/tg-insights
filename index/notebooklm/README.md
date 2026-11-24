@@ -9,10 +9,10 @@ Each folder gathers the NotebookLM files of every channel on one subject. Genera
 - **Energy & Resource** → `energy-resource/` — 4 file(s), ~35,743 words
 - **Interviews & Community** → `interviews-community/` — 3 file(s), ~57,111 words
 - **Leadership & Organizations** → `leadership-organizations/` — 14 file(s), ~151,635 words
-- **Meditation & Contemplative Practice** → `meditation-contemplative-practice/` — 6 file(s), ~59,663 words
-- **Mind & Emotions** → `mind-emotions/` — 21 file(s), ~181,053 words
+- **Meditation & Contemplative Practice** → `meditation-contemplative-practice/` — 7 file(s), ~65,363 words
+- **Mind & Emotions** → `mind-emotions/` — 23 file(s), ~191,319 words
 - **Movement & Body** → `movement-body/` — 4 file(s), ~28,542 words
-- **Neurodiversity** → `neurodiversity/` — 39 file(s), ~343,857 words
+- **Neurodiversity** → `neurodiversity/` — 41 file(s), ~351,010 words
 - **Neuroscience & Cognitive Science** → `neuroscience-cognitive-science/` — 3 file(s), ~25,057 words
 - **Nutrition** → `nutrition/` — 2 file(s), ~17,472 words
 - **Psychiatry & Mental Health Care** → `psychiatry-mental-health-care/` — 10 file(s), ~79,089 words

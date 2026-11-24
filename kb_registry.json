@@ -47,6 +47,13 @@
    "title": "Аутизм и СДВГ в опыте и книжках",
    "kb_dir": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah",
    "added": "2026-11-22 17:43:51"
+  },
+  {
+   "slug": "nd-friendly-dbt-workbook",
+   "title": "The Neurodivergent Friendly Workbook of DBT Skills",
+   "kb_dir": "sources/books/nd-friendly-dbt-workbook",
+   "added": "2026-11-23 19:16:35",
+   "kind": "book"
   }
  ]
 }

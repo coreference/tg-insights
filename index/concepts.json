@@ -147,11 +147,28 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/masking-communication-social/masking-camouflaging",
      "scope": "What masking is (hypervigilance, controlled self-expression, silence and shyness), how ableism and rejection sensitivity drive it, its costs (overcontrol, burnout, loss of self), the CAT-Q questionnaire with scoring, …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)",
+     "slug": "nd-and-rsd-affirmations",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "scope": "Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
@@ -311,10 +328,43 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/overload-demands-burnout/autistic-burnout-pacing",
      "scope": "Autistic/neurodivergent burnout (causes, symptoms, recovery), the boom-or-bust cycle and its vulnerability factors, pacing systems (energy accounting, spoon theory, traffic light), workload norms and survey data on …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "topic": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale)."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Sensory overload and mapping your sensory profile",
+     "slug": "sensory-overload-and-profile",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-overload-and-profile",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-overload-and-profile.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-overload-and-profile",
+     "scope": "Why neurodivergent people reach sensory limits sooner, signs of overload and reducing input, and a worksheet rating hyper- and hyposensitivity per sense on a spoons scale."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
+    "nd-friendly-dbt-workbook",
     "neyropryanost"
    ],
    "areas": [
@@ -615,11 +665,45 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/dbt-for-autism",
      "scope": "Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Alexithymia and describing your emotions",
+     "slug": "alexithymia-describing-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/alexithymia-describing-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/alexithymia-describing-emotions",
+     "scope": "Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
@@ -705,12 +789,31 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/understanding-diagnosing-neurodivergence/autism-lesser-known-traits",
      "scope": "Core ICD-11 criteria and lesser-known autism features (non-communication behaviors, echopraxia, clumsiness, selective mutism, self-reported traits), the broader autism phenotype, and aphantasia and its link to autism."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/adapted-mindfulness-basics",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …"
     }
    ],
    "channels": [
-    "autizm-i-sdvg-v-opyte-i-knizhkah"
+    "autizm-i-sdvg-v-opyte-i-knizhkah",
+    "nd-friendly-dbt-workbook"
    ],
    "areas": [
+    "Meditation & Contemplative Practice",
     "Neurodiversity"
    ]
   },
@@ -1739,12 +1842,30 @@
      "skill": "sources/tg-channels/neurodiv_psy/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/neurodiv_psy/library.html#topic/emotional-self-support/self-compassion-shame-emotions",
      "scope": "Coping with comparing yourself to others, things not to be ashamed of, a self-compassion technique for holiday blues, and Brene Brown's emotion wheel for naming feelings."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
     }
    ],
    "channels": [
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
@@ -4718,13 +4839,201 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/distress-tolerance-self-care",
      "scope": "DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/adapted-mindfulness-basics",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/wise-mind",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Identifying your values and a value action plan",
+     "slug": "identify-values-action-plan",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/identify-values-action-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/identify-values-action-plan",
+     "scope": "What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Neurodiversity"
+     ],
+     "topic": "Distress tolerance basics: the STOP skill and a personal crisis plan",
+     "slug": "stop-skill-and-crisis-plan",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "scope": "Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Understanding emotions: their role, the emotional triangle and emotional responses",
+     "slug": "understanding-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/understanding-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/understanding-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/understanding-emotions",
+     "scope": "Emotions as communication, motivation and information; the body-mind-behaviour triangle; prompting events, interpretations, secondary emotions, physical responses and expressions."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Alexithymia and describing your emotions",
+     "slug": "alexithymia-describing-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/alexithymia-describing-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/alexithymia-describing-emotions",
+     "scope": "Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)",
+     "slug": "check-facts-act-intentionally",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/check-facts-act-intentionally",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/check-facts-act-intentionally.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/check-facts-act-intentionally",
+     "scope": "Checking needs first, then the emotion, interpretations and whether the response is helpful; the decision flowchart; choosing intentional actions for anger, sadness, loneliness and anxiety; summary reflection."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
+    "nd-friendly-dbt-workbook",
     "this-is-too-much"
    ],
    "areas": [
+    "Meditation & Contemplative Practice",
+    "Mind & Emotions",
+    "Neurodiversity",
     "Psychiatry & Mental Health Care",
     "Psychotherapy & Inner Work"
    ]
@@ -5084,13 +5393,115 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/distress-tolerance-self-care",
      "scope": "DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Neurodiversity"
+     ],
+     "topic": "Distress tolerance basics: the STOP skill and a personal crisis plan",
+     "slug": "stop-skill-and-crisis-plan",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "scope": "Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Building a sensory toolkit and a sensory-friendly safe space",
+     "slug": "sensory-toolkit-and-safe-space",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "scope": "Assembling a portable sensory toolkit (visual, sound, touch, smell items, with instructions) and setting up a calming safe space (location, lighting, seating, weighted blanket, fidgets)."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
+    "nd-friendly-dbt-workbook",
     "this-is-too-much"
    ],
    "areas": [
+    "Mind & Emotions",
     "Neurodiversity",
     "Psychotherapy & Inner Work"
    ]
@@ -5964,12 +6375,45 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/emotions-alexithymia/alexithymia-interoception",
      "scope": "The alexithymia hypothesis of autism, how alexithymia rather than autism explains interoception differences, a behaviorist view, and a timed spoken exercise for clarifying what you feel and why."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Understanding emotions: their role, the emotional triangle and emotional responses",
+     "slug": "understanding-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/understanding-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/understanding-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/understanding-emotions",
+     "scope": "Emotions as communication, motivation and information; the body-mind-behaviour triangle; prompting events, interpretations, secondary emotions, physical responses and expressions."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Alexithymia and describing your emotions",
+     "slug": "alexithymia-describing-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/alexithymia-describing-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/alexithymia-describing-emotions",
+     "scope": "Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
     "deep-mind-2-0",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost",
     "this-is-too-much"
@@ -6593,6 +7037,123 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/dbt-for-autism",
      "scope": "Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/wise-mind",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Understanding emotions: their role, the emotional triangle and emotional responses",
+     "slug": "understanding-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/understanding-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/understanding-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/understanding-emotions",
+     "scope": "Emotions as communication, motivation and information; the body-mind-behaviour triangle; prompting events, interpretations, secondary emotions, physical responses and expressions."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)",
+     "slug": "check-facts-act-intentionally",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/check-facts-act-intentionally",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/check-facts-act-intentionally.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/check-facts-act-intentionally",
+     "scope": "Checking needs first, then the emotion, interpretations and whether the response is helpful; the decision flowchart; choosing intentional actions for anger, sadness, loneliness and anxiety; summary reflection."
     }
    ],
    "channels": [
@@ -6601,6 +7162,7 @@
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost",
     "this-is-too-much"
@@ -7295,6 +7857,23 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/overload-demands-burnout/autistic-burnout-pacing",
      "scope": "Autistic/neurodivergent burnout (causes, symptoms, recovery), the boom-or-bust cycle and its vulnerability factors, pacing systems (energy accounting, spoon theory, traffic light), workload norms and survey data on …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
     }
    ],
    "channels": [
@@ -7302,6 +7881,7 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost",
     "this-is-too-much"
@@ -7310,6 +7890,7 @@
     "Behavior Change & Coaching",
     "Energy & Resource",
     "Interviews & Community",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity",
     "Rest & Burnout",
@@ -7873,15 +8454,34 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/attention-executive-function/hyperfocus-special-interests-monotropism",
      "scope": "Special interests and their benefits, hyperfocus versus flow in ADHD and autism, monotropism theory, research measuring hyperfocus in autistic teens, and how autistic adults tell special interests and stims apart from …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
    "areas": [
+    "Mind & Emotions",
     "Neurodiversity"
    ]
   },
@@ -8181,6 +8781,23 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/attention-executive-function/boredom-mindfulness-adhd",
      "scope": "Why boredom is more frequent and painful in ADHD/ASD (apathetic vs agitated), how to make boring tasks bearable, and the evidence for and adaptations of mindfulness practice for ADHD attention."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
     }
    ],
    "channels": [
@@ -8188,12 +8805,14 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
    "areas": [
     "Attention & Digital Wellbeing",
     "Behavior Change & Coaching",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity"
    ]
@@ -10137,11 +10756,45 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/co-occurring-mental-health/anxiety-ptsd-ocd-autism",
      "scope": "Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
@@ -10462,18 +11115,54 @@
      "skill": "sources/tg-channels/this-is-too-much/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/this-is-too-much/library.html#topic/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma",
      "scope": "How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/wise-mind",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Identifying your values and a value action plan",
+     "slug": "identify-values-action-plan",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/identify-values-action-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/identify-values-action-plan",
+     "scope": "What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions."
     }
    ],
    "channels": [
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "this-is-too-much"
    ],
    "areas": [
     "Balance & Life Philosophy",
     "Energy & Resource",
     "Leadership & Organizations",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Psychiatry & Mental Health Care",
     "Rest & Burnout",
@@ -10853,6 +11542,90 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/attention-executive-function/boredom-mindfulness-adhd",
      "scope": "Why boredom is more frequent and painful in ADHD/ASD (apathetic vs agitated), how to make boring tasks bearable, and the evidence for and adaptations of mindfulness practice for ADHD attention."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/adapted-mindfulness-basics",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/wise-mind",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation",
+     "slug": "accessible-mindfulness-exercises",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/accessible-mindfulness-exercises",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/accessible-mindfulness-exercises",
+     "scope": "Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …"
     }
    ],
    "channels": [
@@ -10860,6 +11633,7 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
@@ -11063,16 +11837,68 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/overload-demands-burnout/pathological-demand-avoidance",
      "scope": "The PDA profile as anxiety-driven avoidance of demands, its escalation from hidden coping to panic and meltdown, debate over whether it is a separate diagnosis, and the PANDA skill for living and communicating with …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Neurodiversity"
+     ],
+     "topic": "Distress tolerance basics: the STOP skill and a personal crisis plan",
+     "slug": "stop-skill-and-crisis-plan",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "scope": "Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
     "human-gazing-upon-machine",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
    "areas": [
+    "Mind & Emotions",
     "Neurodiversity"
    ]
   },
@@ -12476,6 +13302,56 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/dbt-for-autism",
      "scope": "Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity",
+     "slug": "nd-adapted-dbt-and-skill-choice",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice",
+     "scope": "Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/adapted-mindfulness-basics",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "topic": "The eight senses: recognising and managing hypersensitivity and hyposensitivity",
+     "slug": "hyper-and-hyposensitivity",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/hyper-and-hyposensitivity",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/hyper-and-hyposensitivity.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/hyper-and-hyposensitivity",
+     "scope": "Five external and three internal senses (vestibular, proprioception, interoception), examples of over- and under-responsiveness in each, and per-sense accommodations such as headphones, seamless socks, weighted …"
     }
    ],
    "channels": [
@@ -12483,12 +13359,14 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "human-gazing-upon-machine",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
    "areas": [
     "Attention & Digital Wellbeing",
     "Chronic Illness & Disability",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity",
     "Neuroscience & Cognitive Science",
@@ -14460,11 +15338,28 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/masking-communication-social/masking-camouflaging",
      "scope": "What masking is (hypervigilance, controlled self-expression, silence and shyness), how ableism and rejection sensitivity drive it, its costs (overcontrol, burnout, loss of self), the CAT-Q questionnaire with scoring, …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)",
+     "slug": "nd-and-rsd-affirmations",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "scope": "Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost",
     "this-is-too-much"
@@ -15862,15 +16757,65 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/sensory-processing-regulation/sensory-regulation-safety-plans",
      "scope": "Practical self-regulation of the sensory system: functions of stimming, calming techniques (deep pressure, breathing, sound, light, smell, visuals), the five-part sensory safety plan, holiday overload checks, tolerating …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "topic": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale)."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "topic": "The eight senses: recognising and managing hypersensitivity and hyposensitivity",
+     "slug": "hyper-and-hyposensitivity",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/hyper-and-hyposensitivity",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/hyper-and-hyposensitivity.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/hyper-and-hyposensitivity",
+     "scope": "Five external and three internal senses (vestibular, proprioception, interoception), examples of over- and under-responsiveness in each, and per-sense accommodations such as headphones, seamless socks, weighted …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
    "areas": [
+    "Mind & Emotions",
     "Neurodiversity"
    ]
   },
@@ -16072,6 +17017,55 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/therapy-coping-skills/distress-tolerance-self-care",
      "scope": "DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "topic": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale)."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Building a sensory toolkit and a sensory-friendly safe space",
+     "slug": "sensory-toolkit-and-safe-space",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "scope": "Assembling a portable sensory toolkit (visual, sound, touch, smell items, with instructions) and setting up a calming safe space (location, lighting, seating, weighted blanket, fidgets)."
     }
    ],
    "channels": [
@@ -16079,6 +17073,7 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
@@ -16086,6 +17081,7 @@
     "Balance & Life Philosophy",
     "Behavior Change & Coaching",
     "Interviews & Community",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity",
     "Psychotherapy & Inner Work",
@@ -16372,6 +17368,55 @@
      "skill": "sources/tg-channels/this-is-too-much/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/this-is-too-much/library.html#topic/emotions-dysregulation/self-criticism-people-pleasing",
      "scope": "How self-criticism harms and techniques to soften the inner critic, roots of people-pleasing in cPTSD and BPD, and why others' good news stings through upward social comparison."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)",
+     "slug": "nd-and-rsd-affirmations",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "scope": "Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Mind & Emotions"
+     ],
+     "topic": "Wise Mind: balancing logical mind and emotional mind",
+     "slug": "wise-mind",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/wise-mind",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/wise-mind",
+     "scope": "DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
     }
    ],
    "channels": [
@@ -16379,6 +17424,7 @@
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost",
     "this-is-too-much"
@@ -16443,9 +17489,26 @@
      "skill": "sources/tg-channels/this-is-too-much/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/this-is-too-much/library.html#topic/borderline-personality-disorder/bpd-self-image-emptiness",
      "scope": "Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)",
+     "slug": "nd-and-rsd-affirmations",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations",
+     "scope": "Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own."
     }
    ],
    "channels": [
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
@@ -16611,17 +17674,68 @@
      "skill": "sources/tg-channels/chitayu-mysli/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/chitayu-mysli/library.html#topic/overload-meltdowns-burnout/neurodivergent-rest-recovery",
      "scope": "Three kinds of rest (stillness, process activity, resource activity), learning to do nothing, planning rest, social recovery, returning after holidays, resilience as flexibility, and the annual year-review ritual."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "topic": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale)."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Balance & Life Philosophy",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Identifying your values and a value action plan",
+     "slug": "identify-values-action-plan",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/identify-values-action-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/identify-values-action-plan",
+     "scope": "What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Sensory overload and mapping your sensory profile",
+     "slug": "sensory-overload-and-profile",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-overload-and-profile",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-overload-and-profile.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-overload-and-profile",
+     "scope": "Why neurodivergent people reach sensory limits sooner, signs of overload and reducing input, and a worksheet rating hyper- and hyposensitivity per sense on a spoons scale."
     }
    ],
    "channels": [
     "chitayu-mysli",
     "deep-mind-2-0",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neyropryanost"
    ],
    "areas": [
     "Balance & Life Philosophy",
     "Behavior Change & Coaching",
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity"
    ]
@@ -17380,16 +18494,181 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/emotions-alexithymia/alexithymia-interoception",
      "scope": "The alexithymia hypothesis of autism, how alexithymia rather than autism explains interoception differences, a behaviorist view, and a timed spoken exercise for clarifying what you feel and why."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Neurodivergent-friendly DBT and everyday well-being",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Chronic Illness & Disability"
+     ],
+     "topic": "Self-care, a guide to my needs and the support and accommodations wheel",
+     "slug": "self-care-needs-and-support-wheel",
+     "key": "nd-friendly-dbt-workbook/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel",
+     "scope": "Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale)."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection",
+     "slug": "adapted-mindfulness-basics",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/adapted-mindfulness-basics",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/adapted-mindfulness-basics",
+     "scope": "What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity",
+      "Mind & Emotions"
+     ],
+     "topic": "Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it",
+     "slug": "self-check-in",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/self-check-in",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/self-check-in",
+     "scope": "A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation",
+     "slug": "accessible-mindfulness-exercises",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/accessible-mindfulness-exercises",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/accessible-mindfulness-exercises",
+     "scope": "Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones",
+     "slug": "managing-meltdowns",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/managing-meltdowns",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/managing-meltdowns",
+     "scope": "What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Alexithymia and describing your emotions",
+     "slug": "alexithymia-describing-emotions",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/alexithymia-describing-emotions",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/alexithymia-describing-emotions",
+     "scope": "Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Movement & Body"
+     ],
+     "topic": "The eight senses: recognising and managing hypersensitivity and hyposensitivity",
+     "slug": "hyper-and-hyposensitivity",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/hyper-and-hyposensitivity",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/hyper-and-hyposensitivity.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/hyper-and-hyposensitivity",
+     "scope": "Five external and three internal senses (vestibular, proprioception, interoception), examples of over- and under-responsiveness in each, and per-sense accommodations such as headphones, seamless socks, weighted …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Sensory overload and mapping your sensory profile",
+     "slug": "sensory-overload-and-profile",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-overload-and-profile",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-overload-and-profile.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-overload-and-profile",
+     "scope": "Why neurodivergent people reach sensory limits sooner, signs of overload and reducing input, and a worksheet rating hyper- and hyposensitivity per sense on a spoons scale."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Managing sensory needs",
+     "area": "Neurodiversity",
+     "also_areas": [
+      "Mind & Emotions"
+     ],
+     "topic": "Building a sensory toolkit and a sensory-friendly safe space",
+     "slug": "sensory-toolkit-and-safe-space",
+     "key": "nd-friendly-dbt-workbook/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-sensory-needs/sensory-toolkit-and-safe-space",
+     "scope": "Assembling a portable sensory toolkit (visual, sound, touch, smell items, with instructions) and setting up a calming safe space (location, lighting, seating, weighted blanket, fidgets)."
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
     "human-gazing-upon-machine",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy",
     "neyropryanost"
    ],
    "areas": [
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity",
     "Neuroscience & Cognitive Science"
@@ -18071,6 +19350,39 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/sensory-processing-regulation/sensory-regulation-safety-plans",
      "scope": "Practical self-regulation of the sensory system: functions of stimming, calming techniques (deep pressure, breathing, sound, light, smell, visuals), the five-part sensory safety plan, holiday overload checks, tolerating …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation",
+     "slug": "accessible-mindfulness-exercises",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/accessible-mindfulness-exercises",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/accessible-mindfulness-exercises",
+     "scope": "Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
     }
    ],
    "channels": [
@@ -18078,10 +19390,12 @@
     "chitayu-mysli",
     "deep-mind-2-0",
     "human-gazing-upon-machine",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
    "areas": [
+    "Meditation & Contemplative Practice",
     "Mind & Emotions",
     "Neurodiversity",
     "Psychiatry & Mental Health Care",
@@ -18177,14 +19491,50 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/attention-executive-function/hyperfocus-special-interests-monotropism",
      "scope": "Special interests and their benefits, hyperfocus versus flow in ADHD and autism, monotropism theory, research measuring hyperfocus in autistic teens, and how autistic adults tell special interests and stims apart from …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Mindfulness for neurodivergent minds",
+     "area": "Meditation & Contemplative Practice",
+     "also_areas": [
+      "Neurodiversity"
+     ],
+     "topic": "Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation",
+     "slug": "accessible-mindfulness-exercises",
+     "key": "nd-friendly-dbt-workbook/nd-mindfulness/accessible-mindfulness-exercises",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-mindfulness/accessible-mindfulness-exercises",
+     "scope": "Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation",
+     "slug": "self-soothing-improve-stims-spins",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/self-soothing-improve-stims-spins",
+     "scope": "Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "chitayu-mysli",
+    "nd-friendly-dbt-workbook",
     "neurodiv-psy"
    ],
    "areas": [
+    "Meditation & Contemplative Practice",
+    "Mind & Emotions",
     "Neurodiversity"
    ]
   },
@@ -19164,6 +20514,39 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/co-occurring-mental-health/anxiety-ptsd-ocd-autism",
      "scope": "Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)",
+     "slug": "check-facts-act-intentionally",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/check-facts-act-intentionally",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/check-facts-act-intentionally.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/check-facts-act-intentionally",
+     "scope": "Checking needs first, then the emotion, interpretations and whether the response is helpful; the decision flowchart; choosing intentional actions for anger, sadness, loneliness and anxiety; summary reflection."
     }
    ],
    "channels": [
@@ -19172,6 +20555,7 @@
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
@@ -19945,12 +21329,47 @@
      "skill": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html#topic/co-occurring-mental-health/anxiety-ptsd-ocd-autism",
      "scope": "Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Rest & Burnout"
+     ],
+     "topic": "Calming the body fast: mammalian diving reflex and the TIPP skill",
+     "slug": "diving-reflex-and-tipp",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/diving-reflex-and-tipp",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/diving-reflex-and-tipp",
+     "scope": "Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation."
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Emotional regulation",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Neurodiversity",
+      "Psychotherapy & Inner Work"
+     ],
+     "topic": "The Window of Tolerance and emotional dysregulation in neurodivergent people",
+     "slug": "window-of-tolerance-dysregulation",
+     "key": "nd-friendly-dbt-workbook/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-emotional-regulation/window-of-tolerance-dysregulation",
+     "scope": "Siegel's Window of Tolerance with signs of hyperarousal and hypoarousal, mapping your own signs, why regulation is harder for neurodivergent people (alexithymia, executive function) and how DBT skills bring you back …"
     }
    ],
    "channels": [
     "autizm-i-sdvg-v-opyte-i-knizhkah",
     "deep-mind-2-0",
     "human-gazing-upon-machine",
+    "nd-friendly-dbt-workbook",
     "neyropryanost",
     "this-is-too-much"
    ],
@@ -20325,6 +21744,23 @@
      "skill": "sources/tg-channels/this-is-too-much/agent-kb/SKILL.md",
      "library_anchor": "sources/tg-channels/this-is-too-much/library.html#topic/emotions-dysregulation/avoidance-rumination-exposure",
      "scope": "Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …"
+    },
+    {
+     "kb": "nd-friendly-dbt-workbook",
+     "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
+     "domain": "Distress tolerance and meltdowns",
+     "area": "Mind & Emotions",
+     "also_areas": [
+      "Psychotherapy & Inner Work",
+      "Neurodiversity"
+     ],
+     "topic": "Distress tolerance basics: the STOP skill and a personal crisis plan",
+     "slug": "stop-skill-and-crisis-plan",
+     "key": "nd-friendly-dbt-workbook/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "path": "sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md",
+     "skill": "sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md",
+     "library_anchor": "sources/books/nd-friendly-dbt-workbook/library.html#topic/nd-distress-tolerance/stop-skill-and-crisis-plan",
+     "scope": "Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary …"
     }
    ],
    "channels": [
@@ -20332,6 +21768,7 @@
     "deep-mind-2-0",
     "human-gazing-upon-machine",
     "na-balanse",
+    "nd-friendly-dbt-workbook",
     "this-is-too-much"
    ],
    "areas": [

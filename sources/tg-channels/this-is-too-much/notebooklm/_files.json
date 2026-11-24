@@ -1,6 +1,7 @@
 {
  "channel": "This is too much",
  "slug": "this-is-too-much",
+ "kind": "channel",
  "files": [
   {
    "file": "borderline-personality-disorder-1.md",

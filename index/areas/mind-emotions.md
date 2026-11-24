@@ -25,6 +25,8 @@ Cross-channel domain index: every knowledge base's topics on this subject. Open 
 - `sources/tg-channels/this-is-too-much/notebooklm/emotions-dysregulation-1.md` — This is too much · Emotions and emotional dysregulation (part 1 of 2) (~7,889 words): Understanding emotions and emotional dysregulation
 - `sources/tg-channels/this-is-too-much/notebooklm/emotions-dysregulation-2.md` — This is too much · Emotions and emotional dysregulation (part 2 of 2) (~10,756 words): Avoidance, rumination, anxiety and exposure; Self-criticism, people-pleasing and social comparison
 - `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/notebooklm/emotions-alexithymia.md` — Аутизм и СДВГ в опыте и книжках · Emotions and alexithymia (~4,401 words): Alexithymia and interoception in autism
+- `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-distress-tolerance.md` — The Neurodivergent Friendly Workbook of DBT Skills · Distress tolerance and meltdowns (~5,244 words): Distress tolerance basics: the STOP skill and a personal crisis plan; Calming the body fast: mammalian diving reflex and the TIPP skill; Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones; Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation
+- `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-emotional-regulation.md` — The Neurodivergent Friendly Workbook of DBT Skills · Emotional regulation (~5,022 words): Understanding emotions: their role, the emotional triangle and emotional responses; Alexithymia and describing your emotions; The Window of Tolerance and emotional dysregulation in neurodivergent people; Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)
 
 ## На балансе с Катей Стрельниковой  (`na-balanse`) — domain “Mind & Emotions”
 
@@ -309,6 +311,78 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/autizm-i
 - Frameworks: Three-minute spoken timer exercise (one-minute rounds out loud) · Three dimensions of interoception (accuracy, attention, appraisal — the radio metaphor) · Alexithymia hypothesis (Bird and Cook, 2013) · Why distinguishing autism from alexithymia matters (four reasons) · Behaviorist seven-step explanation of alexithymia in autism (speech as behavior, verbal community)
 - Concepts: `alexithymia`, `sensory-processing`, `emotional-intelligence`, `emotional-regulation` · also relevant to: Neurodiversity
 - Resources and links: 3 resources, 0 external links (section *Resources and links* of the file) · ★ Open-access article in Autism (2026, doi 10.1177/13623613261434431) on interoceptive signals and threat; Systematic review of interoception in autistic and non-autistic people (Frontiers in Psychiatry 2025, 31 studies); Аутизм, алекситимия и радикальный бихевиоризм: эта бесконечная гирлянда (Autism, alexithymia and radical behaviourism)
+
+## The Neurodivergent Friendly Workbook of DBT Skills  (`nd-friendly-dbt-workbook`) — domain “Distress tolerance and meltdowns”
+
+Channel skill (adopt its persona and constraints): `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+
+### Distress tolerance basics: the STOP skill and a personal crisis plan
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/stop-skill-and-crisis-plan.md` · 3 passages · pp. 10–50
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-distress-tolerance.md`
+- What distress tolerance means for neurodivergent people living in a neurotypical society, the situations that call for it, the four-step STOP skill (Stop, Take a step back, Observe, Proceed mindfully), the fill-in personal crisis plan (signs of being triggered, three distractions, safe people, coping tools) and the end-of-section distress tolerance summary reflection.
+- Answers: What is distress tolerance and why does it matter for neurodivergent people? · When should I use distress tolerance skills? · What does the STOP skill stand for and how do I use it? · How do I make a personal crisis plan? · What should a crisis plan contain? · Why prepare a crisis plan in advance rather than in the moment? · How can I reflect on which distress tolerance skills work for me?
+- Frameworks: STOP skill (Stop, Take a step back, Observe, Proceed mindfully) · Personal crisis plan worksheet · When to use distress tolerance skills (five situations) · Distress tolerance summary reflection
+- Concepts: `distress-tolerance`, `dialectical-behavior-therapy`, `uncertainty-resilience`, `meltdowns-shutdowns` · also relevant to: Psychotherapy & Inner Work, Neurodiversity
+
+### Calming the body fast: mammalian diving reflex and the TIPP skill
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md` · 3 passages · pp. 37–39
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-distress-tolerance.md`
+- How the mammalian diving reflex calms the fight-or-flight response, the two step-by-step methods for triggering it (ice-water bowl and ice pack with breath hold) with the safety reminders, and the TIPP skill — Temperature, Intense exercise, Paced breathing, Paired muscle relaxation — for quick relief from the physical effects of distress.
+- Answers: Why does splashing cold water on your face calm you down? · What is the mammalian diving reflex and how does it work? · How do I use cold water or an ice pack to stop a panic attack? · How long should I hold my breath with my face in cold water? · Who should not use the diving reflex skill without asking a doctor? · What does the TIPP skill stand for in DBT? · How do I do paced breathing and paired muscle relaxation? · Can stimming or stim dancing help in distress?
+- Frameworks: Mammalian diving reflex — Method one (bowl or sink of ice water) · Mammalian diving reflex — Method two (soft ice pack) · TIPP skill (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation)
+- Concepts: `distress-tolerance`, `somatic-regulation`, `stress-and-anxiety`, `dialectical-behavior-therapy`, `emotional-regulation`, `trauma-and-nervous-system` · also relevant to: Psychotherapy & Inner Work, Rest & Burnout
+
+### Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md` · 4 passages · pp. 40–43
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-distress-tolerance.md`
+- What meltdowns are (involuntary responses to surpassing a limit, never tantrums, always built up from a combination of factors), the ten ways they can look, why self-compassion and aftercare matter, the fifteen meltdown prevention tips, and the two worksheets — Meltdown Mapping and the Meltdown Tip Sheet for loved ones.
+- Answers: What is a meltdown and how is it different from a tantrum? · What causes autistic or neurodivergent meltdowns? · What can a meltdown look like? · Why should I be compassionate with myself after a meltdown? · How do I recover after a meltdown? · How can I prevent or reduce meltdowns? · How do I map my meltdown triggers and warning signs? · What should family and loved ones do and not do during my meltdown?
+- Frameworks: Signs of a meltdown (10 ways meltdowns can look) · Meltdown prevention tips (15 tips) · Meltdown Mapping worksheet · Meltdown Tip Sheet for loved ones and family
+- Concepts: `meltdowns-shutdowns`, `distress-tolerance`, `sensory-processing`, `self-compassion`, `masking-camouflaging`, `self-advocacy-accommodations` · also relevant to: Neurodiversity
+
+### Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md` · 6 passages · pp. 44–49
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-distress-tolerance.md`
+- How the book adapts DBT distress tolerance for neurodivergent people through the senses and surroundings — the five-senses self-soothing list and worksheet, the neurodivergent "IMPROVE the environment" skill (image/visual, movement and stimming, boundaries, proprioceptive input, removing yourself, special interests, validation), a full list of stims as a starting point for unmasking, and special interests (SpIns) as a coping strategy.
+- Answers: What is sensory self-soothing and how do I use it in distress? · What can I do with each of my five senses to calm down? · What is the IMPROVE the environment skill and how does it differ from IMPROVE the moment? · How can I change my environment to prevent a meltdown or sensory overload? · Why does deep pressure or a weighted blanket help with distress? · What stims can I try if I have been masking or cannot think clearly in distress? · How can special interests be used as a coping strategy? · Does distracting myself mean I am denying my emotions?
+- Frameworks: Sensory self-soothing (five senses suggestion list) · Sensory self-soothing worksheet (visual, taste, sound, smell, touch) · IMPROVE the environment (image and visual, movement and stimming, encourage boundaries, proprioceptive input, remove yourself, occupy attention with special interests, validate) · A list of stims · Special interests (SpIns) as coping — four kinds of SpIns
+- Concepts: `distress-tolerance`, `sensory-processing`, `special-interests-hyperfocus`, `masking-camouflaging`, `dialectical-behavior-therapy`, `boundaries` · also relevant to: Neurodiversity, Psychotherapy & Inner Work
+
+## The Neurodivergent Friendly Workbook of DBT Skills  (`nd-friendly-dbt-workbook`) — domain “Emotional regulation”
+
+Channel skill (adopt its persona and constraints): `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+
+### Understanding emotions: their role, the emotional triangle and emotional responses
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/understanding-emotions.md` · 3 passages · pp. 52–54
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-emotional-regulation.md`
+- The book's foundation for emotional regulation — emotions are neither good nor bad and serve four roles (communication, motivation, information, influencing thoughts); the emotional triangle of body, mind and behaviour through which emotions send their messages, with a self-observation exercise; and the four stages of an emotional response (prompting event, interpretation and secondary emotion, physical responses, expressions).
+- Answers: Are some emotions bad? · What is the purpose of emotions? · What is the emotional triangle? · Why do ignored emotions get louder? · How can I tell what emotion I am feeling from my body, mind and behaviour? · What is a prompting event and can it be internal? · What is a secondary emotion? · How does an emotional response unfold?
+- Frameworks: The role of emotions (communication, motivation, information, influence our thoughts) · The emotional triangle (behaviour, body, mind) · Emotional triangle self-observation exercise · Emotional responses (prompting event, interpretation and secondary emotion, physical responses, expressions)
+- Concepts: `emotional-intelligence`, `emotional-regulation`, `dialectical-behavior-therapy` · also relevant to: Psychotherapy & Inner Work
+
+### Alexithymia and describing your emotions
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md` · 4 passages · pp. 55–58
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-emotional-regulation.md`
+- What alexithymia is and how it shows up, the author's own experience of it, three workarounds for naming feelings (alternative descriptions, emotion wheels, music and lyrics), the four-part breakdown of an emotion (prompting event, interpretations, physical responses, expressions), lists of common sensations for anger, sadness, anxiety and jealousy, and a personal worksheet for describing how you experience emotions.
+- Answers: What is alexithymia and what does it look like? · Is alexithymia common in autistic and ADHD people? · How can I describe my emotions if I can't name them? · What is an emotion wheel and when is it useful? · How do I break down an emotional experience into parts? · What body sensations go with anger, sadness, anxiety or jealousy? · How can I map how I personally experience my emotions?
+- Frameworks: Signs of alexithymia (four) · Workarounds for alexithymia (alternative descriptions, emotion wheel, music or lyrics) · Describing your emotions — four components (prompting event, interpretations, physical responses, expressions) · Common experiences of anger, sadness, anxiety and jealousy · Describing your emotions personal worksheet
+- Concepts: `alexithymia`, `emotional-intelligence`, `sensory-processing`, `dialectical-behavior-therapy` · also relevant to: Neurodiversity
+
+### The Window of Tolerance and emotional dysregulation in neurodivergent people
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/window-of-tolerance-dysregulation.md` · 3 passages · pp. 59–61
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-emotional-regulation.md`
+- Explains Dr. Dan Siegel's Window of Tolerance as the book uses it (hyperarousal, zone of tolerance, hypoarousal, with the full lists of signs of each), gives the worksheet for mapping your own window, defines emotional regulation and dysregulation, lists the eight factors that make regulation harder for neurodivergent people and the eight ways dysregulation can look, and frames DBT skills as the way back into the window.
+- Answers: What is the Window of Tolerance and who coined it? · What are the signs of hyperarousal and hypoarousal? · What does being inside my zone of tolerance look like? · How do I map my own Window of Tolerance? · What is emotional regulation and why does it matter? · Why is emotional regulation harder for neurodivergent people? · What does emotional dysregulation look like? · How do DBT skills help with emotional dysregulation?
+- Frameworks: Window of Tolerance (hyperarousal / zone of tolerance / hypoarousal) · Your Window of Tolerance worksheet · Factors that impact the ability to regulate emotions · Signs of emotional dysregulation
+- Concepts: `emotional-regulation`, `trauma-and-nervous-system`, `dialectical-behavior-therapy`, `executive-function`, `alexithymia` · also relevant to: Neurodiversity, Psychotherapy & Inner Work
+
+### Check the Facts and Act Intentionally (neurodivergent-friendly Opposite Action)
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/check-facts-act-intentionally.md` · 5 passages · pp. 62–66
+- Light version: `sources/books/nd-friendly-dbt-workbook/notebooklm/nd-emotional-regulation.md`
+- The book's neurodivergent reworking of two DBT skills — Check the Facts, which checks needs first and then asks whether your response (not your emotion) fits the facts and is helpful, with a decision flowchart; and Act Intentionally, the author's renaming of Act Opposite, with lists of intentional actions for anger/frustration, loneliness/sadness and fear/anxiety — plus the emotional regulation summary reflection.
+- Answers: What does Check the Facts mean in a neurodivergent-friendly DBT? · Should I check whether my emotions fit the facts? · Why check my needs before checking the facts? · How do I decide whether to act on an emotion? · What is Act Intentionally and why did the author rename Act Opposite? · What can I do instead of throwing something when I'm angry? · What can I do when I feel lonely or sad? · What can I do when I feel scared or anxious? · How do I reflect on which emotional regulation skills help me?
+- Frameworks: Check the Facts (Is it helpful?) — three prompts · Check if it's helpful decision flowchart · Act Intentionally (renamed Act Opposite) · Intentional actions for anger/frustration, loneliness/sadness, fear/anxiety · Emotional regulation summary reflection
+- Concepts: `emotional-regulation`, `dialectical-behavior-therapy`, `stress-and-anxiety` · also relevant to: Psychotherapy & Inner Work
 
 ## Also relevant — topics filed under another area
 
@@ -688,4 +762,34 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - File: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md` · channel skill: `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/agent-kb/SKILL.md`
 - Why autistic people develop PTSD, social anxiety and anxiety disorders far more often than the general population (victimisation, sensory load, routine disruption, rumination, masking), how autistic PTSD and anxiety differ, how treatment and self-help are adapted, how social anxiety differs from autism behaviourally and in the brain, how to self-observe possible OCD with an adapted Florida Y-BOCS table, and how autistic people tell OCD apart from stims and special interests.
 - Concepts: `stress-and-anxiety`, `trauma-and-nervous-system`, `obsessive-compulsive-disorder`, `masking-camouflaging`, `cognitive-behavioral-therapy`, `psychiatric-diagnosis`
+
+### DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- Why Sonny Jane Wise adapted Dialectical Behaviour Therapy for neurodivergent (especially Autistic and ADHD) people — dropping interpersonal effectiveness, adding sensory needs and meltdown management — how the self-guided workbook is meant to be used, and the 1–10 emotional-intensity guide for choosing between mindfulness, emotional regulation and distress tolerance skills.
+- Concepts: `dialectical-behavior-therapy`, `neurodiversity`, `distress-tolerance`, `emotional-regulation`, `meditation-mindfulness`, `meltdowns-shutdowns`
+
+### Affirmations for neurodivergent people and for rejection sensitive dysphoria (RSD)  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-and-rsd-affirmations.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The workbook's complete lists of neurodivergent-friendly affirmations (countering internalised neurotypical standards) and affirmations for Rejection Sensitive Dysphoria, what RSD is according to the author, and the "write your own affirmations" exercise with its suggested uses.
+- Concepts: `rejection-sensitivity`, `ableism`, `self-compassion`, `self-esteem`
+
+### Wise Mind: balancing logical mind and emotional mind  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's account of DBT's three states of mind — logical mind, emotional mind and wise mind — what each is ruled by and good for, a diagram placing wise mind as the middle path, a worksheet for describing how you act in each state, and four strategies for engaging wise mind (mindfulness, curiosity, compassion, considering your values).
+- Concepts: `dialectical-behavior-therapy`, `meditation-mindfulness`, `emotional-regulation`, `self-compassion`, `meaning-purpose`
+
+### Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- The book's Self Check-in skill — why checking in daily helps you find and meet your needs (basic, sensory, support) — with the complete set of check-in prompts (emotions, what they are telling you, body reaction, thoughts, mood, energy, breathing, focus, body) and the "What next?" table of concrete actions for mood, energy, breathing, focus, body and sensory needs.
+- Concepts: `meditation-mindfulness`, `sensory-processing`, `emotional-regulation`, `energy-management`, `self-care`, `focus-attention`
+
+### Sensory overload and mapping your sensory profile  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-overload-and-profile.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- What sensory overload is and why neurodivergent people are more likely to reach their sensory limits, the eleven signs of sensory overload, the book's rule that the best response is reducing or removing the contributing input, and two My Sensory Profile worksheets — one rating hyper- and hyposensitivity for each of the eight senses on a 1–5 spoons scale, one listing your sensory differences and needs per sense.
+- Concepts: `sensory-processing`, `pacing`, `self-reflection-tools`
+
+### Building a sensory toolkit and a sensory-friendly safe space  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Neurodiversity
+- File: `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
+- How to set up a sensory safe space to escape to (finding a space, choosing lighting, choosing seating by the input you need, and eight items to fill it with) and how to build a sensory toolkit for distress or sensory overload — four tips, the book's full lists of visual, sound, touch and smell items, and a build-your-own worksheet with a prompt per sense.
+- Concepts: `sensory-processing`, `self-care`, `distress-tolerance`
 

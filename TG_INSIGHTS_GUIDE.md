@@ -1,22 +1,24 @@
 # TG Insights — guide to the whole setup
 
-*Generated 2026-11-23 11:08 from `tg-archivist/docs/guide_template.md` plus the live state of the library. Do not edit `TG_INSIGHTS_GUIDE.md` or `guide.html` by hand — edit the template and run `python3 tg-archivist/archivist.py sync`.*
+*Generated 2026-11-24 01:36 from `tg-archivist/docs/guide_template.md` plus the live state of the library. Do not edit `TG_INSIGHTS_GUIDE.md` or `guide.html` by hand — edit the template and run `python3 tg-archivist/archivist.py sync`.*
 
 ## 1. What this is
 
-TG Insights turns Telegram channel exports into **knowledge bases** and keeps them in one **library**. Each channel becomes a set of self-sufficient knowledge files (the channel's full insights, with every framework and step-by-step method written out and cited to the original messages). On top of the channels sits one cross-channel index, so a person or an AI agent can take a subject and read what *all* channels say about it.
+TG Insights turns Telegram channel exports — and books or other documents (PDF, EPUB, DOCX, Markdown, text, HTML) — into **knowledge bases** and keeps them in one **library**. Each channel becomes a set of self-sufficient knowledge files (the channel's full insights, with every framework and step-by-step method written out and cited to the original messages). On top of the channels sits one cross-channel index, so a person or an AI agent can take a subject and read what *all* channels say about it.
 
 Library root: the folder holding this guide (all paths below are relative to it).
 
-Three things you can do with it: **add knowledge** (new channels, or newer exports of channels you already have), **ask an agent** that answers from the library, and **study or browse** it yourself or with a learning tool such as NotebookLM.
+A book is handled exactly like a channel (section 4L): its text is cut into passages that play the role of posts, so it is browsed, searched, tagged with the same cross-channel concepts and cited just like a channel — with page numbers. Wherever this guide says “channel”, a book works the same way unless a step says otherwise.
+
+Three things you can do with it: **add knowledge** (new channels or books, or newer exports of channels you already have), **ask an agent** that answers from the library, and **study or browse** it yourself or with a learning tool such as NotebookLM.
 
 ## 2. The screens
 
 | Screen | What it is for | Open |
 |---|---|---|
 | **Knowledge Hub** | Front door to all channels: search and browse any subject across every knowledge base | [hub.html](hub.html) |
-| **Channel library** (one per channel) | Read one channel's topics; every citation unfolds the original message | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) · [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) · [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) · [Нейропряность](sources/tg-channels/neurospicy/library.html) · [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) · [Читаю мысли](sources/tg-channels/chitayu-mysli/library.html) · [This is too much](sources/tg-channels/this-is-too-much/library.html) · [Аутизм и СДВГ в опыте и книжках](sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html) |
-| **Archivist** | Add a new Telegram export or append a newer one; watch progress | start it (see 4A), then [http://127.0.0.1:8765](http://127.0.0.1:8765) |
+| **Channel library** (one per channel or book) | Read one source's topics; every citation unfolds the original message (for a book: the passage, with its page and section) | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) · [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) · [Human Gazing Upon Machine](sources/tg-channels/human-machine/library.html) · [Нейропряность](sources/tg-channels/neurospicy/library.html) · [(нейро)разнообразная психология](sources/tg-channels/neurodiv_psy/library.html) · [Читаю мысли](sources/tg-channels/chitayu-mysli/library.html) · [This is too much](sources/tg-channels/this-is-too-much/library.html) · [Аутизм и СДВГ в опыте и книжках](sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html) · [The Neurodivergent Friendly Workbook of DBT Skills](sources/books/nd-friendly-dbt-workbook/library.html) |
+| **Archivist** | Add a new Telegram export or a book, or append a newer export; watch progress | start it (see 4A), then [http://127.0.0.1:8765](http://127.0.0.1:8765) |
 | **This guide** | How everything works | [guide.html](guide.html) · for agents: `TG_INSIGHTS_GUIDE.md` |
 
 Every screen has the same three controls in the top-right corner: **How to use this page** (toggle with instructions for that screen), **＋ Add / append knowledge base** (opens the Archivist) and **?** (this guide). In a published copy of the library — one without the `tg-archivist/` toolkit, such as the GitHub repository — the middle button reads **＋ Request a channel** and opens a short form for suggesting a new channel or other source (the pages tell the two apart by whether `tg-archivist/app/local.js` loads).
@@ -30,7 +32,7 @@ Every screen has the same three controls in the top-right corner: **How to use t
 | `README.md` | Landing page of the public GitHub repository (channels, numbers, how to use, request form) | No — generated by `sync` |
 | `.gitignore`, `.git/` | The library folder is the git repository of its public copy; `.gitignore` keeps everything but the synthesized knowledge out (section 4J) | No — written by `archivist.py publish` from `tg-archivist/lib/public.py` |
 | `CLAUDE.md` | Standing instructions for any agent working in this folder | Yes |
-| `areas.json` | Cross-channel areas (the shared top-level subjects) | Yes (titles/descriptions) |
+| `areas.json` | Cross-channel areas (the shared top-level subjects), in display groups (`groups`, and each area's `group`) | Yes (titles, descriptions, groups) |
 | `concepts.json` | Shared cross-channel concept vocabulary — the source of truth for the concept index: slug, label, definition, English and Russian synonyms, aliases (merged slugs). Grows when a taxonomy or `tag` run defines a new concept; taxonomy and tagging work orders read it | Yes (labels, definitions, synonyms); merge duplicates with `archivist.py concepts merge` |
 | `theme_aliases.json` *(optional)* | Maps equivalent theme tags to one (`{"sleep-hygiene": "sleep"}`) | Yes |
 | `kb_registry.json` | List of knowledge bases in the library (each folder stored relative to the library root, so the library can be moved) | Via the Archivist |
@@ -40,7 +42,7 @@ Every screen has the same three controls in the top-right corner: **How to use t
 | `tg-archivist/` | The toolkit: `archivist.py`, `lib/`, `prompts/` (incl. the extraction standard), `app/` (Archivist panel), `docs/` | Yes (it is the code) |
 | `Start Archivist.command` | Double-click launcher for the Archivist panel (on a Mac its first start also installs `~/Applications/TG Archivist.app`, which lets the **＋ Add / append** button start the panel; `tg-archivist/app/launcher.py install / status / uninstall`) | — |
 | `index/notebooklm/<area>/` | Ready-made NotebookLM sets: every channel's study files on one area, to upload together | No — generated |
-| `sources/` | All source material, one folder per **source type**: `sources/tg-channels/` holds the Telegram channels; a new type of source (e.g. books) gets its own folder next to it (`sources/books/`) | see below |
+| `sources/` | All source material, one folder per **source type**: `sources/tg-channels/` holds the Telegram channels, `sources/books/` the books and other documents | see below |
 | `sources/<source type>/<source>/` | One knowledge base per source, e.g. `sources/tg-channels/na-balanse/`, `sources/tg-channels/deep-mind2.0/`. Its raw material is in `raw-exports/`, everything derived from it sits next to that | see below |
 
 Inside a source folder (here a channel folder, `sources/tg-channels/<channel>/`):
@@ -58,6 +60,18 @@ Inside a source folder (here a channel folder, `sources/tg-channels/<channel>/`)
 | `topics/<domain>/<topic>.md` | The knowledge files people and agents read (merged from the parts) | Generated |
 | `library.html` (+ `library-messages.js`: the original posts its citations open; left out of published copies), `README.md`, `SUMMARY.md`, `glossary.md`, `people.md`, `resources/` (`resources.md` = usable resources, `links.md` = external links, plus files & media and excluded messages), `notebooklm/`, `agent-kb/`, `99_qa_report.md` | Everything else | Generated |
 | `_kb.json`, `_state.json`, `_archivist.log` | Configuration, pipeline state, log | Managed by the Archivist |
+
+A **book folder** (`sources/books/<book>/`) has the same layout, with these differences:
+
+| Path | Contents | Source of truth? |
+|---|---|---|
+| `raw-exports/<file>/<file name>` — e.g. `raw-exports/the-neurodivergent-friendly-workbook/….pdf` | The book file itself (and, in their own folders, any further documents appended to it) | Yes — never modified |
+| `parsed/messages.jsonl` | The book's **passages**: one per PDF page (passage id = PDF page number) or ~450-word chunks of EPUB/DOCX/text, each with its printed page (`loc`, e.g. “p. 37”) and section path | Derived by code |
+| `parsed/structure.json`, `00_recon.md` | The table of contents recovered from the file (bookmarks, or the printed contents page), how page numbers were matched, and the running headers/footers removed | Derived by code |
+| `parsed/transcript.md` | The cleaned full text, passage by passage | Derived by code |
+| `_kb.json` | Also holds `source_kind: book`, author, year and the list of `documents` (file, format, checksum, id block) | Managed by the Archivist |
+
+There is no `linked/` or media transcription for a book: text inside scanned pages is recognised while the file is parsed.
 
 ## 4. Step by step
 
@@ -116,7 +130,7 @@ How an agent is expected to behave (the protocol in `KNOWLEDGE_INDEX.md`): start
 ### E. Browse a subject yourself, across channels
 
 1. Open [hub.html](hub.html).
-2. Type the subject, pick **area** chips, or pick **concepts** — from the **Concept index** in the left bar (type in its search box, English or Russian; click its heading to fold it away), from the *Concepts* row above the results (the concepts with the most topics — its label says “top N of all”, and the *Area* label says how many areas there are), or from the concept tags on any topic card. To narrow to channels, click their **channel cards** in the right-hand panel. Areas, concepts and channels are multi-select: several can be on at once (topics in any of them). For concepts, the **ANY | ALL** switch under the concept search (repeated in the banner above the results) decides whether a topic needs any or all of the selected concepts — e.g. three concepts on ALL plus two areas shows the topics in those two areas tagged with all three; in ALL mode each concept in the index says how many topics carry it together with the ones already selected, and `#concept=a,b&match=all` links to such a view. Click an active one again to switch it off, or use *deselect all* at the end of the row once two or more are on. Topics from all channels appear in the centre grouped by area, each titled first and then labelled with its channel. Each area heading folds its section away (click it again to unfold; *fold areas* does all). A topic card starts compact — title, channel, place and concept tags; click it to see it in full (summary, questions it answers, a *Frameworks (N)* toggle, resources, path of the knowledge file), and click its top again to fold it; *expand cards* / *collapse cards* do all. An area also shows, marked *also relevant*, topics filed under another area that teach the same subject; a concept shows every topic tagged with it, whatever its area, with the concept's definition and synonyms. `hub.html#concept=<slug>` (or `#concept=a,b`) opens concepts directly, and each channel library links its topics' concepts there. The channel cards (progress, library, README, NotebookLM pack, agent skill) sit in the right-hand panel under *Add / append knowledge base*; clicking a card outside its links switches that channel's filter on or off.
+2. Type the subject, pick **area** chips, or pick **concepts** — from the **Concept index** in the left bar (type in its search box, English or Russian; click its heading to fold it away), from the *Concepts* row above the results (the concepts with the most topics — its label says “top N of all”, and the *Area* label says how many areas there are), or from the concept tags on any topic card. To narrow by kind of source, use the type tags at the top of the right-hand **Sources** panel (*Telegram channels*, *Books*): only sources of the chosen kinds stay, and only the areas and concepts they cover are listed. To narrow to particular sources, click their **source cards** in the right-hand **Sources** panel (click its heading to fold it away); areas and concepts that none of the selected sources cover are then greyed out. Areas are listed in four group boxes side by side (Body & Health, Mind & Psychology, Life, Work & Change, Science, Technology & Society — set by `groups` and each area's `group` in `areas.json`), each with its total number of topics (filed under it or also relevant to it). The source cards show only the sources that have topics on the selected areas and concepts (and the search), biggest first: by their number of matching topics while something is selected, otherwise by their total number of topics. Kinds, areas, concepts and sources are multi-select: several can be on at once (topics in any of them). For concepts, the **ANY | ALL** switch under the concept search (repeated in the banner above the results) decides whether a topic needs any or all of the selected concepts — e.g. three concepts on ALL plus two areas shows the topics in those two areas tagged with all three; in ALL mode each concept in the index says how many topics carry it together with the ones already selected, and `#concept=a,b&match=all` links to such a view. Click an active one again to switch it off, or use *deselect all* at the end of the row once two or more are on; the **×** next to ANY | ALL deselects every concept. The search box stays pinned to the top of the window while you scroll, with the selected source types, areas and concepts under it (click one to deselect it); changing a selection while scrolled down brings the results back to their start. Topics from all channels appear in the centre grouped by area, each titled first and then labelled with its channel. Each area heading folds its section away (click it again to unfold; *fold areas* does all). A topic card starts compact — title, channel, place and concept tags; click it to see it in full (summary, questions it answers, a *Frameworks (N)* toggle, resources, path of the knowledge file), and click its top again to fold it; *expand cards* / *collapse cards* do all. An area also shows, marked *also relevant*, topics filed under another area that teach the same subject; a concept shows every topic tagged with it, whatever its area, with the concept's definition and synonyms. `hub.html#concept=<slug>` (or `#concept=a,b`) opens concepts directly, and each channel library links its topics' concepts there. The source cards (progress, library, README, NotebookLM pack, agent skill; for a book also **Open the book**) sit in the right-hand panel under *Add / append knowledge base*; clicking a card outside its links switches that source's filter on or off.
 3. Click a topic to read it in the channel library; click any `#id` chip there to unfold the original message, and click the same chip again (or the × on the message) to fold it away — the page returns to where you were. **NotebookLM** on a topic or area lists the matching study files from all channels.
 
 ### F. Check something against the original
@@ -177,7 +191,7 @@ The library folder is a git repository whose remote is the public GitHub reposit
 2. `python3 tg-archivist/archivist.py publish --apply [-m "message"]` — rewrites `.gitignore` from `tg-archivist/lib/public.py`, (re)installs the git **pre-commit guard**, commits everything in the public set and pushes. A new channel is included automatically (every `sources/<type>/<source>/` folder follows the same rules).
 3. If the push is refused with *Invalid username or token*, the stored GitHub token expired: create a fine-grained token (repository access: this repository only; permission *Contents: Read and write*), run `git push` in a terminal in the library folder and paste the token as the password. The commit is kept locally, so nothing is lost.
 
-The pre-commit guard also blocks a plain `git commit` that would include anything outside the public set; `doctor` reports a missing guard, a changed `.gitignore` and any tracked file that should not be public. In the published copy, pages notice that the toolkit is absent: the **＋** button becomes **＋ Request a channel** (a form for suggesting new sources) and citations name the original post without showing it.
+The pre-commit guard also blocks a plain `git commit` that would include anything outside the public set; `doctor` reports a missing guard, a changed `.gitignore` and any tracked file that should not be public. In the published copy, pages notice that the toolkit is absent: the **＋** button becomes **＋ Request a channel** (a form for suggesting new sources), citations name the original post without showing it, and a book's *Open the book* links become **Request the book / source** (a form for asking for the book or source itself; `SOURCE_REQUEST_URL` in `lib/ui.py`).
 
 ### K. Linked longreads: the article is the source, and it is kept
 
@@ -189,6 +203,24 @@ Channels often post a short pointer — "I wrote about this, full text here" —
 A saved page is never fetched again, so the copy survives the original (`linked --refresh` re-fetches pages that still exist and keeps the saved copy of any that has vanished). Articles linked *from inside* a saved article (series parts, follow-ups) are saved too, one level down, but are not attached to the post. Pages that were already gone are recorded as *missing*; pages that could not be reached (network) are retried on the next run and reported by `doctor`.
 
 The saved text is **source for its post**, exactly like the text in an image: it is in every work order under the post as a `[LINKED ARTICLE …]` block, counts toward the post's size and depth checks, its quotes are verified verbatim, it is cited as `[article #id]`, and it is shown under the post in the channel library. When a post gains article text (a new channel, an append, or the first run of this stage on an existing channel), the post is re-judged if it had been excluded as a mere announcement, and every already-extracted topic part that contains it is re-opened so its knowledge file is rewritten to include the article in full; links inside the article go to the `resources` stage. The saved copies are raw source and are never published.
+
+### L. Add a book or other document
+
+A book, a long article, a report, a course handout — any **PDF, EPUB, DOCX, Markdown, plain-text or HTML** file — becomes a knowledge base of its own, side by side with the channels: same hub, same areas and concepts, same agent skill, NotebookLM pack and library page.
+
+1. **Archivist panel**: paste the path of the file (or of a folder holding the files of one book) and press **Inspect**. The panel shows the title, author, year, pages and words it read from the file, and the folder the book will get (`sources/books/<slug>/`). PDF metadata is often incomplete — correct the title and author (the author name is used in citations and in the profile). Press **Build knowledge base**.
+   **Command line**: `python3 tg-archivist/archivist.py init "<file or folder>" --title "…" --author "…" [--year 2022] [--name <folder-name>]`, then `/tg-archivist "sources/books/<name>"` in Claude Code.
+2. The file is **copied** into `sources/books/<name>/raw-exports/<file>/` (moved, if it already lies inside the library), so the download can be deleted. The same file is never imported twice (it is recognised by its checksum).
+3. What the build does, in order:
+   - **parse** — the text is read (PDF: the built-in macOS PDF engine, with OCR for pages that have no text layer; elsewhere the `pypdf` package; EPUB, DOCX, Markdown, text and HTML need nothing) and cut into **passages**: one per PDF page, or ~450-word chunks of flowing text that never cross a chapter heading. Running headers and footers (a copyright line on every page) and printed page numbers are removed; printed page numbers are matched to PDF pages, so citations give the page as printed in the book. The **table of contents** is recovered from the PDF's bookmarks, else from the printed contents page (even when its layout scrambled the order), else from the headings. `00_recon.md` shows what was found.
+   - **cards** — each passage is classified; title, copyright, contents, divider and blank pages, indexes and back-cover promotion are excluded.
+   - **taxonomy** — topics are built from the passages **with the contents as a guide, not a cage**: a chapter that teaches several things is split, short chapters on one subject are merged, and a topic may gather pages from different chapters (a crisis plan in chapter 1 joins the crisis skills of chapter 3). Every topic gets the same cross-channel areas and concepts as channel topics, so the book appears next to the channels on the same subject.
+   - **extract → retag → resources → profile → assemble → QA → index** — as for a channel. Exercises, worksheets and reflection prompts are reproduced in full; the profile describes the book (author, stance, audience, terms of use, caveats).
+4. **Citations**: a passage is cited like a message, and the knowledge files add the printed page — `[msg #40, p. 37]` means passage 40 (page 40 of the PDF), printed page 37. Agents cite books as «Title», p. 37. In the book's library every `#40` chip unfolds the passage with its page and section and an **Open page 40 in the book** link; **Open the book** under the title and the *Files & Media* page open the book file from `raw-exports/`. In a published copy (without the file) these read **Request the book / source** and lead to a request form.
+5. **More than one file**: a companion workbook, a second volume or an appendix is added to the same book with **Append** (panel) or `archivist.py append "sources/books/<name>" "<file>"` — or drop the file into the book's `raw-exports/` folder and use **Append** on its card. Each document gets its own block of passage ids (the second starts at 1001), so nothing cited before moves.
+6. **Changed file**: replacing a book file by a corrected version re-parses it (it is recognised by its checksum) and re-opens every finished topic part whose passages changed.
+
+Copyright: the book's text stays local — `raw-exports/`, `parsed/` and the passage file of the library (`library-messages.js`) are never published (4J). The knowledge files, with their verbatim quotes, are published like a channel's; leave a book out of a public copy if its licence does not allow that.
 
 ## 5. Why nothing goes stale
 
@@ -203,8 +235,8 @@ Skills installed by symlink always read the current files. Copies uploaded elsew
 
 ## 6. Rules for agents working in this folder
 
-1. **Answering questions**: use the skill `tg-kb-navigator` and follow the protocol in `KNOWLEDGE_INDEX.md`. Start from the concept index `index/concepts.md`, then search with the concept's synonyms and several Russian and English terms (`find --concept <slug> …`) and scan neighbouring areas, not only the obvious one. Consult every relevant channel; adopt each channel's `agent-kb/SKILL.md` profile for its material; cite `<channel> · <topic> [msg #id]`.
-2. **Adding or updating knowledge**: use the skill `tg-archivist`. Never write knowledge files freehand outside a work order; the extraction standard `tg-archivist/prompts/EXTRACTION_STANDARD.md` is binding.
+1. **Answering questions**: use the skill `tg-kb-navigator` and follow the protocol in `KNOWLEDGE_INDEX.md` (books are sources like channels; cite them with the printed page). Start from the concept index `index/concepts.md`, then search with the concept's synonyms and several Russian and English terms (`find --concept <slug> …`) and scan neighbouring areas, not only the obvious one. Consult every relevant channel; adopt each channel's `agent-kb/SKILL.md` profile for its material; cite `<channel> · <topic> [msg #id]`.
+2. **Adding or updating knowledge** (channels and books): use the skill `tg-archivist`. Never write knowledge files freehand outside a work order; the extraction standard `tg-archivist/prompts/EXTRACTION_STANDARD.md` is binding.
 3. **Never edit generated files** (section 3 marks them). Change the source of truth or the generator, then run `sync`.
 4. **When you change the structure, a screen, a command, a skill or a user action**, update `tg-archivist/docs/guide_template.md` in the same change and run `sync`. `doctor` warns when the template is older than the code it describes.
 5. Fidelity: source only, quotes verbatim, uncertainty marked `(!)`, announcements and logistics excluded.
@@ -213,7 +245,7 @@ Skills installed by symlink always read the current files. Copies uploaded elsew
 
 ### Knowledge bases
 
-| Channel | Folder | Messages | Dates | Topics extracted | Knowledge words | Exports | Status |
+| Source | Folder | Messages / passages | Dates / pages | Topics extracted | Knowledge words | Exports / documents | Status |
 |---|---|---|---|---|---|---|---|
 | [На балансе с Катей Стрельниковой](sources/tg-channels/na-balanse/library.html) | `sources/tg-channels/na-balanse/` | 686 | 2023-12-04 → 2026-11-15 | 42/42 | ~283,692 | 2 | complete |
 | [deep mind 2.0](sources/tg-channels/deep-mind2.0/library.html) | `sources/tg-channels/deep-mind2.0/` | 1597 | 2019-11-10 → 2026-11-17 | 52/52 | ~500,998 | 2 | complete |
@@ -223,29 +255,31 @@ Skills installed by symlink always read the current files. Copies uploaded elsew
 | [Читаю мысли](sources/tg-channels/chitayu-mysli/library.html) | `sources/tg-channels/chitayu-mysli/` | 781 | 2023-09-18 → 2026-09-09 | 23/23 | ~70,130 | 1 | complete |
 | [This is too much](sources/tg-channels/this-is-too-much/library.html) | `sources/tg-channels/this-is-too-much/` | 239 | 2022-08-12 → 2026-11-19 | 22/22 | ~109,036 | 1 | complete |
 | [Аутизм и СДВГ в опыте и книжках](sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/library.html) | `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/` | 262 | 2023-04-01 → 2026-11-20 | 18/18 | ~98,427 | 1 | complete |
+| [The Neurodivergent Friendly Workbook of DBT Skills](sources/books/nd-friendly-dbt-workbook/library.html) (book) | `sources/books/nd-friendly-dbt-workbook/` | 81 | 81 pages | 19/19 | ~23,538 | 1 | complete |
 
 ### Cross-channel areas
 
-Energy & Resource (6 topics, 1 channel(s)), Rest & Burnout (8 topics, 2 channel(s)), Sleep (4 topics, 3 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement & Body (5 topics, 2 channel(s)), Balance & Life Philosophy (6 topics, 2 channel(s)), Mind & Emotions (28 topics, 7 channel(s)), Behavior Change & Coaching (5 topics, 2 channel(s)), Wellness Industry, Gadgets & Longevity (6 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Interviews & Community (3 topics, 1 channel(s)), Meditation & Contemplative Practice (6 topics, 1 channel(s)), Leadership & Organizations (14 topics, 1 channel(s)), Psychotherapy & Inner Work (14 topics, 6 channel(s)), Attention & Digital Wellbeing (3 topics, 1 channel(s)), Society & Politics (10 topics, 2 channel(s)), Neurodiversity (64 topics, 5 channel(s)), Neuroscience & Cognitive Science (7 topics, 1 channel(s)), Technology & AI (2 topics, 1 channel(s)), Science & Research (3 topics, 1 channel(s)), Chronic Illness & Disability (6 topics, 2 channel(s)), Psychiatry & Mental Health Care (17 topics, 3 channel(s))
+Energy & Resource (6 topics, 1 channel(s)), Rest & Burnout (8 topics, 2 channel(s)), Sleep (4 topics, 3 channel(s)), Nutrition (5 topics, 1 channel(s)), Movement & Body (5 topics, 2 channel(s)), Women's Health (1 topics, 1 channel(s)), Chronic Illness & Disability (6 topics, 2 channel(s)), Wellness Industry, Gadgets & Longevity (6 topics, 2 channel(s)), Mind & Emotions (36 topics, 8 channel(s)), Psychotherapy & Inner Work (14 topics, 6 channel(s)), Psychiatry & Mental Health Care (17 topics, 3 channel(s)), Neurodiversity (70 topics, 6 channel(s)), Meditation & Contemplative Practice (11 topics, 2 channel(s)), Attention & Digital Wellbeing (3 topics, 1 channel(s)), Balance & Life Philosophy (6 topics, 2 channel(s)), Behavior Change & Coaching (5 topics, 2 channel(s)), Leadership & Organizations (14 topics, 1 channel(s)), Interviews & Community (3 topics, 1 channel(s)), Neuroscience & Cognitive Science (7 topics, 1 channel(s)), Science & Research (3 topics, 1 channel(s)), Technology & AI (2 topics, 1 channel(s)), Society & Politics (10 topics, 2 channel(s))
 
 ### Skills
 
-- `/tg-archivist` — Build or update a channel knowledge base from a local Telegram HTML export folder — a new channel, or APPEND a newer export to a channel that already has a knowledge base. Produces full-insight knowledge files, the offline library
-- `/tg-kb-navigator` — Answer from the library of Telegram-channel knowledge bases, drawing on EVERY channel that covers the subject. Use when the user asks what a channel/author says or teaches, asks a subject question the channels may cover (health, e
+- `/tg-archivist` — Build or update a knowledge base from a local Telegram HTML export folder — a new channel, or APPEND a newer export to a channel that already has a knowledge base — or from a BOOK or other document (PDF, EPUB, DOCX, Markdown, text
+- `/tg-kb-navigator` — Answer from the library of Telegram-channel and book knowledge bases, drawing on EVERY channel and book that covers the subject. Use when the user asks what a channel/author says or teaches, asks a subject question the channels ma
 
 ### Worker agents
 
-- `tg-card-mapper` — Produces compact per-post cards (gist, keywords, kind, themes) for a batch of Telegram posts from a tg-archivist work order. Use for work orders whose agent field is tg-card-mapper.
-- `tg-insight-extractor` — Writes one full-depth knowledge file for a topic of a Telegram-channel knowledge base from a tg-archivist work order. Use for every work order whose agent field is tg-insight-extractor.
+- `tg-card-mapper` — Produces compact per-post cards (gist, keywords, kind, themes) for a batch of Telegram posts (or of book passages) from a tg-archivist work order. Use for work orders whose agent field is tg-card-mapp
+- `tg-insight-extractor` — Writes one full-depth knowledge file for a topic of a Telegram-channel or book knowledge base from a tg-archivist work order. Use for every work order whose agent field is tg-insight-extractor.
 - `tg-media-transcriber` — Transcribes text from images and PDFs of a Telegram export verbatim when local OCR is unavailable. Use for work orders whose agent field is tg-media-transcriber.
-- `tg-qa-verifier` — Independent fidelity spot-check of a finished Telegram-channel knowledge base — samples insights from knowledge files and verifies that the cited messages actually support them. Use after tg-archivist
+- `tg-qa-verifier` — Independent fidelity spot-check of a finished Telegram-channel or book knowledge base — samples insights from knowledge files and verifies that the cited messages actually support them. Use after tg-a
 - `tg-resource-curator` — Classifies the links and files shared in a Telegram channel's posts from a tg-archivist work order — resource (usable directly — files, articles, studies, free tools, project websites), external link 
-- `tg-taxonomist` — Builds or updates the topic tree of a Telegram-channel knowledge base from a tg-archivist work order — the bottom-up Domains → Topics taxonomy (with cross-channel areas, also-relevant areas and concep
+- `tg-taxonomist` — Builds or updates the topic tree of a Telegram-channel or book knowledge base from a tg-archivist work order — the bottom-up Domains → Topics taxonomy (with cross-channel areas, also-relevant areas an
 
 ### Commands (`python3 tg-archivist/archivist.py …`)
 
 - `archivist.py init` — FOLDER [--title T] [--slug S] [--name N] [--set k=v ...]  new knowledge base in sources/tg-channels/<name>/
-- `archivist.py append KB_DIR [NEW_EXPORT_DIR] [--force]` — add later export(s) of the SAME channel: a folder
+- `archivist.py init` — FILE_OR_FOLDER [--title T] [--author A] [--year Y] [--name N] ...  a BOOK or other document
+- `archivist.py append KB_DIR [NEW_EXPORT_DIR] [--force]` — (a book: add a further document, e.g. a companion workbook)
 - `archivist.py relocate KB_DIR | --all [--apply]` — after a knowledge base or its export folders were moved/renamed:
 - `archivist.py next` — KB_DIR [--limit N]   run deterministic stages; print open work orders (JSON)
 - `archivist.py check` — KB_DIR [--unit ID] [--final]    validate finished work orders
