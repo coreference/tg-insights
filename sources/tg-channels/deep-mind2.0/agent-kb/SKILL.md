@@ -47,7 +47,7 @@ Paths: `domains/…` and `references/…` are inside this skill folder. `resourc
 
 | Domain | Cross-channel area | Topics | Routing table |
 |---|---|---|---|
-| **Meditation & Contemplative Practice** | Meditation & Contemplative Practice | Mindfulness as a core meta-skill; Meditation practice: how to start and keep going; Metta, compassion and the four immeasurables; Retreats and the deeper contemplative path; Impermanence, suffering and meeting experience; Buddhist teachers, lineages and contemplative centres | `domains/meditation-contemplative-practice.md` |
+| **Meditation & Contemplative Practice** | Meditation & Contemplation | Mindfulness as a core meta-skill; Meditation practice: how to start and keep going; Metta, compassion and the four immeasurables; Retreats and the deeper contemplative path; Impermanence, suffering and meeting experience; Buddhist teachers, lineages and contemplative centres | `domains/meditation-contemplative-practice.md` |
 | **Trauma, Nervous System & Self-Regulation** | Mind & Emotions | Trauma and the nervous system: foundations; Self-regulation techniques for stress and anxiety; Coping with anxiety, panic, depression and personal crisis | `domains/trauma-nervous-system.md` |
 | **Mindful Leadership & Teams** | Leadership & Organizations | Qualities of mindful and compassionate leaders; Toxic leadership, power and workplace ethics; Team trust, feedback and conflict; Meetings and group facilitation; Motivation, talent and hiring | `domains/mindful-leadership-teams.md` |
 | **Organizations & Corporate Culture** | Leadership & Organizations | Conscious business and company purpose; Corporate culture change; Employee wellbeing and workplace mental health; Supporting teams through crisis; Self-management and new organization models; Founder lessons from building a meaning-driven company | `domains/organizations-corporate-culture.md` |
@@ -60,4 +60,4 @@ Paths: `domains/…` and `references/…` are inside this skill folder. `resourc
 | **Society, War & Collective Trauma** | Society & Politics | Collective trauma, propaganda and society; Keeping an inner stance through war and repression; Politics, power and authoritarianism; Emigration and relocation psychology; Freedom, capitalism and contemporary culture; Public ethics, abuse scandals and media responsibility | `domains/society-war-collective-trauma.md` |
 | **Sleep** | Sleep | Sleep, sleep debt and caffeine | `domains/sleep.md` |
 | **Body & Embodiment** | Movement & Body | Embodiment and body practices | `domains/body-embodiment.md` |
-| **Biohacking & Wellness Industry** | Wellness Industry, Gadgets & Longevity | Supplements and recovery protocols; Wellness industry, gadgets and trends | `domains/biohacking-wellness-industry.md` |
+| **Biohacking & Wellness Industry** | Wellness, Gadgets, Longevity | Supplements and recovery protocols; Wellness industry, gadgets and trends | `domains/biohacking-wellness-industry.md` |

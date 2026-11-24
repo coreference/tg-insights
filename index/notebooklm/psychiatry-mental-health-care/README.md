@@ -1,6 +1,6 @@
-# NotebookLM set — Psychiatry & Mental Health Care
+# NotebookLM set — Psychiatry & Mental Health
 
-All NotebookLM study files on “Psychiatry & Mental Health Care” from 3 channel(s): This is too much, Аутизм и СДВГ в опыте и книжках, Читаю мысли. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
+All NotebookLM study files on “Psychiatry & Mental Health” from 3 channel(s): This is too much, Аутизм и СДВГ в опыте и книжках, Читаю мысли. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
 
 - `chitayu-mysli--psychiatric-treatment-care.md` — Читаю мысли · **Psychiatric treatment and mental health care** (~10,412 words): Psychiatric medication: ADHD drugs and antidepressants; Choosing specialists and evidence-based mental health care; Health policy and healthcare systems
 - `this-is-too-much--borderline-personality-disorder-1.md` — This is too much · **Borderline personality disorder (part 1 of 3)** (~4,769 words): BPD: definition, causes and explanatory models

@@ -59,7 +59,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "autistic-burnout",
@@ -238,7 +238,7 @@
       "neurodiversity"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "neurodiversity",
@@ -321,7 +321,7 @@
       "autism"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "psychiatric-diagnosis",
@@ -400,7 +400,7 @@
       "differential"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -450,8 +450,8 @@
      ],
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "scientific-thinking",
@@ -667,7 +667,7 @@
       "accommodations"
      ],
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "self-advocacy-accommodations",

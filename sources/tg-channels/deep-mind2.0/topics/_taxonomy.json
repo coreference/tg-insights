@@ -3,7 +3,7 @@
   {
    "domain": "Meditation & Contemplative Practice",
    "slug": "meditation-contemplative-practice",
-   "area": "Meditation & Contemplative Practice",
+   "area": "Meditation & Contemplation",
    "topics": [
     {
      "title": "Mindfulness as a core meta-skill",
@@ -58,7 +58,7 @@
       "practice"
      ],
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "meditation-mindfulness",
@@ -390,7 +390,7 @@
      ],
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "concepts": [
       "mindful-leadership",
@@ -817,7 +817,7 @@
       "presencing"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "concepts": [
@@ -938,7 +938,7 @@
      ],
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "concepts": [
       "rest-and-recovery",
@@ -975,7 +975,7 @@
      ],
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "self-tracking",
@@ -1288,7 +1288,7 @@
       "replication crisis"
      ],
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "willpower",
@@ -1396,8 +1396,8 @@
       "safety"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "ethics-in-inner-work",
@@ -1455,8 +1455,8 @@
       "inner work"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "spiritual-bypassing",
@@ -1540,7 +1540,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "digital-hygiene",
@@ -1853,7 +1853,7 @@
      ],
      "also_areas": [
       "Attention & Digital Wellbeing",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "freedom-and-culture",
@@ -1995,7 +1995,7 @@
   {
    "domain": "Biohacking & Wellness Industry",
    "slug": "biohacking-wellness-industry",
-   "area": "Wellness Industry, Gadgets & Longevity",
+   "area": "Wellness, Gadgets, Longevity",
    "topics": [
     {
      "title": "Supplements and recovery protocols",

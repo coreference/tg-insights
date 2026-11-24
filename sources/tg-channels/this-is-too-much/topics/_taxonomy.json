@@ -3,7 +3,7 @@
   {
    "domain": "Borderline personality disorder",
    "slug": "borderline-personality-disorder",
-   "area": "Psychiatry & Mental Health Care",
+   "area": "Psychiatry & Mental Health",
    "topics": [
     {
      "title": "BPD: definition, causes and explanatory models",
@@ -178,7 +178,7 @@
       "urge surfing"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "concepts": [
@@ -234,7 +234,7 @@
       "habits"
      ],
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "concepts": [
@@ -258,7 +258,7 @@
   {
    "domain": "Trauma, PTSD and complex PTSD",
    "slug": "trauma-ptsd-cptsd",
-   "area": "Psychiatry & Mental Health Care",
+   "area": "Psychiatry & Mental Health",
    "topics": [
     {
      "title": "Recognizing PTSD and complex PTSD",
@@ -365,7 +365,7 @@
       "freeze"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "trauma-and-nervous-system",
@@ -402,7 +402,7 @@
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "concepts": [
       "trauma-and-nervous-system",
@@ -433,7 +433,7 @@
       "anger"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "emotional-regulation",
@@ -465,7 +465,7 @@
      ],
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "emotional-avoidance",
@@ -523,7 +523,7 @@
   {
    "domain": "Diagnosis, comorbidity and mood disorders",
    "slug": "diagnosis-mood-disorders",
-   "area": "Psychiatry & Mental Health Care",
+   "area": "Psychiatry & Mental Health",
    "topics": [
     {
      "title": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
@@ -664,8 +664,8 @@
       "sleep hygiene"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "concepts": [
@@ -696,7 +696,7 @@
   {
    "domain": "Motivation and procrastination",
    "slug": "motivation-procrastination",
-   "area": "Behavior Change & Coaching",
+   "area": "Behaviour Change, Coaching",
    "topics": [
     {
      "title": "Procrastination, motivation and the vacation brain",

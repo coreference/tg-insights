@@ -10,7 +10,7 @@
      "scope": "The channel's core concept: energy as a finite resource/currency, its physiology (mitochondria, ATP), norms, the 4 energy types, and the 'battery' metaphor.",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "energy-management",
@@ -140,7 +140,7 @@
      "slug": "energy-diary",
      "scope": "Katya's longitudinal self-tracking experiment (time diary + energy diary through 2025): quarterly findings, dips and recoveries, final-year insights.",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Rest & Burnout"
      ],
      "concepts": [
@@ -321,7 +321,7 @@
      "slug": "otdohnuvshie",
      "scope": "Katya's closed group and later laboratory for learning to rest: how it works, enrollment, client journeys and testimonials.",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Energy & Resource"
      ],
      "concepts": [
@@ -412,7 +412,7 @@
      "slug": "sleep-practice",
      "scope": "Practical sleep hygiene: pillows, light alarms, earplugs, bedtime consistency, fixing broken sleep, revenge bedtime procrastination, the sleep practicum.",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "concepts": [
@@ -475,7 +475,7 @@
      "slug": "nutrition-myths",
      "scope": "Gastroenterologist myth-busting (keto, fruit, gluten), Norway's dietary guidelines, oral health as a health pillar, evidence-based eating.",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "concepts": [
       "nutrition-basics",
@@ -593,7 +593,7 @@
      "slug": "fitness",
      "scope": "Movement not tied to a gym: motivation, fitness independence steps, workouts never becoming automatic, workout recovery, endurance and career, VR fitness.",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "physical-activity",
@@ -656,7 +656,7 @@
      "scope": "Body neutrality, weight vs health, Zoom dysmorphia, beauty burnout, skincare and puffiness routines, LED masks, Ozempic critique, beauty spending.",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Wellness Industry, Gadgets & Longevity",
+      "Wellness, Gadgets, Longevity",
       "Women's Health"
      ],
      "concepts": [
@@ -897,7 +897,7 @@
      "slug": "meditation",
      "scope": "Meditation practices and courses: emotional-energy meditation, happiness course, microdosing mindfulness, Goleman/Davidson, anticipatory suffering, arkhe album.",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Rest & Burnout"
      ],
      "concepts": [
@@ -931,7 +931,7 @@
      "scope": "Self-compassion and the inner critic, self-esteem vs self-worth, the architecture of shame, IFS/self-leadership, self-care psychology and permissions.",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "self-compassion",
@@ -967,7 +967,7 @@
      "slug": "digital-hygiene",
      "scope": "Phone and information diet: morning chats, telegram hygiene, Brick, Kindle instead of phone, focus habits, unsubscribing.",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "concepts": [
@@ -1005,7 +1005,7 @@
       "resilience"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Psychotherapy & Inner Work",
       "Society & Politics"
      ],
@@ -1174,7 +1174,7 @@
      "count": 5
     }
    ],
-   "area": "Behavior Change & Coaching"
+   "area": "Behaviour Change, Coaching"
   },
   {
    "domain": "Wellness Industry, Gadgets & Longevity",
@@ -1243,7 +1243,7 @@
      "slug": "wellness-independence",
      "scope": "Skills over tools: gadget consumerism, who profits from our beliefs, wellness trends as a shop window.",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "wellness-industry-critique",
@@ -1263,7 +1263,7 @@
      "slug": "longevity",
      "scope": "Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Sleep"
      ],
      "concepts": [
@@ -1288,7 +1288,7 @@
      "count": 11
     }
    ],
-   "area": "Wellness Industry, Gadgets & Longevity"
+   "area": "Wellness, Gadgets, Longevity"
   },
   {
    "domain": "Women's Health",
@@ -1454,7 +1454,7 @@
      "scope": "Channel meta: intro, milestones, navigation, rubricators, polls about formats, events and streams, ads, team changes, monthly recaps.",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "shame",

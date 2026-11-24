@@ -4,23 +4,23 @@ Each folder gathers the NotebookLM files of every channel on one subject. Genera
 
 - **Attention & Digital Wellbeing** → `attention-digital-wellbeing/` — 3 file(s), ~20,092 words
 - **Balance & Life Philosophy** → `balance-life-philosophy/` — 3 file(s), ~29,448 words
-- **Behavior Change & Coaching** → `behavior-change-coaching/` — 4 file(s), ~37,291 words
+- **Behaviour Change, Coaching** → `behavior-change-coaching/` — 4 file(s), ~37,291 words
 - **Chronic Illness & Disability** → `chronic-illness-disability/` — 4 file(s), ~27,078 words
 - **Energy & Resource** → `energy-resource/` — 4 file(s), ~35,743 words
 - **Interviews & Community** → `interviews-community/` — 3 file(s), ~57,111 words
 - **Leadership & Organizations** → `leadership-organizations/` — 14 file(s), ~151,635 words
-- **Meditation & Contemplative Practice** → `meditation-contemplative-practice/` — 7 file(s), ~65,363 words
+- **Meditation & Contemplation** → `meditation-contemplative-practice/` — 7 file(s), ~65,363 words
 - **Mind & Emotions** → `mind-emotions/` — 23 file(s), ~191,319 words
 - **Movement & Body** → `movement-body/` — 4 file(s), ~28,542 words
+- **Neuro- & Cognitive Science** → `neuroscience-cognitive-science/` — 3 file(s), ~25,057 words
 - **Neurodiversity** → `neurodiversity/` — 41 file(s), ~351,010 words
-- **Neuroscience & Cognitive Science** → `neuroscience-cognitive-science/` — 3 file(s), ~25,057 words
 - **Nutrition** → `nutrition/` — 2 file(s), ~17,472 words
-- **Psychiatry & Mental Health Care** → `psychiatry-mental-health-care/` — 10 file(s), ~79,089 words
+- **Psychiatry & Mental Health** → `psychiatry-mental-health-care/` — 10 file(s), ~79,089 words
 - **Psychotherapy & Inner Work** → `psychotherapy-inner-work/` — 10 file(s), ~83,049 words
 - **Rest & Burnout** → `rest-burnout/` — 6 file(s), ~55,523 words
 - **Science & Research** → `science-research/` — 2 file(s), ~12,660 words
 - **Sleep** → `sleep/` — 3 file(s), ~24,535 words
 - **Society & Politics** → `society-politics/` — 8 file(s), ~90,126 words
 - **Technology & AI** → `technology-ai/` — 1 file(s), ~7,346 words
-- **Wellness Industry, Gadgets & Longevity** → `wellness-industry-gadgets-longevity/` — 3 file(s), ~31,257 words
+- **Wellness, Gadgets, Longevity** → `wellness-industry-gadgets-longevity/` — 3 file(s), ~31,257 words
 - **Women's Health** → `women-s-health/` — 1 file(s), ~8,534 words

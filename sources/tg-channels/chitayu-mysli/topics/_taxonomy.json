@@ -15,7 +15,7 @@
       "autism"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "psychiatric-diagnosis",
@@ -60,7 +60,7 @@
      ],
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "psychiatric-diagnosis",
@@ -484,7 +484,7 @@
       "work"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "concepts": [
@@ -527,7 +527,7 @@
       "planning"
      ],
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "concepts": [
@@ -590,7 +590,7 @@
   {
    "domain": "Psychiatric treatment and mental health care",
    "slug": "psychiatric-treatment-care",
-   "area": "Psychiatry & Mental Health Care",
+   "area": "Psychiatry & Mental Health",
    "topics": [
     {
      "title": "Psychiatric medication: ADHD drugs and antidepressants",
@@ -756,7 +756,7 @@
      ],
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "concepts": [
       "physical-activity",

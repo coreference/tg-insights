@@ -1,4 +1,4 @@
-# Area index — Behavior Change & Coaching
+# Area index — Behaviour Change, Coaching
 
 Cross-channel domain index: every knowledge base's topics on this subject. Open ALL topic files that match the request (from every channel listed), read them in full, and attribute each view to its channel. Before using a channel's files, read its skill (persona + constraints) named in the channel heading.
 
@@ -96,7 +96,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How the channel teaches an "information diet" and smartphone hygiene — personal rule sets for phone use, a 6-step Telegram/morning-chat detox, five focus habits from Jay Shetty's podcast with the attention research behind them, and later tools (Brick NFC blocker, Telegram only in a browser, Kindle instead of the phone) with screen-time data.
 - Concepts: `digital-hygiene`, `focus-attention`, `habit-formation`, `stress-and-anxiety`
 
-### Wellness independence and industry critique  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Wellness Industry, Gadgets & Longevity
+### Wellness independence and industry critique  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Wellness, Gadgets, Longevity
 - File: `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md` · channel skill: `sources/tg-channels/na-balanse/agent-kb/SKILL.md`
 - Katya Strelnikova's critique of the wellness and lifestyle industry — who profits from eleven popular health and life beliefs, why gadgets are toys rather than solutions, her personal verdicts on nine wellness gadgets she bought, and her "wellness independence" ideal with the four qualities worth developing instead of buying devices.
 - Concepts: `wellness-industry-critique`, `self-tracking`, `habit-formation`
@@ -106,7 +106,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - What the channel «На балансе» is, who runs it and why, how its content is organized (rubrics, best-of lists, monthly recaps), plus the knowledge embedded in its meta posts - the shame-and-self-care theses from Katya Strelnikova's podcast appearance, self-leadership ideas, energy-as-resource claims, relocation-routine tools, and the lessons from her monthly recaps (income smoothing, workload vs energy, rebuilding routines after moving). What the channel's meta posts of January–June 2026 teach — the author's monthly energy audit (what gave and what drained energy in January 2026 and the conclusion she drew), why "the mood to blog" is a result of conditions rather than a starting point, the theses of her 2025–2026 podcast appearances (resolutions, the brain treating change as a threat, four layers of rest, shame), and her own curated map of her core posts on rest, change and habits.
 - Concepts: `shame`, `self-care`, `energy-management`, `relocation`
 
-### Meditation practice: how to start and keep going  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Meditation & Contemplative Practice
+### Meditation practice: how to start and keep going  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Meditation & Contemplation
 - File: `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
 - How the deep mind channel teaches people to start meditating and keep going — the two beginner goals, rejoicing at noticing mind-wandering (positive reinforcement), deliberately finding pleasant sensations, motivation without craving for relief, a four-point checklist for a stuck practice, short frequent "frequency presence" practices, non-violent discipline, identity-based habit building, and several described practice formulas (Culadasa's formula, Thich Nhat Hanh's four lines, the "clerk of quality attention", Viktor Shiryaev's 4 "O").
 - Concepts: `meditation-mindfulness`, `habit-formation`, `motivation`, `self-compassion`

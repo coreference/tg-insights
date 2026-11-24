@@ -735,7 +735,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -752,7 +752,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -780,7 +780,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -794,7 +794,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Psychotherapy & Inner Work"
@@ -813,7 +813,7 @@
     "nd-friendly-dbt-workbook"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Neurodiversity"
    ]
   },
@@ -855,7 +855,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -874,7 +874,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -920,7 +920,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autistic burnout versus depression",
      "slug": "burnout-vs-depression",
@@ -1039,7 +1039,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -1148,7 +1148,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Rest & Burnout"
      ],
@@ -1165,7 +1165,7 @@
     "deep-mind-2-0"
    ],
    "areas": [
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -1190,7 +1190,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -1224,7 +1224,7 @@
      "domain": "Science, Research and Careers",
      "area": "Science & Research",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Biomedical research news: aging, epigenetics and medicine",
      "slug": "biomedical-research-news",
@@ -1241,8 +1241,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -1258,8 +1258,8 @@
     "neyropryanost"
    ],
    "areas": [
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
     "Science & Research",
     "Technology & AI"
    ]
@@ -1289,7 +1289,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -1305,7 +1305,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [],
      "topic": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
      "slug": "differential-diagnosis-classification",
@@ -1319,7 +1319,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -1339,7 +1339,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -1357,7 +1357,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -1383,7 +1383,7 @@
      "area": "Movement & Body",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Wellness Industry, Gadgets & Longevity",
+      "Wellness, Gadgets, Longevity",
       "Women's Health"
      ],
      "topic": "Body image, face and beauty",
@@ -1434,7 +1434,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Attention & Digital Wellbeing",
       "Mind & Emotions"
@@ -1454,7 +1454,7 @@
    "areas": [
     "Balance & Life Philosophy",
     "Movement & Body",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -1481,7 +1481,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -1497,7 +1497,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -1513,7 +1513,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -1530,7 +1530,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -1546,7 +1546,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -1563,7 +1563,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -1579,7 +1579,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [],
      "topic": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
      "slug": "differential-diagnosis-classification",
@@ -1596,7 +1596,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -1625,8 +1625,8 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "topic": "Boredom, boring tasks and mindfulness for ADHD",
      "slug": "boredom-mindfulness-adhd",
@@ -1904,7 +1904,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -1920,9 +1920,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "How the brain changes across the lifespan",
      "slug": "brain-development-lifespan",
@@ -1939,8 +1939,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -1956,7 +1956,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",
@@ -1973,7 +1973,7 @@
      "domain": "Sensory processing and regulation",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Sensory processing differences in autism: senses, profiles and theories",
      "slug": "sensory-processing-differences",
@@ -1990,7 +1990,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
      "slug": "autism-adhd-research-reading",
@@ -2008,8 +2008,8 @@
     "neyropryanost"
    ],
    "areas": [
-    "Neurodiversity",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science",
+    "Neurodiversity"
    ]
   },
   {
@@ -2034,7 +2034,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -2050,9 +2050,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "How the brain changes across the lifespan",
      "slug": "brain-development-lifespan",
@@ -2069,7 +2069,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -2086,7 +2086,7 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science"
    ]
   },
   {
@@ -2111,7 +2111,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Energy & Resource"
@@ -2129,7 +2129,7 @@
     "deep-mind-2-0"
    ],
    "areas": [
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -2154,7 +2154,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Sleep",
       "Energy & Resource"
@@ -2190,7 +2190,7 @@
    ],
    "areas": [
     "Chronic Illness & Disability",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science"
    ]
   },
   {
@@ -2215,7 +2215,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [],
      "topic": "Buddhist teachers, lineages and contemplative centres",
      "slug": "buddhist-teachers-lineages",
@@ -2230,7 +2230,7 @@
     "deep-mind-2-0"
    ],
    "areas": [
-    "Meditation & Contemplative Practice"
+    "Meditation & Contemplation"
    ]
   },
   {
@@ -2255,7 +2255,7 @@
      "domain": "Energy & Resource",
      "area": "Energy & Resource",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Rest & Burnout"
      ],
      "topic": "A year of the energy diary",
@@ -2323,7 +2323,7 @@
      "domain": "Rest & Burnout",
      "area": "Rest & Burnout",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Energy & Resource"
      ],
      "topic": "«Отдохнувшие»: the rest laboratory",
@@ -2373,7 +2373,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Energy & Resource",
@@ -2478,7 +2478,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -2495,7 +2495,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Measuring and managing stress load",
      "slug": "stress-load-management",
@@ -2563,7 +2563,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autistic burnout versus depression",
      "slug": "burnout-vs-depression",
@@ -2619,7 +2619,7 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Energy & Resource",
     "Interviews & Community",
     "Leadership & Organizations",
@@ -2699,7 +2699,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Energy & Resource"
@@ -2716,7 +2716,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -2739,9 +2739,9 @@
    "areas": [
     "Energy & Resource",
     "Nutrition",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Sleep",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -2766,7 +2766,7 @@
      "domain": "Energy & Resource",
      "area": "Energy & Resource",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Rest & Burnout"
      ],
      "topic": "A year of the energy diary",
@@ -2876,7 +2876,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",
@@ -2955,7 +2955,7 @@
      "domain": "Rest & Burnout",
      "area": "Rest & Burnout",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Energy & Resource"
      ],
      "topic": "«Отдохнувшие»: the rest laboratory",
@@ -2990,7 +2990,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Psychotherapy & Inner Work",
       "Society & Politics"
      ],
@@ -3026,7 +3026,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -3040,7 +3040,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Sleep",
       "Energy & Resource"
@@ -3137,8 +3137,8 @@
     "Chronic Illness & Disability",
     "Energy & Resource",
     "Mind & Emotions",
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
     "Rest & Burnout"
    ]
   },
@@ -3361,7 +3361,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -3402,7 +3402,7 @@
    "areas": [
     "Chronic Illness & Disability",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -3478,7 +3478,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -3494,7 +3494,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -3536,7 +3536,7 @@
    "areas": [
     "Chronic Illness & Disability",
     "Energy & Resource",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Sleep"
    ]
   },
@@ -3564,9 +3564,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -3582,7 +3582,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "topic": "ADHD skills training, coaching and organization tools",
@@ -3615,8 +3615,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -3631,7 +3631,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -3654,7 +3654,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Sleep"
    ]
   },
@@ -3699,7 +3699,7 @@
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Self-blame, overcontrol and the inner critic",
      "slug": "self-blame-overcontrol",
@@ -3713,7 +3713,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -3732,7 +3732,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Society & Politics"
    ]
@@ -3961,7 +3961,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -4002,7 +4002,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -4029,7 +4029,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -4062,7 +4062,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -4079,7 +4079,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -4095,9 +4095,9 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Neurobiology of trauma and trauma memory",
      "slug": "trauma-neurobiology-memory",
@@ -4127,7 +4127,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [],
      "topic": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
      "slug": "differential-diagnosis-classification",
@@ -4143,8 +4143,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -4163,7 +4163,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Sleep"
    ]
   },
@@ -4305,9 +4305,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "The self, consciousness and free will",
      "slug": "self-consciousness-free-will",
@@ -4323,7 +4323,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",
@@ -4340,8 +4340,8 @@
     "human-gazing-upon-machine"
    ],
    "areas": [
-    "Neurodiversity",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science",
+    "Neurodiversity"
    ]
   },
   {
@@ -4566,7 +4566,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autistic burnout versus depression",
      "slug": "burnout-vs-depression",
@@ -4582,7 +4582,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -4601,7 +4601,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -4615,7 +4615,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -4634,7 +4634,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -4648,7 +4648,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -4670,7 +4670,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -4695,7 +4695,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -4729,7 +4729,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing",
@@ -4762,7 +4762,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "topic": "Lowering emotional vulnerability: routines, food and boring basics",
@@ -4777,7 +4777,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -4794,7 +4794,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -4861,7 +4861,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Psychotherapy & Inner Work"
@@ -4878,7 +4878,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
@@ -4895,7 +4895,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Balance & Life Philosophy",
       "Psychotherapy & Inner Work"
@@ -5031,10 +5031,10 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -5085,7 +5085,7 @@
      "domain": "Sleep",
      "area": "Sleep",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Sleep practice and gear",
@@ -5102,7 +5102,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Digital hygiene and attention",
@@ -5120,7 +5120,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -5154,7 +5154,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -5171,7 +5171,7 @@
      "area": "Society & Politics",
      "also_areas": [
       "Attention & Digital Wellbeing",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Freedom, capitalism and contemporary culture",
      "slug": "freedom-capitalism-culture",
@@ -5201,7 +5201,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -5226,7 +5226,7 @@
     "Attention & Digital Wellbeing",
     "Energy & Resource",
     "Mind & Emotions",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Rest & Burnout",
     "Sleep",
     "Society & Politics"
@@ -5287,7 +5287,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -5303,9 +5303,9 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Neurobiology of trauma and trauma memory",
      "slug": "trauma-neurobiology-memory",
@@ -5323,7 +5323,7 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Society & Politics"
    ]
   },
@@ -5546,7 +5546,7 @@
      "domain": "Masking, Identity and the Neurodiversity Paradigm",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "What autism is: the neurodiversity paradigm",
      "slug": "neurodiversity-paradigm",
@@ -5728,7 +5728,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -5770,7 +5770,7 @@
      "area": "Movement & Body",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Wellness Industry, Gadgets & Longevity",
+      "Wellness, Gadgets, Longevity",
       "Women's Health"
      ],
      "topic": "Body image, face and beauty",
@@ -5852,7 +5852,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -5934,7 +5934,7 @@
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Self-blame, overcontrol and the inner critic",
      "slug": "self-blame-overcontrol",
@@ -6172,7 +6172,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -6191,7 +6191,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -6225,7 +6225,7 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -6254,7 +6254,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -6350,7 +6350,7 @@
      "domain": "Emotions and emotional dysregulation",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Understanding emotions and emotional dysregulation",
      "slug": "understanding-emotional-dysregulation",
@@ -6447,7 +6447,7 @@
      "area": "Energy & Resource",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "What energy is and where it comes from",
      "slug": "what-is-energy",
@@ -6480,7 +6480,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Rest & Burnout"
      ],
      "topic": "Meditation and mindfulness",
@@ -6495,7 +6495,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -6598,7 +6598,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -6646,7 +6646,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -6798,7 +6798,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -6860,7 +6860,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -6876,7 +6876,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -6911,7 +6911,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing",
@@ -6928,7 +6928,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "topic": "Lowering emotional vulnerability: routines, food and boring basics",
@@ -6945,7 +6945,7 @@
      "domain": "Emotions and emotional dysregulation",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Understanding emotions and emotional dysregulation",
      "slug": "understanding-emotional-dysregulation",
@@ -6959,7 +6959,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -7059,7 +7059,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
@@ -7076,7 +7076,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -7171,11 +7171,11 @@
     "Attention & Digital Wellbeing",
     "Energy & Resource",
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Society & Politics"
    ]
@@ -7218,7 +7218,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -7250,7 +7250,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -7269,7 +7269,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -7373,7 +7373,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -7412,7 +7412,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Society & Politics"
    ]
   },
@@ -7524,7 +7524,7 @@
      "area": "Energy & Resource",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "What energy is and where it comes from",
      "slug": "what-is-energy",
@@ -7592,7 +7592,7 @@
      "domain": "Energy & Resource",
      "area": "Energy & Resource",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Rest & Burnout"
      ],
      "topic": "A year of the energy diary",
@@ -7675,7 +7675,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Energy & Resource",
@@ -7713,7 +7713,7 @@
      "area": "Interviews & Community",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Channel life and announcements",
      "slug": "channel-life",
@@ -7730,7 +7730,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -7764,7 +7764,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -7830,7 +7830,7 @@
      "domain": "Emotions and emotional dysregulation",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Understanding emotions and emotional dysregulation",
      "slug": "understanding-emotional-dysregulation",
@@ -7862,7 +7862,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -7887,10 +7887,10 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Energy & Resource",
     "Interviews & Community",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
     "Rest & Burnout",
@@ -7919,7 +7919,7 @@
      "domain": "Science, Research and Careers",
      "area": "Science & Research",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Biomedical research news: aging, epigenetics and medicine",
      "slug": "biomedical-research-news",
@@ -7977,8 +7977,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Ethics and safety in inner work: choosing teachers and practitioners",
      "slug": "inner-work-ethics-safety",
@@ -8022,7 +8022,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -8042,7 +8042,7 @@
     "neurodiv-psy"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -8070,7 +8070,7 @@
      "domain": "Movement & Body",
      "area": "Movement & Body",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Fitness independence and sustainable movement",
      "slug": "fitness",
@@ -8121,7 +8121,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -8184,7 +8184,7 @@
      "domain": "Nutrition",
      "area": "Nutrition",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Nutrition myths and evidence-based guidelines",
      "slug": "nutrition-myths",
@@ -8231,7 +8231,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Energy & Resource"
@@ -8250,7 +8250,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "topic": "Lowering emotional vulnerability: routines, food and boring basics",
@@ -8271,7 +8271,7 @@
     "Energy & Resource",
     "Nutrition",
     "Psychotherapy & Inner Work",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -8361,9 +8361,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -8397,7 +8397,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",
@@ -8414,7 +8414,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "topic": "ADHD skills training, coaching and organization tools",
@@ -8431,7 +8431,7 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Executive function, autistic inertia, time perception and object permanence",
      "slug": "executive-function-inertia-time",
@@ -8507,7 +8507,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -8540,9 +8540,9 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Neurobiology of trauma and trauma memory",
      "slug": "trauma-neurobiology-memory",
@@ -8559,7 +8559,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -8575,8 +8575,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -8595,8 +8595,8 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Neuroscience & Cognitive Science",
-    "Psychiatry & Mental Health Care",
+    "Neuro- & Cognitive Science",
+    "Psychiatry & Mental Health",
     "Sleep"
    ]
   },
@@ -8622,7 +8622,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Digital hygiene and attention",
@@ -8657,7 +8657,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -8707,7 +8707,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "topic": "ADHD skills training, coaching and organization tools",
@@ -8722,7 +8722,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Motivation and procrastination",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Attention & Digital Wellbeing"
@@ -8741,7 +8741,7 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Executive function, autistic inertia, time perception and object permanence",
      "slug": "executive-function-inertia-time",
@@ -8771,8 +8771,8 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "topic": "Boredom, boring tasks and mindfulness for ADHD",
      "slug": "boredom-mindfulness-adhd",
@@ -8786,7 +8786,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -8811,8 +8811,8 @@
    ],
    "areas": [
     "Attention & Digital Wellbeing",
-    "Behavior Change & Coaching",
-    "Meditation & Contemplative Practice",
+    "Behaviour Change, Coaching",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity"
    ]
@@ -8881,9 +8881,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "The self, consciousness and free will",
      "slug": "self-consciousness-free-will",
@@ -8898,7 +8898,7 @@
     "human-gazing-upon-machine"
    ],
    "areas": [
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science"
    ]
   },
   {
@@ -8926,7 +8926,7 @@
      "area": "Society & Politics",
      "also_areas": [
       "Attention & Digital Wellbeing",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Freedom, capitalism and contemporary culture",
      "slug": "freedom-capitalism-culture",
@@ -9116,7 +9116,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -9163,7 +9163,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -9180,7 +9180,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -9247,7 +9247,7 @@
      "domain": "Sleep",
      "area": "Sleep",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Sleep practice and gear",
@@ -9281,7 +9281,7 @@
      "domain": "Movement & Body",
      "area": "Movement & Body",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Fitness independence and sustainable movement",
      "slug": "fitness",
@@ -9314,7 +9314,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Digital hygiene and attention",
@@ -9329,7 +9329,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -9345,7 +9345,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Balance & Life Philosophy"
@@ -9362,7 +9362,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Nutrition"
@@ -9379,9 +9379,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Wellness independence and industry critique",
      "slug": "wellness-independence",
@@ -9395,9 +9395,9 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Meditation practice: how to start and keep going",
      "slug": "meditation-practice-fundamentals",
@@ -9413,7 +9413,7 @@
      "domain": "Emotions, Ego & Personal Growth",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Willpower, self-control and habits: what the evidence says",
      "slug": "willpower-self-control-habits",
@@ -9431,7 +9431,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -9448,7 +9448,7 @@
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Self-blame, overcontrol and the inner critic",
      "slug": "self-blame-overcontrol",
@@ -9464,7 +9464,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "topic": "ADHD skills training, coaching and organization tools",
@@ -9481,7 +9481,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "topic": "Lowering emotional vulnerability: routines, food and boring basics",
@@ -9502,15 +9502,15 @@
    ],
    "areas": [
     "Attention & Digital Wellbeing",
-    "Behavior Change & Coaching",
-    "Meditation & Contemplative Practice",
+    "Behaviour Change, Coaching",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Movement & Body",
     "Neurodiversity",
     "Nutrition",
     "Psychotherapy & Inner Work",
     "Sleep",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -9556,7 +9556,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -9598,7 +9598,7 @@
      "domain": "Rest & Burnout",
      "area": "Rest & Burnout",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Energy & Resource"
      ],
      "topic": "«Отдохнувшие»: the rest laboratory",
@@ -9615,7 +9615,7 @@
      "domain": "Sleep",
      "area": "Sleep",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Sleep practice and gear",
@@ -9630,7 +9630,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Energy & Resource",
@@ -9650,7 +9650,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work"
      ],
      "topic": "ADHD skills training, coaching and organization tools",
@@ -9667,7 +9667,7 @@
     "na-balanse"
    ],
    "areas": [
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Neurodiversity",
     "Rest & Burnout",
     "Sleep"
@@ -9697,7 +9697,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "How adult ADHD and autism are diagnosed",
      "slug": "adult-adhd-autism-diagnosis",
@@ -9711,7 +9711,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -9727,7 +9727,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -9743,7 +9743,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Society & Politics"
      ],
@@ -9761,7 +9761,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -9789,8 +9789,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -9823,7 +9823,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -9840,7 +9840,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
      "slug": "autism-adhd-research-reading",
@@ -9983,7 +9983,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Psychotherapy & Inner Work",
       "Society & Politics"
      ],
@@ -9999,9 +9999,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Sleep"
      ],
      "topic": "Longevity and aging",
@@ -10016,7 +10016,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -10051,10 +10051,10 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Psychotherapy & Inner Work",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -10151,7 +10151,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Nutrition"
@@ -10169,7 +10169,7 @@
     "na-balanse"
    ],
    "areas": [
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Nutrition"
    ]
   },
@@ -10276,9 +10276,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Sleep"
      ],
      "topic": "Longevity and aging",
@@ -10293,9 +10293,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "How the brain changes across the lifespan",
      "slug": "brain-development-lifespan",
@@ -10311,7 +10311,7 @@
      "domain": "Science, Research and Careers",
      "area": "Science & Research",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Biomedical research news: aging, epigenetics and medicine",
      "slug": "biomedical-research-news",
@@ -10325,7 +10325,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Society & Politics"
      ],
@@ -10345,10 +10345,10 @@
    ],
    "areas": [
     "Movement & Body",
-    "Neuroscience & Cognitive Science",
-    "Psychiatry & Mental Health Care",
+    "Neuro- & Cognitive Science",
+    "Psychiatry & Mental Health",
     "Science & Research",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -10373,7 +10373,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -10389,7 +10389,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [],
      "topic": "Buddhist teachers, lineages and contemplative centres",
      "slug": "buddhist-teachers-lineages",
@@ -10419,11 +10419,11 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "How religions and spiritual traditions made sense of trauma",
      "slug": "religion-spiritual-traditions-trauma",
@@ -10440,8 +10440,8 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
-    "Psychiatry & Mental Health Care",
+    "Meditation & Contemplation",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -10487,7 +10487,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autistic burnout versus depression",
      "slug": "burnout-vs-depression",
@@ -10553,7 +10553,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -10651,7 +10651,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "How adult ADHD and autism are diagnosed",
      "slug": "adult-adhd-autism-diagnosis",
@@ -10713,7 +10713,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -10744,7 +10744,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -10801,7 +10801,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -10940,7 +10940,7 @@
      "area": "Energy & Resource",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "What energy is and where it comes from",
      "slug": "what-is-energy",
@@ -11102,11 +11102,11 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "How religions and spiritual traditions made sense of trauma",
      "slug": "religion-spiritual-traditions-trauma",
@@ -11120,7 +11120,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
@@ -11137,7 +11137,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Balance & Life Philosophy",
       "Psychotherapy & Inner Work"
@@ -11162,9 +11162,9 @@
     "Balance & Life Philosophy",
     "Energy & Resource",
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Rest & Burnout",
     "Society & Politics"
    ]
@@ -11268,7 +11268,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Rest & Burnout"
      ],
      "topic": "Meditation and mindfulness",
@@ -11283,7 +11283,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Leadership & Organizations"
      ],
@@ -11299,9 +11299,9 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Meditation practice: how to start and keep going",
      "slug": "meditation-practice-fundamentals",
@@ -11315,7 +11315,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -11331,7 +11331,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -11347,7 +11347,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -11363,7 +11363,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [],
      "topic": "Buddhist teachers, lineages and contemplative centres",
      "slug": "buddhist-teachers-lineages",
@@ -11380,7 +11380,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -11413,8 +11413,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Spiritual materialism and pitfalls on the inner path",
      "slug": "spiritual-materialism-bypassing",
@@ -11432,7 +11432,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -11465,7 +11465,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Movement & Body",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Behavioral activation, movement and mindfulness for mood",
      "slug": "mood-activation-mindfulness",
@@ -11479,7 +11479,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -11497,7 +11497,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing",
@@ -11512,11 +11512,11 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "How religions and spiritual traditions made sense of trauma",
      "slug": "religion-spiritual-traditions-trauma",
@@ -11532,8 +11532,8 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "topic": "Boredom, boring tasks and mindfulness for ADHD",
      "slug": "boredom-mindfulness-adhd",
@@ -11564,7 +11564,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Psychotherapy & Inner Work"
@@ -11581,7 +11581,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
@@ -11598,7 +11598,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -11615,7 +11615,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -11639,10 +11639,10 @@
    ],
    "areas": [
     "Attention & Digital Wellbeing",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Rest & Burnout"
    ]
@@ -11730,7 +11730,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -11828,7 +11828,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Pathological demand avoidance (PDA) and the PANDA approach",
      "slug": "pathological-demand-avoidance",
@@ -11924,7 +11924,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -11941,7 +11941,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -11976,7 +11976,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -12002,7 +12002,7 @@
      "area": "Energy & Resource",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "What energy is and where it comes from",
      "slug": "what-is-energy",
@@ -12058,7 +12058,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Leadership & Organizations"
      ],
@@ -12077,7 +12077,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -12137,7 +12137,7 @@
      "domain": "Theory U & Presencing",
      "area": "Leadership & Organizations",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Theory U, presencing and co-sensing",
@@ -12170,7 +12170,7 @@
    ],
    "areas": [
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Society & Politics"
    ]
   },
@@ -12198,9 +12198,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -12240,7 +12240,7 @@
      "domain": "Movement & Body",
      "area": "Movement & Body",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Fitness independence and sustainable movement",
      "slug": "fitness",
@@ -12271,7 +12271,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -12287,7 +12287,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Nutrition"
@@ -12304,9 +12304,9 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Meditation practice: how to start and keep going",
      "slug": "meditation-practice-fundamentals",
@@ -12352,7 +12352,7 @@
      "domain": "Emotions, Ego & Personal Growth",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Willpower, self-control and habits: what the evidence says",
      "slug": "willpower-self-control-habits",
@@ -12368,8 +12368,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Spiritual materialism and pitfalls on the inner path",
      "slug": "spiritual-materialism-bypassing",
@@ -12385,9 +12385,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -12401,7 +12401,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Motivation and procrastination",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Attention & Digital Wellbeing"
@@ -12420,8 +12420,8 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "topic": "Boredom, boring tasks and mindfulness for ADHD",
      "slug": "boredom-mindfulness-adhd",
@@ -12441,9 +12441,9 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Movement & Body",
     "Neurodiversity",
@@ -12472,9 +12472,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "How the brain changes across the lifespan",
      "slug": "brain-development-lifespan",
@@ -12488,7 +12488,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -12505,7 +12505,7 @@
     "human-gazing-upon-machine"
    ],
    "areas": [
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science"
    ]
   },
   {
@@ -12645,7 +12645,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Pathological demand avoidance (PDA) and the PANDA approach",
      "slug": "pathological-demand-avoidance",
@@ -12677,7 +12677,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -12818,7 +12818,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -12868,7 +12868,7 @@
      "domain": "Masking, Identity and the Neurodiversity Paradigm",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "What autism is: the neurodiversity paradigm",
      "slug": "neurodiversity-paradigm",
@@ -12901,7 +12901,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -12917,7 +12917,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -12936,8 +12936,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -12987,7 +12987,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -13130,7 +13130,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "How adult ADHD and autism are diagnosed",
      "slug": "adult-adhd-autism-diagnosis",
@@ -13193,7 +13193,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -13211,7 +13211,7 @@
      "domain": "Sensory processing and regulation",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Sensory processing differences in autism: senses, profiles and theories",
      "slug": "sensory-processing-differences",
@@ -13227,7 +13227,7 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Executive function, autistic inertia, time perception and object permanence",
      "slug": "executive-function-inertia-time",
@@ -13243,7 +13243,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -13259,7 +13259,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -13276,7 +13276,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
      "slug": "autism-adhd-research-reading",
@@ -13324,7 +13324,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Psychotherapy & Inner Work"
@@ -13366,11 +13366,11 @@
    "areas": [
     "Attention & Digital Wellbeing",
     "Chronic Illness & Disability",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -13398,8 +13398,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -13443,7 +13443,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -13524,7 +13524,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -13582,7 +13582,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -13603,7 +13603,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -13668,7 +13668,7 @@
      "domain": "Nutrition",
      "area": "Nutrition",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Nutrition myths and evidence-based guidelines",
      "slug": "nutrition-myths",
@@ -13709,7 +13709,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Inner work: self-worth, shame, parts",
      "slug": "inner-work",
@@ -13785,7 +13785,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -13816,7 +13816,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Pathological demand avoidance (PDA) and the PANDA approach",
      "slug": "pathological-demand-avoidance",
@@ -13893,7 +13893,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "How adult ADHD and autism are diagnosed",
      "slug": "adult-adhd-autism-diagnosis",
@@ -13907,7 +13907,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -13923,7 +13923,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [],
      "topic": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
      "slug": "differential-diagnosis-classification",
@@ -13943,7 +13943,7 @@
     "Chronic Illness & Disability",
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -13968,9 +13968,9 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "The self, consciousness and free will",
      "slug": "self-consciousness-free-will",
@@ -13984,7 +13984,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [],
      "topic": "How perception works: from sensory fragments to meaning",
      "slug": "perception-science",
@@ -13998,7 +13998,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -14016,7 +14016,7 @@
      "domain": "Sensory processing and regulation",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Sensory processing differences in autism: senses, profiles and theories",
      "slug": "sensory-processing-differences",
@@ -14032,8 +14032,8 @@
     "human-gazing-upon-machine"
    ],
    "areas": [
-    "Neurodiversity",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science",
+    "Neurodiversity"
    ]
   },
   {
@@ -14061,7 +14061,7 @@
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Self-blame, overcontrol and the inner critic",
      "slug": "self-blame-overcontrol",
@@ -14078,7 +14078,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -14282,7 +14282,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -14301,7 +14301,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -14328,9 +14328,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -14344,7 +14344,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Motivation and procrastination",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Attention & Digital Wellbeing"
@@ -14363,8 +14363,8 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "topic": "Boredom, boring tasks and mindfulness for ADHD",
      "slug": "boredom-mindfulness-adhd",
@@ -14381,7 +14381,7 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Neurodiversity"
    ]
   },
@@ -14413,7 +14413,7 @@
      "also_areas": [
       "Rest & Burnout",
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autistic burnout versus depression",
      "slug": "burnout-vs-depression",
@@ -14445,7 +14445,7 @@
      "domain": "Masking, Identity and the Neurodiversity Paradigm",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "What autism is: the neurodiversity paradigm",
      "slug": "neurodiversity-paradigm",
@@ -14461,7 +14461,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -14477,7 +14477,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
+      "Psychiatry & Mental Health",
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
      ],
@@ -14496,8 +14496,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -14587,9 +14587,9 @@
      "domain": "Executive function and daily life",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Executive dysfunction, ADHD skills training and daily-life strategies",
      "slug": "executive-function-adhd-strategies",
@@ -14605,7 +14605,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "How adult ADHD and autism are diagnosed",
      "slug": "adult-adhd-autism-diagnosis",
@@ -14622,7 +14622,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD",
      "slug": "neurodivergence-differential-diagnosis",
@@ -14699,7 +14699,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -14715,7 +14715,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -14731,7 +14731,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -14751,7 +14751,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -14765,7 +14765,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [],
      "topic": "Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP",
      "slug": "differential-diagnosis-classification",
@@ -14779,7 +14779,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -14798,7 +14798,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Pathological demand avoidance (PDA) and the PANDA approach",
      "slug": "pathological-demand-avoidance",
@@ -14814,7 +14814,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -14830,7 +14830,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -14847,7 +14847,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
      "slug": "autism-adhd-research-reading",
@@ -14861,7 +14861,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -14885,7 +14885,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -14930,7 +14930,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -14946,7 +14946,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Society & Politics"
      ],
@@ -14978,7 +14978,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -15000,7 +15000,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -15121,7 +15121,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -15137,11 +15137,11 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "How religions and spiritual traditions made sense of trauma",
      "slug": "religion-spiritual-traditions-trauma",
@@ -15162,7 +15162,7 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Technology & AI"
    ]
@@ -15278,7 +15278,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -15367,7 +15367,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -15630,7 +15630,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -15666,7 +15666,7 @@
      "domain": "Attention, executive function and ADHD",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Executive function, autistic inertia, time perception and object permanence",
      "slug": "executive-function-inertia-time",
@@ -15682,7 +15682,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "AuDHD, differential diagnosis and self-report questionnaires",
      "slug": "audhd-differential-diagnosis",
@@ -15705,7 +15705,7 @@
    "areas": [
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -15749,7 +15749,7 @@
      "area": "Interviews & Community",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Channel life and announcements",
      "slug": "channel-life",
@@ -15889,7 +15889,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",
@@ -16038,7 +16038,7 @@
      "domain": "Rest & Burnout",
      "area": "Rest & Burnout",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Energy & Resource"
      ],
      "topic": "«Отдохнувшие»: the rest laboratory",
@@ -16055,7 +16055,7 @@
      "domain": "Movement & Body",
      "area": "Movement & Body",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Fitness independence and sustainable movement",
      "slug": "fitness",
@@ -16123,7 +16123,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Energy & Resource",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Rest and recovery: vacations, year-end and weekends",
      "slug": "rest-recovery",
@@ -16137,7 +16137,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Rest & Burnout"
      ],
@@ -16268,7 +16268,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Motivation and procrastination",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Attention & Digital Wellbeing"
@@ -16293,13 +16293,13 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Energy & Resource",
     "Interviews & Community",
     "Movement & Body",
     "Neurodiversity",
     "Rest & Burnout",
-    "Wellness Industry, Gadgets & Longevity",
+    "Wellness, Gadgets, Longevity",
     "Women's Health"
    ]
   },
@@ -16325,7 +16325,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -16342,7 +16342,7 @@
     "deep-mind-2-0"
    ],
    "areas": [
-    "Meditation & Contemplative Practice"
+    "Meditation & Contemplation"
    ]
   },
   {
@@ -16387,7 +16387,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -16523,8 +16523,8 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science",
-      "Psychiatry & Mental Health Care"
+      "Neuro- & Cognitive Science",
+      "Psychiatry & Mental Health"
      ],
      "topic": "Reading autism and ADHD research critically",
      "slug": "autism-research-critique",
@@ -16555,7 +16555,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -16574,7 +16574,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Research on autism and ADHD: brain, genetics, diagnosis trends and reading",
      "slug": "autism-adhd-research-reading",
@@ -16594,7 +16594,7 @@
    "areas": [
     "Balance & Life Philosophy",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Science & Research",
     "Technology & AI"
    ]
@@ -16640,7 +16640,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -16859,7 +16859,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Inner work: self-worth, shame, parts",
      "slug": "inner-work",
@@ -16873,7 +16873,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Balance & Life Philosophy"
@@ -16893,7 +16893,7 @@
      "area": "Interviews & Community",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Channel life and announcements",
      "slug": "channel-life",
@@ -16942,7 +16942,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -16974,7 +16974,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Nutrition"
      ],
      "topic": "Lowering emotional vulnerability: routines, food and boring basics",
@@ -17038,7 +17038,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -17079,9 +17079,9 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Interviews & Community",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
     "Psychotherapy & Inner Work",
@@ -17145,7 +17145,7 @@
      "area": "Movement & Body",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Wellness Industry, Gadgets & Longevity",
+      "Wellness, Gadgets, Longevity",
       "Women's Health"
      ],
      "topic": "Body image, face and beauty",
@@ -17163,7 +17163,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Inner work: self-worth, shame, parts",
      "slug": "inner-work",
@@ -17177,7 +17177,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -17193,7 +17193,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Nutrition"
@@ -17210,9 +17210,9 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Meditation practice: how to start and keep going",
      "slug": "meditation-practice-fundamentals",
@@ -17226,7 +17226,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -17261,7 +17261,7 @@
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Self-blame, overcontrol and the inner critic",
      "slug": "self-blame-overcontrol",
@@ -17326,7 +17326,7 @@
      "domain": "DBT skills",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Mindfulness in DBT: WHAT skills, non-judgment and urge surfing",
@@ -17389,7 +17389,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Mind & Emotions"
@@ -17430,8 +17430,8 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Behavior Change & Coaching",
-    "Meditation & Contemplative Practice",
+    "Behaviour Change, Coaching",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Movement & Body",
     "Neurodiversity",
@@ -17478,7 +17478,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -17514,7 +17514,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -17596,7 +17596,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Balance & Life Philosophy"
@@ -17695,7 +17695,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Balance & Life Philosophy",
       "Psychotherapy & Inner Work"
@@ -17734,8 +17734,8 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
-    "Meditation & Contemplative Practice",
+    "Behaviour Change, Coaching",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity"
    ]
@@ -17775,7 +17775,7 @@
      "domain": "Energy & Resource",
      "area": "Energy & Resource",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Rest & Burnout"
      ],
      "topic": "A year of the energy diary",
@@ -17806,7 +17806,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Rest & Burnout",
       "Energy & Resource",
@@ -17824,7 +17824,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Sleep"
@@ -17841,7 +17841,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Attention & Digital Wellbeing",
       "Mind & Emotions"
@@ -17858,9 +17858,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Wellness independence and industry critique",
      "slug": "wellness-independence",
@@ -17894,7 +17894,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Measuring and managing stress load",
      "slug": "stress-load-management",
@@ -17908,7 +17908,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Rest & Burnout"
      ],
@@ -17961,12 +17961,12 @@
     "neyropryanost"
    ],
    "areas": [
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Energy & Resource",
     "Neurodiversity",
     "Nutrition",
     "Rest & Burnout",
-    "Wellness Industry, Gadgets & Longevity",
+    "Wellness, Gadgets, Longevity",
     "Women's Health"
    ]
   },
@@ -18008,7 +18008,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -18044,7 +18044,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -18089,7 +18089,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Mind, Self and Perception",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [],
      "topic": "How perception works: from sensory fragments to meaning",
      "slug": "perception-science",
@@ -18138,7 +18138,7 @@
      "domain": "Recognizing Autism and ADHD: Diagnosis and Research",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Recognizing autism in adults: criteria, hidden traits and late diagnosis",
      "slug": "autism-recognition-adults",
@@ -18202,7 +18202,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -18421,7 +18421,7 @@
      "domain": "Sensory processing and regulation",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Sensory processing differences in autism: senses, profiles and theories",
      "slug": "sensory-processing-differences",
@@ -18469,7 +18469,7 @@
      "domain": "Understanding and diagnosing neurodivergence",
      "area": "Neurodiversity",
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Autism traits beyond the stereotypes: lesser-known features and aphantasia",
      "slug": "autism-lesser-known-traits",
@@ -18515,7 +18515,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Psychotherapy & Inner Work"
@@ -18532,7 +18532,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity",
       "Mind & Emotions"
@@ -18549,7 +18549,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -18668,10 +18668,10 @@
     "neyropryanost"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
-    "Neurodiversity",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science",
+    "Neurodiversity"
    ]
   },
   {
@@ -18697,7 +18697,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Inner work: self-worth, shame, parts",
      "slug": "inner-work",
@@ -18714,7 +18714,7 @@
      "area": "Interviews & Community",
      "also_areas": [
       "Mind & Emotions",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Channel life and announcements",
      "slug": "channel-life",
@@ -18824,7 +18824,7 @@
      "area": "Movement & Body",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Wellness Industry, Gadgets & Longevity",
+      "Wellness, Gadgets, Longevity",
       "Women's Health"
      ],
      "topic": "Body image, face and beauty",
@@ -18915,7 +18915,7 @@
      "domain": "Sleep",
      "area": "Sleep",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Sleep practice and gear",
@@ -18964,7 +18964,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Sleep",
       "Energy & Resource"
@@ -19017,7 +19017,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -19035,8 +19035,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -19078,10 +19078,10 @@
    "areas": [
     "Chronic Illness & Disability",
     "Energy & Resource",
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
     "Nutrition",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Sleep"
    ]
   },
@@ -19323,7 +19323,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -19355,7 +19355,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -19395,10 +19395,10 @@
     "this-is-too-much"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -19496,7 +19496,7 @@
      "kb": "nd-friendly-dbt-workbook",
      "channel": "The Neurodivergent Friendly Workbook of DBT Skills",
      "domain": "Mindfulness for neurodivergent minds",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -19533,7 +19533,7 @@
     "neurodiv-psy"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity"
    ]
@@ -19558,7 +19558,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Leadership & Organizations"
      ],
@@ -19574,7 +19574,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -19592,8 +19592,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Spiritual materialism and pitfalls on the inner path",
      "slug": "spiritual-materialism-bypassing",
@@ -19608,7 +19608,7 @@
     "deep-mind-2-0"
    ],
    "areas": [
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Psychotherapy & Inner Work"
    ]
   },
@@ -19741,7 +19741,7 @@
      "domain": "Masking, Identity and the Neurodiversity Paradigm",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "What autism is: the neurodiversity paradigm",
      "slug": "neurodiversity-paradigm",
@@ -19821,7 +19821,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Neurodiversity"
      ],
@@ -19837,7 +19837,7 @@
      "kb": "chitayu-mysli",
      "channel": "Читаю мысли",
      "domain": "Psychiatric treatment and mental health care",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -19853,7 +19853,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -19869,7 +19869,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work"
      ],
@@ -19891,7 +19891,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -19984,7 +19984,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Rest & Burnout"
      ],
      "topic": "Meditation and mindfulness",
@@ -20002,7 +20002,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Inner work: self-worth, shame, parts",
      "slug": "inner-work",
@@ -20018,7 +20018,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching",
+      "Behaviour Change, Coaching",
       "Attention & Digital Wellbeing"
      ],
      "topic": "Digital hygiene and attention",
@@ -20035,7 +20035,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Psychotherapy & Inner Work",
       "Society & Politics"
      ],
@@ -20051,7 +20051,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Attention & Digital Wellbeing",
       "Mind & Emotions"
@@ -20068,9 +20068,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Sleep"
      ],
      "topic": "Longevity and aging",
@@ -20085,7 +20085,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -20189,7 +20189,7 @@
      "area": "Rest & Burnout",
      "also_areas": [
       "Mind & Emotions",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Measuring and managing stress load",
      "slug": "stress-load-management",
@@ -20241,7 +20241,7 @@
      "also_areas": [
       "Mind & Emotions",
       "Rest & Burnout",
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Digital detox and healthy screen habits",
      "slug": "digital-detox-screens",
@@ -20273,7 +20273,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -20434,7 +20434,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -20454,7 +20454,7 @@
      "domain": "Emotions and emotional dysregulation",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Understanding emotions and emotional dysregulation",
      "slug": "understanding-emotional-dysregulation",
@@ -20471,7 +20471,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -20488,7 +20488,7 @@
      "area": "Neurodiversity",
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Pathological demand avoidance (PDA) and the PANDA approach",
      "slug": "pathological-demand-avoidance",
@@ -20502,7 +20502,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -20565,14 +20565,14 @@
     "Chronic Illness & Disability",
     "Energy & Resource",
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
+    "Neuro- & Cognitive Science",
     "Neurodiversity",
-    "Neuroscience & Cognitive Science",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Rest & Burnout",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -20695,7 +20695,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Borderline personality disorder",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work"
@@ -20715,7 +20715,7 @@
    ],
    "areas": [
     "Neurodiversity",
-    "Psychiatry & Mental Health Care"
+    "Psychiatry & Mental Health"
    ]
   },
   {
@@ -20741,7 +20741,7 @@
      "domain": "Nutrition",
      "area": "Nutrition",
      "also_areas": [
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Nutrition myths and evidence-based guidelines",
      "slug": "nutrition-myths",
@@ -20755,7 +20755,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Sleep"
@@ -20772,7 +20772,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Energy & Resource"
@@ -20789,7 +20789,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -20829,8 +20829,8 @@
    "areas": [
     "Chronic Illness & Disability",
     "Nutrition",
-    "Psychiatry & Mental Health Care",
-    "Wellness Industry, Gadgets & Longevity"
+    "Psychiatry & Mental Health",
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -20858,7 +20858,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -20946,7 +20946,7 @@
      "domain": "Theory U & Presencing",
      "area": "Leadership & Organizations",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Theory U, presencing and co-sensing",
@@ -21082,8 +21082,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Ethics and safety in inner work: choosing teachers and practitioners",
      "slug": "inner-work-ethics-safety",
@@ -21214,7 +21214,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Chronic Illness & Disability"
@@ -21231,7 +21231,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -21249,7 +21249,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -21265,9 +21265,9 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "topic": "Neurobiology of trauma and trauma memory",
      "slug": "trauma-neurobiology-memory",
@@ -21281,11 +21281,11 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Psychotherapy & Inner Work",
       "Balance & Life Philosophy",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "How religions and spiritual traditions made sense of trauma",
      "slug": "religion-spiritual-traditions-trauma",
@@ -21301,8 +21301,8 @@
      "domain": "Trauma and sleep",
      "area": "Sleep",
      "also_areas": [
-      "Psychiatry & Mental Health Care",
-      "Neuroscience & Cognitive Science",
+      "Psychiatry & Mental Health",
+      "Neuro- & Cognitive Science",
       "Psychotherapy & Inner Work"
      ],
      "topic": "PTSD nightmares and sleep disturbances",
@@ -21317,7 +21317,7 @@
      "kb": "autizm-i-sdvg-v-opyte-i-knizhkah",
      "channel": "Аутизм и СДВГ в опыте и книжках",
      "domain": "Co-occurring mental health conditions",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Neurodiversity"
@@ -21378,7 +21378,7 @@
     "Mind & Emotions",
     "Movement & Body",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Psychotherapy & Inner Work",
     "Sleep",
     "Society & Politics"
@@ -21436,7 +21436,7 @@
      "domain": "Mind & Emotions",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Psychotherapy & Inner Work",
       "Society & Politics"
      ],
@@ -21452,7 +21452,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Meditation & Contemplative Practice",
-     "area": "Meditation & Contemplative Practice",
+     "area": "Meditation & Contemplation",
      "also_areas": [
       "Mind & Emotions"
      ],
@@ -21488,7 +21488,7 @@
      "area": "Leadership & Organizations",
      "also_areas": [
       "Mind & Emotions",
-      "Meditation & Contemplative Practice"
+      "Meditation & Contemplation"
      ],
      "topic": "Qualities of mindful and compassionate leaders",
      "slug": "mindful-leadership-qualities",
@@ -21538,7 +21538,7 @@
      "domain": "Theory U & Presencing",
      "area": "Leadership & Organizations",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Mind & Emotions"
      ],
      "topic": "Theory U, presencing and co-sensing",
@@ -21714,7 +21714,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Trauma, PTSD and complex PTSD",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Mind & Emotions",
       "Psychotherapy & Inner Work",
@@ -21735,7 +21735,7 @@
      "area": "Mind & Emotions",
      "also_areas": [
       "Psychotherapy & Inner Work",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "topic": "Avoidance, rumination, anxiety and exposure",
      "slug": "avoidance-rumination-exposure",
@@ -21774,10 +21774,10 @@
    "areas": [
     "Balance & Life Philosophy",
     "Leadership & Organizations",
-    "Meditation & Contemplative Practice",
+    "Meditation & Contemplation",
     "Mind & Emotions",
     "Neurodiversity",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Society & Politics"
    ]
   },
@@ -21843,7 +21843,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Nutrition",
       "Sleep"
@@ -21860,7 +21860,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Attention & Digital Wellbeing",
       "Mind & Emotions"
@@ -21877,9 +21877,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Wellness independence and industry critique",
      "slug": "wellness-independence",
@@ -21893,9 +21893,9 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Wellness Industry, Gadgets & Longevity",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
-      "Meditation & Contemplative Practice",
+      "Meditation & Contemplation",
       "Sleep"
      ],
      "topic": "Longevity and aging",
@@ -21912,8 +21912,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Ethics and safety in inner work: choosing teachers and practitioners",
      "slug": "inner-work-ethics-safety",
@@ -21929,8 +21929,8 @@
      "domain": "Inner Work: Therapy, Ethics & Pitfalls",
      "area": "Psychotherapy & Inner Work",
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Wellness Industry, Gadgets & Longevity"
+      "Meditation & Contemplation",
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Spiritual materialism and pitfalls on the inner path",
      "slug": "spiritual-materialism-bypassing",
@@ -21947,7 +21947,7 @@
      "area": "Society & Politics",
      "also_areas": [
       "Attention & Digital Wellbeing",
-      "Wellness Industry, Gadgets & Longevity"
+      "Wellness, Gadgets, Longevity"
      ],
      "topic": "Freedom, capitalism and contemporary culture",
      "slug": "freedom-capitalism-culture",
@@ -21977,7 +21977,7 @@
      "kb": "deep-mind-2-0",
      "channel": "deep mind 2.0",
      "domain": "Biohacking & Wellness Industry",
-     "area": "Wellness Industry, Gadgets & Longevity",
+     "area": "Wellness, Gadgets, Longevity",
      "also_areas": [
       "Rest & Burnout"
      ],
@@ -21997,7 +21997,7 @@
    "areas": [
     "Psychotherapy & Inner Work",
     "Society & Politics",
-    "Wellness Industry, Gadgets & Longevity"
+    "Wellness, Gadgets, Longevity"
    ]
   },
   {
@@ -22026,7 +22026,7 @@
      "domain": "Emotions, Ego & Personal Growth",
      "area": "Mind & Emotions",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Willpower, self-control and habits: what the evidence says",
      "slug": "willpower-self-control-habits",
@@ -22040,7 +22040,7 @@
      "kb": "human-gazing-upon-machine",
      "channel": "Human Gazing Upon Machine",
      "domain": "Brain Research",
-     "area": "Neuroscience & Cognitive Science",
+     "area": "Neuro- & Cognitive Science",
      "also_areas": [
       "Sleep",
       "Energy & Resource"
@@ -22060,7 +22060,7 @@
    ],
    "areas": [
     "Mind & Emotions",
-    "Neuroscience & Cognitive Science"
+    "Neuro- & Cognitive Science"
    ]
   },
   {
@@ -22181,7 +22181,7 @@
      "kb": "this-is-too-much",
      "channel": "This is too much",
      "domain": "Diagnosis, comorbidity and mood disorders",
-     "area": "Psychiatry & Mental Health Care",
+     "area": "Psychiatry & Mental Health",
      "also_areas": [
       "Women's Health",
       "Psychotherapy & Inner Work",
@@ -22226,7 +22226,7 @@
     "Chronic Illness & Disability",
     "Neurodiversity",
     "Nutrition",
-    "Psychiatry & Mental Health Care",
+    "Psychiatry & Mental Health",
     "Women's Health"
    ]
   },
@@ -22284,7 +22284,7 @@
      "kb": "na-balanse",
      "channel": "На балансе с Катей Стрельниковой",
      "domain": "Behavior Change & Coaching",
-     "area": "Behavior Change & Coaching",
+     "area": "Behaviour Change, Coaching",
      "also_areas": [
       "Mind & Emotions",
       "Balance & Life Philosophy"
@@ -22371,7 +22371,7 @@
    ],
    "areas": [
     "Balance & Life Philosophy",
-    "Behavior Change & Coaching",
+    "Behaviour Change, Coaching",
     "Interviews & Community",
     "Leadership & Organizations",
     "Rest & Burnout"
@@ -22417,7 +22417,7 @@
      "domain": "Daily Life, Communication and Self-Advocacy",
      "area": "Neurodiversity",
      "also_areas": [
-      "Behavior Change & Coaching"
+      "Behaviour Change, Coaching"
      ],
      "topic": "Accommodations, self-checks and daily supports",
      "slug": "accommodations-daily-supports",
@@ -22449,7 +22449,7 @@
      "domain": "ADHD self-management and skills",
      "area": "Neurodiversity",
      "also_areas": [
-      "Neuroscience & Cognitive Science",
+      "Neuro- & Cognitive Science",
       "Leadership & Organizations"
      ],
      "topic": "Executive dysfunction, environment and work",

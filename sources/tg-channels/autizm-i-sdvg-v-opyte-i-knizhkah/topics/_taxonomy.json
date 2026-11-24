@@ -17,7 +17,7 @@
       "predictive coding"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "sensory-processing",
@@ -163,7 +163,7 @@
      ],
      "also_areas": [
       "Mind & Emotions",
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "demand-avoidance-pda",
@@ -280,7 +280,7 @@
       "attention"
      ],
      "also_areas": [
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "executive-function",
@@ -338,8 +338,8 @@
       "adhd"
      ],
      "also_areas": [
-      "Meditation & Contemplative Practice",
-      "Behavior Change & Coaching"
+      "Meditation & Contemplation",
+      "Behaviour Change, Coaching"
      ],
      "concepts": [
       "boredom",
@@ -375,7 +375,7 @@
       "broader autism phenotype"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "neurodiversity",
@@ -408,7 +408,7 @@
       "hitop"
      ],
      "also_areas": [
-      "Psychiatry & Mental Health Care"
+      "Psychiatry & Mental Health"
      ],
      "concepts": [
       "psychiatric-diagnosis",
@@ -445,7 +445,7 @@
      ],
      "also_areas": [
       "Science & Research",
-      "Neuroscience & Cognitive Science"
+      "Neuro- & Cognitive Science"
      ],
      "concepts": [
       "behavioral-genetics",
@@ -582,7 +582,7 @@
   {
    "domain": "Co-occurring mental health conditions",
    "slug": "co-occurring-mental-health",
-   "area": "Psychiatry & Mental Health Care",
+   "area": "Psychiatry & Mental Health",
    "topics": [
     {
      "title": "Anxiety, PTSD and OCD in autistic people",

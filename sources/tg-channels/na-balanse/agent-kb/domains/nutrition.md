@@ -16,7 +16,7 @@ Pick every topic whose *Answers* or *Frameworks* match the request, then read it
 - Six common nutrition and gut-health myths (keto, gluten, milk and mucus, fruit, supplements, liver detox) debunked by an evidence-based gastroenterologist; Norway's 2024 dietary guidelines point by point; and Andrew Huberman's case for oral health as a pillar of health, with his seven oral-care rules.
 - Answers: Is the keto diet healthy in the long run? · Which diets are actually supported by research? · Is gluten harmful for everyone? · Does milk cause mucus in the gut or sinuses? · How much lactose can a lactose-intolerant person tolerate? · Is fruit bad because of fructose, and what to eat if fruit causes bloating? · Are dietary supplements (БАДы) safe, and how can I check one? · Does the liver need a detox? · What do Norway's updated 2024 dietary guidelines recommend? · Why is oral health considered a pillar of health, and how should I care for my teeth?
 - Frameworks: Six nutrition myths debunked (gastroenterologist Natasha Suvorova) · Norway's updated dietary guidelines (August 2024), 12 points · Huberman's 7 oral-health rules
-- Concepts (cross-channel tags): nutrition-basics, gut-health-oral, supplements · also relevant to areas: Wellness Industry, Gadgets & Longevity
+- Concepts (cross-channel tags): nutrition-basics, gut-health-oral, supplements · also relevant to areas: Wellness, Gadgets, Longevity
 
 ## Marina's nutrition column
 - File: `../references/nutrition--nutrition-column.md` · 6 msgs · 2026-01-23..2026-06-18

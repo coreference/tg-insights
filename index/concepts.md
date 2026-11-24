@@ -326,7 +326,7 @@ A personality disorder marked by persistent disregard for and violation of other
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept antisocial-personality-disorder`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
+  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
     Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.
 
 <a id="aphantasia"></a>
@@ -340,7 +340,7 @@ The inability or strongly reduced ability to voluntarily form mental images, exi
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Autism traits beyond the stereotypes: lesser-known features and aphantasia — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/understanding-diagnosing-neurodivergence/autism-lesser-known-traits.md`  
     Core ICD-11 criteria and lesser-known autism features (non-communication behaviors, echopraxia, clumsiness, selective mutism, self-reported traits), the broader autism phenotype, and aphantasia and its link to autism.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
     What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …
 
 <a id="attachment-theory"></a>
@@ -354,7 +354,7 @@ How attachment bonds form and how secure connection helps heal hurt and trauma.
 
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Relationships, communication and repairing connection — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/relationships-communication-repair.md`  
     Saying no with NVC, why familiar partners feel right, connection as exchange of shared facets and how to review a strained bond, the love-languages myth, Grice's conversational maxims, and how to support a hurt person …
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
 
 <a id="autistic-burnout"></a>
@@ -402,7 +402,7 @@ Biohacking, recovery technologies and wellness trends.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept biohacking`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
     Mental-health investment, luxury wellness, neurofeedback and wearables, recovery tech, and wellness trend forecasts with a critique of biohacking reductionism.
 
 <a id="biomedical-research"></a>
@@ -414,7 +414,7 @@ New findings in medicine and biology, from drugs and transplants to animal studi
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept biomedical-research`
 - 4 topic(s) in 2 channel(s), filed under 4 area(s):
 
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
     Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Biomedical research news: aging, epigenetics and medicine — area: Science & Research → `sources/tg-channels/human-machine/topics/science-research-careers/biomedical-research-news.md`  
     Short research digests: parabiosis and cryopreservation, epigenetic inheritance, aspartame and memory in mice, mitochondrial transplants, sex differences in strength training, TB and COVID public health lessons, digital …
@@ -436,9 +436,9 @@ A mood disorder with episodes of mania or hypomania and depression, managed with
     Co-occurring autism and ADHD, autism vs bipolar disorder, ADHD vs antisocial personality, the HiTOP dimensional view, childhood ADHD and parent training, ADHD in high-IQ people, positive ADHD traits, underdiagnosis of …
   - **Нейропряность** (`neyropryanost`) · Differential diagnosis: autism, ADHD and look-alike conditions — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/diagnosis-research/differential-diagnosis.md`  
     How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar disorder, schizophrenia, OCD, panic attacks and selective mutism, with comparison charts and checklists.
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
-  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
+  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
     Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.
 
 <a id="body-image"></a>
@@ -456,7 +456,7 @@ Relationship to one's body, appearance, weight and beauty standards.
     Body neutrality, weight vs health, Zoom dysmorphia, beauty burnout, skincare and puffiness routines, LED masks, Ozempic critique, beauty spending.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Eating disorder recovery, weight genetics and body acceptance — area: Movement & Body → `sources/tg-channels/na-balanse/topics/body/weight-and-ed-recovery.md`  
     Katya's story of an unrecognized eating disorder, the EAT-26 screening test, why genetics and metabolic adaptation make thinness the wrong goal, and how a genetic test led to tailored eating, movement and sleep habits.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
     Wellness tech reviews and the nocebo effect: Lumen, Apple Watch, when trackers help vs harm, interoception, free health apps, wish-list products.
 
 <a id="borderline-personality-disorder"></a>
@@ -470,17 +470,17 @@ A personality disorder marked by instability of emotions, self-image and relatio
 
   - **Нейропряность** (`neyropryanost`) · Differential diagnosis: autism, ADHD and look-alike conditions — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/diagnosis-research/differential-diagnosis.md`  
     How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar disorder, schizophrenia, OCD, panic attacks and selective mutism, with comparison charts and checklists.
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
-  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
+  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
     Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
-  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
+  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
     Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …
-  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
+  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
     Suicide myths and prevention, passive versus active suicidal ideation and warning signs, suicidal thoughts as an escape habit, and research on what predicts and precedes self-harm in BPD.
 
 <a id="boredom"></a>
@@ -544,9 +544,9 @@ How brain regions are wired and synchronized, studied with fMRI and diffusion im
     The eight senses (incl. interoception, proprioception, vestibular), hyper- vs hyposensitivity, sensory profiles and Dunn's model, Irlen syndrome, gravitational insecurity, and brain-level theories (predictive coding, …
   - **Читаю мысли** (`chitayu-mysli`) · Executive dysfunction, environment and work — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/adhd-self-management/executive-dysfunction-work.md`  
     What executive dysfunction is, the four ADHD neural circuits, autistic inertia, ADHD tax and planning failures, the unstable sense of self (DMN), changing environment and context, and choosing a profession and work …
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
     Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
     Cambridge study of four brain turning points (9, 32, 66, 83), asynchronous cognitive peaks, adolescent synaptic pruning and shared risk for mental disorders, musicians' aging brains and human brain evolution.
   - **Нейропряность** (`neyropryanost`) · Reading autism and ADHD research critically — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/diagnosis-research/autism-research-critique.md`  
     Brain connectivity and genetics of autism, fMRI subtypes, why brain scans cannot yet diagnose psychiatric conditions or neurodivergence, and critical breakdowns of studies and claims (Z944 mouse study, vulnerable …
@@ -562,9 +562,9 @@ How the brain matures, reorganizes and ages across the lifespan.
 
   - **Читаю мысли** (`chitayu-mysli`) · Behavioral activation, movement and mindfulness for mood — area: Mind & Emotions → `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/mood-activation-mindfulness.md`  
     Walks and behavioral activation for ADHD and mood, a plan for the November slump, sleep/movement/safety for neuroplasticity, short mindfulness for ADHD, and happiness heritability.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
     Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
     Cambridge study of four brain turning points (9, 32, 66, 83), asynchronous cognitive peaks, adolescent synaptic pruning and shared risk for mental disorders, musicians' aging brains and human brain evolution.
 
 <a id="brain-fog-recovery"></a>
@@ -576,7 +576,7 @@ Protocols for mental clarity and recovery under load.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept brain-fog-recovery`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
     Protocols for brain fog, high load and travel: anti-inflammatory nutrition, supplements and adaptogens, MCT/ghee, ergonomic setup, with safety caveats.
 
 <a id="brain-health"></a>
@@ -588,7 +588,7 @@ Processes that keep the brain healthy, such as waste clearance, and those that l
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept brain-health`
 - 2 topic(s) in 2 channel(s), filed under 2 area(s):
 
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
     Deep sleep and 40 Hz gamma stimulation driving glymphatic brain clearance, why hours of hard cognitive work build up glutamate and push toward short-term choices, and a fungal pathway to Alzheimer's-like pathology.
   - **Нейропряность** (`neyropryanost`) · Mast cell activation syndrome (MCAS) — area: Chronic Illness & Disability → `sources/tg-channels/neurospicy/topics/comorbid-chronic-conditions/mast-cell-activation.md`  
     What mast cells do, MCAS symptoms across body systems, risk factors (stress, trauma, infection), links to PMDD and Alzheimer's, treatments such as antihistamines and low-dose naltrexone.
@@ -602,7 +602,7 @@ Teachers, lineages and centres of Buddhist and contemplative practice.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept buddhist-teachers`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
     Profiles and lessons of teachers and places that shaped the author's path: Trungpa, Wallace, Tsoknyi Rinpoche, Thich Nhat Hanh, Thurman, Shinzen Young, Kopan, Boulder, Crestone.
 
 <a id="burnout"></a>
@@ -636,7 +636,7 @@ A state of chronic exhaustion from prolonged overload, with warning signs, preve
     Why women tire more: superwoman expectations, internalized misogyny, beauty burnout, depression in women, war and 'female' values.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Work-life balance in practice — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/work-life.md`  
     Combining work, family and life: 8+8+8, calendar rules, agency and rest, misery tax, forwarded takes on work-life balance.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
     Katya's health-coaching work: career change story, client goals and cases, testimonials.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · A year of the energy diary — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/energy-diary.md`  
     Katya's longitudinal self-tracking experiment (time diary + energy diary through 2025): quarterly findings, dips and recoveries, final-year insights.
@@ -668,13 +668,13 @@ Effects, timing and tolerance of caffeine and coffee on energy and sleep.
 
   - **deep mind 2.0** (`deep-mind-2-0`) · Sleep, sleep debt and caffeine — area: Sleep → `sources/tg-channels/deep-mind2.0/topics/sleep/sleep-caffeine.md`  
     Sleep as the basis of resilience: evening routines, sleep debt, light and circadian rhythm, magnesium baths, quitting caffeine and insomnia as an anxiety-control loop.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
     Protocols for brain fog, high load and travel: anti-inflammatory nutrition, supplements and adaptogens, MCT/ghee, ergonomic setup, with safety caveats.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Energy drains, leaks and myths — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/energy-drains.md`  
     What steals energy: productivity myths, energy drinks, Zoom fatigue, emotions and thoughts as leaks, procrastination vs low charge.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coffee, caffeine and alcohol-free — area: Nutrition → `sources/tg-channels/na-balanse/topics/nutrition/coffee-alcohol.md`  
     Caffeine rules and myths, coffee-with-milk glucose experiment, Katya's 6+ alcohol-free years and non-alcoholic wine/beer picks.
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
 
 <a id="calendar-planning"></a>
@@ -724,7 +724,7 @@ Persistent tiredness and its causes, signs and remedies.
     Burnout as chronic stress with systemic roots: personal stories, warning signs, exercise and habits during burnout, talking to your boss, and frameworks like ReST.
   - **deep mind 2.0** (`deep-mind-2-0`) · Rest and recovery: vacations, year-end and weekends — area: Rest & Burnout → `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/rest-recovery.md`  
     How to really rest: types of rest, why year-end crunch backfires, vacation and retreat design, weekends, letting go instead of rest-as-project.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
     Deep sleep and 40 Hz gamma stimulation driving glymphatic brain clearance, why hours of hard cognitive work build up glutamate and push toward short-term choices, and a fungal pathway to Alzheimer's-like pathology.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Women's fatigue and social expectations — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/womens-load.md`  
     Why women tire more: superwoman expectations, internalized misogyny, beauty burnout, depression in women, war and 'female' values.
@@ -784,7 +784,7 @@ Persistent pain lasting months, how to measure and track it, and how it shapes d
     Ehlers-Danlos subtypes and hypermobility spectrum disorder, hEDS diagnostic criteria and Beighton score, symptom questionnaires, comorbidities (GI, venous outflow, dislocations), biomarker research and the situation in …
   - **Нейропряность** (`neyropryanost`) · Pacing and energy accounting — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/neurodivergent-burnout/pacing-energy-accounting.md`  
     Managing limited energy with pacing: energy accounting, the boom-bust cycle, traffic-light calendars, activity-or-rest flowcharts, health and pain trackers, and why exercise can make things worse.
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
 
 <a id="circadian-rhythm"></a>
@@ -804,9 +804,9 @@ Daily and 90-minute biological cycles that shape energy, alertness and sleep.
     Circadian and ultradian rhythms, planning the day around natural energy peaks, morning energy, seasonal changes, famous people's routines.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Sleep as the base — area: Sleep → `sources/tg-channels/na-balanse/topics/sleep/sleep-base.md`  
     Why sleep is the foundation of energy: deprivation effects (hormones, glucose, appearance), alcohol and light at night, exercise and sleep, sufficiency self-tests, science uncertainty.
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
-  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
+  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
     Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.
 
 <a id="cognitive-behavioral-therapy"></a>
@@ -818,7 +818,7 @@ A structured therapy and skills-training approach that changes thoughts and beha
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept cognitive-behavioral-therapy`
 - 5 topic(s) in 4 channel(s), filed under 4 area(s):
 
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **Читаю мысли** (`chitayu-mysli`) · Anxiety, phobias, panic and OCD: exposure and self-observation — area: Mind & Emotions → `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/anxiety-exposure-ocd.md`  
     Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.
@@ -842,7 +842,7 @@ Systematic errors of thinking such as hindsight and confirmation bias.
     How hindsight bias and error-correction produce self-blame, why 'I did my best' is a flawed frame, the costs of overcontrol (RO DBT), the 'good daughter' false self, satisficing over overcomplication, habit replacement …
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Group polarization, conformity and social norms — area: Society & Politics → `sources/tg-channels/human-machine/topics/social-psychology-society/polarization-conformity-norms.md`  
     Why groups radicalize and people defend positions ever more fiercely, preference falsification, Asch/Milgram/Zimbardo reread, why rumors and memes spread, traditions and unwritten norms (Serbian hospitality) as system …
-  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
+  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
     Suicide myths and prevention, passive versus active suicidal ideation and warning signs, suicidal thoughts as an escape habit, and research on what predicts and precedes self-harm in BPD.
 
 <a id="collective-trauma"></a>
@@ -888,7 +888,7 @@ Social isolation, loneliness and healthy small communities.
     Why people self-diagnose, fears of following a trend and 'fashionable diagnoses', impostor syndrome and internalized ableism, finding community after discovery, and what changes after a diagnosis.
   - **Нейропряность** (`neyropryanost`) · Autistic identity, community and disability pride — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/masking-identity/autistic-identity-community.md`  
     Autistic identity and acceptance: why 'don't let autism define you' is problematic, community norms (identity-first language, self-diagnosis, rejecting functioning labels), disability pride and the hexagon of autistic …
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
 
 <a id="complex-ptsd"></a>
@@ -906,13 +906,13 @@ A trauma condition from prolonged or repeated trauma, adding emotional dysregula
     How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar disorder, schizophrenia, OCD, panic attacks and selective mutism, with comparison charts and checklists.
   - **This is too much** (`this-is-too-much`) · Self-criticism, people-pleasing and social comparison — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/self-criticism-people-pleasing.md`  
     How self-criticism harms and techniques to soften the inner critic, roots of people-pleasing in cPTSD and BPD, and why others' good news stings through upward social comparison.
-  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
+  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
     Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
-  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
+  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
     How trauma affects memory (hippocampus, amygdala, fragmentation), the cerebellar vermis and freezing, and the opioid and endocannabinoid systems in PTSD, dissociation and fear extinction.
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
   - **This is too much** (`this-is-too-much`) · PTSD nightmares and sleep disturbances — area: Sleep → `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md`  
     How trauma disrupts sleep, ordinary versus cPTSD nightmares, the neurobiology of the two nightmare scenarios, REM and sleep architecture in PTSD, treatments (IRT, CBT-I, lucid dream therapy) and sleep hygiene.
@@ -956,7 +956,7 @@ What consciousness and the sense of 'I' are, from neuroscience and philosophy of
 
   - **Читаю мысли** (`chitayu-mysli`) · Executive dysfunction, environment and work — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/adhd-self-management/executive-dysfunction-work.md`  
     What executive dysfunction is, the four ADHD neural circuits, autistic inertia, ADHD tax and planning failures, the unstable sense of self (DMN), changing environment and context, and choosing a profession and work …
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
     The 'I' as a brain model and useful illusion, critiques of IIT wording, Sapolsky's case against free will, measuring consciousness under anesthesia, and how alpha rhythms create the sense of body ownership.
 
 <a id="corporate-culture"></a>
@@ -1008,7 +1008,7 @@ Recognition and self-help for depression and low mood.
     Walks and behavioral activation for ADHD and mood, a plan for the November slump, sleep/movement/safety for neuroplasticity, short mindfulness for ADHD, and happiness heritability.
   - **Читаю мысли** (`chitayu-mysli`) · Differential diagnosis: ADHD and autism vs bipolar, depression, BPD and OCPD — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/neurodivergence-differential-diagnosis.md`  
     How to tell ADHD energy cycles, autistic burnout and neurodevelopmental conditions apart from bipolar II, hypomania, dysthymia, depression, BPD and OCPD, and why the 'neurodivergent umbrella' should not cover treatable …
-  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
     Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.
   - **deep mind 2.0** (`deep-mind-2-0`) · Coping with anxiety, panic, depression and personal crisis — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/trauma-nervous-system/anxiety-depression-crisis-coping.md`  
     How to recognise and work with anxiety, panic and depression in crises (market crash, Covid, lockdown, permacrisis): checklists, action plans, support teams and fear practices.
@@ -1016,7 +1016,7 @@ Recognition and self-help for depression and low mood.
     How to tell autistic burnout from depression: shared symptoms, key differences (cause, motivation, skill loss, social withdrawal) and why behavioral activation can help depression but worsen burnout.
   - **Нейропряность** (`neyropryanost`) · Differential diagnosis: autism, ADHD and look-alike conditions — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/diagnosis-research/differential-diagnosis.md`  
     How autism and ADHD differ from and co-occur with PTSD/C-PTSD, BPD, bipolar disorder, schizophrenia, OCD, panic attacks and selective mutism, with comparison charts and checklists.
-  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
+  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
     Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.
 
 <a id="dialectical-behavior-therapy"></a>
@@ -1032,11 +1032,11 @@ A skills-based therapy balancing acceptance and change, teaching mindfulness, di
     Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced …
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Distress tolerance and self-care skills for neurodivergent people — area: Psychotherapy & Inner Work → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/therapy-coping-skills/distress-tolerance-self-care.md`  
     DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
     What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
     What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
     DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Alexithymia and describing your emotions — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md`  
     Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy.
@@ -1054,11 +1054,11 @@ A skills-based therapy balancing acceptance and change, teaching mindfulness, di
     Emotions as communication, motivation and information; the body-mind-behaviour triangle; prompting events, interpretations, secondary emotions, physical responses and expressions.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity — area: Neurodiversity → `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md`  
     Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …
-  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
+  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
     Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
   - **This is too much** (`this-is-too-much`) · Crisis survival skills: STOP, TIPP and distraction — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/dbt-crisis-survival-skills.md`  
     DBT distress-tolerance skills for peak emotions: the STOP skill, cold-water dive reflex, intense exercise, paced breathing and muscle relaxation, the distraction acronym, and steps out of helplessness.
@@ -1095,7 +1095,7 @@ Managing phone, messaging and information intake to protect attention and calm.
     Phone and information diet: morning chats, telegram hygiene, Brick, Kindle instead of phone, focus habits, unsubscribing.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Sleep practice and gear — area: Sleep → `sources/tg-channels/na-balanse/topics/sleep/sleep-practice.md`  
     Practical sleep hygiene: pillows, light alarms, earplugs, bedtime consistency, fixing broken sleep, revenge bedtime procrastination, the sleep practicum.
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
 
 <a id="dissociation"></a>
@@ -1111,9 +1111,9 @@ Disconnection from one's body, feelings, surroundings or memory, as in depersona
     How collective trauma, public powerlessness and wounded collective narcissism sustain propaganda and violence in Russia, attachment to state power, chosen trauma, dissociation, and healing through communities and a felt …
   - **Нейропряность** (`neyropryanost`) · Complex trauma (C-PTSD) in neurodivergent lives — area: Mind & Emotions → `sources/tg-channels/neurospicy/topics/trauma-anxiety/complex-trauma-neurodivergent.md`  
     C-PTSD versus PTSD, emotional flashbacks, why autistic and late-diagnosed neurodivergent people are more vulnerable to trauma and PTSD (dual representation model, sensory and stress-system differences), people-pleasing …
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
-  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
+  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
     How trauma affects memory (hippocampus, amygdala, fragmentation), the cerebellar vermis and freezing, and the opioid and endocannabinoid systems in PTSD, dissociation and fear extinction.
 
 <a id="distress-tolerance"></a>
@@ -1279,7 +1279,7 @@ Attempts to escape or suppress unwanted emotions, thoughts and situations, which
     DBT crisis skills (distraction acronym, STOP) for surviving peak emotions and interrupting harmful coping, self-care when feeling bad, and self-care cards for neurodivergent people (self-acceptance, support team, …
   - **This is too much** (`this-is-too-much`) · Avoidance, rumination, anxiety and exposure — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/avoidance-rumination-exposure.md`  
     Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
   - **This is too much** (`this-is-too-much`) · Crisis survival skills: STOP, TIPP and distraction — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/dbt-crisis-survival-skills.md`  
     DBT distress-tolerance skills for peak emotions: the STOP skill, cold-water dive reflex, intense exercise, paced breathing and muscle relaxation, the distraction acronym, and steps out of helplessness.
@@ -1343,7 +1343,7 @@ Managing emotions and the nervous-system state, including safety-system activati
     Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design, mindful craving work, and JOMO (joy of missing out) as chosen …
   - **deep mind 2.0** (`deep-mind-2-0`) · Supporting teams through crisis — area: Leadership & Organizations → `sources/tg-channels/deep-mind2.0/topics/organizations-corporate-culture/team-crisis-support.md`  
     Managing team state in crises (Belarus, war, mobilization): productivity drops, Regulate-Relate-Reason, at-risk groups, support formats and leaders' new role in team state.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
     Heart practices: why and how to do Metta and self-compassion, adapting phrases, the four immeasurables, and using compassion with pain, hatred and rejection.
   - **deep mind 2.0** (`deep-mind-2-0`) · Emotional skills: accepting, naming and working with emotions — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/emotions-personal-growth/emotional-skills.md`  
     Emotional intelligence in practice: accepting and naming emotions, emotions in decisions, anger, shame, guilt vs regret, cultivating constructive emotions, oversharing and three levels of treating emotions.
@@ -1355,19 +1355,19 @@ Managing emotions and the nervous-system state, including safety-system activati
     What trauma is and how it changes brain and body; window of tolerance, vagal tone, fight/freeze responses, why regulation precedes thinking, and trauma healing paths (EMDR, long-term work).
   - **deep mind 2.0** (`deep-mind-2-0`) · Keeping an inner stance through war and repression — area: Society & Politics → `sources/tg-channels/deep-mind2.0/topics/society-war-collective-trauma/inner-stance-war-repression.md`  
     Personal practice and ethics in wartime: inner supports, agency, avoiding numbness and normalization of violence, moral injury and staying humane.
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
+    How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Sensory regulation, emotions and recovery for neurodivergent people — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/sensory-regulation-emotions-recovery.md`  
     Stimming and its functions, the eight sensory channels including interoception, how autistic adults recognize and regulate emotions, and concrete sensory-based ways to relax and restore energy.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
-    How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · What energy is and where it comes from — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/what-is-energy.md`  
     The channel's core concept: energy as a finite resource/currency, its physiology (mitochondria, ATP), norms, the 4 energy types, and the 'battery' metaphor.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Emotions as energy — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/emotions.md`  
     Emotional regulation: Lisa Feldman Barrett's body budget, cognitive reappraisal, embodiment, the three emotion-regulation systems.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Meditation and mindfulness — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/meditation.md`  
     Meditation practices and courses: emotional-energy meditation, happiness course, microdosing mindfulness, Goleman/Davidson, anticipatory suffering, arkhe album.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
     DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Calming the body fast: mammalian diving reflex and the TIPP skill — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md`  
     Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation.
@@ -1397,11 +1397,11 @@ Managing emotions and the nervous-system state, including safety-system activati
     Sensory overload in autism and ADHD, sensory regulation as the base for emotion and executive function, sensory safety plans and sensory-friendly activities, stimming, and overload mistaken for panic.
   - **This is too much** (`this-is-too-much`) · Understanding emotions and emotional dysregulation — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/understanding-emotional-dysregulation.md`  
     What emotional dysregulation is and its warning signs, emotions as a smoke detector, constructed emotions, frustrative non-reward and anger, changing emotions indirectly, and why emotions cost energy.
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
-  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
+  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
     Suicide myths and prevention, passive versus active suicidal ideation and warning signs, suicidal thoughts as an escape habit, and research on what predicts and precedes self-harm in BPD.
   - **This is too much** (`this-is-too-much`) · Crisis survival skills: STOP, TIPP and distraction — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/dbt-crisis-survival-skills.md`  
     DBT distress-tolerance skills for peak emotions: the STOP skill, cold-water dive reflex, intense exercise, paced breathing and muscle relaxation, the distraction acronym, and steps out of helplessness.
@@ -1421,9 +1421,9 @@ Communicating that another person's feelings and experience make sense, and the 
 
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Relationships, communication and repairing connection — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/relationships-communication-repair.md`  
     Saying no with NVC, why familiar partners feel right, connection as exchange of shared facets and how to review a strained bond, the love-languages myth, Grice's conversational maxims, and how to support a hurt person …
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
   - **This is too much** (`this-is-too-much`) · Radical acceptance and validation — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/radical-acceptance-validation.md`  
     The DBT radical acceptance skill with reflection questions, the six levels of validation for supporting loved ones, and combining acceptance, mindfulness and self-compassion when life is hard.
@@ -1449,7 +1449,7 @@ Understanding and sharing others' feelings, its cognitive and affective forms an
     Prisoner's dilemma, Nash equilibrium, Axelrod's tournament and tit-for-tat, pseudo-dilemmas built on emotional pressure, plus how empathy, kindness and moral progress arise (de Waal, Pinker).
   - **Нейропряность** (`neyropryanost`) · Autistic social communication and processing — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/daily-life-communication/autistic-social-communication.md`  
     How autistic people communicate and process social interaction: delayed processing, auditory processing, tone and volume, empathy myths, self-advocacy scripts, direct but kind honesty, and healthy versus limerent …
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
 
 <a id="employee-wellbeing"></a>
@@ -1486,7 +1486,7 @@ Treating personal energy as a finite resource to be budgeted, spent and restored
     How masking forms (e.g. learning to 'endure' sensory discomfort), its costs and late decompensation after 30, and what unmasking looks like in practice.
   - **deep mind 2.0** (`deep-mind-2-0`) · Rest and recovery: vacations, year-end and weekends — area: Rest & Burnout → `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/rest-recovery.md`  
     How to really rest: types of rest, why year-end crunch backfires, vacation and retreat design, weekends, letting go instead of rest-as-project.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
     Katya's health-coaching work: career change story, client goals and cases, testimonials.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · A year of the energy diary — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/energy-diary.md`  
     Katya's longitudinal self-tracking experiment (time diary + energy diary through 2025): quarterly findings, dips and recoveries, final-year insights.
@@ -1510,7 +1510,7 @@ Treating personal energy as a finite resource to be budgeted, spent and restored
     How to actually rest: rest formula, rest types matched to depleted energy, aftercare, unplugged vacations, retreats, podcast appearances on rest.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Women's health: cycle, pregnancy, check-ups — area: Women's Health → `sources/tg-channels/na-balanse/topics/women/womens-health.md`  
     Menstrual cycle and energy, cycle biohacking, pregnancy and postpartum well-being (Marina's diary), lab tests and check-ups, cholesterol story, femtech.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
   - **(нейро)разнообразная психология** (`neurodiv-psy`) · Neurodivergent burnout and chronic fatigue — area: Neurodiversity → `sources/tg-channels/neurodiv_psy/topics/masking-overload-burnout/neurodivergent-burnout-fatigue.md`  
     Causes, signs and remedies of neurodivergent burnout, why autistic people are often tired (chronic illness, sensory load, less REM sleep, masking), and what helps with energy management.
@@ -1542,7 +1542,7 @@ Ethics, red flags and choosing safe teachers and practitioners.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept ethics-in-inner-work`
 - 5 topic(s) in 4 channel(s), filed under 2 area(s):
 
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
   - **deep mind 2.0** (`deep-mind-2-0`) · Ethics and safety in inner work: choosing teachers and practitioners — area: Psychotherapy & Inner Work → `sources/tg-channels/deep-mind2.0/topics/inner-work-therapy-ethics/inner-work-ethics-safety.md`  
     Trauma-informed ethics, retraumatization risks, red flags of pseudo-gurus and cults, operational language vs 'energy', facilitator duty of care, and how to choose specialists.
@@ -1580,7 +1580,7 @@ Practical, research-based guidance on eating, nutrients and diet myths.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept nutrition-basics`
 - 6 topic(s) in 3 channel(s), filed under 4 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
     Protocols for brain fog, high load and travel: anti-inflammatory nutrition, supplements and adaptogens, MCT/ghee, ergonomic setup, with safety caveats.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Energy boosters and replenishing practices — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/energy-boosters.md`  
     Practices and inputs the authors credit with restoring energy: MCT/ghee fats, banya, nature and forest bathing, hiking, floating, birding, daily routines (Huberman, Rick Owens).
@@ -1636,11 +1636,11 @@ How the brain learns fear and unlearns it when expected danger does not happen, 
 
   - **Читаю мысли** (`chitayu-mysli`) · Anxiety, phobias, panic and OCD: exposure and self-observation — area: Mind & Emotions → `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/anxiety-exposure-ocd.md`  
     Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
     How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.
   - **This is too much** (`this-is-too-much`) · Avoidance, rumination, anxiety and exposure — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/avoidance-rumination-exposure.md`  
     Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …
-  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
+  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
     How trauma affects memory (hippocampus, amygdala, fragmentation), the cerebellar vermis and freezing, and the opioid and endocannabinoid systems in PTSD, dissociation and fear extinction.
   - **This is too much** (`this-is-too-much`) · PTSD nightmares and sleep disturbances — area: Sleep → `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md`  
     How trauma disrupts sleep, ordinary versus cPTSD nightmares, the neurobiology of the two nightmare scenarios, REM and sleep architecture in PTSD, treatments (IRT, CBT-I, lucid dream therapy) and sleep hygiene.
@@ -1670,11 +1670,11 @@ Habits that improve concentration and reduce distraction.
     Why no one fits the 'average' norm (Daniels' cockpit study) and what neurodiversity means in practice: autism, ADHD, masking, support at work and AI prompts for self-support.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Digital hygiene and attention — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/digital-hygiene.md`  
     Phone and information diet: morning chats, telegram hygiene, Brick, Kindle instead of phone, focus habits, unsubscribing.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
   - **Нейропряность** (`neyropryanost`) · ADHD traits: rejection sensitivity, daydreaming and body doubling — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/daily-life-communication/adhd-traits-tools.md`  
     ADHD-specific experiences and tools: rejection sensitive dysphoria, maladaptive daydreaming and hyperphantasia, conflict and emotion overload, body doubling for task initiation, and AuDHD focus quirks.
-  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behavior Change & Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
+  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behaviour Change, Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
     Analyzing a procrastination episode for its function and alternatives, self-determination theory and why intentions stall, and what rest and novelty on vacation do to stress, attention and wants.
 
 <a id="entrepreneurship-founder"></a>
@@ -1698,7 +1698,7 @@ Whether human choices are free or determined, and what follows for responsibilit
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept free-will`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
     The 'I' as a brain model and useful illusion, critiques of IIT wording, Sapolsky's case against free will, measuring consciousness under anesthesia, and how alpha rhythms create the sense of body ownership.
 
 <a id="freedom-and-culture"></a>
@@ -1759,7 +1759,7 @@ Emotional reactions to loss, the course of grief and prolonged grief disorder.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept grief-and-loss`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
+  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
     Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.
 
 <a id="group-polarization"></a>
@@ -1787,17 +1787,17 @@ Mechanics of building habits and making lifestyle change stick.
     CBT skills groups for ADHD (structure, pre-group interview, why no ASD+ADHD groups), ADHD coaching, capture lists and planning apps, returning to reading, and why skills fade and must be relearned.
   - **deep mind 2.0** (`deep-mind-2-0`) · Digital detox and healthy screen habits — area: Attention & Digital Wellbeing → `sources/tg-channels/deep-mind2.0/topics/attention-digital-wellbeing/digital-detox-screens.md`  
     Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design, mindful craving work, and JOMO (joy of missing out) as chosen …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
     Practical how-to of meditation: beginner goals, working with mind-wandering through positive reinforcement, pleasant sensations, consistency, short frequent practices, and fixing a stuck practice.
   - **deep mind 2.0** (`deep-mind-2-0`) · Willpower, self-control and habits: what the evidence says — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/emotions-personal-growth/willpower-self-control-habits.md`  
     The failed replication of ego depletion ('willpower is a muscle'), and why people with high self-control rely on habits and fewer temptations rather than willpower; skepticism toward attractive scientific explanations.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Self-blame, overcontrol and the inner critic — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/self-blame-overcontrol.md`  
     How hindsight bias and error-correction produce self-blame, why 'I did my best' is a flawed frame, the costs of overcontrol (RO DBT), the 'good daughter' false self, satisficing over overcomplication, habit replacement …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
     Katya's rubric contrasting look-alike concepts that decide whether change sticks: control vs choice, self-compassion vs pity, pleasant vs necessary, faith vs expectations, refusal vs moderation, each with self-tests to …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
     Concrete instruments: values definition, permissions wheel, wheel of balance, Plus/Minus/Next, year results and New Year reflection, learning how to learn.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
     Behavior-change mechanics: why habits fail, stages of change, small steps, patience, identity, effort vs violence, 'I know but don't do'.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Digital hygiene and attention — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/digital-hygiene.md`  
     Phone and information diet: morning chats, telegram hygiene, Brick, Kindle instead of phone, focus habits, unsubscribing.
@@ -1809,7 +1809,7 @@ Mechanics of building habits and making lifestyle change stick.
     Intuitive eating, healthy-habit checklists, home cooking and recipes, ready-meal delivery, holiday eating, under-eating as a root problem.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Sleep practice and gear — area: Sleep → `sources/tg-channels/na-balanse/topics/sleep/sleep-practice.md`  
     Practical sleep hygiene: pillows, light alarms, earplugs, bedtime consistency, fixing broken sleep, revenge bedtime procrastination, the sleep practicum.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
     Skills over tools: gadget consumerism, who profits from our beliefs, wellness trends as a shop window.
   - **This is too much** (`this-is-too-much`) · Lowering emotional vulnerability: routines, food and boring basics — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/emotional-vulnerability-self-care-basics.md`  
     PLEASE-style care of the body to reduce emotional vulnerability, foods linked to mood swings, building a daily routine with BPD, self-care after shocking events, and why evidence-based basics beat magic fixes.
@@ -1839,7 +1839,7 @@ Coaching approach to health goals, client cases and experiments.
 
   - **Читаю мысли** (`chitayu-mysli`) · ADHD skills training, coaching and organization tools — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/adhd-self-management/adhd-skills-training-tools.md`  
     CBT skills groups for ADHD (structure, pre-group interview, why no ASD+ADHD groups), ADHD coaching, capture lists and planning apps, returning to reading, and why skills fade and must be relearned.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
     Katya's health-coaching work: career change story, client goals and cases, testimonials.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · «Отдохнувшие»: the rest laboratory — area: Rest & Burnout → `sources/tg-channels/na-balanse/topics/rest/otdohnuvshie.md`  
     Katya's closed group and later laboratory for learning to rest: how it works, enrollment, client journeys and testimonials.
@@ -1857,11 +1857,11 @@ How healthcare systems are organized, funded and regulated, and how this affects
 
   - **Читаю мысли** (`chitayu-mysli`) · How adult ADHD and autism are diagnosed — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/adult-adhd-autism-diagnosis.md`  
     The diagnostic process for adult ADHD and ASD: anamnesis, observation and tests, what EEG/MRI/genetic panels cannot show, ICD codes, finding a competent psychiatrist, Russian state vs private care and diagnosis abroad.
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
-  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
     Lessons from a health-policy course: measuring health, history of insurance medicine in Russia, health spending vs life expectancy, GP prescribing and psychiatrist prices, and the medical graduate 'mentoring' law.
-  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
     Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.
 
 <a id="behavioral-genetics"></a>
@@ -1917,11 +1917,11 @@ Buddhist-inspired practices of accepting change, such as the two arrows.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept impermanence-acceptance`
 - 4 topic(s) in 3 channel(s), filed under 4 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
     Contemplative views on suffering, fear, death and impermanence: pain times resistance, Tift's life as process not problem, Stoic control, memento mori, grief and resting in presence.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Impermanence, uncertainty and resilience — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/impermanence-uncertainty.md`  
     Living with things outside your control: impermanence and the two-arrows practice after a visa refusal, scenario thinking instead of predicting the future, and a six-step approach to chronic fatigue and anxiety in …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
     Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.
   - **This is too much** (`this-is-too-much`) · Radical acceptance and validation — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/radical-acceptance-validation.md`  
     The DBT radical acceptance skill with reflection questions, the six levels of validation for supporting loved ones, and combining acceptance, mindfulness and self-compassion when life is hard.
@@ -1947,7 +1947,7 @@ Eating guided by body signals and self-compassion rather than rules and restrict
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept intuitive-eating`
 - 3 topic(s) in 1 channel(s), filed under 2 area(s):
 
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
     Katya's rubric contrasting look-alike concepts that decide whether change sticks: control vs choice, self-compassion vs pity, pleasant vs necessary, faith vs expectations, refusal vs moderation, each with self-tests to …
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Everyday food culture — area: Nutrition → `sources/tg-channels/na-balanse/topics/nutrition/food-culture.md`  
     Intuitive eating, healthy-habit checklists, home cooking and recipes, ready-meal delivery, holiday eating, under-eating as a root problem.
@@ -1977,15 +1977,15 @@ What extends healthy life and how to think about aging.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept longevity`
 - 5 topic(s) in 3 channel(s), filed under 5 area(s):
 
-  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
     Lessons from a health-policy course: measuring health, history of insurance medicine in Russia, health spending vs life expectancy, GP prescribing and psychiatrist prices, and the medical graduate 'mentoring' law.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
     Cambridge study of four brain turning points (9, 32, 66, 83), asynchronous cognitive peaks, adolescent synaptic pruning and shared risk for mental disorders, musicians' aging brains and human brain evolution.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Biomedical research news: aging, epigenetics and medicine — area: Science & Research → `sources/tg-channels/human-machine/topics/science-research-careers/biomedical-research-news.md`  
     Short research digests: parabiosis and cryopreservation, epigenetic inheritance, aspartame and memory in mice, mitochondrial transplants, sex differences in strength training, TB and COVID public health lessons, digital …
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Minimal effective dose of movement — area: Movement & Body → `sources/tg-channels/na-balanse/topics/body/minimal-dose.md`  
     7,000 steps, 10-minute workouts, zero-zone/NEAT activity, books that make you love movement (McGonigal, Murakami).
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
     Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.
 
 <a id="loving-kindness-metta"></a>
@@ -1999,11 +1999,11 @@ Heart practices that cultivate goodwill and compassion toward oneself and others
 
   - **Читаю мысли** (`chitayu-mysli`) · Inner critic, schema therapy and soothing the threat system — area: Psychotherapy & Inner Work → `sources/tg-channels/chitayu-mysli/topics/inner-critic-self-relationship/inner-critic-schema-therapy.md`  
     Origins and modes of the inner critic in schema therapy, RO DBT safety skills, gratitude and loving-kindness to lower threat, plus reviews of books and an imagery audio play on self-criticism, narcissism and therapeutic …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
     Profiles and lessons of teachers and places that shaped the author's path: Trungpa, Wallace, Tsoknyi Rinpoche, Thich Nhat Hanh, Thurman, Shinzen Young, Kopan, Boulder, Crestone.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
     Heart practices: why and how to do Metta and self-compassion, adapting phrases, the four immeasurables, and using compassion with pain, hatred and rejection.
-  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
+  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
     How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.
 
 <a id="masking-camouflaging"></a>
@@ -2019,7 +2019,7 @@ Suppressing or hiding neurodivergent traits to fit neurotypical expectations, it
     Co-occurring autism and ADHD, autism vs bipolar disorder, ADHD vs antisocial personality, the HiTOP dimensional view, childhood ADHD and parent training, ADHD in high-IQ people, positive ADHD traits, underdiagnosis of …
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Masking and camouflaging: forms, costs and measurement — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/masking-communication-social/masking-camouflaging.md`  
     What masking is (hypervigilance, controlled self-expression, silence and shyness), how ableism and rejection sensitivity drive it, its costs (overcontrol, burnout, loss of self), the CAT-Q questionnaire with scoring, …
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · DBT for autistic adults: rationale, adaptations and evidence — area: Psychotherapy & Inner Work → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/therapy-coping-skills/dbt-for-autism.md`  
     Why DBT rather than CBT suits autistic clients, prevalence of emotion dysregulation, ASD-specific adaptations (masking vs skills, alexithymia, sensory profile), conference reports and the Strasbourg RCT showing reduced …
@@ -2112,11 +2112,11 @@ Finding meaning, values and life direction.
     Burnout mechanics and recovery: red flags, 4 kinds of energy, passion-driven burnout, 'get sick to rest', Katya's own burnout history and experiments.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Learning to rest — area: Rest & Burnout → `sources/tg-channels/na-balanse/topics/rest/learning-to-rest.md`  
     How to actually rest: rest formula, rest types matched to depleted energy, aftercare, unplugged vacations, retreats, podcast appearances on rest.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
     What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
     DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.
-  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
+  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
     How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.
 
 <a id="medical-gaslighting"></a>
@@ -2148,17 +2148,17 @@ Attention-training practices including short micro-practices and savoring.
     Walks and behavioral activation for ADHD and mood, a plan for the November slump, sleep/movement/safety for neuroplasticity, short mindfulness for ADHD, and happiness heritability.
   - **deep mind 2.0** (`deep-mind-2-0`) · Digital detox and healthy screen habits — area: Attention & Digital Wellbeing → `sources/tg-channels/deep-mind2.0/topics/attention-digital-wellbeing/digital-detox-screens.md`  
     Screens as regulator and addiction: information detox checklists, social-media breaks, morning/evening phone rules, screen apnea, persuasive design, mindful craving work, and JOMO (joy of missing out) as chosen …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Buddhist teachers, lineages and contemplative centres — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/buddhist-teachers-lineages.md`  
     Profiles and lessons of teachers and places that shaped the author's path: Trungpa, Wallace, Tsoknyi Rinpoche, Thich Nhat Hanh, Thurman, Shinzen Young, Kopan, Boulder, Crestone.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
     Contemplative views on suffering, fear, death and impermanence: pain times resistance, Tift's life as process not problem, Stoic control, memento mori, grief and resting in presence.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
     Practical how-to of meditation: beginner goals, working with mind-wandering through positive reinforcement, pleasant sensations, consistency, short frequent practices, and fixing a stuck practice.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
     Heart practices: why and how to do Metta and self-compassion, adapting phrases, the four immeasurables, and using compassion with pain, hatred and rejection.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
     Why mindfulness is the base development skill: a real-time feedback loop on automatic patterns, levels of mindfulness in daily life, well-being as a trainable skill, and its limits (shadow, dissociation, mainstream …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
     Going deeper: retreats and vipassana, shamatha, tantra, jhanas and cessation, prerequisites and risks of advanced practice, right motivation, and telling dissociation from witnessing.
   - **deep mind 2.0** (`deep-mind-2-0`) · Vertical development and the integral approach — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/emotions-personal-growth/vertical-adult-development.md`  
     Adult development (Kegan, Torbert, spiral dynamics) and Wilber's integral map: stages, boosters of vertical growth, integral life practice and inner work across the lifespan.
@@ -2170,21 +2170,21 @@ Attention-training practices including short micro-practices and savoring.
     Emotional regulation: Lisa Feldman Barrett's body budget, cognitive reappraisal, embodiment, the three emotion-regulation systems.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Meditation and mindfulness — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/meditation.md`  
     Meditation practices and courses: emotional-energy meditation, happiness course, microdosing mindfulness, Goleman/Davidson, anticipatory suffering, arkhe album.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
     Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
     What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
     DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity — area: Neurodiversity → `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md`  
     Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …
   - **Нейропряность** (`neyropryanost`) · Interoception, alexithymia and naming emotions — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/nervous-system-senses/interoception-alexithymia.md`  
     Interoception and homeostasis in autism and ADHD, alexithymia, emotional dysregulation, misattribution of arousal, and tools for recognizing emotions (feelings wheel, intensity scales, own-terms descriptions).
-  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
+  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
     How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.
-  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
+  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
     Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …
   - **This is too much** (`this-is-too-much`) · Mindfulness in DBT: WHAT skills, non-judgment and urge surfing — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/dbt-mindfulness-skills.md`  
     Why mindfulness matters in DBT, the observe/describe/participate and non-judgmental skills, effectiveness, urge surfing for cravings, odd sensations in meditation and criticisms of mindfulness.
@@ -2244,9 +2244,9 @@ The capacity to understand one's own and others' behavior in terms of mental sta
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Autistic communication, empathy and friendship — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/masking-communication-social/autistic-communication-friendship.md`  
     Typical autistic communication traits (literalness, infodumping, small talk), the double empathy problem and its replication, mentalizing, empathy survey results, object personification, friendship and loneliness …
-  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
+  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
     Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
 
 <a id="metabolic-health"></a>
@@ -2282,7 +2282,7 @@ Leadership grounded in presence, self-awareness, compassion and vulnerability.
     Teal organizations, deep democracy, mechanistic vs organic companies, managing by context, transference in self-organization and Sociocracy 3.0.
   - **deep mind 2.0** (`deep-mind-2-0`) · Theory U, presencing and co-sensing — area: Leadership & Organizations → `sources/tg-channels/deep-mind2.0/topics/theory-u/theory-u-presencing.md`  
     Scharmer's Theory U: open mind, heart and will, presencing, case clinics, Social Presencing Theater and The Village, and its application in companies, retreats and communities.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
     Why mindfulness is the base development skill: a real-time feedback loop on automatic patterns, levels of mindfulness in daily life, well-being as a trainable skill, and its limits (shadow, dissociation, mainstream …
   - **deep mind 2.0** (`deep-mind-2-0`) · Public ethics, abuse scandals and media responsibility — area: Society & Politics → `sources/tg-channels/deep-mind2.0/topics/society-war-collective-trauma/public-ethics-media.md`  
     Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise, and public harassment (травля) as displaced aggression.
@@ -2312,7 +2312,7 @@ Where motivation comes from and how effort differs from self-coercion.
     Why boredom is more frequent and painful in ADHD/ASD (apathetic vs agitated), how to make boring tasks bearable, and the evidence for and adaptations of mindfulness practice for ADHD attention.
   - **deep mind 2.0** (`deep-mind-2-0`) · Motivation, talent and hiring — area: Leadership & Organizations → `sources/tg-channels/deep-mind2.0/topics/mindful-leadership-teams/motivation-talent-hiring.md`  
     Intrinsic motivation and self-determination theory, Hogan motivators and derailers, hiring for culture fit, and the shifting talent market.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
     Practical how-to of meditation: beginner goals, working with mind-wandering through positive reinforcement, pleasant sensations, consistency, short frequent practices, and fixing a stuck practice.
   - **deep mind 2.0** (`deep-mind-2-0`) · Meaning, purpose and life direction — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/emotions-personal-growth/meaning-purpose-direction.md`  
     Finding purpose and meaning: want vs must motivation, agency and authorship, against nihilism, values and direction instead of yearly goals, and transcendent tasks.
@@ -2322,15 +2322,15 @@ Where motivation comes from and how effort differs from self-coercion.
     Consumer and collecting approaches to self-development, intensity bias, spiritual bypassing and 'resort consciousness', and why motivation, repetition and simplicity matter.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · What is balance (and is it real) — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/what-is-balance.md`  
     The channel's title question: balance definitions, critiques ('fuck the balance', adaptivity), balance as contrast, dosage, slowing down, psychological equilibrium, freedom.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
     Katya's rubric contrasting look-alike concepts that decide whether change sticks: control vs choice, self-compassion vs pity, pleasant vs necessary, faith vs expectations, refusal vs moderation, each with self-tests to …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
     Behavior-change mechanics: why habits fail, stages of change, small steps, patience, identity, effort vs violence, 'I know but don't do'.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Fitness independence and sustainable movement — area: Movement & Body → `sources/tg-channels/na-balanse/topics/body/fitness.md`  
     Movement not tied to a gym: motivation, fitness independence steps, workouts never becoming automatic, workout recovery, endurance and career, VR fitness.
   - **(нейро)разнообразная психология** (`neurodiv-psy`) · Executive dysfunction, ADHD skills training and daily-life strategies — area: Neurodiversity → `sources/tg-channels/neurodiv_psy/topics/executive-function-daily-life/executive-function-adhd-strategies.md`  
     Executive dysfunction in adult ADHD and how to work with it: the Safren CBT skills-training protocol, the UK ADHD Foundation adult guide (ASRS self-screening, assessment route, DSM-5 criteria, externalisation …
-  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behavior Change & Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
+  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behaviour Change, Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
     Analyzing a procrastination episode for its function and alternatives, self-determination theory and why intentions stall, and what rest and novelty on vacation do to stress, attention and wants.
 
 <a id="music-and-brain"></a>
@@ -2342,9 +2342,9 @@ How the brain perceives music and why music evokes emotion and movement.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept music-and-brain`
 - 2 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How the brain changes across the lifespan — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-development-lifespan.md`  
     Cambridge study of four brain turning points (9, 32, 66, 83), asynchronous cognitive peaks, adolescent synaptic pruning and shared risk for mental disorders, musicians' aging brains and human brain evolution.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Music and the brain — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/music-and-brain.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Music and the brain — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/music-and-brain.md`  
     Why music moves us: biology of intonation, major/minor and rhythm, neural resonance and entrainment theory, universal note prediction, musicians' brains and sonification of stars.
 
 <a id="nature-and-restoration"></a>
@@ -2412,12 +2412,14 @@ ADHD, autism and other neurodivergent minds and support for them.
     The diagnostic process for adult ADHD and ASD: anamnesis, observation and tests, what EEG/MRI/genetic panels cannot show, ICD codes, finding a competent psychiatrist, Russian state vs private care and diagnosis abroad.
   - **Читаю мысли** (`chitayu-mysli`) · Self-diagnosis, myths and stigma around neurodivergence — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/neurodivergence-myths-stigma.md`  
     Social-media self-diagnosis, the rise in diagnoses and 'everyone is neurodivergent', medical vs social model, common myths, anti-ADHD misinformation, the autism driving ban and stigma among professionals.
-  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
     Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.
   - **deep mind 2.0** (`deep-mind-2-0`) · Attention, focus and information overload — area: Attention & Digital Wellbeing → `sources/tg-channels/deep-mind2.0/topics/attention-digital-wellbeing/attention-focus-overload.md`  
     Attention deficit and overload, multitasking costs, focus principles, mind-wandering data, ADHD vs dysregulation, and information-management systems like FAST.
   - **deep mind 2.0** (`deep-mind-2-0`) · Neurodiversity: ADHD, autism and masking — area: Attention & Digital Wellbeing → `sources/tg-channels/deep-mind2.0/topics/attention-digital-wellbeing/neurodiversity-adhd-autism.md`  
     Why no one fits the 'average' norm (Daniels' cockpit study) and what neurodiversity means in practice: autism, ADHD, masking, support at work and AI prompts for self-support.
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
+    Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Autism and employment: strengths, barriers and workplace inclusion — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/autism-employment-inclusion.md`  
     Myths about autistic careers and teamwork, work strengths (detail focus, monotropism), Buckland Review statistics, barriers and recommendations, accommodations that help, and research on remote work and neuroinclusive …
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Sensory regulation, emotions and recovery for neurodivergent people — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/sensory-regulation-emotions-recovery.md`  
@@ -2426,9 +2428,7 @@ ADHD, autism and other neurodivergent minds and support for them.
     Milton's double empathy theory vs mind-blindness, studies of autistic-neurotypical communication and first impressions, and how both sides can bridge the gap with openness and self-compassion.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Understanding autism: myths, stereotypes and the spectrum — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/autism-myths-and-spectrum.md`  
     What autism is and is not: deficit vs difference models, empathy and masking myths, DSM-5 support levels, why 'high-functioning' is a bad label, the spectrum as a wheel of traits, history (Sukhareva, Wing) and media …
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain connectivity and subtypes in autism — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/autism-brain-connectivity.md`  
-    Neuroscience of autism: connectivity theory of cell assemblies, synaptic pruning, hypo- vs hyperconnectivity, salience network findings in infants, fMRI-based autism subtypes, and the IL-17 fever effect.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
     What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · DBT adapted for neurodivergent people: how the workbook works and choosing a skill by emotional intensity — area: Neurodiversity → `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/nd-adapted-dbt-and-skill-choice.md`  
     Why and how DBT is adapted for autistic/ADHD readers (interpersonal effectiveness dropped, sensory needs and meltdowns added) and the intensity scale for picking mindfulness, emotional regulation or distress tolerance …
@@ -2510,7 +2510,7 @@ Obsessive-compulsive disorder and related repetitive behaviors such as hair pull
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Hyperfocus, special interests and monotropism — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/attention-executive-function/hyperfocus-special-interests-monotropism.md`  
     Special interests and their benefits, hyperfocus versus flow in ADHD and autism, monotropism theory, research measuring hyperfocus in autistic teens, and how autistic adults tell special interests and stims apart from …
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **Читаю мысли** (`chitayu-mysli`) · Anxiety, phobias, panic and OCD: exposure and self-observation — area: Mind & Emotions → `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/anxiety-exposure-ocd.md`  
     Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.
@@ -2586,13 +2586,13 @@ Preparing for and communicating with doctors so symptoms are taken seriously, in
 
   - **Читаю мысли** (`chitayu-mysli`) · How adult ADHD and autism are diagnosed — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/adult-adhd-autism-diagnosis.md`  
     The diagnostic process for adult ADHD and ASD: anamnesis, observation and tests, what EEG/MRI/genetic panels cannot show, ICD codes, finding a competent psychiatrist, Russian state vs private care and diagnosis abroad.
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
   - **Нейропряность** (`neyropryanost`) · Talking to doctors and patient self-advocacy — area: Chronic Illness & Disability → `sources/tg-channels/neurospicy/topics/comorbid-chronic-conditions/patient-self-advocacy.md`  
     How to get heard by doctors (symptom logs, scripts, second opinions, complaints), the right to refuse advice, who may prescribe psychiatric drugs, peer support versus expertise, and staying resilient with chronic …
   - **Нейропряность** (`neyropryanost`) · Medical gaslighting and medical trauma — area: Mind & Emotions → `sources/tg-channels/neurospicy/topics/trauma-anxiety/medical-gaslighting-trauma.md`  
     How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, including a first-person FND illness story of harmful versus helpful doctor behaviour, how it erodes trust in …
-  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
+  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
     Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.
 
 <a id="sensory-perception"></a>
@@ -2606,11 +2606,11 @@ How the brain constructs percepts from sensory signals and why people perceive d
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Sensory processing differences in autism: senses, profiles and theories — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/sensory-processing-regulation/sensory-processing-differences.md`  
     The eight senses (incl. interoception, proprioception, vestibular), hyper- vs hyposensitivity, sensory profiles and Dunn's model, Irlen syndrome, gravitational insecurity, and brain-level theories (predictive coding, …
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How perception works: from sensory fragments to meaning — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/perception-science.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How perception works: from sensory fragments to meaning — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/perception-science.md`  
     How the brain assembles sensations into percepts (the dress, duck-rabbit), individual differences in color perception, the visually evoked auditory response, simultaneous vs successive perception and the left/right …
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Music and the brain — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/music-and-brain.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Music and the brain — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/music-and-brain.md`  
     Why music moves us: biology of intonation, major/minor and rhythm, neural resonance and entrainment theory, universal note prediction, musicians' brains and sonification of stars.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The self, consciousness and free will — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/self-consciousness-free-will.md`  
     The 'I' as a brain model and useful illusion, critiques of IIT wording, Sapolsky's case against free will, measuring consciousness under anesthesia, and how alpha rhythms create the sense of body ownership.
 
 <a id="perfectionism"></a>
@@ -2670,7 +2670,7 @@ Positive psychological change that can follow a struggle with trauma, and the co
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept post-traumatic-growth`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
 
 <a id="procrastination"></a>
@@ -2686,7 +2686,7 @@ Delaying intended actions despite expected harm, understood through its emotiona
     Why boredom is more frequent and painful in ADHD/ASD (apathetic vs agitated), how to make boring tasks bearable, and the evidence for and adaptations of mindfulness practice for ADHD attention.
   - **(нейро)разнообразная психология** (`neurodiv-psy`) · Executive dysfunction, ADHD skills training and daily-life strategies — area: Neurodiversity → `sources/tg-channels/neurodiv_psy/topics/executive-function-daily-life/executive-function-adhd-strategies.md`  
     Executive dysfunction in adult ADHD and how to work with it: the Safren CBT skills-training protocol, the UK ADHD Foundation adult guide (ASRS self-screening, assessment route, DSM-5 criteria, externalisation …
-  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behavior Change & Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
+  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behaviour Change, Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
     Analyzing a procrastination episode for its function and alternatives, self-determination theory and why intentions stall, and what rest and novelty on vacation do to stress, attention and wants.
 
 <a id="psychiatric-diagnosis"></a>
@@ -2706,7 +2706,7 @@ How mental and neurodevelopmental conditions are diagnosed, distinguished from l
     The PDA profile as anxiety-driven avoidance of demands, its escalation from hidden coping to panic and meltdown, debate over whether it is a separate diagnosis, and the PANDA skill for living and communicating with …
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Research on autism and ADHD: brain, genetics, diagnosis trends and reading — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/understanding-diagnosing-neurodivergence/autism-adhd-research-reading.md`  
     Study summaries on the amygdala in autism, autism gene regulatory networks, early vs late diagnosis trajectories, rising diagnosis rates without an 'epidemic', online discourse on ADHD and autism, plus reviews of …
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **Читаю мысли** (`chitayu-mysli`) · ADHD and autism in women: phenotype, masking and hormones — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/women-adhd-autism.md`  
     Why women with ADHD/ASD are diagnosed late, how they mask, sex-difference study data, and how estrogen, the menstrual cycle and menopause change ADHD symptoms.
@@ -2746,15 +2746,15 @@ How mental and neurodevelopmental conditions are diagnosed, distinguished from l
     Definitions of autism and neurodiversity (Nick Walker), key terms, spectrum models of autism and ADHD, the double empathy problem, and perspective-taking on neurotypical versus autistic norms.
   - **This is too much** (`this-is-too-much`) · Avoidance, rumination, anxiety and exposure — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/avoidance-rumination-exposure.md`  
     Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …
-  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
+  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
     Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
-  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
+  - **This is too much** (`this-is-too-much`) · Differential diagnosis and classification: BPD, bipolar, cPTSD and HiTOP — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/differential-diagnosis-classification.md`  
     Telling BPD apart from bipolar disorder and cPTSD, common comorbidities, BPD as a trauma-spectrum disorder, HiTOP versus DSM/ICD, and what to expect from a psychiatrist appointment.
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
-  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
+  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
     Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …
 
 <a id="psychiatric-medication"></a>
@@ -2770,11 +2770,11 @@ Use, effects, dosing and tapering of psychotropic drugs such as antidepressants 
     Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.
   - **Читаю мысли** (`chitayu-mysli`) · ADHD and autism in women: phenotype, masking and hormones — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/women-adhd-autism.md`  
     Why women with ADHD/ASD are diagnosed late, how they mask, sex-difference study data, and how estrogen, the menstrual cycle and menopause change ADHD symptoms.
-  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Health policy and healthcare systems — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/health-policy-systems.md`  
     Lessons from a health-policy course: measuring health, history of insurance medicine in Russia, health spending vs life expectancy, GP prescribing and psychiatrist prices, and the medical graduate 'mentoring' law.
-  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
     Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
 
 <a id="psychotherapy"></a>
@@ -2786,7 +2786,7 @@ How therapy works, choosing a method and getting results.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept psychotherapy`
 - 8 topic(s) in 6 channel(s), filed under 4 area(s):
 
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
   - **deep mind 2.0** (`deep-mind-2-0`) · Psychotherapy: methods, choosing and getting results — area: Psychotherapy & Inner Work → `sources/tg-channels/deep-mind2.0/topics/inner-work-therapy-ethics/psychotherapy-methods-results.md`  
     How therapy works and how to get more from it: therapeutic alliance, evidence debates, IFS, Focusing, Hoffman, personality types, psychedelic therapy, and AI vs human therapists.
@@ -2800,7 +2800,7 @@ How therapy works, choosing a method and getting results.
     Understanding and coping with panic attacks (Oxford CBT booklet) and anxiety, discharging activation before calming, EFT tapping and reducing body tension.
   - **Нейропряность** (`neyropryanost`) · Complex trauma (C-PTSD) in neurodivergent lives — area: Mind & Emotions → `sources/tg-channels/neurospicy/topics/trauma-anxiety/complex-trauma-neurodivergent.md`  
     C-PTSD versus PTSD, emotional flashbacks, why autistic and late-diagnosed neurodivergent people are more vulnerable to trauma and PTSD (dual representation model, sensory and stress-system differences), people-pleasing …
-  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
+  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
     How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.
 
 <a id="media-ethics"></a>
@@ -2838,7 +2838,7 @@ Intense emotional pain in response to perceived rejection or criticism, often de
     ADHD-specific experiences and tools: rejection sensitive dysphoria, maladaptive daydreaming and hyperphantasia, conflict and emotion overload, body doubling for task initiation, and AuDHD focus quirks.
   - **This is too much** (`this-is-too-much`) · Self-criticism, people-pleasing and social comparison — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/self-criticism-people-pleasing.md`  
     How self-criticism harms and techniques to soften the inner critic, roots of people-pleasing in cPTSD and BPD, and why others' good news stings through upward social comparison.
-  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
+  - **This is too much** (`this-is-too-much`) · BPD in relationships: rejection sensitivity, mentalization and loneliness — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-interpersonal-hypersensitivity.md`  
     Interpersonal hypersensitivity and rejection sensitivity in BPD and ADHD, mentalization and empathy research, loneliness and smaller social networks, and the 'favorite person' attachment with splitting, burnout of FP …
 
 <a id="future-orientation"></a>
@@ -2890,7 +2890,7 @@ Partnership, family systems and parenting.
     C-PTSD versus PTSD, emotional flashbacks, why autistic and late-diagnosed neurodivergent people are more vulnerable to trauma and PTSD (dual representation model, sensory and stress-system differences), people-pleasing …
   - **Нейропряность** (`neyropryanost`) · Autistic social communication and processing — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/daily-life-communication/autistic-social-communication.md`  
     How autistic people communicate and process social interaction: delayed processing, auditory processing, tone and volume, empathy myths, self-advocacy scripts, direct but kind honesty, and healthy versus limerent …
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
   - **This is too much** (`this-is-too-much`) · Radical acceptance and validation — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/radical-acceptance-validation.md`  
     The DBT radical acceptance skill with reflection questions, the six levels of validation for supporting loved ones, and combining acceptance, mindfulness and self-compassion when life is hard.
@@ -2946,7 +2946,7 @@ Deliberately restoring physical, mental and emotional resources after effort.
     Three kinds of rest (stillness, process activity, resource activity), learning to do nothing, planning rest, social recovery, returning after holidays, resilience as flexibility, and the annual year-review ritual.
   - **deep mind 2.0** (`deep-mind-2-0`) · Rest and recovery: vacations, year-end and weekends — area: Rest & Burnout → `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/rest-recovery.md`  
     How to really rest: types of rest, why year-end crunch backfires, vacation and retreat design, weekends, letting go instead of rest-as-project.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
     Mental-health investment, luxury wellness, neurofeedback and wearables, recovery tech, and wellness trend forecasts with a critique of biohacking reductionism.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Hobbies, play and switching off — area: Balance & Life Philosophy → `sources/tg-channels/human-machine/topics/happiness-meaning-rest/hobbies-play-switching-off.md`  
     Why keep hobbies in a crisis, whether a hobby must counterbalance work (focused vs diffused mode), daily creative expression, reading without guilt, and lessons from a writing marathon.
@@ -2982,7 +2982,7 @@ Deliberately restoring physical, mental and emotional resources after effort.
     What autistic meltdowns and shutdowns are, how they differ from panic attacks, aggression and selective mutism, how to co-regulate, and how people recover afterwards.
   - **Нейропряность** (`neyropryanost`) · Recovering from neurodivergent burnout — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/neurodivergent-burnout/burnout-recovery.md`  
     Recovery from autistic/neurodivergent burnout: the two phases of recovery, why plain rest fails, recovery plans and demand reduction, nervous-system tools, sensory inventories, soothing kits and restorative activities …
-  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behavior Change & Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
+  - **This is too much** (`this-is-too-much`) · Procrastination, motivation and the vacation brain — area: Behaviour Change, Coaching → `sources/tg-channels/this-is-too-much/topics/motivation-procrastination/procrastination-motivation-vacation.md`  
     Analyzing a procrastination episode for its function and alternatives, self-determination theory and why intentions stall, and what rest and novelty on vacation do to stress, attention and wants.
 
 <a id="advanced-meditation-retreats"></a>
@@ -2994,7 +2994,7 @@ Meditation retreats, deep concentration states and the risks of advanced practic
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept advanced-meditation-retreats`
 - 1 topic(s) in 1 channel(s), filed under 1 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
     Going deeper: retreats and vipassana, shamatha, tantra, jhanas and cessation, prerequisites and risks of advanced practice, right motivation, and telling dissociation from witnessing.
 
 <a id="rumination"></a>
@@ -3036,7 +3036,7 @@ Evaluating claims, sources and replication, and how science builds reliable know
     Study summaries on the amygdala in autism, autism gene regulatory networks, early vs late diagnosis trajectories, rising diagnosis rates without an 'epidemic', online discourse on ADHD and autism, plus reviews of …
   - **Читаю мысли** (`chitayu-mysli`) · Self-diagnosis, myths and stigma around neurodivergence — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/neurodivergence-myths-stigma.md`  
     Social-media self-diagnosis, the rise in diagnoses and 'everyone is neurodivergent', medical vs social model, common myths, anti-ADHD misinformation, the autism driving ban and stigma among professionals.
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Happiness, meaning and the good life — area: Balance & Life Philosophy → `sources/tg-channels/human-machine/topics/happiness-meaning-rest/happiness-meaning-good-life.md`  
     Why wishes fail to bring happiness (affective forecasting, adaptation, comparison), the hedonic treadmill, the experience machine, a psychologically rich life as a third axis, meaning as support against stress (Frankl), …
@@ -3100,13 +3100,13 @@ Everyday practices and permissions for taking care of one's own needs.
     Burnout as chronic stress with systemic roots: personal stories, warning signs, exercise and habits during burnout, talking to your boss, and frameworks like ReST.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Relocation and staying stable through moves — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/relocation-stability.md`  
     How place affects well-being after emigration: why Belgrade suits her better than the US or Europe, and her portable 'rider' of routines (meditation, simple food, home workouts, housing, rituals) that keeps her stable …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
     Concrete instruments: values definition, permissions wheel, wheel of balance, Plus/Minus/Next, year results and New Year reflection, learning how to learn.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Channel life and announcements — area: Interviews & Community → `sources/tg-channels/na-balanse/topics/community/channel-life.md`  
     Channel meta: intro, milestones, navigation, rubricators, polls about formats, events and streams, ads, team changes, monthly recaps.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Inner work: self-worth, shame, parts — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/inner-work.md`  
     Self-compassion and the inner critic, self-esteem vs self-worth, the architecture of shame, IFS/self-leadership, self-care psychology and permissions.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Building a sensory toolkit and a sensory-friendly safe space — area: Neurodiversity → `sources/books/nd-friendly-dbt-workbook/topics/nd-sensory-needs/sensory-toolkit-and-safe-space.md`  
     Assembling a portable sensory toolkit (visual, sound, touch, smell items, with instructions) and setting up a calming safe space (location, lighting, seating, weighted blanket, fidgets).
@@ -3130,17 +3130,17 @@ Treating yourself with kindness instead of criticism, shame or pity.
 
   - **Читаю мысли** (`chitayu-mysli`) · Inner critic, schema therapy and soothing the threat system — area: Psychotherapy & Inner Work → `sources/tg-channels/chitayu-mysli/topics/inner-critic-self-relationship/inner-critic-schema-therapy.md`  
     Origins and modes of the inner critic in schema therapy, RO DBT safety skills, gratitude and loving-kindness to lower threat, plus reviews of books and an imagery audio play on self-criticism, narcissism and therapeutic …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Meditation practice: how to start and keep going — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/meditation-practice-fundamentals.md`  
     Practical how-to of meditation: beginner goals, working with mind-wandering through positive reinforcement, pleasant sensations, consistency, short frequent practices, and fixing a stuck practice.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Metta, compassion and the four immeasurables — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/metta-compassion-practices.md`  
     Heart practices: why and how to do Metta and self-compassion, adapting phrases, the four immeasurables, and using compassion with pain, hatred and rejection.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · The double empathy problem: mutual misunderstanding between autistic and neurotypical people — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/double-empathy-problem.md`  
     Milton's double empathy theory vs mind-blindness, studies of autistic-neurotypical communication and first impressions, and how both sides can bridge the gap with openness and self-compassion.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Self-blame, overcontrol and the inner critic — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/self-blame-overcontrol.md`  
     How hindsight bias and error-correction produce self-blame, why 'I did my best' is a flawed frame, the costs of overcontrol (RO DBT), the 'good daughter' false self, satisficing over overcomplication, habit replacement …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Dictionary of change: paired concepts (Словарь изменений) — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md`  
     Katya's rubric contrasting look-alike concepts that decide whether change sticks: control vs choice, self-compassion vs pity, pleasant vs necessary, faith vs expectations, refusal vs moderation, each with self-tests to …
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Why change is hard — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/why-change-is-hard.md`  
     Behavior-change mechanics: why habits fail, stages of change, small steps, patience, identity, effort vs violence, 'I know but don't do'.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Inner work: self-worth, shame, parts — area: Mind & Emotions → `sources/tg-channels/na-balanse/topics/mind/inner-work.md`  
     Self-compassion and the inner critic, self-esteem vs self-worth, the architecture of shame, IFS/self-leadership, self-care psychology and permissions.
@@ -3150,7 +3150,7 @@ Treating yourself with kindness instead of criticism, shame or pity.
     Intuitive eating, healthy-habit checklists, home cooking and recipes, ready-meal delivery, holiday eating, under-eating as a root problem.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Sugar, sweets and glucose — area: Nutrition → `sources/tg-channels/na-balanse/topics/nutrition/sugar.md`  
     How sugar affects energy, calorie quality (Lustig/Hyman), eating sweets without bans and guilt.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Wise Mind: balancing logical mind and emotional mind — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/wise-mind.md`  
     DBT's three states of mind (logical, emotional, wise), when each is useful, a worksheet on how you act in each, and four ways to reach wise mind: mindfulness, curiosity, compassion, values.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Managing meltdowns: signs, aftercare, prevention, Meltdown Mapping and a tip sheet for loved ones — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/managing-meltdowns.md`  
     What meltdowns are and are not (not tantrums), how they look, compassionate aftercare, prevention via triggers, warning signs, breaks and unmasking, a Meltdown Mapping worksheet and a tip sheet telling supporters what …
@@ -3180,7 +3180,7 @@ How a person evaluates their own worth, including low, unstable or contingent se
     Affirmations that counter internalised neurotypical standards, affirmations for RSD's intense reactions to rejection and criticism, and writing your own.
   - **Нейропряность** (`neyropryanost`) · Internalized capitalism, ableism and self-worth — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/neurodivergent-burnout/internalized-capitalism-ableism.md`  
     How internalized capitalism and internalized ableism tie self-worth to productivity and fuel masking and burnout; signs, the inner critic, toxic positivity and self-compassionate alternatives.
-  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
+  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
     Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …
 
 <a id="self-managing-organizations"></a>
@@ -3212,9 +3212,9 @@ Structured exercises for reflection, values and review.
     Adult development (Kegan, Torbert, spiral dynamics) and Wilber's integral map: stages, boosters of vertical growth, integral life practice and inner work across the lifespan.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · What is balance (and is it real) — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/what-is-balance.md`  
     The channel's title question: balance definitions, critiques ('fuck the balance', adaptivity), balance as contrast, dosage, slowing down, psychological equilibrium, freedom.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
     Concrete instruments: values definition, permissions wheel, wheel of balance, Plus/Minus/Next, year results and New Year reflection, learning how to learn.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Identifying your values and a value action plan — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md`  
     What values are, reflection questions and example values, sorting social, personal, political and work values, and linking each value to concrete actions.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self-care, a guide to my needs and the support and accommodations wheel — area: Neurodiversity → `sources/books/nd-friendly-dbt-workbook/topics/nd-dbt-everyday-wellbeing/self-care-needs-and-support-wheel.md`  
     Self-care across physical, emotional, social and sensory needs; a 'guide to my needs' for telling others how to help; rating strengths, life impact and support needed per life area (spoons scale).
@@ -3235,19 +3235,19 @@ Using diaries, apps and wearables to observe your state, and their limits.
 
   - **deep mind 2.0** (`deep-mind-2-0`) · Measuring and managing stress load — area: Rest & Burnout → `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/stress-load-management.md`  
     Why people misjudge their stress, HRV and stress-load measurement, chronic false adaptation, state management as a skill and closing open loops.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
     Mental-health investment, luxury wellness, neurofeedback and wearables, recovery tech, and wellness trend forecasts with a critique of biohacking reductionism.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Coaching practice and client stories — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/coaching.md`  
     Katya's health-coaching work: career change story, client goals and cases, testimonials.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · A year of the energy diary — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/energy-diary.md`  
     Katya's longitudinal self-tracking experiment (time diary + energy diary through 2025): quarterly findings, dips and recoveries, final-year insights.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Marina's nutrition column — area: Nutrition → `sources/tg-channels/na-balanse/topics/nutrition/nutrition-column.md`  
     Marina Sidorich's food-for-energy rubric: calcium for women, fiber norms, what's wrong with calorie trackers.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
     Wellness tech reviews and the nocebo effect: Lumen, Apple Watch, when trackers help vs harm, interoception, free health apps, wish-list products.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
     Evidence review and cautionary tales: NMN, vitamin D, collagen, omega-3 stroke story, C60 hype, the 3-part 'how to harm yourself with vitamins' series.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
     Skills over tools: gadget consumerism, who profits from our beliefs, wellness trends as a shop window.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Women's health: cycle, pregnancy, check-ups — area: Women's Health → `sources/tg-channels/na-balanse/topics/women/womens-health.md`  
     Menstrual cycle and energy, cycle biohacking, pregnancy and postpartum well-being (Marina's diary), lab tests and check-ups, cholesterol story, femtech.
@@ -3269,7 +3269,7 @@ The stable experience of who one is, and its disturbance as unstable identity, s
     What masking is (hypervigilance, controlled self-expression, silence and shyness), how ableism and rejection sensitivity drive it, its costs (overcontrol, burnout, loss of self), the CAT-Q questionnaire with scoring, …
   - **Нейропряность** (`neyropryanost`) · Masking, camouflaging and unmasking — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/masking-identity/masking-unmasking.md`  
     What masking/camouflaging is (compensation, masking, assimilation), its cost in exhaustion and burnout, workbooks for spotting it, and how values-based, safe unmasking works.
-  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
+  - **This is too much** (`this-is-too-much`) · Self-image, identity and emptiness in BPD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-self-image-emptiness.md`  
     Disturbed sense of self as a proposed core of BPD, chronic emptiness, low unstable self-esteem, why a calm life feels unbearable, self-perception across disorders, and how a sense of 'I' forms and can be deliberately …
 
 <a id="sensory-processing"></a>
@@ -3301,15 +3301,15 @@ How people register and regulate sensory input, including sensory overload, stim
     Sleep problems and daytime sleepiness in ASD/ADHD, pain in dreams and PTSD nightmares, migraine, chronic muscle pain and hypermobility, connective tissue dysplasia, sensory eating difficulties, ADHD sweet cravings and …
   - **Читаю мысли** (`chitayu-mysli`) · Stimming, special interests and repetitive behaviours — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/sensory-processing-body/stimming-special-interests.md`  
     Functions of stimming, telling stimming from OCD-like hair pulling and skin picking by function, and how a special interest differs from a hobby and hyperfixation and serves as a resource.
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How perception works: from sensory fragments to meaning — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/perception-science.md`  
+    How the brain assembles sensations into percepts (the dress, duck-rabbit), individual differences in color perception, the visually evoked auditory response, simultaneous vs successive perception and the left/right …
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Sensory regulation, emotions and recovery for neurodivergent people — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/sensory-regulation-emotions-recovery.md`  
     Stimming and its functions, the eight sensory channels including interoception, how autistic adults recognize and regulate emotions, and concrete sensory-based ways to relax and restore energy.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · How perception works: from sensory fragments to meaning — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/mind-self-perception/perception-science.md`  
-    How the brain assembles sensations into percepts (the dress, duck-rabbit), individual differences in color perception, the visually evoked auditory response, simultaneous vs successive perception and the left/right …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
     Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Mindfulness adapted: attention, interoception and aphantasia differences, when to use it, and reflection — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/adapted-mindfulness-basics.md`  
     What mindfulness is, why standard practice can be hard for neurodivergent people (attention, interoception, aphantasia), tips such as eyes open and stimming allowed, which skill fits which situation, and summary …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Self check-in: noticing emotions, body, energy, breathing and focus, then acting on it — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/self-check-in.md`  
     A structured check-in on emotions, body, thoughts, mood, energy, breathing and focus, with 'what next' actions for each area including sensory needs.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Alexithymia and describing your emotions — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-emotional-regulation/alexithymia-describing-emotions.md`  
     Difficulty identifying emotions and workarounds (alternative descriptions, emotion wheel, music and lyrics), a describing-emotions worksheet, and common body sensations of anger, sadness, anxiety and jealousy.
@@ -3406,7 +3406,7 @@ Getting enough good-quality sleep: habits and environment, sleep need and sleep 
     Sleep problems and daytime sleepiness in ASD/ADHD, pain in dreams and PTSD nightmares, migraine, chronic muscle pain and hypermobility, connective tissue dysplasia, sensory eating difficulties, ADHD sweet cravings and …
   - **deep mind 2.0** (`deep-mind-2-0`) · Sleep, sleep debt and caffeine — area: Sleep → `sources/tg-channels/deep-mind2.0/topics/sleep/sleep-caffeine.md`  
     Sleep as the basis of resilience: evening routines, sleep debt, light and circadian rhythm, magnesium baths, quitting caffeine and insomnia as an anxiety-control loop.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
     Deep sleep and 40 Hz gamma stimulation driving glymphatic brain clearance, why hours of hard cognitive work build up glutamate and push toward short-term choices, and a fungal pathway to Alzheimer's-like pathology.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Biorhythms and energy peaks — area: Energy & Resource → `sources/tg-channels/na-balanse/topics/energy/biorhythms.md`  
     Circadian and ultradian rhythms, planning the day around natural energy peaks, morning energy, seasonal changes, famous people's routines.
@@ -3418,7 +3418,7 @@ Getting enough good-quality sleep: habits and environment, sleep need and sleep 
     Practical sleep hygiene: pillows, light alarms, earplugs, bedtime consistency, fixing broken sleep, revenge bedtime procrastination, the sleep practicum.
   - **Нейропряность** (`neyropryanost`) · Regulating the neurodivergent nervous system — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/nervous-system-senses/nervous-system-regulation.md`  
     The neurodivergent nervous system, the window of tolerance, hyper- and hypoarousal, dorsal vagal shutdown, vagal tone, up- and down-regulating practices (breathing, movement, grounding, bilateral stimulation) and …
-  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
+  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
     Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.
   - **This is too much** (`this-is-too-much`) · PTSD nightmares and sleep disturbances — area: Sleep → `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md`  
     How trauma disrupts sleep, ordinary versus cPTSD nightmares, the neurobiology of the two nightmare scenarios, REM and sleep architecture in PTSD, treatments (IRT, CBT-I, lucid dream therapy) and sleep hygiene.
@@ -3466,7 +3466,7 @@ Body-based techniques such as breathing, tapping and grounding to calm the nervo
     Concrete body-based practices to calm the nervous system: breathing patterns, EFT tapping, grounding, centering, somatic micro-practices, glimmers, and short resets for hyperactivation.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Evidence-based therapy approaches and choosing help — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/evidence-based-therapy-help.md`  
     ACT and its hexaflex, Integrative Behavioral Couple Therapy, harmful psychotherapies to avoid, choosing a self-help book for anxiety, a grounding practice for anxiety and insomnia, and free mental-health programs and …
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
     Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Calming the body fast: mammalian diving reflex and the TIPP skill — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md`  
     Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation.
@@ -3476,7 +3476,7 @@ Body-based techniques such as breathing, tapping and grounding to calm the nervo
     Recovery from autistic/neurodivergent burnout: the two phases of recovery, why plain rest fails, recovery plans and demand reduction, nervous-system tools, sensory inventories, soothing kits and restorative activities …
   - **Нейропряность** (`neyropryanost`) · Regulating the neurodivergent nervous system — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/nervous-system-senses/nervous-system-regulation.md`  
     The neurodivergent nervous system, the window of tolerance, hyper- and hypoarousal, dorsal vagal shutdown, vagal tone, up- and down-regulating practices (breathing, movement, grounding, bilateral stimulation) and …
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
   - **This is too much** (`this-is-too-much`) · Crisis survival skills: STOP, TIPP and distraction — area: Psychotherapy & Inner Work → `sources/tg-channels/this-is-too-much/topics/dbt-skills/dbt-crisis-survival-skills.md`  
     DBT distress-tolerance skills for peak emotions: the STOP skill, cold-water dive reflex, intense exercise, paced breathing and muscle relaxation, the distraction acronym, and steps out of helplessness.
@@ -3494,7 +3494,7 @@ Intense, absorbing focus on particular subjects or activities, as in autistic sp
     Special interests and their benefits, hyperfocus versus flow in ADHD and autism, monotropism theory, research measuring hyperfocus in autistic teens, and how autistic adults tell special interests and stims apart from …
   - **Читаю мысли** (`chitayu-mysli`) · Stimming, special interests and repetitive behaviours — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/sensory-processing-body/stimming-special-interests.md`  
     Functions of stimming, telling stimming from OCD-like hair pulling and skin picking by function, and how a special interest differs from a hobby and hyperfixation and serves as a resource.
-  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplative Practice → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
+  - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Accessible mindfulness exercises: senses, music, stimming, anchor objects, pets and mindful appreciation — area: Meditation & Contemplation → `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/accessible-mindfulness-exercises.md`  
     Concrete neurodivergent-friendly practices: observing with each sense, mindful music, sound of breath, comparing objects, visual and mindful stimming, clay, mindful eating, a personal anchor object, mindfulness with …
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Sensory self-soothing, IMPROVE the environment, stims and special interests as regulation — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/self-soothing-improve-stims-spins.md`  
     Soothing through the five senses, adapting surroundings with the IMPROVE-the-environment skill (lighting, movement, boundaries, deep pressure, leaving, validation), a list of stims as a start to unmasking, and special …
@@ -3514,9 +3514,9 @@ Using spiritual practice to avoid emotions, reality or psychological work.
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept spiritual-bypassing`
 - 3 topic(s) in 1 channel(s), filed under 2 area(s):
 
-  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Mindfulness as a core meta-skill — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/mindfulness-as-meta-skill.md`  
     Why mindfulness is the base development skill: a real-time feedback loop on automatic patterns, levels of mindfulness in daily life, well-being as a trainable skill, and its limits (shadow, dissociation, mainstream …
-  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Retreats and the deeper contemplative path — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/retreats-deeper-contemplative-path.md`  
     Going deeper: retreats and vipassana, shamatha, tantra, jhanas and cessation, prerequisites and risks of advanced practice, right motivation, and telling dissociation from witnessing.
   - **deep mind 2.0** (`deep-mind-2-0`) · Spiritual materialism and pitfalls on the inner path — area: Psychotherapy & Inner Work → `sources/tg-channels/deep-mind2.0/topics/inner-work-therapy-ethics/spiritual-materialism-bypassing.md`  
     Consumer and collecting approaches to self-development, intensity bias, spiritual bypassing and 'resort consciousness', and why motivation, repetition and simplicity matter.
@@ -3546,9 +3546,9 @@ Prejudice, stereotypes and myths about people who differ, and how understanding 
 
   - **Читаю мысли** (`chitayu-mysli`) · Self-diagnosis, myths and stigma around neurodivergence — area: Neurodiversity → `sources/tg-channels/chitayu-mysli/topics/understanding-diagnosing-neurodivergence/neurodivergence-myths-stigma.md`  
     Social-media self-diagnosis, the rise in diagnoses and 'everyone is neurodivergent', medical vs social model, common myths, anti-ADHD misinformation, the autism driving ban and stigma among professionals.
-  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Choosing specialists and evidence-based mental health care — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/choosing-mental-health-care.md`  
     Finding a psychiatrist or psychologist, online second opinions, why private psychiatry is expensive, psychotherapy as medicine following clinical guidelines, stigma of psychiatric symptoms in somatic medicine, trusting …
-  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health Care → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
+  - **Читаю мысли** (`chitayu-mysli`) · Psychiatric medication: ADHD drugs and antidepressants — area: Psychiatry & Mental Health → `sources/tg-channels/chitayu-mysli/topics/psychiatric-treatment-care/psychiatric-medication.md`  
     Atomoxetine and stimulants, availability in Russia, treatment order in ASD+ADHD, why to try ADHD meds, antidepressant dose stigma, tapering without withdrawal, and personal experience of the right antidepressant.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Autism and employment: strengths, barriers and workplace inclusion — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/autism-employment-inclusion.md`  
     Myths about autistic careers and teamwork, work strengths (detail focus, monotropism), Buckland Review statistics, barriers and recommendations, accommodations that help, and research on remote work and neuroinclusive …
@@ -3564,9 +3564,9 @@ Prejudice, stereotypes and myths about people who differ, and how understanding 
     Autistic identity and acceptance: why 'don't let autism define you' is problematic, community norms (identity-first language, self-diagnosis, rejecting functioning labels), disability pride and the hexagon of autistic …
   - **Нейропряность** (`neyropryanost`) · What autism is: the neurodiversity paradigm — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/masking-identity/neurodiversity-paradigm.md`  
     Definitions of autism and neurodiversity (Nick Walker), key terms, spectrum models of autism and ADHD, the double empathy problem, and perspective-taking on neurotypical versus autistic norms.
-  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
+  - **This is too much** (`this-is-too-much`) · Antisocial personality disorder: signs, myths and therapy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/antisocial-personality-disorder.md`  
     Diagnostic signs of antisocial personality disorder, how it presents in women, myths about psychopathy and sociopathy, and how DBT and MBT work with it.
-  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
+  - **This is too much** (`this-is-too-much`) · BPD: definition, causes and explanatory models — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/bpd-definition-causes-models.md`  
     What borderline personality disorder is (core instability), the DBT biosocial and psychoanalytic models, brain findings on impulsivity, stigma history, short answers to common BPD questions, and 'quiet BPD' with its …
 
 <a id="stress-and-anxiety"></a>
@@ -3580,7 +3580,7 @@ Causes of stress and anxiety and ways of coping.
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Pathological demand avoidance (PDA) and the PANDA approach — area: Neurodiversity → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/overload-demands-burnout/pathological-demand-avoidance.md`  
     The PDA profile as anxiety-driven avoidance of demands, its escalation from hidden coping to panic and meltdown, debate over whether it is a separate diagnosis, and the PANDA skill for living and communicating with …
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **Читаю мысли** (`chitayu-mysli`) · Anxiety, phobias, panic and OCD: exposure and self-observation — area: Mind & Emotions → `sources/tg-channels/chitayu-mysli/topics/anxiety-mood-coping/anxiety-exposure-ocd.md`  
     Gradual exposure as the most effective long-term treatment for fears, phobias and panic, medication as safety behaviour in panic disorder, and self-monitoring OCD with the Y-BOCS scale.
@@ -3596,7 +3596,7 @@ Causes of stress and anxiety and ways of coping.
     Data and practice on workplace stress, burnout and mental health: surveys, resilience programs, quiet quitting, performance reviews, ESG and trauma-informed workplaces.
   - **deep mind 2.0** (`deep-mind-2-0`) · Supporting teams through crisis — area: Leadership & Organizations → `sources/tg-channels/deep-mind2.0/topics/organizations-corporate-culture/team-crisis-support.md`  
     Managing team state in crises (Belarus, war, mobilization): productivity drops, Regulate-Relate-Reason, at-risk groups, support formats and leaders' new role in team state.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
     Contemplative views on suffering, fear, death and impermanence: pain times resistance, Tift's life as process not problem, Stoic control, memento mori, grief and resting in presence.
   - **deep mind 2.0** (`deep-mind-2-0`) · Coping with anxiety, panic, depression and personal crisis — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/trauma-nervous-system/anxiety-depression-crisis-coping.md`  
     How to recognise and work with anxiety, panic and depression in crises (market crash, Covid, lockdown, permacrisis): checklists, action plans, support teams and fear practices.
@@ -3610,10 +3610,10 @@ Causes of stress and anxiety and ways of coping.
     What trauma is and how it changes brain and body; window of tolerance, vagal tone, fight/freeze responses, why regulation precedes thinking, and trauma healing paths (EMDR, long-term work).
   - **deep mind 2.0** (`deep-mind-2-0`) · Measuring and managing stress load — area: Rest & Burnout → `sources/tg-channels/deep-mind2.0/topics/stress-burnout-rest/stress-load-management.md`  
     Why people misjudge their stress, HRV and stress-load measurement, chronic false adaptation, state management as a skill and closing open loops.
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
+    How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Sensory regulation, emotions and recovery for neurodivergent people — area: Neurodiversity → `sources/tg-channels/human-machine/topics/autism-neurodiversity/sensory-regulation-emotions-recovery.md`  
     Stimming and its functions, the eight sensory channels including interoception, how autistic adults recognize and regulate emotions, and concrete sensory-based ways to relax and restore energy.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Emotion circuits: fear extinction, anger and aggression — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/fear-extinction-emotion-circuits.md`  
-    How the amygdala learns and unlearns fear (competing neuron populations, dopamine-driven extinction as reward learning) and what brain research says about anger and aggression.
   - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Evidence-based therapy approaches and choosing help — area: Psychotherapy & Inner Work → `sources/tg-channels/human-machine/topics/psychotherapy-relationships/evidence-based-therapy-help.md`  
     ACT and its hexaflex, Integrative Behavioral Couple Therapy, harmful psychotherapies to avoid, choosing a self-help book for anxiety, a grounding practice for anxiety and insomnia, and free mental-health programs and …
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Relocation and staying stable through moves — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/relocation-stability.md`  
@@ -3632,9 +3632,9 @@ Causes of stress and anxiety and ways of coping.
     Meditation practices and courses: emotional-energy meditation, happiness course, microdosing mindfulness, Goleman/Davidson, anticipatory suffering, arkhe album.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Series: I'm 40 and worn out — area: Rest & Burnout → `sources/tg-channels/na-balanse/topics/rest/tired-series.md`  
     Katya's 2025-26 essay series on why everyone is so tired: the taboo on rest, generational fatigue, physiology of rest, pseudo-rest, self-tests, 42% for rest.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
     Wellness tech reviews and the nocebo effect: Lumen, Apple Watch, when trackers help vs harm, interoception, free health apps, wish-list products.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
     Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.
   - **The Neurodivergent Friendly Workbook of DBT Skills** (`nd-friendly-dbt-workbook`) · Calming the body fast: mammalian diving reflex and the TIPP skill — area: Mind & Emotions → `sources/books/nd-friendly-dbt-workbook/topics/nd-distress-tolerance/diving-reflex-and-tipp.md`  
     Why cold water on the face calms fight-or-flight and how to do it safely (ice bowl, ice pack, breath hold), plus TIPP: temperature, intense exercise, paced breathing, paired muscle relaxation.
@@ -3652,7 +3652,7 @@ Causes of stress and anxiety and ways of coping.
     Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …
   - **This is too much** (`this-is-too-much`) · Understanding emotions and emotional dysregulation — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/understanding-emotional-dysregulation.md`  
     What emotional dysregulation is and its warning signs, emotions as a smoke detector, constructed emotions, frustrative non-reward and anger, changing emotions indirectly, and why emotions cost energy.
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
 
 <a id="sugar-and-glucose"></a>
@@ -3682,7 +3682,7 @@ Suicidal thoughts and self-injury, their warning signs and risk factors, and way
 
   - **(нейро)разнообразная психология** (`neurodiv-psy`) · Stimming: functions, types, stim toys and responding to harmful stims — area: Neurodiversity → `sources/tg-channels/neurodiv_psy/topics/understanding-neurodivergence/stimming-functions-stim-toys.md`  
     What stimming is and why autistic and ADHD people stim (self-regulation, communication, sensory joy), examples by sense, stim toys, how stims differ from tics and fidgeting, and how to respond to self-injurious stimming.
-  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
+  - **This is too much** (`this-is-too-much`) · Suicidal thinking and self-harm — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/borderline-personality-disorder/suicidal-thinking-self-harm.md`  
     Suicide myths and prevention, passive versus active suicidal ideation and warning signs, suicidal thoughts as an escape habit, and research on what predicts and precedes self-harm in BPD.
 
 <a id="supplements"></a>
@@ -3696,13 +3696,13 @@ Evidence, benefits and risks of vitamins and dietary supplements.
 
   - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Physical comorbidities, sleep and hormones in autism and ADHD — area: Chronic Illness & Disability → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/physical-health-body/physical-comorbidities-sleep-hormones.md`  
     Research-linked physical traits (GI issues, hypermobility/EDS, POTS, fibromyalgia), sleep disorders and melatonin for delayed sleep phase in ADHD, evidence on supplements for autism, and ADHD in perimenopause.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Supplements and recovery protocols — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md`  
     Protocols for brain fog, high load and travel: anti-inflammatory nutrition, supplements and adaptogens, MCT/ghee, ergonomic setup, with safety caveats.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Nutrition myths and evidence-based guidelines — area: Nutrition → `sources/tg-channels/na-balanse/topics/nutrition/nutrition-myths.md`  
     Gastroenterologist myth-busting (keto, fruit, gluten), Norway's dietary guidelines, oral health as a health pillar, evidence-based eating.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
     Evidence review and cautionary tales: NMN, vitamin D, collagen, omega-3 stroke story, C60 hype, the 3-part 'how to harm yourself with vitamins' series.
-  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
+  - **This is too much** (`this-is-too-much`) · Depression, seasonal depression and grief — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/depression-seasonal-grief.md`  
     Seasonal affective disorder and its treatments (light, vitamin D), non-obvious depression symptoms, stages of grief and the neurobiology of prolonged grief.
 
 <a id="team-trust-feedback"></a>
@@ -3758,7 +3758,7 @@ How trauma and chronic stress shape the nervous system and what healing looks li
 - Safety-net search: `python3 tg-archivist/archivist.py find --concept trauma-and-nervous-system`
 - 19 topic(s) in 6 channel(s), filed under 8 area(s):
 
-  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health Care → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
+  - **Аутизм и СДВГ в опыте и книжках** (`autizm-i-sdvg-v-opyte-i-knizhkah`) · Anxiety, PTSD and OCD in autistic people — area: Psychiatry & Mental Health → `sources/tg-channels/autizm-i-sdvg-v-opyte-i-knizhkah/topics/co-occurring-mental-health/anxiety-ptsd-ocd-autism.md`  
     Prevalence and causes of anxiety, social anxiety and PTSD in autism, how masking feeds them, adapted treatment and self-help, OCD self-observation with Y-BOCS, and distinguishing OCD from special interests and stims.
   - **deep mind 2.0** (`deep-mind-2-0`) · Trauma and the nervous system: foundations — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/trauma-nervous-system/trauma-nervous-system-foundations.md`  
     What trauma is and how it changes brain and body; window of tolerance, vagal tone, fight/freeze responses, why regulation precedes thinking, and trauma healing paths (EMDR, long-term work).
@@ -3784,15 +3784,15 @@ How trauma and chronic stress shape the nervous system and what healing looks li
     How dismissive care ('it's psychosomatic') traumatizes people with hEDS, FND and other invisible conditions, including a first-person FND illness story of harmful versus helpful doctor behaviour, how it erodes trust in …
   - **Нейропряность** (`neyropryanost`) · Regulating the neurodivergent nervous system — area: Neurodiversity → `sources/tg-channels/neurospicy/topics/nervous-system-senses/nervous-system-regulation.md`  
     The neurodivergent nervous system, the window of tolerance, hyper- and hypoarousal, dorsal vagal shutdown, vagal tone, up- and down-regulating practices (breathing, movement, grounding, bilateral stimulation) and …
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
-  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
+  - **This is too much** (`this-is-too-much`) · Dissociation, depersonalization and out-of-body experiences — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/dissociation-depersonalization.md`  
     What dissociation is, depersonalization versus derealization, out-of-body experiences and cPTSD, dissociation as avoidance in BPD, and grounding techniques such as 5-4-3-2-1.
-  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
+  - **This is too much** (`this-is-too-much`) · How religions and spiritual traditions made sense of trauma — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md`  
     How Christianity, Islam, Hinduism, Buddhism and shamanic traditions interpreted traumatic suffering (punishment, test, karma, soul loss), practices such as tonglen, and how these ideas prefigure modern trauma therapy.
-  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
+  - **This is too much** (`this-is-too-much`) · Neurobiology of trauma and trauma memory — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-neurobiology-memory.md`  
     How trauma affects memory (hippocampus, amygdala, fragmentation), the cerebellar vermis and freezing, and the opioid and endocannabinoid systems in PTSD, dissociation and fear extinction.
-  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
+  - **This is too much** (`this-is-too-much`) · Recognizing PTSD and complex PTSD — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/ptsd-cptsd-recognition.md`  
     Normal trauma reactions versus PTSD, PTSD versus cPTSD (history, ICD-11 picture, causes, a ten-question Q&A, therapy routes such as DBT skills plus prolonged exposure), traumatic invalidation, the threat-response …
   - **This is too much** (`this-is-too-much`) · PTSD nightmares and sleep disturbances — area: Sleep → `sources/tg-channels/this-is-too-much/topics/trauma-and-sleep/ptsd-nightmares-sleep.md`  
     How trauma disrupts sleep, ordinary versus cPTSD nightmares, the neurobiology of the two nightmare scenarios, REM and sleep architecture in PTSD, treatments (IRT, CBT-I, lucid dream therapy) and sleep hygiene.
@@ -3823,7 +3823,7 @@ Staying functional and deciding well when events are outside your control.
     Managing team state in crises (Belarus, war, mobilization): productivity drops, Regulate-Relate-Reason, at-risk groups, support formats and leaders' new role in team state.
   - **deep mind 2.0** (`deep-mind-2-0`) · Theory U, presencing and co-sensing — area: Leadership & Organizations → `sources/tg-channels/deep-mind2.0/topics/theory-u/theory-u-presencing.md`  
     Scharmer's Theory U: open mind, heart and will, presencing, case clinics, Social Presencing Theater and The Village, and its application in companies, retreats and communities.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplative Practice → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Impermanence, suffering and meeting experience — area: Meditation & Contemplation → `sources/tg-channels/deep-mind2.0/topics/meditation-contemplative-practice/impermanence-suffering-acceptance.md`  
     Contemplative views on suffering, fear, death and impermanence: pain times resistance, Tift's life as process not problem, Stoic control, memento mori, grief and resting in presence.
   - **deep mind 2.0** (`deep-mind-2-0`) · Coping with anxiety, panic, depression and personal crisis — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/trauma-nervous-system/anxiety-depression-crisis-coping.md`  
     How to recognise and work with anxiety, panic and depression in crises (market crash, Covid, lockdown, permacrisis): checklists, action plans, support teams and fear practices.
@@ -3847,7 +3847,7 @@ Staying functional and deciding well when events are outside your control.
     Distress tolerance defined for neurodivergent overload, the STOP skill (Stop, Take a step back, Observe, Proceed mindfully), a personal crisis plan of triggers, distractions, safe contacts and coping tools, and summary …
   - **This is too much** (`this-is-too-much`) · Avoidance, rumination, anxiety and exposure — area: Mind & Emotions → `sources/tg-channels/this-is-too-much/topics/emotions-dysregulation/avoidance-rumination-exposure.md`  
     Why escaping strong emotions backfires, five types of emotional avoidance, rumination and its pleasant relatives, recognizing anxiety, exposure therapy via inhibitory learning, and generalized anxiety disorder with its …
-  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
+  - **This is too much** (`this-is-too-much`) · Coping with trauma, ongoing threat and post-traumatic growth — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/trauma-coping-ongoing-threat.md`  
     Coping strategies that lower PTSD risk, supporting a loved one after trauma, post-traumatic growth, living and working amid ongoing threat, and how distressing news and doomscrolling affect the psyche, with an …
 
 <a id="weight-and-genetics"></a>
@@ -3879,15 +3879,15 @@ Critical view of marketing, hype and consumerism in wellness.
     Critiques of consumption and attention capitalism, freedom (Fromm, Scott, Foucault), culture wars, postmodern values and cultural reflections from travel.
   - **deep mind 2.0** (`deep-mind-2-0`) · Public ethics, abuse scandals and media responsibility — area: Society & Politics → `sources/tg-channels/deep-mind2.0/topics/society-war-collective-trauma/public-ethics-media.md`  
     Ethics in the public sphere: abuse scandals, victim-blaming, power and narcissism, responsibility of public figures and bloggers, imitation of expertise, and public harassment (травля) as displaced aggression.
-  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
+  - **deep mind 2.0** (`deep-mind-2-0`) · Wellness industry, gadgets and trends — area: Wellness, Gadgets, Longevity → `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/wellness-industry-gadgets-trends.md`  
     Mental-health investment, luxury wellness, neurofeedback and wearables, recovery tech, and wellness trend forecasts with a critique of biohacking reductionism.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Gadgets and trackers — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/gadgets.md`  
     Wellness tech reviews and the nocebo effect: Lumen, Apple Watch, when trackers help vs harm, interoception, free health apps, wish-list products.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Longevity and aging — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/longevity.md`  
     Blue Zones, Bryan Johnson and Don't Die, KamaLama forecasts, genetics vs lifestyle, aging anxiety research.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Supplements: benefits and harms — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/supplements.md`  
     Evidence review and cautionary tales: NMN, vitamin D, collagen, omega-3 stroke story, C60 hype, the 3-part 'how to harm yourself with vitamins' series.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness Industry, Gadgets & Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Wellness independence and industry critique — area: Wellness, Gadgets, Longevity → `sources/tg-channels/na-balanse/topics/industry/wellness-independence.md`  
     Skills over tools: gadget consumerism, who profits from our beliefs, wellness trends as a shop window.
 
 <a id="willpower"></a>
@@ -3902,7 +3902,7 @@ Willpower and self-control, including what research says about ego depletion.
 
   - **deep mind 2.0** (`deep-mind-2-0`) · Willpower, self-control and habits: what the evidence says — area: Mind & Emotions → `sources/tg-channels/deep-mind2.0/topics/emotions-personal-growth/willpower-self-control-habits.md`  
     The failed replication of ego depletion ('willpower is a muscle'), and why people with high self-control rely on habits and fewer temptations rather than willpower; skepticism toward attractive scientific explanations.
-  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuroscience & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
+  - **Human Gazing Upon Machine** (`human-gazing-upon-machine`) · Brain maintenance: waste clearance, mental fatigue and Alzheimer's links — area: Neuro- & Cognitive Science → `sources/tg-channels/human-machine/topics/brain-research/brain-clearance-mental-fatigue.md`  
     Deep sleep and 40 Hz gamma stimulation driving glymphatic brain clearance, why hours of hard cognitive work build up glutamate and push toward short-term choices, and a fungal pathway to Alzheimer's-like pathology.
 
 <a id="womens-health"></a>
@@ -3928,7 +3928,7 @@ Menstrual cycle, pregnancy, check-ups and women-specific health topics.
     What mast cells do, MCAS symptoms across body systems, risk factors (stress, trauma, infection), links to PMDD and Alzheimer's, treatments such as antihistamines and low-dose naltrexone.
   - **Нейропряность** (`neyropryanost`) · The neurodivergent comorbidity cluster and self-help map — area: Chronic Illness & Disability → `sources/tg-channels/neurospicy/topics/comorbid-chronic-conditions/comorbidity-cluster.md`  
     Physical conditions that co-occur with autism and ADHD (hEDS/MCAS/POTS triad, sleep, GI, binocular vision dysfunction, MTHFR), a self-help map for neurocomplexity, and body warning signs such as stroke in women.
-  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health Care → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
+  - **This is too much** (`this-is-too-much`) · Bipolar disorder: routines, caffeine and pregnancy — area: Psychiatry & Mental Health → `sources/tg-channels/this-is-too-much/topics/diagnosis-mood-disorders/bipolar-disorder-management.md`  
     Social rhythm therapy (IPSRT) for stabilizing routines in bipolar disorder, caffeine and mania risk, medication and therapy in pregnancy, and emotion dysregulation in bipolar disorder compared with depression and BPD.
 
 <a id="work-life-balance"></a>
@@ -3950,7 +3950,7 @@ Combining career, family, rest and personal life sustainably.
     The channel's title question: balance definitions, critiques ('fuck the balance', adaptivity), balance as contrast, dosage, slowing down, psychological equilibrium, freedom.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · Work-life balance in practice — area: Balance & Life Philosophy → `sources/tg-channels/na-balanse/topics/balance/work-life.md`  
     Combining work, family and life: 8+8+8, calendar rules, agency and rest, misery tax, forwarded takes on work-life balance.
-  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behavior Change & Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
+  - **На балансе с Катей Стрельниковой** (`na-balanse`) · Tools and reflection practices — area: Behaviour Change, Coaching → `sources/tg-channels/na-balanse/topics/change/tools.md`  
     Concrete instruments: values definition, permissions wheel, wheel of balance, Plus/Minus/Next, year results and New Year reflection, learning how to learn.
   - **На балансе с Катей Стрельниковой** (`na-balanse`) · «На балансе с…» interview series — area: Interviews & Community → `sources/tg-channels/na-balanse/topics/community/interviews.md`  
     30+ interviews with women about what balance means to them and how they balance careers, families, health and themselves; plus balance stories of Tim Ferriss guests etc.

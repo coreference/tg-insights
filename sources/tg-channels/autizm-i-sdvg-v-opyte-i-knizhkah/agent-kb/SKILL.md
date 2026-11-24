@@ -69,5 +69,5 @@ Paths: `domains/…` and `references/…` are inside this skill folder. `resourc
 | **Understanding and diagnosing neurodivergence** | Neurodiversity | Autism traits beyond the stereotypes: lesser-known features and aphantasia; AuDHD, differential diagnosis and self-report questionnaires; Research on autism and ADHD: brain, genetics, diagnosis trends and reading | `domains/understanding-diagnosing-neurodivergence.md` |
 | **Emotions and alexithymia** | Mind & Emotions | Alexithymia and interoception in autism | `domains/emotions-alexithymia.md` |
 | **Therapy and coping skills for neurodivergent adults** | Psychotherapy & Inner Work | DBT for autistic adults: rationale, adaptations and evidence; Distress tolerance and self-care skills for neurodivergent people | `domains/therapy-coping-skills.md` |
-| **Co-occurring mental health conditions** | Psychiatry & Mental Health Care | Anxiety, PTSD and OCD in autistic people | `domains/co-occurring-mental-health.md` |
+| **Co-occurring mental health conditions** | Psychiatry & Mental Health | Anxiety, PTSD and OCD in autistic people | `domains/co-occurring-mental-health.md` |
 | **Physical health and the neurodivergent body** | Chronic Illness & Disability | Physical comorbidities, sleep and hormones in autism and ADHD | `domains/physical-health-body.md` |

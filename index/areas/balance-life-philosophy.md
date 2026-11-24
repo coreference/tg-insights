@@ -89,7 +89,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How the channel explains burnout (energy as a finite resource across four kinds of energy, deprivation as the "recipe" for burnout, passion and workaholism as a hidden route in) and how to prevent and exit it — the 16-question self-test, red flags with counter-practices, Katya's own two-year recovery and energy experiments, and the "get sick to rest" warning sign.
 - Concepts: `burnout`, `meaning-purpose`, `energy-management`, `boundaries`, `rest-and-recovery`
 
-### Tools and reflection practices  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Behavior Change & Coaching
+### Tools and reflection practices  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Behaviour Change, Coaching
 - File: `sources/tg-channels/na-balanse/topics/change/tools.md` · channel skill: `sources/tg-channels/na-balanse/agent-kb/SKILL.md`
 - The concrete self-reflection instruments the channel teaches — Life Dinner for couples, the core-values exercise against FOBO, the permissions wheel for self-care, the single-sphere wheel of balance for health, the Plus/Minus/Next weekly log, New Year and year-results reflection questions, starting the year from state rather than goals — plus expert advice on how to learn without overload and the author's own year-results case with its lessons.
 - Concepts: `self-reflection-tools`, `self-care`, `habit-formation`, `work-life-balance`
@@ -139,12 +139,12 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - How the author (a psychologist writing for people with ADHD and autism) teaches rest — three kinds of rest and the order to combine them, how to learn to "do nothing" in small steps, why rest must be planned, how to recover socially after holidays, how to return to work gradually, resilience as flexibility and recovery rather than endurance, and a full year-review workbook ritual done with a close friend.
 - Concepts: `rest-and-recovery`, `self-reflection-tools`, `uncertainty-resilience`, `calendar-planning`, `future-orientation`
 
-### How religions and spiritual traditions made sense of trauma  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychiatry & Mental Health Care
+### How religions and spiritual traditions made sense of trauma  — *also relevant* · This is too much (`this-is-too-much`) · primary area: Psychiatry & Mental Health
 - File: `sources/tg-channels/this-is-too-much/topics/trauma-ptsd-cptsd/religion-spiritual-traditions-trauma.md` · channel skill: `sources/tg-channels/this-is-too-much/agent-kb/SKILL.md`
 - How Christianity, Islam, Hinduism, Buddhism and Indigenous/shamanic traditions explained traumatic suffering (punishment, test, purification, karma, broken connection, soul loss), which ancient texts describe what we now call PTSD symptoms, and why the author sees these explanations as forerunners of modern trauma therapy (meaning-making, mindfulness, reprocessing, social support).
 - Concepts: `trauma-and-nervous-system`, `meaning-purpose`, `loving-kindness-metta`, `meditation-mindfulness`, `psychotherapy`
 
-### Identifying your values and a value action plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplative Practice
+### Identifying your values and a value action plan  — *also relevant* · The Neurodivergent Friendly Workbook of DBT Skills (`nd-friendly-dbt-workbook`) · primary area: Meditation & Contemplation
 - File: `sources/books/nd-friendly-dbt-workbook/topics/nd-mindfulness/identify-values-action-plan.md` · channel skill: `sources/books/nd-friendly-dbt-workbook/agent-kb/SKILL.md`
 - What values are and why knowing them helps in stressful situations, the book's reflection questions for discovering what matters to you, its full list of 18 example values, a worksheet for sorting your social, personal, political and work values, and a Value Action Plan that links each value to concrete everyday actions.
 - Concepts: `meaning-purpose`, `self-reflection-tools`, `dialectical-behavior-therapy`

@@ -26,7 +26,7 @@ Channel skill (adopt its persona and constraints): `sources/tg-channels/na-balan
 - Six common nutrition and gut-health myths (keto, gluten, milk and mucus, fruit, supplements, liver detox) debunked by an evidence-based gastroenterologist; Norway's 2024 dietary guidelines point by point; and Andrew Huberman's case for oral health as a pillar of health, with his seven oral-care rules.
 - Answers: Is the keto diet healthy in the long run? · Which diets are actually supported by research? · Is gluten harmful for everyone? · Does milk cause mucus in the gut or sinuses? · How much lactose can a lactose-intolerant person tolerate? · Is fruit bad because of fructose, and what to eat if fruit causes bloating? · Are dietary supplements (БАДы) safe, and how can I check one? · Does the liver need a detox? · What do Norway's updated 2024 dietary guidelines recommend? · Why is oral health considered a pillar of health, and how should I care for my teeth?
 - Frameworks: Six nutrition myths debunked (gastroenterologist Natasha Suvorova) · Norway's updated dietary guidelines (August 2024), 12 points · Huberman's 7 oral-health rules
-- Concepts: `nutrition-basics`, `gut-health-oral`, `supplements` · also relevant to: Wellness Industry, Gadgets & Longevity
+- Concepts: `nutrition-basics`, `gut-health-oral`, `supplements` · also relevant to: Wellness, Gadgets, Longevity
 - Resources and links: 3 resources, 1 external links (section *Resources and links* of the file) · ★ Huberman Lab: How to improve oral health and its role in brain and body health; LiverTox (NCBI Bookshelf); Natasha Suvorova — gastroenterologist, evidence-based medicine clinic (channel)
 
 ### Marina's nutrition column
@@ -80,12 +80,12 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - Katya Strelnikova's first-person account of a 10-year unrecognized eating disorder (acute phase, hidden phase, recovery triggers), the free EAT-26 self-screening questionnaire, her three reasons why thinness is the wrong goal for her (genetics, metabolic adaptation after dieting, post-ED syndrome), and how reading her genetic test as a "map, not a verdict" led to concrete eating, movement and sleep habits.
 - Concepts: `eating-disorders`, `weight-and-genetics`, `body-image`
 
-### Dictionary of change: paired concepts (Словарь изменений)  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Behavior Change & Coaching
+### Dictionary of change: paired concepts (Словарь изменений)  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Behaviour Change, Coaching
 - File: `sources/tg-channels/na-balanse/topics/change/dictionary-of-change.md` · channel skill: `sources/tg-channels/na-balanse/agent-kb/SKILL.md`
 - Katya Strelnikova's rubric "Dictionary of change" separates five pairs of look-alike concepts (control vs choice, pity vs self-compassion, pleasant vs necessary, expectations vs faith, refusal vs moderation). For each pair it gives definitions, the mechanism by which the wrong one blocks change, paired examples and self-test questions to tell them apart.
 - Concepts: `habit-formation`, `self-compassion`, `motivation`, `intuitive-eating`
 
-### Supplements: benefits and harms  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Wellness Industry, Gadgets & Longevity
+### Supplements: benefits and harms  — *also relevant* · На балансе с Катей Стрельниковой (`na-balanse`) · primary area: Wellness, Gadgets, Longevity
 - File: `sources/tg-channels/na-balanse/topics/industry/supplements.md` · channel skill: `sources/tg-channels/na-balanse/agent-kb/SKILL.md`
 - What the channel taught about supplements — Katya's NMN self-experiment (energy, then insomnia, rash and a depressive episode, with sleep-tracker data), the case for and against vitamin D and collagen, the omega-3 stroke story, the C60 hype pattern, and the three-part series on how vitamins, deepfake doctors and AI prompt injection can harm you, ending with a decision path to follow before taking anything.
 - Concepts: `supplements`, `self-tracking`, `wellness-industry-critique`
@@ -95,7 +95,7 @@ These topics' primary area is elsewhere, but they substantially teach this subje
 - Why the deep mind author treats sleep as the basis of stress resilience and cognitive performance, and what he recommends — evening practices to clear the mind, light hygiene and light therapy, Epsom-salt baths and electrolytes, measuring and paying off sleep debt, quitting caffeine (decaf, paraxanthine, hojicha alternatives) and breaking insomnia as an anxiety-and-control loop.
 - Concepts: `sleep-hygiene`, `caffeine`, `circadian-rhythm`
 
-### Supplements and recovery protocols  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Wellness Industry, Gadgets & Longevity
+### Supplements and recovery protocols  — *also relevant* · deep mind 2.0 (`deep-mind-2-0`) · primary area: Wellness, Gadgets, Longevity
 - File: `sources/tg-channels/deep-mind2.0/topics/biohacking-wellness-industry/supplements-recovery-protocols.md` · channel skill: `sources/tg-channels/deep-mind2.0/agent-kb/SKILL.md`
 - The channel author's personal protocols for clearing brain fog, recovering from flights and supporting the body under high load and stress, covering anti-inflammatory nutrition, MCT and ghee "bulletproof" coffee, a supplement shortlist and stress stack with dosing timing, an ergonomic laptop setup, and a one-supplement-at-a-time safety scheme, plus a summary of a functional-medicine clinic's multifactor model of mental clarity.
 - Concepts: `supplements`, `brain-fog-recovery`, `nutrition-basics`, `caffeine`

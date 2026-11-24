@@ -1,6 +1,6 @@
-# NotebookLM set — Behavior Change & Coaching
+# NotebookLM set — Behaviour Change, Coaching
 
-All NotebookLM study files on “Behavior Change & Coaching” from 2 channel(s): This is too much, На балансе с Катей Стрельниковой. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
+All NotebookLM study files on “Behaviour Change, Coaching” from 2 channel(s): This is too much, На балансе с Катей Стрельниковой. Upload every `.md` file in this folder to one notebook to study the subject across channels. Each file states its channel in its first line; `[#123]` tags are that channel's message numbers.
 
 - `na-balanse--change-1.md` — На балансе с Катей Стрельниковой · **Behavior Change & Coaching (part 1 of 3)** (~12,529 words): Why change is hard
 - `na-balanse--change-2.md` — На балансе с Катей Стрельниковой · **Behavior Change & Coaching (part 2 of 3)** (~7,882 words): Tools and reflection practices
